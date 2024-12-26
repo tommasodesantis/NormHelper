@@ -99,6 +99,32 @@ body {
     opacity: 0.9;
 }
 
+.pdf-selector {
+    margin-top: 1rem;
+    padding: 0.5rem;
+}
+
+#pdfSelect {
+    width: 100%;
+    max-width: 400px;
+    padding: 0.75rem;
+    border: 2px solid #eaeaea;
+    border-radius: 8px;
+    font-family: inherit;
+    font-size: 0.9rem;
+    background-color: #f8f9fa;
+    color: #1a1a1a;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+#pdfSelect:focus {
+    outline: none;
+    border-color: #0070f3;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 4px rgba(0, 112, 243, 0.1);
+}
+
 .chat-messages {
     padding: min(1.5rem, 3vh) min(1.5rem, 3vw);
     flex: 1;

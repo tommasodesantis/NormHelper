@@ -2,6 +2,7 @@
 const chatMessages = document.getElementById('chatMessages');
 const questionInput = document.getElementById('questionInput');
 const sendButton = document.getElementById('sendButton');
+const pdfSelect = document.getElementById('pdfSelect');
 
 // Event Listeners
 sendButton.addEventListener('click', handleSendMessage);
@@ -33,7 +34,7 @@ async function handleSendMessage() {
             },
             body: JSON.stringify({
                 question,
-                pdfName: 'UNI EN 1992-1-1 2005 Eurocodice 2-Progettazione delle strutture in calcestruzzo-Parte 1-1-26-74.pdf'
+                pdfName: pdfSelect.value
             }),
         });
 
