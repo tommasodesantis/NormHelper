@@ -26,7 +26,7 @@ export const handler = async (event) => {
                     conversationId,
                     stream: false,
                     metadata: null,
-                    context_items: 5,
+                    context_items: 16,
                     human_escalation: false,
                     followup_rating: false,
                     document_retriever: true,
