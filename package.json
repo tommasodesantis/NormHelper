@@ -1,0 +1,15 @@
+{
+  "name": "normhelper",
+  "version": "1.0.0",
+  "description": "A Q/A chat interface for DocBots",
+  "main": "app.js",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.10.1"
+  }
+}

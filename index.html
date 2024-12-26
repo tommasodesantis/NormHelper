@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NormHelper - DocBots Q/A Interface</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="chat-container">
+            <div class="chat-header">
+                <h1>NormHelper</h1>
+                <p>Ask me anything about your documentation</p>
+            </div>
+            <div class="chat-messages" id="chatMessages">
+                <!-- Messages will be inserted here -->
+            </div>
+            <div class="input-container">
+                <textarea 
+                    id="questionInput" 
+                    placeholder="Ask your question..."
+                    rows="3"
+                ></textarea>
+                <button id="sendButton" class="send-button">
+                    Send
+                </button>
+            </div>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
