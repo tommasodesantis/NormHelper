@@ -1,7 +1,3 @@
-// Chat state
-let chatHistory = [];
-let conversationId = crypto.randomUUID();
-
 // DOM Elements
 const chatMessages = document.getElementById('chatMessages');
 const questionInput = document.getElementById('questionInput');
@@ -29,7 +25,7 @@ async function handleSendMessage() {
     questionInput.value = '';
 
     try {
-        // Call DocBots API through our serverless function
+        // Call OpenRouter API through our serverless function
         const response = await fetch('/.netlify/functions/ask', {
             method: 'POST',
             headers: {
@@ -37,8 +33,7 @@ async function handleSendMessage() {
             },
             body: JSON.stringify({
                 question,
-                history: chatHistory,
-                conversationId
+                pdfName: 'UNI EN 1992-1-1 2005 Eurocodice 2-Progettazione delle strutture in calcestruzzo-Parte 1-1-26-74.pdf'
             }),
         });
 
@@ -49,10 +44,7 @@ async function handleSendMessage() {
         const data = await response.json();
         
         // Add bot response to UI
-        appendMessage('bot', data.answer, data.sources);
-        
-        // Update chat history
-        chatHistory = data.history;
+        appendMessage('bot', data.answer);
 
     } catch (error) {
         console.error('Error:', error);
@@ -64,7 +56,7 @@ async function handleSendMessage() {
 }
 
 // Append a message to the chat UI
-function appendMessage(sender, content, sources = null) {
+function appendMessage(sender, content) {
     const messageDiv = document.createElement('div');
     messageDiv.className = `message ${sender}`;
 
@@ -72,16 +64,6 @@ function appendMessage(sender, content, sources = null) {
     messageContent.className = 'message-content';
     messageContent.innerHTML = marked.parse(content);
     messageDiv.appendChild(messageContent);
-
-    if (sources && sources.length > 0) {
-        const sourcesDiv = document.createElement('div');
-        sourcesDiv.className = 'sources';
-        sourcesDiv.innerHTML = '<strong>Sources:</strong><br>' + 
-            sources.map(source => 
-                `<a href="${source.url}" target="_blank">${source.title}</a>`
-            ).join('<br>');
-        messageDiv.appendChild(sourcesDiv);
-    }
 
     chatMessages.appendChild(messageDiv);
     chatMessages.scrollTop = chatMessages.scrollHeight;

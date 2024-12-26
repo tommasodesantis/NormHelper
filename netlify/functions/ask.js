@@ -1,76 +1,88 @@
+import fs from 'fs';
+import path from 'path';
+
 export const handler = async (event) => {
-    try {
-        // Parse request body
-        const { question, history, conversationId } = JSON.parse(event.body);
+  try {
+    // Parse request body
+    const { question, pdfName } = JSON.parse(event.body);
 
-        // Validate required environment variables
-        const apiKey = process.env.DOCBOTS_API_KEY;
-        const teamId = process.env.DOCBOTS_TEAM_ID;
-        const botId = process.env.DOCBOTS_BOT_ID;
-
-        if (!apiKey || !teamId || !botId) {
-            throw new Error('Missing required environment variables');
-        }
-
-        // Call DocBots Chat Agent API
-        const response = await fetch(
-            `https://api.docsbot.ai/teams/${teamId}/bots/${botId}/chat-agent`,
-            {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': `Bearer ${apiKey}`
-                },
-                body: JSON.stringify({
-                    question,
-                    conversationId,
-                    stream: false,
-                    metadata: null,
-                    context_items: 16,
-                    human_escalation: false,
-                    followup_rating: false,
-                    document_retriever: true,
-                    full_source: false,
-                    autocut: false
-                })
-            }
-        );
-
-        if (!response.ok) {
-            throw new Error(`DocBots API error: ${response.status}`);
-        }
-
-        const data = await response.json();
-        
-        // Find the lookup_answer event which contains our response
-        const lookupAnswer = data.find(event => event.event === 'lookup_answer');
-        if (!lookupAnswer) {
-            throw new Error('No answer found in response');
-        }
-
-        return {
-            statusCode: 200,
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                answer: lookupAnswer.data.answer,
-                sources: lookupAnswer.data.sources,
-                history: lookupAnswer.data.history
-            })
-        };
-
-    } catch (error) {
-        console.error('Error:', error);
-        return {
-            statusCode: 500,
-            headers: {
-                'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-                message: 'Internal server error',
-                error: error.message
-            })
-        };
+    // Validate required environment variables
+    const apiKey = process.env.OPENROUTER_API_KEY;
+    if (!apiKey) {
+      throw new Error('Missing OPENROUTER_API_KEY environment variable');
     }
+
+    // Load PDF from disk
+    const pdfPath = path.join(__dirname, '../../..', pdfName); 
+    const pdfBuffer = fs.readFileSync(pdfPath);
+    const pdfBase64 = pdfBuffer.toString('base64');
+
+    // Build messages array for OpenRouter
+    const messages = [
+      {
+        role: 'system',
+        content: [
+          {
+            type: 'text',
+            text: 'You are a helpful assistant. You have been given a PDF file in base64 form. ' +
+                  'Please read it and answer questions about it. ' +
+                  'At the end of your answer, list any relevant page references in parentheses.'
+          },
+          {
+            type: 'text',
+            text: pdfBase64,
+            cache_control: { type: 'ephemeral' }
+          }
+        ]
+      },
+      {
+        role: 'user',
+        content: question
+      }
+    ];
+
+    // Call Claude 3.5 Sonnet via OpenRouter
+    const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+        'HTTP-Referer': process.env.SITE_URL || 'http://localhost:8888',
+        'X-Title': 'NormHelper'
+      },
+      body: JSON.stringify({
+        model: 'anthropic/claude-3.5-sonnet',
+        messages,
+        stream: false
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error(`OpenRouter request failed: ${response.status}`);
+    }
+
+    const data = await response.json();
+    const answer = data?.choices?.[0]?.message?.content || 'No answer found.';
+
+    return {
+      statusCode: 200,
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ answer })
+    };
+
+  } catch (error) {
+    console.error('Error:', error);
+    return {
+      statusCode: 500,
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        message: 'Server error',
+        error: error.toString()
+      })
+    };
+  }
 };
