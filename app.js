@@ -70,7 +70,7 @@ function appendMessage(sender, content, sources = null) {
 
     const messageContent = document.createElement('div');
     messageContent.className = 'message-content';
-    messageContent.textContent = content;
+    messageContent.innerHTML = marked.parse(content);
     messageDiv.appendChild(messageContent);
 
     if (sources && sources.length > 0) {
