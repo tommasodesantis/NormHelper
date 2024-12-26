@@ -51,24 +51,52 @@ body {
 }
 
 .chat-header {
-    padding: min(2rem, 4vh) min(1.5rem, 3vw);
-    background: linear-gradient(to right, #f8f9fa, #ffffff);
-    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    padding: min(2.5rem, 5vh) min(2rem, 4vw);
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 50%, #f0f7ff 100%);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
     text-align: center;
     flex-shrink: 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    margin-bottom: 0.75rem;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+    filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
+    transition: transform 0.3s ease;
+}
+
+.logo:hover {
+    transform: scale(1.05) rotate(-5deg);
 }
 
 .chat-header h1 {
     color: #1a1a1a;
-    margin-bottom: 0.5rem;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    font-size: clamp(1.5rem, 4vw, 2rem);
+    margin-bottom: 0.25rem;
+    font-weight: 800;
+    letter-spacing: -1px;
+    font-size: clamp(2rem, 5vw, 2.75rem);
+    background: linear-gradient(135deg, #1a1a1a 0%, #2a5298 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
 .chat-header p {
     color: #666;
-    font-size: clamp(0.9rem, 2.5vw, 0.95rem);
+    font-size: clamp(0.95rem, 2.5vw, 1rem);
+    font-weight: 500;
+    letter-spacing: -0.2px;
+    opacity: 0.9;
 }
 
 .chat-messages {
