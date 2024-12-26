@@ -59,10 +59,10 @@ export const handler = async (event) => {
                   'If you are unsure about a page number, indicate this clearly.'
           },
           {
-            type: 'image_url',
-            image_url: {
-              url: `data:application/pdf;base64,${pdfBase64}`,
-              detail: "high"
+            type: 'text',
+            text: `data:application/pdf;base64,${pdfBase64}`,
+            cache_control: {
+              type: 'ephemeral'
             }
           }
         ]
