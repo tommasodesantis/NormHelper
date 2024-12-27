@@ -163,12 +163,24 @@ exports.handler = async (event) => {
       throw new Error(`OpenRouter request failed: ${openRouterResponse.status} - ${errorMessage}`);
     }
 
-    // Parse OpenRouter response
-    const data = await openRouterResponse.json();
-
-    // Detailed validation of the API response structure
-    if (!data) {
-      throw new Error('API response is empty or invalid');
+    // Parse OpenRouter response with better error handling
+    let data;
+    try {
+      const responseText = await openRouterResponse.text();
+      console.log('Raw OpenRouter response:', responseText);
+      
+      if (!responseText) {
+        throw new Error('Empty response from OpenRouter');
+      }
+      
+      data = JSON.parse(responseText);
+      
+      if (!data) {
+        throw new Error('API response is empty or invalid');
+      }
+    } catch (parseError) {
+      console.error('Error parsing OpenRouter response:', parseError);
+      throw new Error(`Failed to parse OpenRouter response: ${parseError.message}`);
     }
 
     if (!Array.isArray(data.choices)) {
