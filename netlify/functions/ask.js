@@ -113,8 +113,8 @@ export const handler = async (event) => {
                   'If you are unsure about a page number, indicate this clearly.'
           },
           {
-            type: 'text',
-            text: `data:application/pdf;base64,${pdfBase64}`,
+            type: 'image_url',
+            image_url: `data:application/pdf;base64,${pdfBase64}`,
             cache_control: {
               type: 'ephemeral'
             }
