@@ -1,6 +1,3 @@
-import fs from 'fs';
-import path from 'path';
-
 export const handler = async (event) => {
   try {
     // Parse request body
@@ -12,38 +9,26 @@ export const handler = async (event) => {
       throw new Error('Missing OPENROUTER_API_KEY environment variable');
     }
 
-    // Load and validate PDF
-    const pdfPath = path.join(__dirname, '../../..', pdfName);
-    
-    // Check if file exists
-    if (!fs.existsSync(pdfPath)) {
+    // Construct PDF URL
+    const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
+    const pdfUrl = `${siteUrl}/pdfs/${pdfName}`;
+
+    // Fetch PDF
+    const pdfResponse = await fetch(pdfUrl);
+    if (!pdfResponse.ok) {
       return {
         statusCode: 404,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           message: 'PDF file not found',
-          error: `File ${pdfName} does not exist`
+          error: `Failed to fetch PDF from ${pdfUrl}`
         })
       };
     }
 
-    // Check file size (max 25MB for Claude)
-    const stats = fs.statSync(pdfPath);
-    const fileSizeInMB = stats.size / (1024 * 1024);
-    if (fileSizeInMB > 25) {
-      return {
-        statusCode: 400,
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          message: 'PDF file too large',
-          error: `File size ${fileSizeInMB.toFixed(2)}MB exceeds 25MB limit`
-        })
-      };
-    }
-
-    // Read and convert PDF
-    const pdfBuffer = fs.readFileSync(pdfPath);
-    const pdfBase64 = pdfBuffer.toString('base64');
+    // Get PDF content and convert to base64
+    const pdfBuffer = await pdfResponse.arrayBuffer();
+    const pdfBase64 = Buffer.from(pdfBuffer).toString('base64');
 
     // Build messages array for OpenRouter
     const messages = [
