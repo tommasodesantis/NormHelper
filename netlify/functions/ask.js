@@ -1,9 +1,9 @@
 // netlify/functions/ask.js
 
-import { Buffer } from 'buffer';
-import fetch from 'node-fetch'; // Ensure node-fetch is installed and imported
+const { Buffer } = require('buffer');
+const fetch = require('node-fetch');
 
-export const handler = async (event) => {
+exports.handler = async (event) => {
   try {
     // Parse and validate request body
     const { question, pdfName } = JSON.parse(event.body);
