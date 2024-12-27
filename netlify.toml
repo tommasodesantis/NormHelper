@@ -7,26 +7,21 @@
   port = 8888
   autoLaunch = false
 
-[[redirects]]
-  from = "/pdfs/*"
-  to = "/pdfs/:splat"
-  status = 200
+[[headers]]
+  for = "/texts/*"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+    X-Content-Type-Options = "nosniff"
+    Access-Control-Allow-Origin = "*"
 
 [[redirects]]
   from = "/texts/*"
   to = "/texts/:splat"
   status = 200
   force = true
-  headers = { Access-Control-Allow-Origin = "*", Content-Type = "text/plain; charset=utf-8" }
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
   force = false
-
-[[headers]]
-  for = "/texts/*"
-  [headers.values]
-    Content-Type = "text/plain; charset=utf-8"
-    X-Content-Type-Options = "nosniff"
