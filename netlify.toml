@@ -8,17 +8,9 @@
   autoLaunch = false
 
 [[headers]]
-  for = "/texts/*"
+  for = "/*"
   [headers.values]
-    Content-Type = "text/plain; charset=utf-8"
-    X-Content-Type-Options = "nosniff"
     Access-Control-Allow-Origin = "*"
-
-[[redirects]]
-  from = "/texts/*"
-  to = "/texts/:splat"
-  status = 200
-  force = true
 
 [[redirects]]
   from = "/*"

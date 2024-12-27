@@ -1,21 +1,7 @@
+// src/texts.js
 
-
-=== PAGE 1 ===
-
-7 K H  ( X U R S H D Q  8 Q L R Q
-, Q  R U G H U  W R  S U R P R W H  S X E O L F  H G X F D W L R Q  D Q G  S X E O L F  V D I H W \   H T X D O  M X V W L F H  I R U  D O O  
-D  E H W W H U  L Q I R U P H G  F L W L ] H Q U \   W K H  U X O H  R I  O D Z   Z R U O G  W U D G H  D Q G  Z R U O G  S H D F H  W K L V  O H J D O  G R F X P H Q W  L V  K H U H E \  P D G H  D Y D L O D E O H  R Q  D  Q R Q F R P P H U F L D O  E D V L V   D V  L W L V  W K H  U L J K W  R I  D O O  K X P D Q V  W R  N Q R Z  D Q G  V S H D N  W K H  O D Z V  W K D W  J R Y H U Q  W K H P 
-  ( ' , & 7  2 )  * 2 9 ( 5 1 0( 1 7  
-EN 1992-1-1 (2004) (English): Eurocode 2: Design of concrete
-structures - Part 1-1: General rules and rules for buildings
-[Authority: The European Union Per Regulation 305/2011,
-Directive 98/34/EC, Directive 2004/18/EC]
-
-=== PAGE 2 ===
-
-
-
-=== PAGE 3 ===
+const texts = {
+  'Eurocode_2_Design_of_concrete_structures_Part_1-1_General.txt': `=== PAGE 3 ===
 
 EUROPEAN STANDARD 
 NORME EUROPEENNE 
@@ -1414,3 +1400,444 @@ sandstone aggregates the value should be reduced by 10% and 30% respectively. Fo
 aggregates the value should be increased by 20%. 
 Note: A Country's National Annex may refer to non-contradictory complementary information. 
 28 
+
+=== PAGE 31 ===
+
+N (,0 ,-------
+fek (MPa) 
+fek,eube 
+(MPa) 
+fern 
+(MPa) 
+fetm 
+(MPa) 
+fetk,0,05 
+(MPa) 
+fetk,Q,95 
+(MPa) 
+Ecm 
+(GPa) 
+Eci (%0) 
+£Cui (%0) 
+Ec2 (%0) 
+Ecu2 (%0) 
+n 
+cc3 (%0) 
+ceu3 (%0) 12 16 20 
+15 20 25 
+20 24 28 
+1,6 1,9 2,2 
+1,1 1,3 1,5 
+2,0 2,5 2,9 
+27 29 30 
+1,8 1,9 2,0 Strength classes for concrete 
+25 30 35 40 45 50 
+30 37 45 50 55 60 
+33 38 43 48 53 58 
+2,6 2,9 3,2 3,5 3,8 4,1 
+1,8 2,0 2,5 2,7 
+3,3 3,8 4,2 4,6 4,9 5,3 
+31 33 34 35 36 37 
+2,1 2,2 2,25 2,3 2,4 2,45 
+3,5 
+2,0 
+2,0 
+1,75 
+3,5 Analytical relation 
+I Explanation 
+55 60 70 80 90 -I 
+Q) 
+0'" 
+67 75 85 95 (l) 105 2.8 W 
+...lIi. 
+63 68 78 88 98 fern = fck+8(MPa) en ,..... ..., 
+(l) 
+::s 4,2 4,4 4,6 4,8 5,0 fcu~=n ~oXfCK :::;C50/6o 
+fe'm=2, 12·ln(1 +(fcrrl1 0» c:o ,..... 
+::T 
+> C50/60 Q) 
+::s 
+3,0 3,1 3,2 3,4 fctk;o,05 = 0,7xfctm 
+5% fractile Q. 
+Q. 
+(l) ..., 
+0 5,5 6,0 6,3 6,6 fctk;0,95 = 1,3xfclm 
+95% fractile ..., 
+3 
+Q) ,..... 
+38 39 41 42 44 Ecm 22[(fcrn}/10]0,3 
+(fem in MPa) O· 
+::s 
+0 
+::T 
+2,6 2,7 2,8 2,8 see Figure 3.2 
+tAci)cc1 (%0) = 0,7 fcmO,31 :::; 2,8@lJ Q) ..., 
+Q) 
+0 ,..... 
+3,2 3,0 2,8 2,8 2,8 see Figure 3.2 (l) ..., 
+for fek ~ 50 Mpa 
+cCIIl(oloo)=28+2Z[(98-f cm)/1QQt (ii' ,..... 
+0' 
+2,2 2,3 2,4 2,5 2,6 see Figure 3.3 en 
+for fek ~ 50 Mpa 
+18e2(%0)=2,0 nR"1(fc, .. I:lf))O,53 d' ..., 
+0 3,1 2,9 2,7 2,6 2,6 see Figure 3.3 
+for fck ~ 50 Mpa 
+hcu2(%n)=2,6+35[(90-fck)/1 DOt 
+1 1,6 1,45 1,4 1,4 for fCk~ 50 Mpa 
+n= 1,4+23,4[(90- fck)/1 DOt 0 ::s 
+0 ..., tfjt:ij (l) ,..... Zoo (l) 
+t-Itrj 
+~Z 
+1,8 1,9 2,0 2,2 2,3 see Figure 3.4 
+for fck~ 50 Mpa 
+Ic;dil, J)= ,75+o,55[(fck-50)/4o] ~t-I 
+I~ 
+~~ 
+t-I ~ .. I 
+3,1 2,9 2,7 2,6 2,6 see Figure 3.4 
+for fck ~ 50 Mpa 
+hcul'/oo)=2,6+35[(90-fck)/1oo]4 ~ t-I 
+01 o!7 
+~~ ___ 0 
+I tfjO 
+~~ 
+
+=== PAGE 32 ===
+
+BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+(3) Variation of the modulus of elasticity with time can be estimated by: 
+Eem(t) = (fem(t) / fem)0,3 Eem (3.5) 
+where Eem(t) and fem(t) are the values at an age of t days and Eem and fem are the values 
+determined at an age of 28 days. The relation between fem(t) and fem follows from Expression 
+(3.1 ). 
+(4) Poisson's ratio may be taken equal to 0,2 for uncracked concrete and ° for cracked 
+concrete. 
+(5) Unless more accurate information is available, the linear coefficient of thermal expansion 
+may be taken equal to 1 ° .10-6 K -1. 
+3.1.4 Creep and shrinkage 
+(1)P Creep and shrinkage of the concrete depend on the ambient humidity, the dimensions of 
+the element and the composition of the concrete. Creep is also influenced by the maturity of the 
+concrete when the load is first applied and depends on the duration and magnitude of the 
+loading. 
+(2) The creep coefficient, rp(t,to) is related to Ee, the tangent modulus, which may be taken as 
+1,05 Ecm. Where great accuracy is not required, the value found from Figure 3.1 may be 
+considered as the creep coefficient, provided that the concrete is not subjected to a 
+compressive stress greater than 0,45 fek (to ) at an age to, the age of concrete at the time of 
+loading. 
+Note: For further information, including the development of creep with time, Annex B may be used. 
+(3) The creep deformation of concrete Eee(oo,tO) at time t = 00 for a constant compressive stress 
+O"e applied at the concrete age to, is given by: 
+(3.6) 
+(4) When the compressive stress of concrete at an age to exceeds the value 0,45 fek(tO) then 
+creep non-linearity should be considered. Such a high stress can occur as a result of 
+pretensioning, e.g. in precast concrete members at tendon level. In such cases the non-linear 
+notional creep coefficient should be obtained as follows: 
+30 (3.7) 
+where: 
+(j)nl ( 00, to) is the non-linear notional creep coefficient, which replaces (j) (00, to) 
+kG is the stress-strength ratio Oe/fek (to), where Oe is the compressive stress and 
+fek (to) is the characteristic concrete compressive strength at the time of 
+loading.@il 
+
+=== PAGE 33 ===
+
+to 
+1~~--~~~--~--~--~~ 
+2la---+---+---~~~~~~--~ 
+30i~--r-~r-~---+---r--~--~ 
+10~--~--+---~--~~--~--~ BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+T-i---+--WC20/25 
+~-r--+--I---J C25/30 
+~~~~:::::::=::-i==-I--=-=t===+::::=t:::jC30/37 
+C35/45 
+~~t:::-;;;:;;;;:~::jt:::--i===f====f::::::~:::J C40/S0 
+~:E~~~~~~~~~~~~8~~~~~/go~5 ...:.: C60/75 C55/67 
+f~~===f=*§:t=i~~~E3~C8~0~79tS C70/85 C90/105 
+7,0 6,0 5,0 
+rp(oo, to) 4,0 3,0 2,0 1,0 0 100 300 500 700 900 1100 1300 1500 
+h o(mm) 
+a) inside conditions -RH = 50% 
+to 
+1~~~~~--~--~--~~~ 
+2 
+3+---~--~~~r-~----r-~ 
+5+---4---~--~~~----~~ 
+20+---4---~---+--~--~~~ 
+30+---4---~---+---4----~--1 
+50+---~--~---+--~----~~ 
+100+---~--~---+--~----~~ Note: 
+-intersection point between lines 4 and 5 can also 
+be above point 1 
+-for to > 100 it is sufficiently accurate to assume to 
+= 100 (and use the tangent line) 
+~~::::TL-:~t_~::::-I::t=_ =_ =_+=:t:=W C20/25 
+----t--~ C25/30 
+~=t==S C30/37 ::: C35/45 
+-t---+-----1f--_+_~ C40/50 C45/55 
+C50/60 C55/67 
+C60/75 C70/85 
+C80/95 C90/105 
+6,0 5,0 4,0 3,0 2,0 1,0 0100 300 500 700 900 1100 1300 1500 
+rp(oo, to) ho(mm) 
+b) outside conditions -RH = 80% 
+Figure 3.1: Method for determining the creep coefficient cp(oo, to) for concrete under 
+normal environmental conditions 
+31 
+
+=== PAGE 34 ===
+
+BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+(5) The values given in Figure 3.1 are valid for ambient temperatures between -40°C and 
++40°C and a mean relative humidity between RH = 40% and RH = 100%. The following 
+symbols are used: 
+cp (00, to) is the final creep coefficient 
+to is the age of the concrete at time of loading in days 
+ha is the notional size 2Ae lu, where Ae is the concrete cross-sectional area and u is 
+the perimeter of that part which is exposed to drying 
+S is Class S, according to 3.1.2 (6) 
+N is Class N, according to 3.1.2 (6) 
+R is Class R, according to 3.1.2 (6) 
+(6) The total shrinkage strain is composed of two components, the drying shrinkage strain and 
+the autogenous shrinkage strain. The drying shrinkage strain develops slowly, since it is a 
+function of the migration of the water through the hardened concrete. The autogenous 
+shrinkage strain develops during hardening of the concrete: the major part therefore develops in 
+the early days after casting. Autogenous shrinkage is a linear function of the concrete strength. 
+It should be considered specifically when new concrete is cast against hardened concrete. 
+Hence the values of the total shrinkage strain &es follow from 
+&es = &ed + &ea 
+where: 
+&es is the total shrinkage strain 
+&ed is the drying shrinkage strain 
+&ea is the autogenous shrinkage strain (3.8) 
+The final value of the drying shrinkage strain, is equal to kh·ced,O. &ed,a. may be taken from 
+Table 3.2 (expected mean values, with a coefficient of variation of about 30%). 
+Note: The formula for ced,O is given in Annex B. 
+Table 3.2 Nominal unrestrained drying shrinkage values Scd,O (in 0/00) for concrete 
+with cement CEM Class N 
+fckl fck,cu be Relative Humidity (in 0/0) 
+(MPa) 20 40 60 80 
+20/25 0.62 0.58 0.49 0.30 
+40/50 0.48 0.46 0.38 0.24 
+60/75 0.38 0.36 0.30 0.19 
+80/95 0.30 0.28 0.24 0.15 
+90/105 0.27 0.25 0.21 0.13 
+The development of the drying shrinkage strain in time follows from: 
+&ed(t) = J3ds(t, ts) . kh . Ced,O 
+where 90 I I 
+0.17 
+0.13 
+0.10 0.08 
+0.07 
+kh is a coefficient depending on the notional size ho according to Table 3.3 
+32 100 
+0.00 
+0.00 0.00 
+0.00 
+0.00 
+(3.9) 
+
+=== PAGE 35 ===
+
+Table 3.3 Values for kh in Expression (3.9) 
+ho kh 
+100 1.0 
+200 0.85 
+300 0.75 
+~ 500 0.70 
+/3 (t t )= (t-ts) 
+d s 's ,---;::3 (t -ts) + 0,04" h; 
+where: BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+(3.10) 
+t is the age of the concrete at the nloment considered, in days 
+ts is the age of the concrete (days) at the beginning of drying shrinkage (or swelling). 
+Normally this is at the end of curing. 
+ho is the notional size (mm) of the cross-section 
+= 2Aelu 
+where: 
+Ae is the concrete cross-sectional area 
+u is the perimeter of that part of the cross section which is exposed to drying 
+The autogenous shrinkage strain follows from: 
+Sea (t) = /3as( t) Sea ( (0) 
+where: 
+sea(oo) = 2,5 (fek -10) 10-6 
+and 
+/3as(t) =1 -exp (-0,2t 0,5) 
+where t is given in days. 
+3.1.5 Stress-strain relation for non-linear structural analysis (3.11 ) 
+(3.12) 
+(3.13) 
+(1) The relation between O"e and Se shown in Figure 3.2 (corTlpressive stress and shortening 
+strain shown as absolute values) for short term uniaxial loading is described by the Expression 
+(3.14 ): 
+~ _ k'1_1]2 
+fern -1 + (k -2 )'1 
+where: 
+'7 = SdSe1 
+Ge1 is the strain at peak stress according to Table 3.1 
+k = 1,05 Eem x ISe11 Ifem (fem according to Table 3.1) 
+Expression (3.14) is valid for 0 < Isci < ISeu11 where Seu1 is the nominal ultimate strain. (3.14) 
+33 
+
+=== PAGE 36 ===
+
+BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+(2) Other idealised stress-strain relations may be applied, if they adequately represent the 
+behaviour of the concrete considered. 
+0,4 fcm -
+= Ecm ~:;~ 
+II , -) 
+",/ 
+I 
+I 
+Figure 3.2: Schematic representation of the stress-strain relation for structural 
+analysis (the use O,4fcm for the definition of Ecm is approximate). 
+3.1.6 Design compressive and tensile strengths 
+(1)P The value of the design compressive strength is defined as 
+fed = acc fck / Yc (3.15) 
+where: 
+Yc is the partial safety factor for concrete, see 2.4.2.4, and 
+acc is the coefficient taking account of long term effects on the compressive strength and 
+of unfavourable effects resulting from the way the load is applied. 
+Note: The value of acc for use in a Country should lie between 0,8 and 1,0 and may be found in its National 
+Annex. The recommended value is 1. 
+(2)P The value of the design tensile strength, fCtdl is defined as 
+fctd = act fctk,Q,Q5 / yc (3.16) 
+where: 
+yc is the partial safety factor for concrete, see 2.4.2.4, and 
+act is a coefficient taking account of long tern1 effects on the tensile strength and of 
+unfavourable effects, resulting from the way the load is applied. 
+Note: The value of act for use in a Country may be found in its National Annex. The recommended value is 1,0. 
+3.1.7 Stress-strain relations for the design of cross-sections 
+(1) For the design of cross-sections, the following stress-strain relationship may be used, see 
+Figure 3.3 (compressive strain shown positive): 
+34 
+
+=== PAGE 37 ===
+
+BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+0c fCd for 
+where: ] for 0 s s co2 
+::;: E:c ::;: E:cu2 
+n is the exponent according to Table 3.1 
+E:c2 is the strain at reaching the maximum strength according to Table 3.1 
+E:cu2 is the ultimate strain according to Table 3.1 
+fck - - - - - - - -
+I / 
+I ,;-~--------- I 
+I 
+I 
+fed ---_l ----- -~-__ ;-..-------_ 
+I 
+II 
+Bc2 ~ 0 o Vcu2 vc 
+Figure 3.3: Parabola-rectangle diagram for concrete under compression. (3.17) 
+(3.18) 
+(2) Other simplified stress-strain relationships may be used if equivalent to or more 
+conservative than the one defined in (1), for instance bi-linear according to Figure 3.4 
+(colTlpressive stress and shortening strain shown as absolute values) with values of Ec3 and Ecu3 
+according to Table 3.1. 
+(Jc 
+I 
+-;!"-- - - - - - - - -: fck ____ _ 
+I : I 
+I 
+I : 
+I I I 
+fed /----;.----------. 
+I 
+o E: I E:c 
+cu3 
+Figure 3.4: Bi-linear stress-strain relation. 
+(3) A rectangular stress distribution (as given in Figure 3.5) may be assumed. The factor A, 
+35 
+
+=== PAGE 38 ===
+
+BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+defining the effective height of the compression zone and the factor '7, defining the effective 
+strength, follow from: 
+A = 0,8 for fck::;; 50 MPa 
+A = 0,8 -(fck -50)/400 for 50 < fck ::;; 90 MPa 
+and 
+77=1,0 for fck::;;50MPa 
+'7 = 1,0 -(fck -50)/200 for 50 < fck ::;; 90 MPa (3.19) 
+(3.20) 
+(3.21 ) 
+(3.22) 
+Note: If the width of the compression zone decreases in the direction of the extreme compression fibre, the 
+value 77 fed should be reduced by 10%. 
+Fe 
+Fs ----------------
+Figure 3.5: Rectangular stress distribution 
+3.1.8 Flexural tensile strength 
+(1) The mean flexural tensile strength of reinforced concrete members depends on the mean 
+axial tensile strength and the depth of the cross-section. The following relationship may be 
+used: 
+fctm,fl = max {(1 ,6 -h/1000)f ctm; fctm } 
+where: 
+h is the total member depth in mm 
+fctm is the mean axial tensile strength following from Table 3.1. 
+The relation given in Expression (3.23) also applies for the characteristic tensile strength 
+values. 
+3.1.9 Confined concrete (3.23) 
+(1) Confinement of concrete results in a modification of the effective stress-strain relationship: 
+higher strength and higher critical strains are achieved. The other basic material characteristics 
+may be considered as unaffected for design. 
+(2) In the absence of more precise data, the stress-strain relation shown in Figure 3.6 
+(compressive strain shown positive) may be used, with increased characteristic strength and 
+strains according to: 
+fck,c = fck (1 ,000 + 5,0 (J2Ifck) for (J2 ::;; 0,05fck (3.24) 
+36 
+
+=== PAGE 39 ===
+
+BS EN 1992-1-1:2004 
+EN 1992-1-1:2004 (E) 
+fck,c = fck (1,125 + 2,50 (72/fck) for (72 > O,05fck 
+Bc2,c = Bc2 (fck,dfck)2 (3.25) 
+(3.26) 
+(3.27) 
+where 0"2 (= (73) is the effective lateral compressive stress at the ULS due to confinement 
+and Bc2 and Bcu2 follow from Table 3.1. Confinement can be generated by adequately closed 
+[§) links or cross-ties, which can reach the plastic condition due to lateral extension of the concrete. @iI 
+_________ fek,e 
+fek 
+_---..;-------- fed,e 
+-unconfined 
+m) 
+o au &2,e Beu2,e Be 
+Figure 3.6: Stress-strain relationship for confined concrete 
+3.2 Reinforcing steel 
+3.2.1 General 
+(1)P The following clauses give principles and rules for reinforcement which is in the form of 
+bars, de-coiled rods, welded fabric and lattice girders. They do not apply to specially coated 
+bars. 
+(2)P The requirements for the properties of the reinforcement are for the material as placed in 
+the hardened concrete. If site operations can affect the properties of the reinforcement, then 
+those properties shall be verified after such operations. 
+(3)P Where other steels are used, which are not in accordance with EN10080, the properties 
+shall be verified to be in accordance with 3.2.2 to 3.2.6 and Annex C. 
+(4)P The required properties of reinforcing steels shall be verified using the testing procedures 
+in accordance with EN 10080. 
+Note: EN 10080 refers to a yield strength Re, which relates to the characteristic, minimum and maximum 
+values based on the long-term quality level of production. In contrast fYk is the characteristic yield stress based 
+on only that reinforcement used in a particular structure. There is no direct relationship between fYk and the 
+characteristic However the methods of evaluation and verification of yield strength given in EN 10080 
+provide a sufficient check for obtaining fyk. 
+(5) The application rules relating to lattice girders (see EN 10080 for definition) apply only to 
+those made with ribbed bars. Lattice girders made with other types of reinforcement may be 
+given in an appropriate European Technical Approval. 
+3.2.2 Properties 
+(1)P The behaviour of reinforcing steel is specified by the following properties: 
+37 `
+};
+
+module.exports = texts;

@@ -1,6 +1,7 @@
 // netlify/functions/ask.js
 
 const fetch = require('node-fetch');
+const texts = require('../../src/texts');
 
 exports.handler = async (event) => {
   try {
@@ -12,9 +13,9 @@ exports.handler = async (event) => {
       throw new Error('FILE_NAME_MISSING');
     }
 
-    // Validate .txt format
-    if (!fileName.toLowerCase().endsWith('.txt')) {
-      throw new Error('INVALID_FILE_FORMAT');
+    // Validate source of fileName
+    if (!texts[fileName]) {
+      throw new Error('FILE_NOT_FOUND');
     }
 
     // Validate required environment variables
@@ -23,78 +24,16 @@ exports.handler = async (event) => {
       throw new Error('Missing OPENROUTER_API_KEY environment variable');
     }
 
-    // Get base URL from environment variables
-    const baseUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
-    const fileUrl = `${baseUrl}/texts/${encodeURIComponent(fileName)}`;
-    
-    console.log('Environment:', {
-      NODE_ENV: process.env.NODE_ENV,
-      URL: process.env.URL,
-      DEPLOY_URL: process.env.DEPLOY_URL
-    });
-    
-    console.log('Attempting to fetch file from:', fileUrl);
+    // Get text content directly from the module
+    const textContent = texts[fileName].trim();
 
-    // Fetch the text file
-    let textContent;
-    try {
-      console.log('Starting file fetch from URL:', fileUrl);
-      const response = await fetch(fileUrl);
-      
-      // Log response headers
-      const headers = {};
-      response.headers.forEach((value, name) => {
-        headers[name] = value;
-      });
-      console.log('Response headers:', headers);
-      
-      if (!response.ok) {
-        console.error('File fetch failed:', {
-          status: response.status,
-          statusText: response.statusText
-        });
-        return {
-          statusCode: response.status,
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            message: 'Text file not found',
-            error: `Failed to fetch text from ${fileUrl}`,
-            status: response.status,
-            statusText: response.statusText
-          })
-        };
-      }
-
-      textContent = await response.text();
-      console.log('Successfully fetched file, content length:', textContent.length);
-      console.log('First 500 characters of content:', textContent.substring(0, 500));
-      console.log('Content type from response:', response.headers.get('content-type'));
-      
-      // Validate content type
-      const contentType = response.headers.get('content-type');
-      if (contentType && contentType.includes('text/html')) {
-        console.error('Received HTML content instead of text file');
-        throw new Error('INVALID_CONTENT_TYPE');
-      }
-    } catch (fetchError) {
-      console.error('Error fetching file:', fetchError);
-      return {
-        statusCode: 500,
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          message: 'Error fetching text file',
-          error: fetchError.toString()
-        })
-      };
+    // Validate text content
+    if (!textContent) {
+      throw new Error('TEXT_CONTENT_EMPTY');
     }
 
     // Get the site URL for OpenRouter headers
     const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
-
-    // Validate text content
-    if (!textContent || textContent.length === 0) {
-      throw new Error('TEXT_CONTENT_EMPTY');
-    }
 
     console.log('Text content validation passed, length:', textContent.length);
 
@@ -242,9 +181,9 @@ exports.handler = async (event) => {
         errorType = 'VALIDATION_ERROR';
         errorMessage = 'No text file was specified.';
         break;
-      case error.message === 'INVALID_FILE_FORMAT':
+      case error.message === 'FILE_NOT_FOUND':
         errorType = 'VALIDATION_ERROR';
-        errorMessage = 'Invalid file format. Please provide a valid .txt file.';
+        errorMessage = 'The specified text file does not exist.';
         break;
       case error.message === 'TEXT_CONTENT_EMPTY':
         errorType = 'VALIDATION_ERROR';
@@ -265,14 +204,6 @@ exports.handler = async (event) => {
       case error.message.includes('missing message object'):
         errorType = 'MISSING_MESSAGE';
         errorMessage = 'The API response is missing the message object.';
-        break;
-      case error.message.includes('Failed to fetch text'):
-        errorType = 'TEXT_FETCH_FAILED';
-        errorMessage = 'Failed to fetch the text document. Please ensure the file exists and try again.';
-        break;
-      case error.message.includes('INVALID_FILE_FORMAT'):
-        errorType = 'INVALID_FILE_FORMAT';
-        errorMessage = 'The fetched file is not a valid .txt file.';
         break;
       default:
         if (error.message.startsWith('OpenRouter request failed')) {

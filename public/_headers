@@ -1,5 +1,3 @@
-# Set content type for text files
-/texts/*
-  Content-Type: text/plain; charset=utf-8
-  X-Content-Type-Options: nosniff
+# General Headers for API Routes
+/*
   Access-Control-Allow-Origin: *
