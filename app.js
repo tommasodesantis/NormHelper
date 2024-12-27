@@ -32,6 +32,11 @@ async function handleSendMessage() {
             throw new Error('NO_PDF_SELECTED');
         }
 
+        console.log('Sending request with:', {
+            question,
+            pdfName: pdfSelect.value
+        });
+
         // Call OpenRouter API through our serverless function
         response = await fetch('/.netlify/functions/ask', {
             method: 'POST',
@@ -47,6 +52,11 @@ async function handleSendMessage() {
         // Handle HTTP errors
         if (!response.ok) {
             const errorData = await response.json().catch(() => ({}));
+            console.error('Server response error:', {
+                status: response.status,
+                statusText: response.statusText,
+                error: errorData
+            });
             throw new Error(`HTTP_ERROR_${response.status}`);
         }
 

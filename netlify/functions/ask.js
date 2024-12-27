@@ -1,7 +1,17 @@
+import { Buffer } from 'buffer';
+
 export const handler = async (event) => {
   try {
-    // Parse request body
+    // Parse and validate request body
     const { question, pdfName } = JSON.parse(event.body);
+    
+    if (!pdfName) {
+      throw new Error('PDF_NAME_MISSING');
+    }
+    
+    if (!pdfName.endsWith('.pdf')) {
+      throw new Error('INVALID_PDF_FORMAT');
+    }
 
     // Validate required environment variables
     const apiKey = process.env.OPENROUTER_API_KEY;
@@ -13,17 +23,60 @@ export const handler = async (event) => {
     const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
     const pdfUrl = `${siteUrl}/pdfs/${pdfName}`;
 
+    // Log environment info
+    console.log('Environment:', {
+      URL: process.env.URL,
+      DEPLOY_URL: process.env.DEPLOY_URL,
+      NODE_ENV: process.env.NODE_ENV
+    });
+
     // Fetch PDF
-    const pdfResponse = await fetch(pdfUrl);
-    if (!pdfResponse.ok) {
+    console.log('Attempting to fetch PDF from:', pdfUrl);
+    let pdfResponse;
+    try {
+      pdfResponse = await fetch(pdfUrl);
+      if (!pdfResponse.ok) {
+        console.error('PDF fetch failed:', {
+          url: pdfUrl,
+          status: pdfResponse.status,
+          statusText: pdfResponse.statusText,
+          siteUrl: process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888'
+        });
+        return {
+          statusCode: 404,
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            message: 'PDF file not found',
+            error: `Failed to fetch PDF from ${pdfUrl}`,
+            status: pdfResponse.status,
+            statusText: pdfResponse.statusText,
+            debug: {
+              siteUrl: process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888',
+              pdfName,
+              fullUrl: pdfUrl,
+              env: process.env.NODE_ENV
+            }
+          })
+        };
+      }
+    } catch (fetchError) {
+      console.error('PDF fetch error:', {
+        error: fetchError.toString(),
+        stack: fetchError.stack,
+        url: pdfUrl
+      });
       return {
-        statusCode: 404,
+        statusCode: 500,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          message: 'PDF file not found',
-          error: `Failed to fetch PDF from ${pdfUrl}`,
-          status: pdfResponse.status,
-          statusText: pdfResponse.statusText
+          message: 'Error fetching PDF',
+          error: fetchError.toString(),
+          debug: {
+            siteUrl: process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888',
+            pdfName,
+            fullUrl: pdfUrl,
+            env: process.env.NODE_ENV
+          }
         })
       };
     }
@@ -66,7 +119,7 @@ export const handler = async (event) => {
       headers: {
         'Authorization': `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
-        'HTTP-Referer': process.env.SITE_URL || 'http://localhost:8888',
+        'HTTP-Referer': process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888',
         'X-Title': 'NormHelper'
       },
       body: JSON.stringify({
@@ -130,13 +183,26 @@ export const handler = async (event) => {
     };
 
   } catch (error) {
-    console.error('Error:', error);
-    
     // Determine error type and provide specific error message
     let errorMessage = 'Server error';
     let errorType = 'INTERNAL_ERROR';
+
+    console.error('Function error:', {
+      error: error.toString(),
+      stack: error.stack,
+      url: error.url // For fetch errors
+    });
     
-    if (error.message.includes('API response is empty')) {
+    if (error.message === 'PDF_NAME_MISSING') {
+      errorType = 'VALIDATION_ERROR';
+      errorMessage = 'No PDF file was specified';
+    } else if (error.message === 'INVALID_PDF_FORMAT') {
+      errorType = 'VALIDATION_ERROR';
+      errorMessage = 'Invalid PDF file format';
+    } else if (error instanceof TypeError && error.message.includes('fetch')) {
+      errorType = 'PDF_FETCH_ERROR';
+      errorMessage = 'Failed to fetch the PDF document. Please check if the file exists and try again.';
+    } else if (error.message.includes('API response is empty')) {
       errorType = 'EMPTY_RESPONSE';
       errorMessage = 'The API returned an empty response';
     } else if (error.message.includes('missing choices array')) {
