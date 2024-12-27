@@ -24,3 +24,9 @@
   to = "/index.html"
   status = 200
   force = false
+
+[[headers]]
+  for = "/texts/*"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+    X-Content-Type-Options = "nosniff"
