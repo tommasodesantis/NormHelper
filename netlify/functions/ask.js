@@ -2,6 +2,8 @@
 
 const { Buffer } = require('buffer');
 const fetch = require('node-fetch');
+const fs = require('fs');
+const path = require('path');
 
 exports.handler = async (event) => {
   try {
@@ -24,97 +26,55 @@ exports.handler = async (event) => {
       throw new Error('Missing OPENROUTER_API_KEY environment variable');
     }
 
-    // Construct file URL
-    const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
-    const fileUrl = `${siteUrl}/texts/${encodeURIComponent(fileName)}`;
-
-    // Log environment info and file URL
-    console.log('Environment Variables:', {
-      URL: process.env.URL,
-      DEPLOY_URL: process.env.DEPLOY_URL,
+    // Read the text file directly from the filesystem
+    const publishDir = process.env.PUBLISH_DIR || 'public';
+    const filePath = path.join(publishDir, 'texts', fileName);
+    
+    console.log('Environment:', {
       NODE_ENV: process.env.NODE_ENV,
-      PWD: process.env.PWD
+      PUBLISH_DIR: process.env.PUBLISH_DIR,
+      PWD: process.cwd(),
+      LAMBDA_TASK_ROOT: process.env.LAMBDA_TASK_ROOT
     });
-    console.log('Constructed File URL:', fileUrl);
+    
+    console.log('Attempting to read file from:', filePath);
+    console.log('Directory contents:', {
+      cwd: fs.readdirSync(process.cwd()),
+      public: fs.existsSync('public') ? fs.readdirSync('public') : 'public dir not found',
+      texts: fs.existsSync(path.join('public', 'texts')) ? fs.readdirSync(path.join('public', 'texts')) : 'texts dir not found'
+    });
 
-    // Fetch .txt file
-    let fileResponse;
+    let textContent;
     try {
-      console.log('Attempting to fetch text file from:', fileUrl);
-      fileResponse = await fetch(fileUrl);
-
-      console.log('File Fetch Response Status:', fileResponse.status);
-      console.log('File Fetch Response Content-Type:', fileResponse.headers.get('Content-Type'));
-
-      if (!fileResponse.ok) {
-        console.error('File fetch failed:', {
-          url: fileUrl,
-          status: fileResponse.status,
-          statusText: fileResponse.statusText,
-          siteUrl: siteUrl
-        });
-        return {
-          statusCode: 404,
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            message: 'Text file not found',
-            error: `Failed to fetch text from ${fileUrl}`,
-            status: fileResponse.status,
-            statusText: fileResponse.statusText,
-            debug: {
-              siteUrl: siteUrl,
-              fileName,
-              fullUrl: fileUrl,
-              env: process.env.NODE_ENV
-            }
-          })
-        };
-      }
-
-      // Validate Content-Type
-      const contentType = fileResponse.headers.get('Content-Type');
-      console.log('Content-Type:', contentType);
-      
-      // Allow text/plain and variants
-      const validTypes = ['text/plain'];
-      if (contentType && !validTypes.some(type => contentType.includes(type))) {
-        console.warn('Unexpected Content-Type for text file:', {
-          url: fileUrl,
-          contentType: contentType
-        });
-        // Continue anyway, we'll validate the content itself
-      }
-
-    } catch (fetchError) {
-      console.error('File fetch error:', {
-        error: fetchError.toString(),
-        stack: fetchError.stack,
-        url: fileUrl
-      });
+      textContent = fs.readFileSync(filePath, 'utf8');
+      console.log('Successfully read file, content length:', textContent.length);
+    } catch (readError) {
+      console.error('Error reading file:', readError);
       return {
-        statusCode: 500,
+        statusCode: 404,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          message: 'Error fetching text file',
-          error: fetchError.toString(),
+          message: 'Text file not found',
+          error: readError.message,
           debug: {
-            siteUrl: siteUrl,
-            fileName,
-            fullUrl: fileUrl,
+            filePath,
+            error: readError.toString(),
+            pwd: process.cwd(),
             env: process.env.NODE_ENV
           }
         })
       };
     }
 
-    // Get text content
-    const textContent = await fileResponse.text();
-    console.log('Text Content Length (characters):', textContent.length);
+    // Get the site URL for OpenRouter headers
+    const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
 
     // Validate text content
     if (!textContent || textContent.length === 0) {
       throw new Error('TEXT_CONTENT_EMPTY');
     }
+
+    console.log('Text content validation passed, length:', textContent.length);
 
     // Build messages array for OpenRouter with prompt caching
     const messages = [

@@ -3,8 +3,24 @@ const path = require('path');
 
 exports.handler = async () => {
   try {
-    const textsDir = path.join(process.cwd(), 'public', 'texts');
-    const files = fs.readdirSync(textsDir).filter(file => file.endsWith('.txt'));
+    // In Netlify Functions, we should use the publish directory
+    const publishDir = process.env.PUBLISH_DIR || 'public';
+    const textsDir = path.join(publishDir, 'texts');
+    
+    console.log('Looking for text files in:', textsDir);
+    console.log('Current working directory:', process.cwd());
+    console.log('Directory contents:', fs.readdirSync(process.cwd()));
+    
+    let files = [];
+    try {
+      files = fs.readdirSync(textsDir).filter(file => file.endsWith('.txt'));
+      console.log('Found text files:', files);
+    } catch (error) {
+      console.error('Error reading texts directory:', error);
+      // Instead of throwing, return an empty array
+      files = [];
+    }
+
     return {
       statusCode: 200,
       headers: {

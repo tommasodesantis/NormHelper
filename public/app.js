@@ -10,19 +10,49 @@ sendButton.addEventListener('click', handleSendMessage);
 // Add event listener for dynamic file list loading
 document.addEventListener('DOMContentLoaded', async () => {
     try {
+        console.log('Fetching file list...');
         const response = await fetch('/.netlify/functions/listFiles');
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
         const data = await response.json();
-        const files = data.files;
+        console.log('File list response:', data);
+        
+        if (!data.files) {
+            if (data.error) {
+                throw new Error(data.error);
+            }
+            throw new Error('No files array in response');
+        }
 
-        files.forEach(file => {
+        if (data.files.length === 0) {
+            console.warn('No text files found');
+            const option = document.createElement('option');
+            option.value = '';
+            option.textContent = 'No documents available';
+            option.disabled = true;
+            fileSelect.appendChild(option);
+            return;
+        }
+
+        data.files.forEach(file => {
             const option = document.createElement('option');
             option.value = file;
             option.textContent = file.replace('.txt', '').replace(/_/g, ' ');
             fileSelect.appendChild(option);
         });
+        
+        console.log('File list populated successfully');
     } catch (error) {
         console.error('Error fetching file list:', error);
-        appendMessage('bot', 'Unable to load document list. Please try again later.');
+        const option = document.createElement('option');
+        option.value = '';
+        option.textContent = 'Error loading documents';
+        option.disabled = true;
+        fileSelect.appendChild(option);
+        appendMessage('bot', `Unable to load document list: ${error.message}`);
     }
 });
 questionInput.addEventListener('keypress', (e) => {

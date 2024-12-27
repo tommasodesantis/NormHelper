@@ -16,6 +16,8 @@
   from = "/texts/*"
   to = "/texts/:splat"
   status = 200
+  force = true
+  headers = { Access-Control-Allow-Origin = "*", Content-Type = "text/plain; charset=utf-8" }
 
 [[redirects]]
   from = "/*"
