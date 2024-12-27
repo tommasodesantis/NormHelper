@@ -1,15 +1,20 @@
+// netlify/functions/ask.js
+
 import { Buffer } from 'buffer';
+import fetch from 'node-fetch'; // Ensure node-fetch is installed and imported
 
 export const handler = async (event) => {
   try {
     // Parse and validate request body
     const { question, pdfName } = JSON.parse(event.body);
-    
+
+    // Validate presence of pdfName
     if (!pdfName) {
       throw new Error('PDF_NAME_MISSING');
     }
-    
-    if (!pdfName.endsWith('.pdf')) {
+
+    // Validate PDF format
+    if (!pdfName.toLowerCase().endsWith('.pdf')) {
       throw new Error('INVALID_PDF_FORMAT');
     }
 
@@ -21,38 +26,32 @@ export const handler = async (event) => {
 
     // Construct PDF URL
     const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
-    const pdfUrl = `${siteUrl}/pdfs/${pdfName}`;
+    const pdfUrl = `${siteUrl}/pdfs/${encodeURIComponent(pdfName)}`;
 
-    // Log environment info
-    console.log('Environment:', {
+    // Log environment info and PDF URL
+    console.log('Environment Variables:', {
       URL: process.env.URL,
       DEPLOY_URL: process.env.DEPLOY_URL,
-      NODE_ENV: process.env.NODE_ENV
-    });
-
-    // Fetch PDF
-    console.log('Attempting to fetch PDF from:', pdfUrl);
-    console.log('Environment:', {
       NODE_ENV: process.env.NODE_ENV,
-      URL: process.env.URL,
-      DEPLOY_URL: process.env.DEPLOY_URL,
       PWD: process.env.PWD
     });
-    
+    console.log('Constructed PDF URL:', pdfUrl);
+
+    // Fetch PDF
     let pdfResponse;
     try {
+      console.log('Attempting to fetch PDF from:', pdfUrl);
       pdfResponse = await fetch(pdfUrl);
-      console.log('PDF fetch response:', {
-        status: pdfResponse.status,
-        statusText: pdfResponse.statusText,
-        headers: Object.fromEntries(pdfResponse.headers.entries())
-      });
+
+      console.log('PDF Fetch Response Status:', pdfResponse.status);
+      console.log('PDF Fetch Response Content-Type:', pdfResponse.headers.get('Content-Type'));
+
       if (!pdfResponse.ok) {
         console.error('PDF fetch failed:', {
           url: pdfUrl,
           status: pdfResponse.status,
           statusText: pdfResponse.statusText,
-          siteUrl: process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888'
+          siteUrl: siteUrl
         });
         return {
           statusCode: 404,
@@ -63,7 +62,7 @@ export const handler = async (event) => {
             status: pdfResponse.status,
             statusText: pdfResponse.statusText,
             debug: {
-              siteUrl: process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888',
+              siteUrl: siteUrl,
               pdfName,
               fullUrl: pdfUrl,
               env: process.env.NODE_ENV
@@ -71,6 +70,17 @@ export const handler = async (event) => {
           })
         };
       }
+
+      // Validate Content-Type is PDF
+      const contentType = pdfResponse.headers.get('Content-Type');
+      if (!contentType || !contentType.includes('application/pdf')) {
+        console.error('Fetched content is not a PDF:', {
+          url: pdfUrl,
+          contentType: contentType
+        });
+        throw new Error('INVALID_PDF_FORMAT - The fetched file is not a PDF.');
+      }
+
     } catch (fetchError) {
       console.error('PDF fetch error:', {
         error: fetchError.toString(),
@@ -84,7 +94,7 @@ export const handler = async (event) => {
           message: 'Error fetching PDF',
           error: fetchError.toString(),
           debug: {
-            siteUrl: process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888',
+            siteUrl: siteUrl,
             pdfName,
             fullUrl: pdfUrl,
             env: process.env.NODE_ENV
@@ -96,10 +106,10 @@ export const handler = async (event) => {
     // Get PDF content and convert to base64
     const pdfBuffer = await pdfResponse.arrayBuffer();
     const pdfBase64 = Buffer.from(pdfBuffer).toString('base64');
-    console.log('PDF content length:', pdfBuffer.byteLength);
-    console.log('Base64 content length:', pdfBase64.length);
+    console.log('PDF Content Length (bytes):', pdfBuffer.byteLength);
+    console.log('Base64 PDF Length (characters):', pdfBase64.length);
 
-    // Build messages array for OpenRouter
+    // Build messages array for OpenRouter with correct message types
     const messages = [
       {
         role: 'system',
@@ -114,7 +124,10 @@ export const handler = async (event) => {
           },
           {
             type: 'image_url',
-            image_url: `data:application/pdf;base64,${pdfBase64}`,
+            image_url: {
+              url: `data:application/pdf;base64,${pdfBase64}`,
+              detail: 'auto' // Optional: Adjust based on OpenRouter's requirements
+            },
             cache_control: {
               type: 'ephemeral'
             }
@@ -127,14 +140,22 @@ export const handler = async (event) => {
       }
     ];
 
-    // Call Claude 3.5 Sonnet via OpenRouter
-    const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
+    // Debug: Log the messages being sent to OpenRouter
+    console.log('Messages sent to OpenRouter:', JSON.stringify({
+      model: 'anthropic/claude-3.5-sonnet',
+      messages,
+      stream: false,
+      temperature: 0.1
+    }, null, 2));
+
+    // Call OpenRouter's chat completions endpoint
+    const openRouterResponse = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
       headers: {
         'Authorization': `Bearer ${apiKey}`,
         'Content-Type': 'application/json',
-        'HTTP-Referer': process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888',
-        'X-Title': 'NormHelper'
+        'HTTP-Referer': siteUrl,
+        'X-Title': 'NormHelper' // Optional: Set your app's name as needed
       },
       body: JSON.stringify({
         model: 'anthropic/claude-3.5-sonnet',
@@ -144,15 +165,22 @@ export const handler = async (event) => {
       })
     });
 
-    if (!response.ok) {
-      const errorData = await response.json().catch(() => ({}));
-      const errorMessage = errorData?.error?.message || response.statusText;
-      throw new Error(`OpenRouter request failed: ${response.status} - ${errorMessage}`);
+    // Check if OpenRouter request was successful
+    if (!openRouterResponse.ok) {
+      const errorData = await openRouterResponse.json().catch(() => ({}));
+      const errorMessage = errorData?.error?.message || openRouterResponse.statusText;
+      console.error('OpenRouter request failed:', {
+        status: openRouterResponse.status,
+        statusText: openRouterResponse.statusText,
+        errorMessage
+      });
+      throw new Error(`OpenRouter request failed: ${openRouterResponse.status} - ${errorMessage}`);
     }
 
-    const data = await response.json();
+    // Parse OpenRouter response
+    const data = await openRouterResponse.json();
 
-    // Detailed validation of the API response
+    // Detailed validation of the API response structure
     if (!data) {
       throw new Error('API response is empty or invalid');
     }
@@ -177,7 +205,10 @@ export const handler = async (event) => {
         JSON.stringify(firstChoice.message, null, 2));
     }
 
-    // If we get here, we have a valid answer
+    // Log the assistant's answer
+    console.log('Assistant Answer:', firstChoice.message.content);
+
+    // Return the assistant's answer
     return {
       statusCode: 200,
       headers: {
@@ -187,10 +218,10 @@ export const handler = async (event) => {
         answer: firstChoice.message.content,
         debug: {
           responseStructure: {
-            hasChoices: !!data.choices,
-            choicesLength: data.choices?.length,
-            hasMessage: !!firstChoice.message,
-            hasContent: !!firstChoice.message?.content
+            hasChoices: Array.isArray(data.choices),
+            choicesLength: data.choices.length,
+            hasMessage: Boolean(firstChoice.message),
+            hasContent: Boolean(firstChoice.message.content)
           }
         }
       })
@@ -204,35 +235,59 @@ export const handler = async (event) => {
     console.error('Function error:', {
       error: error.toString(),
       stack: error.stack,
-      url: error.url // For fetch errors
+      url: error.url || 'N/A'
     });
     
-    if (error.message === 'PDF_NAME_MISSING') {
-      errorType = 'VALIDATION_ERROR';
-      errorMessage = 'No PDF file was specified';
-    } else if (error.message === 'INVALID_PDF_FORMAT') {
-      errorType = 'VALIDATION_ERROR';
-      errorMessage = 'Invalid PDF file format';
-    } else if (error instanceof TypeError && error.message.includes('fetch')) {
-      errorType = 'PDF_FETCH_ERROR';
-      errorMessage = 'Failed to fetch the PDF document. Please check if the file exists and try again.';
-    } else if (error.message.includes('API response is empty')) {
-      errorType = 'EMPTY_RESPONSE';
-      errorMessage = 'The API returned an empty response';
-    } else if (error.message.includes('missing choices array')) {
-      errorType = 'INVALID_RESPONSE_STRUCTURE';
-      errorMessage = 'The API response is missing the expected structure';
-    } else if (error.message.includes('empty choices array')) {
-      errorType = 'NO_CHOICES';
-      errorMessage = 'The API returned no choices in the response';
-    } else if (error.message.includes('missing message object')) {
-      errorType = 'MISSING_MESSAGE';
-      errorMessage = 'The API response is missing the message object';
-    } else if (error.message.includes('missing content')) {
-      errorType = 'MISSING_CONTENT';
-      errorMessage = 'The API response message has no content';
+    // Map specific error messages
+    switch (true) {
+      case error.message === 'PDF_NAME_MISSING':
+        errorType = 'VALIDATION_ERROR';
+        errorMessage = 'No PDF file was specified.';
+        break;
+      case error.message === 'INVALID_PDF_FORMAT':
+        errorType = 'VALIDATION_ERROR';
+        errorMessage = 'Invalid PDF file format. Please provide a valid PDF.';
+        break;
+      case error.message.includes('API response is empty'):
+        errorType = 'EMPTY_RESPONSE';
+        errorMessage = 'The API returned an empty response.';
+        break;
+      case error.message.includes('missing choices array'):
+        errorType = 'INVALID_RESPONSE_STRUCTURE';
+        errorMessage = 'The API response is missing the expected choices array.';
+        break;
+      case error.message.includes('empty choices array'):
+        errorType = 'NO_CHOICES';
+        errorMessage = 'The API returned no choices in the response.';
+        break;
+      case error.message.includes('missing message object'):
+        errorType = 'MISSING_MESSAGE';
+        errorMessage = 'The API response is missing the message object.';
+        break;
+      case error.message.includes('missing content'):
+        errorType = 'MISSING_CONTENT';
+        errorMessage = 'The API response message has no content.';
+        break;
+      case error.message.includes('Failed to fetch PDF'):
+        errorType = 'PDF_FETCH_FAILED';
+        errorMessage = 'Failed to fetch the PDF document. Please ensure the file exists and try again.';
+        break;
+      case error.message.includes('INVALID_PDF_FORMAT'):
+        errorType = 'INVALID_PDF_FORMAT';
+        errorMessage = 'The fetched file is not a valid PDF.';
+        break;
+      default:
+        if (error.message.startsWith('OpenRouter request failed')) {
+          errorType = 'OPENROUTER_API_ERROR';
+          errorMessage = 'An error occurred while communicating with the AI service. Please try again later.';
+        } else {
+          if (!navigator.onLine) {
+            errorMessage = 'Please check your internet connection and try again.';
+          }
+        }
     }
 
+    // Return error response
     return {
       statusCode: 500,
       headers: {
