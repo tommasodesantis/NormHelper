@@ -38,7 +38,15 @@ exports.handler = async (event) => {
     // Fetch the text file
     let textContent;
     try {
+      console.log('Starting file fetch from URL:', fileUrl);
       const response = await fetch(fileUrl);
+      
+      // Log response headers
+      const headers = {};
+      response.headers.forEach((value, name) => {
+        headers[name] = value;
+      });
+      console.log('Response headers:', headers);
       
       if (!response.ok) {
         console.error('File fetch failed:', {
@@ -59,6 +67,15 @@ exports.handler = async (event) => {
 
       textContent = await response.text();
       console.log('Successfully fetched file, content length:', textContent.length);
+      console.log('First 500 characters of content:', textContent.substring(0, 500));
+      console.log('Content type from response:', response.headers.get('content-type'));
+      
+      // Validate content type
+      const contentType = response.headers.get('content-type');
+      if (contentType && contentType.includes('text/html')) {
+        console.error('Received HTML content instead of text file');
+        throw new Error('INVALID_CONTENT_TYPE');
+      }
     } catch (fetchError) {
       console.error('Error fetching file:', fetchError);
       return {

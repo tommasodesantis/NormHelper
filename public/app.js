@@ -83,7 +83,8 @@ async function handleSendMessage() {
 
         console.log('Sending request with:', {
             question,
-            fileName: fileSelect.value
+            fileName: fileSelect.value,
+            fileUrl: new URL(`/texts/${fileSelect.value}`, window.location.origin).href
         });
 
         // Call serverless function
@@ -110,6 +111,7 @@ async function handleSendMessage() {
         }
 
         const data = await response.json();
+        console.log('Received response:', data);
 
         // Validate response data
         if (!data || !data.answer) {
