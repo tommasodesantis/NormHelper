@@ -115,7 +115,7 @@ exports.handler = async (event) => {
             type: 'text',
             text: textContent,
             cache_control: {
-              type: 'persistent' // Use 'persistent' to enable prompt caching
+              type: 'ephemeral'
             }
           }
         ]
