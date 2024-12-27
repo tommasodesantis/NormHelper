@@ -121,6 +121,22 @@ exports.handler = async (event) => {
     console.log('PDF Content Length (bytes):', pdfBuffer.byteLength);
     console.log('Base64 PDF Length (characters):', pdfBase64.length);
 
+    // Validate base64 string
+    if (!pdfBase64 || pdfBase64.length === 0) {
+      throw new Error('PDF_CONVERSION_FAILED');
+    }
+
+    // Create properly formatted data URL for image-like handling
+    const dataUrl = `data:image/png;base64,${pdfBase64}`;
+    
+    // Log first 100 characters of data URL for debugging
+    console.log('Data URL prefix:', dataUrl.substring(0, 100) + '...');
+
+    // Validate data URL format
+    if (!dataUrl.startsWith('data:image/png;base64,')) {
+      throw new Error('INVALID_DATA_URL_FORMAT');
+    }
+
     // Build messages array for OpenRouter with correct message types
     const messages = [
       {
@@ -137,8 +153,8 @@ exports.handler = async (event) => {
           {
             type: 'image_url',
             image_url: {
-              url: `data:application/pdf;base64,${pdfBase64}`,
-              detail: 'auto' // Optional: Adjust based on OpenRouter's requirements
+              url: dataUrl,
+              detail: 'auto'
             },
             cache_control: {
               type: 'ephemeral'
