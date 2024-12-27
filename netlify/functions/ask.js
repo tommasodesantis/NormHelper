@@ -267,9 +267,8 @@ exports.handler = async (event) => {
           errorType = 'OPENROUTER_API_ERROR';
           errorMessage = 'An error occurred while communicating with the AI service. Please try again later.';
         } else {
-          if (!navigator.onLine) {
-            errorMessage = 'Please check your internet connection and try again.';
-          }
+          // Remove browser-specific check since we're in Node.js environment
+          errorMessage = 'An unexpected error occurred. Please try again.';
         }
     }
 
