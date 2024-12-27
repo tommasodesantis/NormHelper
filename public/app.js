@@ -2,10 +2,29 @@
 const chatMessages = document.getElementById('chatMessages');
 const questionInput = document.getElementById('questionInput');
 const sendButton = document.getElementById('sendButton');
-const pdfSelect = document.getElementById('pdfSelect');
+const fileSelect = document.getElementById('fileSelect');
 
 // Event Listeners
 sendButton.addEventListener('click', handleSendMessage);
+
+// Add event listener for dynamic file list loading
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        const response = await fetch('/.netlify/functions/listFiles');
+        const data = await response.json();
+        const files = data.files;
+
+        files.forEach(file => {
+            const option = document.createElement('option');
+            option.value = file;
+            option.textContent = file.replace('.txt', '').replace(/_/g, ' ');
+            fileSelect.appendChild(option);
+        });
+    } catch (error) {
+        console.error('Error fetching file list:', error);
+        appendMessage('bot', 'Unable to load document list. Please try again later.');
+    }
+});
 questionInput.addEventListener('keypress', (e) => {
     if (e.key === 'Enter' && !e.shiftKey) {
         e.preventDefault();
@@ -27,17 +46,17 @@ async function handleSendMessage() {
 
     let response;
     try {
-        // Validate PDF selection
-        if (!pdfSelect.value) {
-            throw new Error('NO_PDF_SELECTED');
+        // Validate file selection
+        if (!fileSelect.value) {
+            throw new Error('NO_FILE_SELECTED');
         }
 
         console.log('Sending request with:', {
             question,
-            pdfName: pdfSelect.value
+            fileName: fileSelect.value
         });
 
-        // Call OpenRouter API through our serverless function
+        // Call serverless function
         response = await fetch('/.netlify/functions/ask', {
             method: 'POST',
             headers: {
@@ -45,7 +64,7 @@ async function handleSendMessage() {
             },
             body: JSON.stringify({
                 question,
-                pdfName: pdfSelect.value
+                fileName: fileSelect.value
             }),
         });
 
@@ -77,8 +96,8 @@ async function handleSendMessage() {
         let errorMessage = 'Sorry, I encountered an error while processing your question. ';
         
         switch(error.message) {
-            case 'NO_PDF_SELECTED':
-                errorMessage += 'Please select a PDF document first.';
+            case 'NO_FILE_SELECTED':
+                errorMessage += 'Please select a text document first.';
                 break;
                 
             case 'INVALID_RESPONSE':
@@ -143,8 +162,8 @@ function setInputState(enabled) {
     sendButton.disabled = !enabled;
     sendButton.textContent = enabled ? 'Send' : 'Sending...';
     
-    // Also disable PDF selection while processing
-    pdfSelect.disabled = !enabled;
+    // Also disable file selection while processing
+    fileSelect.disabled = !enabled;
 }
 
 // Add CSS for error message styling

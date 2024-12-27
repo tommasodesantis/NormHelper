@@ -6,16 +6,16 @@ const fetch = require('node-fetch');
 exports.handler = async (event) => {
   try {
     // Parse and validate request body
-    const { question, pdfName } = JSON.parse(event.body);
+    const { question, fileName } = JSON.parse(event.body);
 
-    // Validate presence of pdfName
-    if (!pdfName) {
-      throw new Error('PDF_NAME_MISSING');
+    // Validate presence of fileName
+    if (!fileName) {
+      throw new Error('FILE_NAME_MISSING');
     }
 
-    // Validate PDF format
-    if (!pdfName.toLowerCase().endsWith('.pdf')) {
-      throw new Error('INVALID_PDF_FORMAT');
+    // Validate .txt format
+    if (!fileName.toLowerCase().endsWith('.txt')) {
+      throw new Error('INVALID_FILE_FORMAT');
     }
 
     // Validate required environment variables
@@ -24,120 +24,99 @@ exports.handler = async (event) => {
       throw new Error('Missing OPENROUTER_API_KEY environment variable');
     }
 
-    // Construct PDF URL
+    // Construct file URL
     const siteUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
-    const pdfUrl = `${siteUrl}/pdfs/${encodeURIComponent(pdfName)}`;
+    const fileUrl = `${siteUrl}/texts/${encodeURIComponent(fileName)}`;
 
-    // Log environment info and PDF URL
+    // Log environment info and file URL
     console.log('Environment Variables:', {
       URL: process.env.URL,
       DEPLOY_URL: process.env.DEPLOY_URL,
       NODE_ENV: process.env.NODE_ENV,
       PWD: process.env.PWD
     });
-    console.log('Constructed PDF URL:', pdfUrl);
+    console.log('Constructed File URL:', fileUrl);
 
-    // Fetch PDF
-    let pdfResponse;
+    // Fetch .txt file
+    let fileResponse;
     try {
-      console.log('Attempting to fetch PDF from:', pdfUrl);
-      pdfResponse = await fetch(pdfUrl);
+      console.log('Attempting to fetch text file from:', fileUrl);
+      fileResponse = await fetch(fileUrl);
 
-      console.log('PDF Fetch Response Status:', pdfResponse.status);
-      console.log('PDF Fetch Response Content-Type:', pdfResponse.headers.get('Content-Type'));
+      console.log('File Fetch Response Status:', fileResponse.status);
+      console.log('File Fetch Response Content-Type:', fileResponse.headers.get('Content-Type'));
 
-      if (!pdfResponse.ok) {
-        console.error('PDF fetch failed:', {
-          url: pdfUrl,
-          status: pdfResponse.status,
-          statusText: pdfResponse.statusText,
+      if (!fileResponse.ok) {
+        console.error('File fetch failed:', {
+          url: fileUrl,
+          status: fileResponse.status,
+          statusText: fileResponse.statusText,
           siteUrl: siteUrl
         });
         return {
           statusCode: 404,
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({
-            message: 'PDF file not found',
-            error: `Failed to fetch PDF from ${pdfUrl}`,
-            status: pdfResponse.status,
-            statusText: pdfResponse.statusText,
+            message: 'Text file not found',
+            error: `Failed to fetch text from ${fileUrl}`,
+            status: fileResponse.status,
+            statusText: fileResponse.statusText,
             debug: {
               siteUrl: siteUrl,
-              pdfName,
-              fullUrl: pdfUrl,
+              fileName,
+              fullUrl: fileUrl,
               env: process.env.NODE_ENV
             }
           })
         };
       }
 
-      // Log detailed response information
-      console.log('PDF Response Details:', {
-        status: pdfResponse.status,
-        statusText: pdfResponse.statusText,
-        headers: Object.fromEntries(pdfResponse.headers.entries()),
-        url: pdfUrl
-      });
-
-      // More lenient Content-Type validation
-      const contentType = pdfResponse.headers.get('Content-Type');
+      // Validate Content-Type
+      const contentType = fileResponse.headers.get('Content-Type');
       console.log('Content-Type:', contentType);
       
-      // Allow common PDF content types and octet-stream
-      const validTypes = ['application/pdf', 'application/x-pdf', 'application/octet-stream'];
+      // Allow text/plain and variants
+      const validTypes = ['text/plain'];
       if (contentType && !validTypes.some(type => contentType.includes(type))) {
-        console.warn('Unexpected Content-Type for PDF:', {
-          url: pdfUrl,
+        console.warn('Unexpected Content-Type for text file:', {
+          url: fileUrl,
           contentType: contentType
         });
         // Continue anyway, we'll validate the content itself
       }
 
     } catch (fetchError) {
-      console.error('PDF fetch error:', {
+      console.error('File fetch error:', {
         error: fetchError.toString(),
         stack: fetchError.stack,
-        url: pdfUrl
+        url: fileUrl
       });
       return {
         statusCode: 500,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          message: 'Error fetching PDF',
+          message: 'Error fetching text file',
           error: fetchError.toString(),
           debug: {
             siteUrl: siteUrl,
-            pdfName,
-            fullUrl: pdfUrl,
+            fileName,
+            fullUrl: fileUrl,
             env: process.env.NODE_ENV
           }
         })
       };
     }
 
-    // Get PDF content and convert to base64
-    const pdfBuffer = await pdfResponse.arrayBuffer();
-    const pdfBase64 = Buffer.from(pdfBuffer).toString('base64');
-    console.log('PDF Content Length (bytes):', pdfBuffer.byteLength);
-    console.log('Base64 PDF Length (characters):', pdfBase64.length);
+    // Get text content
+    const textContent = await fileResponse.text();
+    console.log('Text Content Length (characters):', textContent.length);
 
-    // Validate base64 string
-    if (!pdfBase64 || pdfBase64.length === 0) {
-      throw new Error('PDF_CONVERSION_FAILED');
+    // Validate text content
+    if (!textContent || textContent.length === 0) {
+      throw new Error('TEXT_CONTENT_EMPTY');
     }
 
-    // Create properly formatted data URL for image-like handling
-    const dataUrl = `data:image/png;base64,${pdfBase64}`;
-    
-    // Log first 100 characters of data URL for debugging
-    console.log('Data URL prefix:', dataUrl.substring(0, 100) + '...');
-
-    // Validate data URL format
-    if (!dataUrl.startsWith('data:image/png;base64,')) {
-      throw new Error('INVALID_DATA_URL_FORMAT');
-    }
-
-    // Build messages array for OpenRouter with correct message types
+    // Build messages array for OpenRouter with prompt caching
     const messages = [
       {
         role: 'system',
@@ -145,19 +124,16 @@ exports.handler = async (event) => {
           {
             type: 'text',
             text: 'You are a helpful assistant specialized in analyzing technical documents. ' +
-                  'You have been given a PDF document to analyze. Please read it carefully and provide detailed, accurate answers. ' +
-                  'For every statement you make, cite the specific page number(s) in parentheses at the end of the relevant sentence. ' +
-                  'For statements combining information from multiple pages, cite all relevant pages. ' +
-                  'If you are unsure about a page number, indicate this clearly.'
+                  'You have been given a text document to analyze. Please read it carefully and provide detailed, accurate answers. ' +
+                  'For every statement you make, cite the specific section or paragraph number(s) in parentheses at the end of the relevant sentence. ' +
+                  'For statements combining information from multiple sections, cite all relevant sections. ' +
+                  'If you are unsure about a section number, indicate this clearly.'
           },
           {
-            type: 'image_url',
-            image_url: {
-              url: dataUrl,
-              detail: 'auto'
-            },
+            type: 'text',
+            text: textContent,
             cache_control: {
-              type: 'ephemeral'
+              type: 'persistent' // Use 'persistent' to enable prompt caching
             }
           }
         ]
@@ -268,13 +244,17 @@ exports.handler = async (event) => {
     
     // Map specific error messages
     switch (true) {
-      case error.message === 'PDF_NAME_MISSING':
+      case error.message === 'FILE_NAME_MISSING':
         errorType = 'VALIDATION_ERROR';
-        errorMessage = 'No PDF file was specified.';
+        errorMessage = 'No text file was specified.';
         break;
-      case error.message === 'INVALID_PDF_FORMAT':
+      case error.message === 'INVALID_FILE_FORMAT':
         errorType = 'VALIDATION_ERROR';
-        errorMessage = 'Invalid PDF file format. Please provide a valid PDF.';
+        errorMessage = 'Invalid file format. Please provide a valid .txt file.';
+        break;
+      case error.message === 'TEXT_CONTENT_EMPTY':
+        errorType = 'VALIDATION_ERROR';
+        errorMessage = 'The provided text file is empty.';
         break;
       case error.message.includes('API response is empty'):
         errorType = 'EMPTY_RESPONSE';
@@ -282,7 +262,7 @@ exports.handler = async (event) => {
         break;
       case error.message.includes('missing choices array'):
         errorType = 'INVALID_RESPONSE_STRUCTURE';
-        errorMessage = 'The API response is missing the expected choices array.';
+        errorMessage = 'The API response is missing the choices array.';
         break;
       case error.message.includes('empty choices array'):
         errorType = 'NO_CHOICES';
@@ -292,17 +272,13 @@ exports.handler = async (event) => {
         errorType = 'MISSING_MESSAGE';
         errorMessage = 'The API response is missing the message object.';
         break;
-      case error.message.includes('missing content'):
-        errorType = 'MISSING_CONTENT';
-        errorMessage = 'The API response message has no content.';
+      case error.message.includes('Failed to fetch text'):
+        errorType = 'TEXT_FETCH_FAILED';
+        errorMessage = 'Failed to fetch the text document. Please ensure the file exists and try again.';
         break;
-      case error.message.includes('Failed to fetch PDF'):
-        errorType = 'PDF_FETCH_FAILED';
-        errorMessage = 'Failed to fetch the PDF document. Please ensure the file exists and try again.';
-        break;
-      case error.message.includes('INVALID_PDF_FORMAT'):
-        errorType = 'INVALID_PDF_FORMAT';
-        errorMessage = 'The fetched file is not a valid PDF.';
+      case error.message.includes('INVALID_FILE_FORMAT'):
+        errorType = 'INVALID_FILE_FORMAT';
+        errorMessage = 'The fetched file is not a valid .txt file.';
         break;
       default:
         if (error.message.startsWith('OpenRouter request failed')) {
