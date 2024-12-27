@@ -71,14 +71,26 @@ exports.handler = async (event) => {
         };
       }
 
-      // Validate Content-Type is PDF
+      // Log detailed response information
+      console.log('PDF Response Details:', {
+        status: pdfResponse.status,
+        statusText: pdfResponse.statusText,
+        headers: Object.fromEntries(pdfResponse.headers.entries()),
+        url: pdfUrl
+      });
+
+      // More lenient Content-Type validation
       const contentType = pdfResponse.headers.get('Content-Type');
-      if (!contentType || !contentType.includes('application/pdf')) {
-        console.error('Fetched content is not a PDF:', {
+      console.log('Content-Type:', contentType);
+      
+      // Allow common PDF content types and octet-stream
+      const validTypes = ['application/pdf', 'application/x-pdf', 'application/octet-stream'];
+      if (contentType && !validTypes.some(type => contentType.includes(type))) {
+        console.warn('Unexpected Content-Type for PDF:', {
           url: pdfUrl,
           contentType: contentType
         });
-        throw new Error('INVALID_PDF_FORMAT - The fetched file is not a PDF.');
+        // Continue anyway, we'll validate the content itself
       }
 
     } catch (fetchError) {
