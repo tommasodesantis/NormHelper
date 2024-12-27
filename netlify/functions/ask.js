@@ -1,9 +1,6 @@
 // netlify/functions/ask.js
 
-const { Buffer } = require('buffer');
 const fetch = require('node-fetch');
-const fs = require('fs');
-const path = require('path');
 
 exports.handler = async (event) => {
   try {
@@ -26,42 +23,50 @@ exports.handler = async (event) => {
       throw new Error('Missing OPENROUTER_API_KEY environment variable');
     }
 
-    // Read the text file directly from the filesystem
-    const publishDir = process.env.PUBLISH_DIR || 'public';
-    const filePath = path.join(publishDir, 'texts', fileName);
+    // Get base URL from environment variables
+    const baseUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
+    const fileUrl = `${baseUrl}/texts/${encodeURIComponent(fileName)}`;
     
     console.log('Environment:', {
       NODE_ENV: process.env.NODE_ENV,
-      PUBLISH_DIR: process.env.PUBLISH_DIR,
-      PWD: process.cwd(),
-      LAMBDA_TASK_ROOT: process.env.LAMBDA_TASK_ROOT
+      URL: process.env.URL,
+      DEPLOY_URL: process.env.DEPLOY_URL
     });
     
-    console.log('Attempting to read file from:', filePath);
-    console.log('Directory contents:', {
-      cwd: fs.readdirSync(process.cwd()),
-      public: fs.existsSync('public') ? fs.readdirSync('public') : 'public dir not found',
-      texts: fs.existsSync(path.join('public', 'texts')) ? fs.readdirSync(path.join('public', 'texts')) : 'texts dir not found'
-    });
+    console.log('Attempting to fetch file from:', fileUrl);
 
+    // Fetch the text file
     let textContent;
     try {
-      textContent = fs.readFileSync(filePath, 'utf8');
-      console.log('Successfully read file, content length:', textContent.length);
-    } catch (readError) {
-      console.error('Error reading file:', readError);
+      const response = await fetch(fileUrl);
+      
+      if (!response.ok) {
+        console.error('File fetch failed:', {
+          status: response.status,
+          statusText: response.statusText
+        });
+        return {
+          statusCode: response.status,
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            message: 'Text file not found',
+            error: `Failed to fetch text from ${fileUrl}`,
+            status: response.status,
+            statusText: response.statusText
+          })
+        };
+      }
+
+      textContent = await response.text();
+      console.log('Successfully fetched file, content length:', textContent.length);
+    } catch (fetchError) {
+      console.error('Error fetching file:', fetchError);
       return {
-        statusCode: 404,
+        statusCode: 500,
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
-          message: 'Text file not found',
-          error: readError.message,
-          debug: {
-            filePath,
-            error: readError.toString(),
-            pwd: process.cwd(),
-            env: process.env.NODE_ENV
-          }
+          message: 'Error fetching text file',
+          error: fetchError.toString()
         })
       };
     }

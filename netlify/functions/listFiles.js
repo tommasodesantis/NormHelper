@@ -1,25 +1,15 @@
-const fs = require('fs');
-const path = require('path');
+const fetch = require('node-fetch');
 
-exports.handler = async () => {
+exports.handler = async (event) => {
   try {
-    // In Netlify Functions, we should use the publish directory
-    const publishDir = process.env.PUBLISH_DIR || 'public';
-    const textsDir = path.join(publishDir, 'texts');
+    // Get the base URL from environment variables or construct it
+    const baseUrl = process.env.URL || process.env.DEPLOY_URL || 'http://localhost:8888';
     
-    console.log('Looking for text files in:', textsDir);
-    console.log('Current working directory:', process.cwd());
-    console.log('Directory contents:', fs.readdirSync(process.cwd()));
+    // Hard-code the known text file for now
+    // In a production environment, you might want to implement a proper directory listing
+    const files = ['Eurocode_2_Design_of_concrete_structures_Part_1-1_General.txt'];
     
-    let files = [];
-    try {
-      files = fs.readdirSync(textsDir).filter(file => file.endsWith('.txt'));
-      console.log('Found text files:', files);
-    } catch (error) {
-      console.error('Error reading texts directory:', error);
-      // Instead of throwing, return an empty array
-      files = [];
-    }
+    console.log('Returning files list:', files);
 
     return {
       statusCode: 200,
