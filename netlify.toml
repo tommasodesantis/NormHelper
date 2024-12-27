@@ -1,16 +1,11 @@
 [build]
   functions = "netlify/functions"
-  publish = "."
+  publish = "public"
 
 [dev]
-  publish = "."
+  publish = "public"
   port = 8888
   autoLaunch = false
-
-[[redirects]]
-  from = "/pdfs/*"
-  to = "/pdfs/:splat"
-  status = 200
 
 [[redirects]]
   from = "/*"

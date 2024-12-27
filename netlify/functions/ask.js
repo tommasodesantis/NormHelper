@@ -32,9 +32,21 @@ export const handler = async (event) => {
 
     // Fetch PDF
     console.log('Attempting to fetch PDF from:', pdfUrl);
+    console.log('Environment:', {
+      NODE_ENV: process.env.NODE_ENV,
+      URL: process.env.URL,
+      DEPLOY_URL: process.env.DEPLOY_URL,
+      PWD: process.env.PWD
+    });
+    
     let pdfResponse;
     try {
       pdfResponse = await fetch(pdfUrl);
+      console.log('PDF fetch response:', {
+        status: pdfResponse.status,
+        statusText: pdfResponse.statusText,
+        headers: Object.fromEntries(pdfResponse.headers.entries())
+      });
       if (!pdfResponse.ok) {
         console.error('PDF fetch failed:', {
           url: pdfUrl,
@@ -84,6 +96,8 @@ export const handler = async (event) => {
     // Get PDF content and convert to base64
     const pdfBuffer = await pdfResponse.arrayBuffer();
     const pdfBase64 = Buffer.from(pdfBuffer).toString('base64');
+    console.log('PDF content length:', pdfBuffer.byteLength);
+    console.log('Base64 content length:', pdfBase64.length);
 
     // Build messages array for OpenRouter
     const messages = [
