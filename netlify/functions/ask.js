@@ -21,7 +21,9 @@ export const handler = async (event) => {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           message: 'PDF file not found',
-          error: `Failed to fetch PDF from ${pdfUrl}`
+          error: `Failed to fetch PDF from ${pdfUrl}`,
+          status: pdfResponse.status,
+          statusText: pdfResponse.statusText
         })
       };
     }
@@ -40,7 +42,7 @@ export const handler = async (event) => {
             text: 'You are a helpful assistant specialized in analyzing technical documents. ' +
                   'You have been given a PDF document to analyze. Please read it carefully and provide detailed, accurate answers. ' +
                   'For every statement you make, cite the specific page number(s) in parentheses at the end of the relevant sentence. ' +
-                  'If a statement combines information from multiple pages, cite all relevant pages. ' +
+                  'For statements combining information from multiple pages, cite all relevant pages. ' +
                   'If you are unsure about a page number, indicate this clearly.'
           },
           {
@@ -71,7 +73,7 @@ export const handler = async (event) => {
         model: 'anthropic/claude-3-sonnet',
         messages,
         stream: false,
-        temperature: 0.1 // Lower temperature for more focused, factual responses
+        temperature: 0.1
       })
     });
 
@@ -82,26 +84,86 @@ export const handler = async (event) => {
     }
 
     const data = await response.json();
-    const answer = data?.choices?.[0]?.message?.content || 'No answer found.';
 
+    // Detailed validation of the API response
+    if (!data) {
+      throw new Error('API response is empty or invalid');
+    }
+
+    if (!Array.isArray(data.choices)) {
+      throw new Error('API response missing choices array. Response structure: ' + 
+        JSON.stringify(data, null, 2));
+    }
+
+    if (data.choices.length === 0) {
+      throw new Error('API response contains empty choices array');
+    }
+
+    const firstChoice = data.choices[0];
+    if (!firstChoice.message) {
+      throw new Error('First choice missing message object. Choice structure: ' + 
+        JSON.stringify(firstChoice, null, 2));
+    }
+
+    if (!firstChoice.message.content) {
+      throw new Error('Message missing content. Message structure: ' + 
+        JSON.stringify(firstChoice.message, null, 2));
+    }
+
+    // If we get here, we have a valid answer
     return {
       statusCode: 200,
       headers: {
         'Content-Type': 'application/json'
       },
-      body: JSON.stringify({ answer })
+      body: JSON.stringify({ 
+        answer: firstChoice.message.content,
+        debug: {
+          responseStructure: {
+            hasChoices: !!data.choices,
+            choicesLength: data.choices?.length,
+            hasMessage: !!firstChoice.message,
+            hasContent: !!firstChoice.message?.content
+          }
+        }
+      })
     };
 
   } catch (error) {
     console.error('Error:', error);
+    
+    // Determine error type and provide specific error message
+    let errorMessage = 'Server error';
+    let errorType = 'INTERNAL_ERROR';
+    
+    if (error.message.includes('API response is empty')) {
+      errorType = 'EMPTY_RESPONSE';
+      errorMessage = 'The API returned an empty response';
+    } else if (error.message.includes('missing choices array')) {
+      errorType = 'INVALID_RESPONSE_STRUCTURE';
+      errorMessage = 'The API response is missing the expected structure';
+    } else if (error.message.includes('empty choices array')) {
+      errorType = 'NO_CHOICES';
+      errorMessage = 'The API returned no choices in the response';
+    } else if (error.message.includes('missing message object')) {
+      errorType = 'MISSING_MESSAGE';
+      errorMessage = 'The API response is missing the message object';
+    } else if (error.message.includes('missing content')) {
+      errorType = 'MISSING_CONTENT';
+      errorMessage = 'The API response message has no content';
+    }
+
     return {
       statusCode: 500,
       headers: {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify({
-        message: 'Server error',
-        error: error.toString()
+        message: errorMessage,
+        error: error.toString(),
+        errorType,
+        timestamp: new Date().toISOString(),
+        requestId: event.requestId || 'unknown'
       })
     };
   }
