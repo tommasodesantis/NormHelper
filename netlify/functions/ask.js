@@ -113,7 +113,7 @@ export const handler = async (event) => {
       }
     ];
 
-    // Call Claude 3 Sonnet via OpenRouter
+    // Call Claude 3.5 Sonnet via OpenRouter
     const response = await fetch('https://openrouter.ai/api/v1/chat/completions', {
       method: 'POST',
       headers: {
@@ -123,7 +123,7 @@ export const handler = async (event) => {
         'X-Title': 'NormHelper'
       },
       body: JSON.stringify({
-        model: 'anthropic/claude-3-sonnet',
+        model: 'anthropic/claude-3.5-sonnet',
         messages,
         stream: false,
         temperature: 0.1
