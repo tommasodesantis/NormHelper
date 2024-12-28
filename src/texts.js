@@ -1,7 +1,7 @@
 // src/texts.js
 
 const texts = {
-  'Eurocode_2_Design_of_concrete_structures_Part_1-1_General_rules_Structural_fire_design.txt': `
+  'Eurocode_2_Design_of_concrete_structures_Part_1-1.txt': `
 === PAGE 1 ===
 EN 1992-1-1 (2004) (English): Eurocode 2: Design of concrete
 structures - Part 1-1: General rules and rules for buildings
@@ -9269,7 +9269,7 @@ EN 1992-1-1:2004 (E)
 Figure J.G: Corbel detailing 
 225`,
 
-'Eurocode_2_Design_of_concrete_structures_Part_1-2_General_rules_Structural_fire_design.txt': `
+'Eurocode_2_Design_of_concrete_structures_Part_1-2.txt': `
 === PAGE 1 ===
 EN 1992-1-2 (2004) (English): Eurocode 2: Design of concrete
 structures - Part 1-2: General rules - Structural fire

@@ -3,8 +3,18 @@ const chatMessages = document.getElementById('chatMessages');
 const questionInput = document.getElementById('questionInput');
 const sendButton = document.getElementById('sendButton');
 const fileSelect = document.getElementById('fileSelect');
+const llmSelect = document.getElementById('llmSelect');
+
+// Constants
+const RESTRICTED_MODELS = [
+  'amazon/nova-pro-v1',
+  'google/gemini-2.0-flash-exp:free',
+  'google/gemini-exp-1206:free'
+];
+const PASSWORD = 'bollettone';
 
 // Event Listeners
+llmSelect.addEventListener('change', handleModelChange);
 sendButton.addEventListener('click', handleSendMessage);
 questionInput.addEventListener('keypress', (e) => {
   if (e.key === 'Enter' && !e.shiftKey) {
@@ -83,7 +93,8 @@ async function handleSendMessage() {
 
     console.log('Sending request with:', {
       question,
-      fileName: fileSelect.value
+      fileName: fileSelect.value,
+      model: llmSelect.value
     });
 
     // Call updated serverless function
@@ -94,7 +105,8 @@ async function handleSendMessage() {
       },
       body: JSON.stringify({
         question,
-        fileName: fileSelect.value
+        fileName: fileSelect.value,
+        model: llmSelect.value
       }),
     });
 
@@ -185,8 +197,9 @@ function setInputState(enabled) {
   sendButton.disabled = !enabled;
   sendButton.textContent = enabled ? 'Send' : 'Sending...';
   
-  // Also disable file selection while processing
+  // Also disable file selection and LLM selection while processing
   fileSelect.disabled = !enabled;
+  llmSelect.disabled = !enabled;
 }
 
 // Add CSS for error message styling
@@ -202,3 +215,20 @@ style.textContent = `
     }
 `;
 document.head.appendChild(style);
+
+// Handle model selection change
+function handleModelChange(event) {
+  const selectedModel = event.target.value;
+  
+  if (RESTRICTED_MODELS.includes(selectedModel)) {
+    const password = prompt('This model requires an admin password, enter it or select one of the following models: Claude 3.5 Sonnet, OpenAI GPT-4o, Gemini Flash 1.5 8B or Gemini Pro 1.5:');
+    
+    if (password !== PASSWORD) {
+      alert('Incorrect password. Access denied.');
+      // Reset to the first non-restricted model
+      const firstNonRestrictedOption = Array.from(llmSelect.options)
+        .find(option => !RESTRICTED_MODELS.includes(option.value));
+      llmSelect.value = firstNonRestrictedOption.value;
+    }
+  }
+}

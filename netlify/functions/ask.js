@@ -6,11 +6,14 @@ const texts = require('../../src/texts');
 exports.handler = async (event) => {
   try {
     // Parse and validate request body
-    const { question, fileName } = JSON.parse(event.body);
+    const { question, fileName, model } = JSON.parse(event.body);
 
-    // Validate presence of fileName
+    // Validate presence of fileName and model
     if (!fileName) {
       throw new Error('FILE_NAME_MISSING');
+    }
+    if (!model) {
+      throw new Error('MODEL_MISSING');
     }
 
     // Validate source of fileName
@@ -68,7 +71,7 @@ exports.handler = async (event) => {
 
     // Debug: Log the messages being sent to OpenRouter
     console.log('Messages sent to OpenRouter:', JSON.stringify({
-      model: 'anthropic/claude-3.5-sonnet',
+      model,
       messages,
       stream: false,
       temperature: 0.1
@@ -84,7 +87,7 @@ exports.handler = async (event) => {
         'X-Title': 'NormHelper' // Optional: Set your app's name as needed
       },
       body: JSON.stringify({
-        model: 'anthropic/claude-3.5-sonnet',
+        model,
         messages,
         stream: false,
         temperature: 0.1
@@ -181,6 +184,10 @@ exports.handler = async (event) => {
       case error.message === 'FILE_NAME_MISSING':
         errorType = 'VALIDATION_ERROR';
         errorMessage = 'No text file was specified.';
+        break;
+      case error.message === 'MODEL_MISSING':
+        errorType = 'VALIDATION_ERROR';
+        errorMessage = 'No LLM model was specified.';
         break;
       case error.message === 'FILE_NOT_FOUND':
         errorType = 'VALIDATION_ERROR';
