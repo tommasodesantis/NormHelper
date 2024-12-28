@@ -81,15 +81,15 @@ body {
 
     .container {
         max-width: 98vw;
-        margin: min(1rem, 2vh) auto;
-        height: calc(100vh - min(2rem, 4vh));
+        margin: 0.5rem auto;
+        height: calc(100vh - 1rem);
         flex-direction: column;
         align-items: stretch;
     }
 
     .side-panel {
         width: 100%;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
 
     .file-selector select {
@@ -97,11 +97,17 @@ body {
     }
 
     .chat-container {
-        height: auto;
+        height: 0;
+        min-height: 0;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
     }
 
     .chat-messages {
-        padding: 1rem;
+        padding: 0.75rem;
+        flex: 1;
+        overflow-y: auto;
     }
 
     .message-content {
@@ -116,11 +122,11 @@ body {
 
     .send-button {
         width: 100%;
-        margin-top: 10px;
+        margin-top: 8px;
     }
 
     #questionInput {
-        min-height: 80px;
+        min-height: 60px;
         padding: 0.75rem;
     }
 }
@@ -306,6 +312,7 @@ body {
 }
 
 .send-button {
+    min-width: 100px;
     padding: min(0.75rem, 1.5vh) min(1.75rem, 3.5vw);
     background: linear-gradient(135deg, #0070f3 0%, #00a6ff 100%);
     color: white;
@@ -336,15 +343,39 @@ body {
 
 @media screen and (max-width: 480px) {
     .input-container {
-        gap: 0.75rem;
+        gap: 0.5rem;
+        padding: 0.75rem;
     }
     
     #questionInput {
         width: 100%;
+        min-height: 60px;
+        max-height: 120px;
+        padding: 0.5rem;
+        font-size: 1rem;
     }
     
     .send-button {
         width: 100%;
+        padding: 0.75rem;
+        margin-bottom: 0.25rem;
+    }
+}
+
+/* Touch Device Optimizations */
+@media (hover: none) and (pointer: coarse) {
+    .logo:hover {
+        transform: none;
+    }
+
+    .send-button:hover {
+        transform: none;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    #fileSelect:hover, #llmSelect:hover {
+        border-color: #eaeaea;
+        background-color: #f8f9fa;
     }
 }
 
