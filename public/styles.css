@@ -24,11 +24,37 @@ body {
 }
 
 .container {
-    max-width: min(900px, 95vw);
+    max-width: min(1400px, 95vw);
     width: 100%;
     margin: min(2rem, 4vh) auto;
     padding: 0 max(1rem, 2vw);
     height: calc(100vh - min(4rem, 8vh));
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.side-panel {
+    width: 280px;
+    background-color: white;
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    animation: fadeIn 0.3s ease-out;
+    flex-shrink: 0;
+}
+
+.panel-header {
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 50%, #f0f7ff 100%);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+.panel-header h2 {
+    color: #1a1a1a;
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 0;
 }
 
 @media screen and (max-width: 768px) {
@@ -36,6 +62,11 @@ body {
         max-width: 98vw;
         margin: min(1rem, 2vh) auto;
         height: calc(100vh - min(2rem, 4vh));
+        flex-direction: column;
+    }
+
+    .side-panel {
+        width: 100%;
     }
 }
 
@@ -48,10 +79,12 @@ body {
     height: 100%;
     display: flex;
     flex-direction: column;
+    flex: 1;
+    min-width: 0;
 }
 
 .chat-header {
-    padding: min(2.5rem, 5vh) min(2rem, 4vw);
+    padding: min(1.5rem, 3vh) min(1.5rem, 3vw);
     background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 50%, #f0f7ff 100%);
     border-bottom: 1px solid rgba(0, 0, 0, 0.08);
     text-align: center;
@@ -68,8 +101,8 @@ body {
 }
 
 .logo {
-    width: 64px;
-    height: 64px;
+    width: 48px;
+    height: 48px;
     object-fit: contain;
     filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1));
     transition: transform 0.3s ease;
@@ -84,7 +117,7 @@ body {
     margin-bottom: 0.25rem;
     font-weight: 800;
     letter-spacing: -1px;
-    font-size: clamp(2rem, 5vw, 2.75rem);
+    font-size: clamp(1.75rem, 4vw, 2.25rem);
     background: linear-gradient(135deg, #1a1a1a 0%, #2a5298 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -93,15 +126,14 @@ body {
 
 .chat-header p {
     color: #666;
-    font-size: clamp(0.95rem, 2.5vw, 1rem);
+    font-size: clamp(0.85rem, 2vw, 0.95rem);
     font-weight: 500;
     letter-spacing: -0.2px;
     opacity: 0.9;
 }
 
 .file-selector {
-    margin-top: 1rem;
-    padding: 0.5rem;
+    padding: 1rem;
 }
 
 #fileSelect {

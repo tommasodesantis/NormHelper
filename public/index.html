@@ -12,6 +12,17 @@
 </head>
 <body>
     <div class="container">
+        <div class="side-panel">
+            <div class="panel-header">
+                <h2>Normatives</h2>
+            </div>
+            <div class="file-selector">
+                <select id="fileSelect">
+                    <option value="" disabled selected>Select a normative</option>
+                    <!-- Options will be populated dynamically -->
+                </select>
+            </div>
+        </div>
         <div class="chat-container">
             <div class="chat-header">
                 <div class="header-content">
@@ -19,12 +30,6 @@
                     <h1>Normio</h1>
                 </div>
                 <p>The only normatives assistant you'll ever need</p>
-                <div class="file-selector">
-                    <select id="fileSelect">
-                        <option value="" disabled selected>Select a normative</option>
-                        <!-- Options will be populated dynamically -->
-                    </select>
-                </div>
             </div>
             <div class="chat-messages" id="chatMessages">
                 <!-- Messages will be inserted here -->
