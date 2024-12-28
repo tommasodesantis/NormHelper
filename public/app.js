@@ -105,6 +105,9 @@ async function handleSendMessage() {
       model: llmSelect.value
     });
 
+    // Show typing indicator before making the request
+    showTypingIndicator();
+
     // Call updated serverless function
     response = await fetch('/.netlify/functions/ask', {
       method: 'POST',
@@ -137,7 +140,8 @@ async function handleSendMessage() {
       throw new Error('INVALID_RESPONSE');
     }
 
-    // Add bot response to UI
+    // Remove typing indicator and add bot response to UI
+    removeTypingIndicator();
     appendMessage('bot', data.answer);
 
   } catch (error) {
@@ -176,11 +180,42 @@ async function handleSendMessage() {
         errorMessage += 'An unexpected error occurred. Please try again later.';
     }
     
+    // Remove typing indicator and show error message
+    removeTypingIndicator();
     appendMessage('bot', errorMessage);
   }
 
   // Re-enable input
   setInputState(true);
+}
+
+// Create and show typing indicator
+function showTypingIndicator() {
+  const typingDiv = document.createElement('div');
+  typingDiv.className = 'message bot';
+  typingDiv.id = 'typingIndicator';
+  
+  const typingContent = document.createElement('div');
+  typingContent.className = 'typing-indicator';
+  
+  // Add three dots
+  for (let i = 0; i < 3; i++) {
+    const dot = document.createElement('div');
+    dot.className = 'typing-dot';
+    typingContent.appendChild(dot);
+  }
+  
+  typingDiv.appendChild(typingContent);
+  chatMessages.appendChild(typingDiv);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+
+// Remove typing indicator
+function removeTypingIndicator() {
+  const typingIndicator = document.getElementById('typingIndicator');
+  if (typingIndicator) {
+    typingIndicator.remove();
+  }
 }
 
 // Append a message to the chat UI
@@ -233,7 +268,7 @@ function handleModelChange(event) {
   const selectedModel = event.target.value;
   
   if (RESTRICTED_MODELS.includes(selectedModel)) {
-    const password = prompt('This model requires an admin password, enter it or select one of the following models: Claude 3.5 Sonnet (recommended), OpenAI GPT-4o, Gemini Flash 1.5 8B or Gemini Pro 1.5:');
+    const password = prompt('This model requires an admin password, enter it or select one of the following models: Claude 3.5 Sonnet (recommended) or Gemini Pro 1.5:');
     
     if (password !== PASSWORD) {
       alert('Incorrect password. Access denied.');
