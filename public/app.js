@@ -25,6 +25,20 @@ questionInput.addEventListener('keypress', (e) => {
 
 // Fetch and Populate File List on DOM Content Loaded
 document.addEventListener('DOMContentLoaded', async () => {
+// Add toggle button for mobile
+  const container = document.querySelector('.container');
+  const sidePanel = document.querySelector('.side-panel');
+
+  const toggleButton = document.createElement('button');
+  toggleButton.textContent = 'Settings';
+  toggleButton.className = 'toggle-button';
+  toggleButton.setAttribute('aria-label', 'Toggle Settings Panel');
+  container.insertBefore(toggleButton, sidePanel);
+
+  toggleButton.addEventListener('click', () => {
+    sidePanel.classList.toggle('hidden');
+  });
+
   // Add welcome message
   appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. To get started, please select a normative document and an AI model (Claude 3.5 Sonnet is recommended) in the side panel. Then, feel free to ask me any questions about the selected normative!');
 
