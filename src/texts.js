@@ -28295,7 +28295,10314 @@ Riproduzione vietata - Legge 22 aprile 1941 Nº 633 e successivi aggiornamenti.
 UNI
 Ente Nazionale Italianodi Uniﬁcazione 
 Via Battistotti Sassi, 11B
-20133 Milano, ItaliaSOIL SRL - 2008 - 525877 - eco`
+20133 Milano, ItaliaSOIL SRL - 2008 - 525877 - eco`,
+
+'Annesso_Italiano_EC.txt': `
+
+{0}------------------------------------------------
+
+Spediz. abb. post. - art. 1, comma 1 Legge 27-02-2004, n. 46 - Filiale di Roma
+
+PARTE PRIMA
+
+![](_page_0_Picture_2.jpeg)
+
+Roma - Mercoledì, 27 marzo 2013
+
+SI PUBBLICA TUTTI I GIORNI NON FESTIVI
+
+DIREZIONE E REDAZIONE PRESSO IL MINISTERO DELLA GUSTIZIA - UFFICIO PUBBLICAZIONE LEGGI E DECRETI - VIA ARENULA, 70 - 00186 ROMA AMMINISTRAZIONE PRESSO L'ISTITUTO POLIGRAFICO E ZECCA DELLO STATO - VIA SALARIA, 1027 - 00138 ROMA - CENTRALINO 06-85081 - LIBRERIA DELLO STATO PIAZZA G. VERDI, 1 - 00198 ROMA
+
+N. 21
+
+# MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI
+
+DECRETO 31 luglio 2012.
+
+# Approvazione delle Appendici nazionali recanti i parametri tecnici per l'applicazione degli Eurocodici.
+
+![](_page_0_Picture_10.jpeg)
+
+{1}------------------------------------------------
+
+![](_page_1_Picture_0.jpeg)
+
+{2}------------------------------------------------
+
+### SOMMARIO
+
+### MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI
+
+DECRETO 31 luglio 2012.
+
+Approvazione delle Appendici nazionali recanti i parametri tecnici per l'applicazione degli Eurocodici. (13A02562) Pag. l
+
+— III
+
+{3}------------------------------------------------
+
+![](_page_3_Picture_0.jpeg)
+
+{4}------------------------------------------------
+
+# DECRETI, DELIBERE E ORDINANZE MINISTERIALI
+
+### MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI
+
+DECRETO 31 luglio 2012.
+
+Approvazione delle Appendici nazionali recanti i parametri tecnici per l'applicazione degli Eurocodici.
+
+### IL MINISTRO DELLE INFRASTRUTTURE
+
+E DEI TRASPORTI
+
+di concerto con
+
+### IL MINISTRO DELL'INTERNO
+
+e con
+
+### IL CAPO DEL DIPARTIMENTO DELLA PROTEZIONE CIVILE
+
+Vista la legge 5 novembre 1971, n. 1086, recante: «Norme per la disciplina delle opere di conglomerato cementizio armato, normale e precompresso ed a struttura metallica»;
+
+Vista la legge 2 febbraio 1974, n. 64, recante: «Provvedimenti per le costruzioni con particolari prescrizioni per le zone sismiche»:
+
+Vista la legge 21 giugno 1986, n. 317 recante: «Procedura d'informazione nel settore delle norme e regolamentazioni tecniche e delle regole relative ai servizi della società dell'informazione in attuazione della direttiva 98/34/ CE del Parlamento europeo e del Consiglio del 22 giugno 1998, modificata dalla direttiva 98/48/CE del Parlamento europeo e del Consiglio del 20 luglio 1998»;
+
+Visti gli articoli 54 e 93 del decreto legislativo 31 marzo 1998, n. 112, recante: «Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della legge 15 marzo 1997, n. 59»;
+
+Visto il Testo unico delle disposizioni legislative e regolamentari in materia edilizia, di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, ed in particolare gli articoli 52, 60 e 83:
+
+Visto il decreto del Ministro delle infrastrutture, di concerto con il Ministro dell'interno e con il Capo Dipartimento della protezione civile in data 14 gennaio 2008 recante: «Approvazione delle nuove norme tecniche per le costruzioni», pubblicato nella Gazzetta Ufficiale della Repubblica italiana 4 febbraio 2008, n. 29, S.O. n. 30, come modificato dal decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'interno e con il Capo del Dipartimento della protezione civile in data 15 novembre 2011, pubblicato nella Gazzetta Ufficiale della Repubblica italiana 19 novembre 2011, n. 270:
+
+Vista la circolare 2 febbraio 2009, n. 617 C.S. LL.PP., recante: «Istruzioni per l'applicazione delle «Nuove norme tecniche per le costruzioni» di cui al decreto ministeriale 14 gennaio 2008», pubblicata nella Gazzetta Ufficiale della Repubblica italiana 26 febbraio 2009, n. 47, S.O. n. 27;
+
+Vista la direttiva 21 dicembre 1988. n. 89/106/CEE del Consiglio, relativa al ravvicinamento delle disposizioni legislative, regolamentari e amministrative degli Stati membri concernenti i prodotti da costruzione;
+
+Visto il decreto del Presidente della Repubblica 21 aprile 1993, n. 246, recante: «Regolamento di attuazione della direttiva 89/106/CEE relativa ai prodotti da costruzione»;
+
+Visto il regolamento (CE) 9 marzo 2011, n. 305/2011 del Parlamento europeo e del Consiglio che fissa condizioni armonizzate per la commercializzazione dei prodotti da costruzione e che abroga la direttiva 89/106/CEE del Consiglio;
+
+Visto il decreto del Presidente della Repubblica 1° agosto 2011, n. 151, recante: «Regolamento recante semplificazione della disciplina dei procedimenti relativi alla prevenzione degli incendi, a norma dell'art. 49, comma 4-quater, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122»;
+
+{5}------------------------------------------------
+
+Visto il decreto del Ministro dell'interno 9 marzo 2007, recante: «Prestazioni di resistenza al fuoco delle costruzioni nelle attività soggette al controllo del Corpo nazionale dei vigili del fuoco», pubblicato nella Gazzetta Ufficiale della Repubblica italiana 29 marzo 2007, n. 74, S.O. n. 87;
+
+Visto il decreto del Ministro dell'interno 9 maggio 2007, recante: «Direttive per l'attuazione dell'approccio ingegneristico alla sicurezza antincendio», pubblicato nella Gazzetta Ufficiale della Repubblica italiana 22 maggio 2007, n. 117;
+
+Considerato che le nuove norme tecniche per le costruzioni, approvate con il citato decreto ministeriale del 14 gennaio 2008, al Capitolo 1 «Oggetto», terzo capoverso, circa le indicazioni applicative per l'ottenimento delle prescritte prestazioni, stabiliscono che per quanto non espressamente specificato dalle stesse nuove norme tecniche per le costruzioni, ci si può riferire a normative di comprovata validità e ad altri documenti tecnici elencati nel Cap. 12 e che, in particolare, quelle fornite dagli Eurocodici con le relative Appendici Nazionali costituiscono indicazioni di comprovata validità e forniscono il sistematico supporto applicativo delle medesime norme;
+
+Considerato che il Capitolo 12 »Riferimenti Tecnici» delle nuove norme tecniche per le costruzioni, approvate con il citato decreto ministeriale del 14 gennaio 2008, al primo capoverso, stabilisce che per quanto non diversamente specificato nelle stesse nuove norme tecniche per le costruzioni si intendono coerenti con i principi alla base delle stesse, le indicazioni riportate negli Eurocodici strutturali pubblicati dal CEN, con le precisazioni riportate nelle Appendici Nazionali o, in mancanza di esse, nella forma internazionale EN;
+
+Considerato che la citata circolare 2 febbraio 2009, n. 617 C.S. LL.PP., conferma, relativamente al Capitolo 12 delle nuove norme tecniche per le costruzioni, approvate con il citato decreto ministeriale del 14 gennaio 2008, che gli Eurocodici Strutturali pubblicati dal CEN costituiscono un importante riferimento per l'applicazione delle nuove norme tecniche;
+
+Considerato che per l'uso degli Eurocodici Strutturali è quindi necessario siano definiti in Appendici Tecniche i Parametri nazionali che definiscono i livelli di sicurezza delle opere di competenza degli Stati membri;
+
+Considerato, pertanto, che gli Eurocodici, con le relative Appendici Nazionali, forniscono il sistematico supporto applicativo delle nuove norme tecniche per le costruzioni, approvate con il citato decreto ministeriale del 14 gennaio 2008, qualora espressamente richiamati ovvero per aspetti tecnici non espressamente o completamente trattati nelle stesse, nel rispetto dei principi e dei livelli di sicurezza delle medesime nuove norme tecniche per le costruzioni:
+
+Vista la raccomandazione della Commissione europea dell'11 dicembre 2003 relativa all'applicazione e all'uso degli Eurocodici per lavori di costruzione e prodotti strutturali da costruzione, notificata con il numero C(2003)4639, pubblicata nella Gazzetta Ufficiale dell'Unione europea 19 dicembre 2003, n. L 332, ed in particolare il punto 2, ai sensi del quale gli Stati membri dovrebbero fissare i parametri da utilizzare sul loro territorio quali «parametri specificati a livello nazionale»;
+
+Considerato che si è ritenuto di stabilire, ai sensi del punto 2 della citata raccomandazione dell'11 dicembre 2003, le Appendici Nazionali che indicano detti «parametri specificati a livello nazionale» degli Eurocodici strutturali, al fine di dare piena attuazione alle nuove norme tecniche per le costruzioni approvate con il citato decreto ministeriale del 14 gennaio 2008;
+
+Visti i pareri n. 98 del 24 settembre 2010 e n. 4 del 25 febbraio 2011 con i quali l' Assemblea Generale del Consiglio Superiore dei lavori pubblici si è espressa favorevolmente in ordine ai Parametri stabiliti nelle allegate Appendici Nazionali agli Eurocodici;
+
+Vista l'intesa con la Conferenza unificata resa nella seduta del 10 maggio 2012, ai sensi dei citati articoli 54 e 93 del decreto legislativo 31 marzo 1998, n. 112, e 83 del decreto del Presidente della Repubblica 6 giugno 2001, n. 380;
+
+Visto il decreto del Ministro dello sviluppo economico e Ministro delle infrastrutture e dei trasporti 13 dicembre 2011, a mezzo del quale sono state delegate al Sottosegretario di Stato le materie relative al Ministero delle infrastrutture e dei trasporti;
+
+Visto il decreto del Presidente della Repubblica 19 dicembre 2011, pubblicato nella Gazzetta ufficiale della Repubblica italiana, serie generale, n. 301 del 28 dicembre 2011, che attribuisce al predetto Sottosegretario di Stato il titolo di Vice Ministro:
+
+{6}------------------------------------------------
+
+#### Decreta:
+
+#### Articolo unico
+
+Sono stabiliti i Parametri tecnici di cui alle Appendici Nazionali agli Eurocodici riportate negli allegati che formano parte integrante del presente decreto, ed i cui riferimenti sono elencati nella seguente tabella.
+
+|  | EUROCODICE | ANNO PUBBLICAZIONE | TITOLO | NUMERO DEI PARAMETRI |
+| --- | --- | --- | --- | --- |
+|  |  | UNI |  | NAZIONALI |
+|  |  |  |  | FISSATI |
+|  |  |  | Criteri Generali di progettazione strutturale - |  |
+| 1 | UNI EN 1990 | 2004 | Appendice A1 applicazione agli edifici | 43 |
+|  |  |  | Appendice A2 applicazione ai ponti |  |
+| 2 | UNI EN 1991-1-1 | 2004 | Azioni sulle strutture Parte 1-1:Azioni in generale-Pesi per unità di volume,pesi propri | 10 |
+|  |  |  | e sovraccarichi per gli edifici |  |
+| 3 |  |  | Azioni sulle strutture Parte 1-2:Azioni in |  |
+|  | UNI EN 1991-1-2 | 2005 | generale-Azioni sulle strutture esposte al | 10 |
+|  |  |  | fuoco |  |
+| 4 | UNI EN 1991-1-3 | 2005 | Azioni sulle strutture Parte 1-3:Azioni in | 24 |
+|  |  |  | generale-Carichi da neve |  |
+| 5 | UNI EN 1991-1-4 | 2007 | Azioni sulle strutture Parte 1-4:Azioni in | રૂ3 |
+|  |  |  | generale-Azioni del vento |  |
+| 6 | UNI EN 1991-1-5 | 2005 | Azioni sulle strutture Parte 1-5:Azioni IN | 23 |
+|  |  |  | generale-Azioni termiche |  |
+| 7 | UNI EN 1991-1-6 | 2005 | Azioni sulle strutture Parte 1-6:Azioni in generale-Azioni durante la costruzione | 23 |
+| రి | UNI EN 1991-1-7 | 2006 | Azioni sulle strutture Parte 1-7:Azioni in | 31 |
+|  |  |  | generale-Azioni eccezionali |  |
+| 9 | UNI EN 1991-2 | 2005 | Azioni sulle strutture Parte 2:Carichi da | 90 |
+|  |  |  | traffico sui ponti |  |
+| 10 | UNI EN 1991-3 | 2006 | Azioni sulle strutture Parte 3:Azioni indotte | 7 |
+|  |  |  | da gru e da macchinari |  |
+| 11 | UNI EN 1991-4 | 2006 | Azioni sulle strutture Parte 4:Azioni su silos e | 7 |
+|  |  |  | serbatoi |  |
+| 12 | UNI EN 1992-1-1 | 2005 | Progettazione delle strutture di calcestruzzo Parte 1-1:Regole generali e regole per gli | 122 |
+|  |  |  | edifici |  |
+|  |  |  | Progettazione delle strutture di calcestruzzo |  |
+| 13 | UNI EN 1992-1-2 | 2007 | Parte 1-2:Regole generali-Progettazione | 16 |
+|  |  |  | strutturale contro l'incendio |  |
+| 14 | UNI EN 1992-2 | 2006 | Progettazione delle strutture di calcestruzzo Parte 2:Ponti di calcestruzzo-Progettazione e | રૂર |
+|  |  |  | dettagli costruttivi |  |
+| 1 ર | UNI EN 1992-3 | 2006 | Progettazione delle strutture di calcestruzzo Parte 3:Serbatoi e strutture di contenimento | 5 |
+|  |  |  | liquidi |  |
+| 16 | UNI EN 1993-1-1 | 2005 | Progettazione delle strutture di acciaio Parte | 25 |
+|  |  |  | 1-1:Regole generali e regole per gli edifici |  |
+|  |  |  | Progettazione delle strutture di acciaio Parte 1-2:Reqole generali-Progettazione strutturale |  |
+| 17 | UNI EN 1993-1-2 | 2005 | contro l'incendio | 5 |
+|  |  |  | Progettazione delle strutture di acciaio Parte |  |
+| 18 | UNI EN 1993-1-3 | 2007 | 1-3:Regole generali-regole supplementari per l'impiego dei profilati e delle lamiere | 19 |
+|  |  |  | sottili piegati a freddo |  |
+| 19 | UNI EN 1993-1-4 | 2007 | Progettazione delle strutture di acciaio Parte 1-4:Regole generali-regole supplementari | 7 |
+|  |  |  | per acciai inossidabili Progettazione delle strutture di acciaio Parte |  |
+| 20 | UNI EN 1993-1-5 | 2007 | 1-5:Elementi strutturali a lastra | 1 ર |
+
+{7}------------------------------------------------
+
+| 21 | UNI EN 1993-1-6 | 2007 | Progettazione delle strutture di acciaio Parte 1-6:Resistenza e stabilità delle strutture a | 17 |
+| --- | --- | --- | --- | --- |
+|  |  |  | quscio |  |
+| 22 | UNI EN 1993-1-7 | 2007 | Progettazione delle strutture di acciaio Parte | 1 |
+|  |  |  | 1-7:Strutture a lastra ortotropa caricate al di |  |
+|  |  |  | fuori del piano |  |
+| 23 | UNI EN 1993-1-8 | 2005 | Progettazione delle strutture di acciaio Parte | ნ |
+|  |  |  | 1-8:Progettazione dei collegamenti |  |
+| 24 | UNI EN 1993-1-9 | 2005 | Progettazione delle strutture di acciaio Parte | 11 |
+|  |  |  | 1-9: Fatica |  |
+| ટર | UNI EN 1993-1-10 | 2005 | Progettazione delle strutture di acciaio Parte 1-10:Resilienza del materiale e proprietà | 2 |
+|  |  |  | attraverso lo spessore |  |
+| 26 | UNI EN 1993-1-11 | 2007 | Progettazione delle strutture di acciaio Parte | 16 |
+|  |  |  | 1-11:Progettazione di strutture con elementi |  |
+|  |  |  | tesi |  |
+| 27 | UNI EN 1993-1-12 | 2007 | Progettazione delle strutture di acciaio Parte 1-12:Regole aggiuntive per la estensione |  |
+|  |  |  | della EN 1993 fino agli acciai di grado S700 | ‍රි |
+| 28 | UNI EN 1993-2 | 2007 | Progettazione delle strutture di acciaio Parte | રે |
+|  |  |  | 2: Ponti di acciaio |  |
+| 29 | UNI EN 1993-3-1 | 2007 | Progettazione delle strutture di acciaio Parte | 45 |
+|  |  |  | 3-1:Torri,pali e ciminiere-Torri e pali |  |
+| 30 | UNI EN 1993-3-2 | 2007 | Progettazione delle strutture di acciaio Parte | 19 |
+|  |  |  | 3-2:Torri, pali e ciminiere-Ciminiere |  |
+| 31 | UNI EN 1993-4-1 | 2007 | Progettazione delle strutture di acciaio Parte | 38 |
+|  |  |  | 4-1:Silos |  |
+| 32 | UNI EN 1993-4-2 | 2007 | Progettazione delle strutture di acciaio Parte | 11 |
+|  |  |  | 4-2:Serbatoi |  |
+| 33 | UNI EN 1993-4-3 | 2007 | Progettazione delle strutture di acciaio Parte | 8 |
+|  |  |  | 4-3:Condotte |  |
+| 34 | UNI EN 1993-5 | 2007 | Progettazione delle strutture di acciaio Parte | 1 5 |
+|  |  |  | 5:Pali e palancole |  |
+| રૂર | UNI EN 1993-6 | 2007 | Progettazione delle strutture di acciaio Parte | 17 |
+|  |  |  | 6:Strutture per apparecchi di sollevamento |  |
+| 36 | UNI EN 1994-1-1 | 2005 | Progettazione delle strutture composte acciaio-calcestruzzo Parte 1-1:Regole | 19 |
+|  |  |  | generali e regole per gli edifici |  |
+| 37 | UNI EN 1994-1-2 | 2005 | Progettazione delle strutture composte acciaio-calcestruzzo Parte 1-2:Regole | 8 |
+|  |  |  | generali-Progettazione strutturale contro |  |
+|  |  |  | l'incendio Progettazione delle strutture composte |  |
+| 38 | UNI EN 1994-2 | 2006 | acciaio-calcestruzzo Parte 2:Regole generali | 15 |
+|  |  |  | e regole per i ponti |  |
+| 39 | UNI EN 1995-1-1 | 2005 | Progettazione delle strutture di legno Parte 1-1:Regole generali-Regole comuni e regole | 12 |
+|  |  |  | per gli edifici Progettazione delle strutture di legno Parte |  |
+| 40 | UNI EN 1995-1-2 | 2005 | 1-2:Regole generali-Progettazione strutturale | 5 |
+|  |  |  | contro l'incendio |  |
+| 41 | UNI EN 1995-2 | 2005 | Progettazione delle strutture di legno Parte | 16 |
+|  |  |  | 2:Ponti |  |
+| 42 | UNI EN 1996-1-1 | 2007 | Progettazione delle strutture di muratura Parte 1-1:Regole generali per strutture di | 19 |
+|  |  |  | muratura armata e non armata |  |
+| 43 | UNI EN 1996-1-2 | 2005 | Progettazione delle strutture di muratura generali-Progettazione Parte 1-2:Regole | 9 |
+|  |  |  | strutturale contro l'incendio |  |
+
+{8}------------------------------------------------
+
+| 44 | UNI EN 1996-2 | 2006 | Progettazione delle strutture di muratura | 5 |
+| --- | --- | --- | --- | --- |
+|  |  |  | Parte 2:Considerazioni progettuali, selezione |  |
+|  |  |  | dei materiali ed esecuzione delle murature |  |
+| 45 | UNI EN 1996-3 | 2006 | Progettazione delle strutture di muratura Parte 3:Metodi di calcolo semplificato per | 7 |
+|  |  |  | strutture di muratura non armata |  |
+| 46 | UNI EN 1997-1 | 2005 | Progettazione geotecnica Parte 1:Regole | 40 |
+|  |  |  | generali |  |
+| 47 | UNI EN 1997-2 | 2007 | Progettazione geotecnica Parte 2:Indagini e | 0 |
+|  |  |  | prove nel sottosuolo |  |
+|  |  |  | Progettazione delle strutture per la |  |
+| 48 | UNI EN 1998-1 | 2007 | resistenza sismica Parte 1:Regole | રેસ |
+|  |  |  | generali,azioni sismiche e regole per gli |  |
+|  |  |  | edifici |  |
+| 49 | UNI EN 1998-2 | 2006 | Progettazione delle strutture per a | 30 |
+|  |  |  | resistenza sismica Parte 2:Ponti |  |
+| 50 | UNI EN 1998-3 | 2005 | Progettazione delle strutture la per e | 8 |
+|  |  |  | resistenza sismica Parte 3:Valutazione |  |
+|  |  |  | adeguamento edifici |  |
+|  |  |  | Progettazione delle strutture per la |  |
+| 51 | UNI EN 1998-4 | 2006 | resistenza in zona sismica Parte | 10 |
+|  |  |  | 4:Silos,serbatoi e condotte |  |
+|  |  |  | Progettazione delle strutture per la |  |
+|  |  |  | resistenza sismica Parte 5: |  |
+| 52 | UNI EN 1998-5 | 2005 |  | ব |
+|  |  |  | Fondazioni,strutture di contenimento ed |  |
+|  |  |  | aspetti geotecnici |  |
+| રૂ3 | UNI EN 1998-6 | 2005 | Progettazione delle strutture per a e | 7 |
+|  |  |  | resistenza sismica Parte 6: Torri pali |  |
+|  |  |  | camini |  |
+| ਦੇਖੋ | UNI EN 1999-1-1 | 2007 | Progettazione delle strutture di alluminio | 26 |
+|  |  |  | Parte 1-1:Regole strutturali generali |  |
+|  |  |  | Progettazione delle strutture di alluminio |  |
+| રેર | UNI EN 1999-1-2 | 2007 | Parte 1-2:Progettazione strutturale contro | 6 |
+|  |  |  | l'incendio |  |
+| રેક | UNI EN 1999-1-3 | 2007 | Progettazione delle strutture di alluminio | 20 |
+|  |  |  | Parte 1-3:Strutture sottoposte a fatica |  |
+| 57 | UNI EN 1999-1-4 | 2007 | Progettazione delle strutture di alluminio | 7 |
+|  |  |  | Parte 1-4:Lamiere sottili piegate a freddo |  |
+| રક | UNI EN 1999-1-5 | 2007 | Progettazione delle strutture di alluminio | 2 |
+|  |  |  | Parte 1-5:Strutture a guscio |  |
+
+Il presente decreto ed i relativi allegati sono pubblicati nella Gazzetta Ufficiale della Repubblica italiana. Roma, 31 luglio 2012
+
+> Il Vice Ministro delle infrastrutture e dei trasporti CIACCIA
+
+> > Il Ministro dell'interno CANCELLIERI
+
+Il Capo del Dipartimento della Protezione Civile GABRIELLI
+
+Registrato alla Corte dei conti il 25 febbraio 2013
+
+Üfficio controllo atti Ministero delle infrastruture e dei trasporti e del Ministero dell'ambiente e della tutela del territorio e del mare, registro n. 1, foglio n. 323
+
+ત
+
+{9}------------------------------------------------
+
+![](_page_9_Picture_3.jpeg)
+
+### UNI EN 1990:2004
+
+# Eurocodice 0: Criteri Generali di progettazione strutturale Appendice A1 applicazione agli edifici Appendice A2 applicazione ai ponti
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1990:2004
+
+# Parametri adottati a livello nazionale da utilizzare nei criteri generali di progettazione strutturale
+
+{10}------------------------------------------------
+
+#### Appendice nazionale
+
+#### UNI-EN-1990 - Criteri generali di progettazione strutturale
+
+EN-1990 - Basis of structural design
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1990, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1990 relativamente ai paragrafi.
+
+### A1.1(1) Nota
+
+A1.2.1(1) Note 1 e 2
+
+A1.2.2(1) Nota (Tabella A.1.1 Nota)
+
+A1.3.1(I) Nota [Tabella A1.2(A) - Note 1 e 2 -, Tabella A1.2(B) - Note 1, 2, 3 e 4 - e Tabella A1.2(C) - Nota]
+
+A1.3.1(5) Nota
+
+A1.3.2(2) (Tabella A1.3)
+
+A1.4.2(2) Nota
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici informative B, C e D per gli edifici e per le altre opere di ingegneria civile.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1990.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1990- Criteri generali di progettazione strutturale, nonché quando si progettino strutture in cui siano coinvolti materiali o azioni diversi da quelli rientranti nello scopo e nel campo di applicazione delle EN da EN1991 a EN 1999.
+
+{11}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | - valore o prescrizione - |  |  |
+| A1.1(1) | Nota | Vale il seguente prospetto: |  |  |
+|  |  | Vita Nominale VN TIPO DESCRIZIONE (in anni) |  |  |
+|  | l | Opere provvisorie - Opere provvisionali |  |  |
+|  |  | < 10 Strutture in fase costruttiva (1) |  |  |
+|  | 2 | Opere ordinarie, ponti, opere infrastrutturali e dighe ≥ 50 di dimensioni contenute o di importanza normale |  |  |
+|  | 3 | Grandi opere, ponti, opere infrastrutturali e dighe ≥ 100 di grandi dimensioni o di importanza strategica |  |  |
+|  |  | (1) Le verifiche sismiche di opere provvisorie o strutture in fase costruttiva possono ometteras quando |  |  |
+|  |  | le relative durate previste in progetto siano inferiori a 2 anni |  |  |
+| A1.2,1(1) | Nota 1 | Si dovranno considerare tutte le azioni che si possono presentare contemporaneamente, |  |  |
+|  |  | senza limiti in numero. |  |  |
+| A1.2.1(1) | Nota 2 | Non sono previste modifiche per ragioni climatiche delle espressioni delle combinazioni di |  |  |
+|  |  | azioni da 6.98 a 6.12b, da impiegare per le verifiche agli stati limite ultimi, e da 6.14a a 6.16b, da impiegare per le verifiche agli stati limite di servizio. |  |  |
+| A1.2.2(1) | Nota | Valgono i valori dei coefficienti w raccomandati nella Tabella A1.1 |  |  |
+| A1.3.1(1) | Nota | Si distinguono due coefficienti Yo : YGI e YG2 rispettivamente per i carichi permanenti strutturali e non strutturali. |  |  |
+|  |  | In ogni verifica allo stato limite ultimo si considerano carichi strutturali tutti quelli che derivano dalla presenza di strutture e materiali che, nella modellazione utilizzata, |  |  |
+|  |  | contribuiscono al comportamento dell'opera con le loro caratteristiche di resistenza e rigidezza. In particolare, si considererà tra i carichi strutturali il peso proprio del terreno nelle verifiche di rilevati e scarpate, la spinta sulle opere di sostegno, ecc. |  |  |
+| A1.3.1(1) | Tabella A1.2(A) | Si adottano i seguenti valori di y. |  |  |
+|  | Nota 1 | YG1 YGI 'YGZ YG2 Yoi YOi |  |  |
+|  |  | favo favo favo |  | sfavor. |
+|  |  | sfavor. r. r. r, | sfavor. |  |
+|  | BQ | 1,5 |  |  |
+|  | U | 0,9 1,1 0,0 ા 'રે 0,0 |  |  |
+|  |  | Nel caso in cui i carichi permanenti non strutturali siano invariabili con certezza a meno di una nuova verifica di sicurezza, si potranno adottare per essi gli stessi coefficienti validi |  |  |
+|  |  | per i carichi permanenti strutturali, |  |  |
+|  |  | I coefficienti parziali sulle resistenze del terreno sono riportati nell' EN 1997-1 |  |  |
+| A1.3.1(1) | Tabella A1.2(A) | Nel caso in cui la verifica dell'equilibrio statico coinvolga la resistenza degli elementi |  |  |
+|  |  | strutturali, debbono essere effettuate due verifiche separate, basate sui prospetti A1.2(A) e A1.2(B). Non è ammessa la verifica combinata |  |  |
+|  | Nota 2 |  |  |  |
+| A1.3.I(1) | Tabella A1.2(B) | Si adotta l'espressione 6.10. |  |  |
+|  | Nota 1 |  |  |  |
+
+#### Decisioni nazionali 3)
+
+{12}------------------------------------------------
+
+| A1.3.1(1) | Tabella A1.2(B) | Si adottano i seguenti valori di y. |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Nota 2 | YGI YQi | YG1 | YGZ | YG2 | Yoj |  |
+|  |  | favo sfavor. sfavor. |  | favor. | sfavor | favo |  |
+|  |  | r. |  |  |  | r. |  |
+|  |  | STR 1,0 1,5 | 1,3 | 0,0 | 1,5 | 0.0 |  |
+|  |  | Nel caso in cui i carichi permanenti non stratturali siano invariabili con certezza a meno |  |  |  |  |  |
+|  |  | di una nuova modifica di sicurezza, si potranno adottare per essi gli stessi coefficienti |  |  |  |  |  |
+|  |  | validi per i carichi permanenti strutturali. |  |  |  |  |  |
+|  |  | I coefficienti parziali sulle resistenze del terreno sono riportati nell' EN 1997-1 |  |  |  |  |  |
+| A1.3.1(1) | Tabella A1.2(B) | I valori caratteristici di tutte le azioni permanenti derivanti da una unica sorgente sono |  |  |  |  |  |
+|  | Nota 3 | moltiplicati per 76,80 se l'effetto dell'azione totale risultante è sfavorevole e per "Giur se l'effetto dell'azione totale risultante è favorevole. Per esempio, tutte le azioni generate |  |  |  |  |  |
+|  |  | dal peso proprio della struttura possono essere considerate come derivanti da una unica |  |  |  |  |  |
+|  |  | sorgente; ciò si applica anche se sono coinvolti materiali differenti. |  |  |  |  |  |
+| A1.3.1(1) | Tabella A.1.2(B) | Il riferimento alla nota 4 è soppresso. |  |  |  |  |  |
+|  | Nota 4 |  |  |  |  |  |  |
+| A1.3.1(1) | Tabella A1.2(C) | Si adottano i seguenti valori di y. |  |  |  |  |  |
+|  | Nota | GI | YGI | YGZ | YG2 | Yoj | YOj |
+|  |  | favo |  |  | sfavor | favo |  |
+|  |  | stavor. |  | favor. |  |  | sfavor. |
+|  |  | r. |  |  |  | r. |  |
+|  |  | GE 1,0 1,0 1,3 |  | 0,0 |  | 0.0 | 1.3 |
+|  |  | O |  |  |  |  |  |
+|  |  | Nel caso in cui i carichi permanenti non strutturali siano invariabili con certezza a meno |  |  |  |  |  |
+|  |  | di una nuova modifica di sicurezza, si potranno adottare per essi gli stessi coefficienti |  |  |  |  |  |
+|  |  | validi per i carichi permanenti strutturali. |  |  |  |  |  |
+|  |  | I coefficienti parziali sulle resistenze del terreno sono riportati nell'EN 1997-1 |  |  |  |  |  |
+| A1.3.1(5) | Nota | Si possono adottare, in alternativa, sia l'approccio I, sia l'approccio 2, salvo diversa |  |  |  |  |  |
+|  |  | esplicita prescrizione. |  |  |  |  |  |
+| A1.3.2(2) | Tabella A1.3 | Nelle situazioni di progetto eccezionali per l'azione variabile principale si adotta il |  |  |  |  |  |
+|  |  | valore quasi permanente. Nelle combinazioni di azioni sismiche per l'azione variabile |  |  |  |  |  |
+|  | (*) | principale si adotta il valore quasi-permanente. La combinazione di azioni sismica vale |  |  |  |  |  |
+|  |  | sia per le verifiche allo stato limite ultimo di resistenza, sia per le verifiche allo stato |  |  |  |  |  |
+|  |  | limite di danno (vedi EN1998) |  |  |  |  |  |
+| A1.4.2(2) | Nota | Le limitazioni sono generalmente riportate nei singoli Eurocodici da EN1992 a EN1999. |  |  |  |  |  |
+| Norme | Utilizzo appendici | Le Appendici informative, in quanto contenenti informazioni aggiuntive non |  |  |  |  |  |
+| nazionali che | informative B, C e | contraddittorie con il testo dell'EN 1990, possono essere utilizzate come informative e |  |  |  |  |  |
+| implementano |  | limitatamente agli scopi indicati nelle appendici stesse. |  |  |  |  |  |
+| gli Eurocodici | D. |  |  |  |  |  |  |
+| (pag. 7 testo |  |  |  |  |  |  |  |
+| inglese) |  |  |  |  |  |  |  |
+
+{13}------------------------------------------------
+
+### UNI-EN-1990 - Criteri generali di progettazione strutturale Appendice A2 - Applicazioni per i ponti
+
+EN-1990 - Basis of structural design - Annex A2 - Application for bridges
+
+#### 4) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali all'Appendice A2 della UNI-EN-1990, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 5) Introduzione
+
+2.3. Campo di applicazione
+
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nell'Appendice A2 della UNI-EN1990 relativamente ai paragrafi
+
+| Paragrafi generali. |  |
+| --- | --- |
+| A2.1.1(1) NOTA 3 | Guida all'uso della Tabella 2.1: Vita nominale |
+| A2.2.1(2) NOTA 1 | Combinazioni riguardanti azioni che sono oltre degli scopi |
+|  | dell'EN1991 |
+| A2.2.6(1) NOTA 1 | Coefficienti y per la combinazione delle azioni |
+| A2.3.1(1) | Modifica dei valori di progetto delle azioni per gli SLU |
+| A2.3.1(5) | Scelta tra i metodi 1, 2 o 3. |
+| A2.3.1(7) | Definizione delle azioni dovute alla pressione del ghiaccio. |
+| A2.3.1(8) | Coefficienti di sicurezza % per la precompressione quando non |
+|  | specificati nei rispettivi Eurocodici. |
+| A2.3.1 Tabella A2.4(A) | Coefficienti di sicurezza y per le azioni. |
+| NOTE 1 e 2 |  |
+| A2.3.1 Tabella A2.4(B) - | Scelta tra i metodi proposti in 6.10 e 6.10a/b. |
+| NOTA 1 |  |
+| A2.3.1 Tabella A2.4(B) - | Valori dei coefficienti y e 5 (STR/GEO) (Set B). |
+| NOTA 2 |  |
+| A2.3.1 Tabella A2.4(B) - | Valori dei coefficienti Ysa |
+| NOTA 4 |  |
+| A2.3.1 Tabella A2.4(C) | Valori dei coefficienti y |
+| A2.3.2(1) Tabella A2.5 | Scelta del valore dell'azione variabile di base nelle situazioni di |
+|  | progetto eccezionali. |
+| A2.3.2 Tabella A2.5 | Valori di progetto delle azioni. |
+| NOTA |  |
+| A2.4.1(1) | Valori alternativi per le azioni da traffico allo stato limite di servizio. |
+| NOTA 1 (Tabella A2.6) |  |
+| A2.4.1(1) NOTA 2 | Possibilità di utilizzo della combinazione infrequente delle azioni. |
+| A2.4.1(2) | Requisiti riguardanti gli SLE (deformazione e vibrazioni dei ponti |
+|  | stradali) |
+
+{14}------------------------------------------------
+
+| Paragrafi specifici per i ponti stradali. |  |
+| --- | --- |
+| A2.2.2 (1) | Possibilità di utilizzo della combinazione infrequente delle azioni. |
+| A2.2.2(3) | Regole di combinazione per i veicoli speciali. |
+| A2.2.2(4) | Regole di combinazione per azioni dovute a neve e a traffico. |
+| A2.2.2(6) | Regole di combinazione per azioni dovute a vento ed effetti termici. |
+| A2.2.6(1) NOTA 2 | Valori del coefficiente 9 Loso per la combinazione infrequente. |
+| A2.2.6(1) NOTA 3 | Valori delle azioni dovute all'acqua. |
+| Paragrafi specifici per i ponti pedonali. |  |
+| A2.2.3(2) | Regole di combinazione per azioni dovute a vento ed effetti termici. |
+| A2.2.3(3) | Regole di combinazione per azioni dovute a neve e a traffico. |
+| A2.2.3(4) | Regole di combinazione per le azioni climatiche su ponti pedonali |
+|  | coperti. |
+| A2.4.3.2(1) | Comfort dei ponti pedonali. |
+| Paragrafi specifici per i ponti ferroviari. |  |
+| A2.2.4(1) | Regole di combinazione per azioni dovute a neve per i ponti |
+|  | ferroviari. |
+| A2.2.4(4) | Massima velocità del vento compatibile con il traffico ferroviario. |
+| A2.4.4.1(1) | Requisiti per le deformazioni e le vibrazioni dei ponti ferroviari |
+| NOTA 3 | temporanei |
+| A2.4.4.2.1(4)P | Valori di picco delle accelerazioni di impalcato dei ponti ferroviari e |
+|  | intervallo di frequenze associate. |
+| A2.4.4.2.2 | Limitazioni dei valori di rotazione torsionale dell'impalcato dei ponti |
+| Tabella A2.7 NOTA | ferroviari. |
+| A2.4.4.2.2(3)P | Limitazioni dei valori di rotazione torsionale totale dell'impalcato dei |
+|  | ponti ferroviari. |
+| A2.4.4.2.3(1) | Limitazioni della deformazione dei ponti ferroviari con e senza |
+|  | ballast. |
+| A2.4.4.2.3(2) | Limitazioni delle rotazioni di estremità dei ponti ferroviari senza |
+|  | ballast. |
+| A2.4.4.2.3(3) | Ulteriori limiti delle rotazioni di estremità dei ponti ferroviari. |
+| A2.4.4.2.4(2) Nota | Limiti di inflessione trasversale |
+| A2.4.4.2.4(2) Tabella A2.8 | Valori di os e ri |
+| NOTA 3 |  |
+| A2.4.4.2.4(3) | Minima frequenza laterale per i ponti ferroviari |
+| A2.4.4.3.4(6) | Comfort dei passeggeri sui ponti temporanei. |
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici informative per i ponti.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia dell'Appendice A2 UNI-EN-1990.
+
+- 2.4. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento all'Appendice A2 della UNI-EN-1990-Criteri generali di progettazione strutturale, nonché quando si progettino strutture in cui siano coinvolti materiali o azioni diversi da quelli rientranti nello scopo e nel campo di applicazione delle EN da EN1991 a EN 1999.
+
+{15}------------------------------------------------
+
+#### Decisioni nazionali ()
+
+| Paragrafo | Riferimento | Parametro nazionale |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | - valore o prescrizione - |  |  |  |  |
+| Paragrafi generali. |  |  |  |  |  |  |
+| A2.1.1(1) | Nota 3 | Vale il seguente prospetto: |  |  |  |  |
+|  |  | DESCRIZIONE TIPO |  |  |  | Vita Nominale VN (in anni) |
+|  |  | 1 Opere provvisorie - Opere provvisionali Strutture in fase costruttiva (1) |  |  |  | < 10 |
+|  |  | 2 Opere ordinarie, ponti, opere infrastrutturali e dighe, |  |  |  | ≥ 50 |
+|  |  | di dimensioni contenute, o di importanza normale Opere, ponti, opere infrastrutturali e dighe, 3 |  |  |  |  |
+|  |  | di grandi dimensioni, o di importanza strategica |  |  |  | ≥ 100 |
+|  |  | (1) Le verifiche sismiche di opere provvisorie o strutture in fase costruttiva possono omettersi quando le relative durate previste in progetto siano inferiori a 2 anni |  |  |  |  |
+| A2.2.1(2) | Nota I | Informazioni addizionali possono essere fornite per il singolo progetto |  |  |  |  |
+| A2.2.6(1) | Nota 1 | Si adottano i valori raccomandati di ve di tabella A.2.1 |  |  |  |  |
+| A2.3.1(1) | Nota | Si distinguono due coefficienti % : Yo e 902 rispettivamente per i carichi permanenti |  |  |  |  |
+|  |  | strutturali e non strutturah. In ogni verifica allo stato limite ultimo si considerano carichi strutturali tutti quelli che |  |  |  |  |
+|  |  | derivano dalla presenza di strutture e materiali che, nella modellazione utilizzata, contribuiscono al comportamento dell'opera con le loro caratteristiche di resistenza e |  |  |  |  |
+|  |  | rigidezza. In particolare, si considereranno tra i carichi strutturali il pesa proprio del terreno nelle verifiche di rilevati e scarpate. Ia spinta sulle opere di sostegno, ecc. |  |  |  |  |
+| A2.3.1(5) | Nota | Si possono adottare, in alternativa, sia l'approccio 1, sia l'approccio 2, salvo diversa |  |  |  |  |
+|  |  | esplicita prescrizione |  |  |  |  |
+| A2.3.1(7) | Nota | Da definirsi per il singolo progetto in accordo con EN 1991-1-6, ove rilevante |  |  |  |  |
+| A2.3.1(8) | Nota | I valori di v. sono da assumere dai pertinenti Eurocodici EN 199i |  |  |  |  |
+| A2.3.1 | Tabella A2.4(A) | Si adottano i valori di v raccomandati nelle note con le seguenti modiffiche. |  |  |  |  |
+|  | Note 1 c 2 | YGI YG2 You | YG2 | 78 | 18 |  |
+|  |  | favor. sfavor. favor. sfavor. favor. sfavor. |  |  |  |  |
+|  |  | EQU 0,9 1,1 0,0 1,5 0,9 1,5 |  |  |  |  |
+|  |  | dove va è il coefficiente parziale per il ballast. Nel caso in cui i carichi permanenti non strutturali (ad es. carichi permanenti |  |  |  |  |
+|  |  | portati) siano compiutamente definiti si potranno adottare gli stessi coefficienti |  |  |  |  |
+|  |  | validi per le azioni permanenti. Quanto sopra non si applica al ballast. |  |  |  |  |
+|  |  | Quando si prevedono significative variazioni di carico dovute al ballast, se ne |  |  |  |  |
+|  |  | dovrà tener conto esplicitamente nelle singole verifiche. |  |  |  |  |
+|  |  | I coefficienti varziali sulle resistenze del terreno sono riportati nell' EN 1997. |  |  |  |  |
+| A2.3.1 | Tabella A2.4(B) | Si adotta l'espressione 6.10. |  |  |  |  |
+|  | Nota 1 |  |  |  |  |  |
+
+{16}------------------------------------------------
+
+| A2.3.1 | Tabella A2.4(B) | Si adottano i valori di y raccomandati nella nota con le seguenti modifiche. |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Nota 2 | YGI IGI 'IG2 132 TB |  |  |  | 18 |  |
+|  |  | favor. | sfavor. | favor. | sfavor. | favor, | sfavor. |
+|  |  | 1,0 | 1,35 | 0,0 | 1,5 | 1,0 | ાં ,5 |
+|  |  | dove ya è il coefficiente parziale per il ballast. |  |  |  |  |  |
+|  |  | Vo per i carichi da traffico ferroviario (gruppi di carico da 1 a 4 della |  |  |  |  |  |
+|  |  | tabella 6.11 dell'EN1991-2 che è stata modificata.) è uguale a 1.45, se |  |  |  |  |  |
+|  |  | sfavorevole, o a 0, se favorevole. |  |  |  |  |  |
+|  |  | Nel caso in cui i carichi permanenti non strutturali (ad es. carichi |  |  |  |  |  |
+|  |  | permanenti portati) siano compiutamente definiti si potranno adottare |  |  |  |  |  |
+|  |  | gli stessi coefficienti validi per le azioni permanenti. Quanto sopra non |  |  |  |  |  |
+|  |  | si applica al ballast. Quando si prevedono significative variazioni di carico dovute al |  |  |  |  |  |
+|  |  | ballast, se ne dovrà tener conto esplicitamente nelle singole verifiche. |  |  |  |  |  |
+|  |  | I coefficienti parziali sulle resistenze del terreno sono riportati nell'EN 1997-1 |  |  |  |  |  |
+| A2.3.1 | Tabella A2.4(B) - Nota 4 | Il riferimento alla nota 4 è soppresso. |  |  |  |  |  |
+| A2.3.1 | Tabella A2.4(C) |  |  |  |  |  |  |
+|  |  | Si adottano i valori di y raccomandati nella nota con le seguenti modifiche. |  |  |  |  |  |
+|  |  | 191 | YGI | YG2 | 1G2 | ਸ | YB |
+|  |  | favor. | sfavor. | favor. | stavor. | favor. | stavor. |
+|  |  | 1,0 1,0 0,0 1,3 1,0 । 'ਤੇ |  |  |  |  |  |
+|  |  | dove yn è il coefficiente parziale per il ballast. |  |  |  |  |  |
+|  |  | Nel caso in cui i carichi permanenti non strutturali (ad es. carichi |  |  |  |  |  |
+|  |  | permanenti portati) siano compiutamente definiti si potranno adottare |  |  |  |  |  |
+|  |  | gli stessi coefficienti validi per le azioni permanenti. Quanto sopra non |  |  |  |  |  |
+|  |  | si applica al ballast. Quando si prevedono significative variazioni di carico dovute al |  |  |  |  |  |
+|  |  | ballast, se ne dovrà tener conto esplicitamente nelle singole verifiche. |  |  |  |  |  |
+|  |  | I coefficienti parziali sulle resistenze del terreno sono riportati nell' EN 1997-1 |  |  |  |  |  |
+| A2.3.2(1) | Tabella A2.5 | Nelle situazioni di progetto eccezionali per l'azione variabile principale si |  |  |  |  |  |
+|  |  | adotta il valore quasi permanente. Nelle combinazioni di azioni sismiche per |  |  |  |  |  |
+|  |  | l'azione variabile principale si adotta il valore quasi-permanente. |  |  |  |  |  |
+|  |  | Per i ponti ferroviari, nella combinazione di azioni simiche si considera con un |  |  |  |  |  |
+|  |  | coefficiente W2-0.2 il valore quasi permanente delle masse corrispondenti ai |  |  |  |  |  |
+|  |  | carichi da traffico. |  |  |  |  |  |
+|  |  | La combinazione di azioni sismiche vale sia per le verifiche allo stato limite |  |  |  |  |  |
+|  |  | ultimo di resistenza, sia per le verifiche allo stato limite di danno (vedi |  |  |  |  |  |
+|  |  | EN1998). |  |  |  |  |  |
+| A2.3.2 | Tabella A2.5 - Nota | Si adotta il valore raccomandato y=1. |  |  |  |  |  |
+| A2.4.1(1) | Tabella A2.6 - Nota I | Si adottano i valori raccomandati y=1. |  |  |  |  |  |
+| A2.4.1(1) | Nota 2 | Non sono richieste verifiche con la combinazione infrequente. |  |  |  |  |  |
+| A2.4.1(2) |  | Da definirsi per il singolo progetto. |  |  |  |  |  |
+|  | Nota |  |  |  |  |  |  |
+| Paragrafi specifici per i ponti stradali. |  |  |  |  |  |  |  |
+| A2.2.2 (1) | Nota | Non sono richieste verifiche con la combinazione infrequente, |  |  |  |  |  |
+
+{17}------------------------------------------------
+
+| A2.2.2(3) | Nota | Da definirsi ner il singolo progetto in accordo con EN 1991-2 |
+| --- | --- | --- |
+| A2.2.2(4) | Nota | Non si combinano le azioni dovute a neve e a traffico, salvo che per i ponti |
+|  |  | coperti .. |
+| A2.2.2(6) | Nota | Si combinano le azioni dovute a vento ed effetti termici. |
+| A2.2.6(1) | Nota l | Si adottano i valori raccomandati con F WoF vo L'azione del vento a ponte carico si determina considerando una superficie esposta dei veicoli di altezza 3 |
+|  |  | m, a partire dal piano viabile. |
+|  |  | Non sono richieste verifiche con la combinazione infrequente. |
+| A2.2.6(1) | Nota 2 |  |
+| A2.2.6(1) | Nota 3 | Le azioni di origine idraulica debbono essere definite per il singolo progetto |
+| Paragrafi specifici per i ponti pedonali. |  |  |
+| A2.2.3(2) | Nota | Si combinano le azioni dovute a vento ed effetti termici. |
+| A2.2.3(3) | Nota | Non si forniscono regole specifiche. |
+| A2.2.3(4) | Nota | Si fa riferimento, come raccomandato, a combinazioni di azioni simili a quelle |
+|  |  | per gli edifici (Allegato Al) adottando i coefficienti y della Tabella A2.2 .. |
+| A2.4.3.2(1) | Nota | Si adottano i valori di accelerazione massima raccomandati. |
+| Paragrafi specifici per i ponti ferroviari. |  |  |
+| A2.2.4(1) | Nota | Neve e traffico non si combinano |
+| A2.2.4(4) | Nota | Non si forniscono limitazioni aggiuntive (deve essere considerata un'azione del |
+|  |  | vento pari a VoF wk) |
+| A2.4.4.1(1) | Nota 3 | Da definirsi per il singolo progetto. |
+| A2.4.4.2.1(4)P | Nota | Si adottano i valori raccomandati delle accelerazioni di picco. |
+| A2.4.4.2.2 | Tabella A2.7 - Nota | Si adottano i valori di traccomandati. |
+| A2.4.4.2.2(3) | Nota | Si adotta il valore tr = 6 mm/3 m. |
+| A2.4.4.2.3(1) | Nota | Da definirsi per il singolo progetto. |
+| A2.4.4.2.3(2) | Nota | Da definirsi per il singolo progetto. |
+| A2.4.4.2.3(3) | Nota | Da definirsi per il singolo progetto. |
+| A2.4.4.2.4(2) | Nota | Da definirsi per il singolo progetto. |
+| A2.4.4.2.4(2) | Tabella A2.8 - Nota 3 | Si adottano i valori di ci e ri raccomandati. |
+| A2.4.4.2.4(3) | Nota | Si adotta il valore raccomandato fro=1.25 Hz. |
+| A2.4.4.3(6) | Nota | Da definirsi per il singolo progetto. |
+
+{18}------------------------------------------------
+
+![](_page_18_Picture_3.jpeg)
+
+rastrutture sporti
+
+# UNI EN 1991-1-1:2004
+
+## Eurocodice 1: Azioni sulle strutture Parte 1-1: Azioni in generale -Pesi per unità di volume, pesi propri e sovraccarichi per gli edifici
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-1-1:2004
+
+### Parametri adottati a livello nazionale da utilizzare per le azioni sugli edifici
+
+{19}------------------------------------------------
+
+### Appendice Nazionale
+
+UNI EN 1991-1-1 - Eurocodice 1 - Azioni sulle strutture - Parte 1-1: Azioni in generale - Pesi per unità di volume, pesi propri e sovraccarichi per edifici EN 1991-1-1 Eurocode 1 "Actions on structures - Part 1-1: General actions -Densities, self-weight, imposed loads for building"
+
+### 1) Premessa
+
+Questa appendice nazionale, contenente i Parametri Determinati in sede Nazionale (NPD) per la UNI-EN 1991-1-1, è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+### 2.1 Campo di applicazione
+
+questa appendice nazionale contiene, al punto 3, le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN 1991-1-1, relativamente ai seguenti paragrafi
+
+- 2.2 (3) l
+- 5.2.3 da (1) a (5) -
+- 6.2.2(1) -
+- 6.3.1.1(1)P tabella 6.1 -
+- 6.3.1.2(1)P tabella 6.2 –
+- 6.3.1.2 (10) e (11) l
+- 6.3.2.2(1)P tabella 6.4 –
+- 6.3.3.2(1) tabella 6.8 -
+- 6.3.4.2 tabella 6.10 -
+- 6.4(1) tabella 6.12 -
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, debbono essere applicati in Italia per l'impiego della UNI-EN 1991-1-1.
+
+### 2.2 Documenti normativi di riferimento
+
+la presente appendice deve essere considerata quando si utilizzino i documenti normativi che fanno riferimento alla UNI-EN 1991-1-1: Azioni sulle strutture -Parte 1-1 - Azioni in generale - Pesi per unità di volume, pesi propri e sovraccarichi per edifici
+
+![](_page_19_Picture_23.jpeg)
+
+{20}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro Nazionale |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | - valore o prescrizione - |  |  |
+| 2.2 | (3) | Nessuna specifica aggiuntiva |  |  |
+| 5.2.3 | da (1) a (5) | Nessun valore e nessuna specifica aggiuntivi |  |  |
+| 6.2.2 | (1) | Nessuna specifica aggiuntiva |  |  |
+| 6.3.1.1(P) | Tabella 6.1 | Cat. B - Uffici: si suddivide in B1 (uffici privati) |  |  |
+|  |  | e B2 (uffici aperti al pubblico) |  |  |
+|  |  | Cat. C3-C5: si accorpano le categorie da C3 a |  |  |
+|  |  | ુર |  |  |
+| 6.3.1.2(P) | Tabella 6.2 | Nella Cat. A, si distinguono le scale interne ad |  |  |
+|  |  | unità abitative o commerciali, da quelle |  |  |
+|  |  | comuni, incorporate nella Cat. C2 |  |  |
+|  |  | Si adottano i seguenti valori: |  |  |
+|  |  | Cat. a (kN/m²) Qx (kN) |  |  |
+|  |  | A | 2,0 | 2,0 |
+|  |  | Bl - uffici privati | 2,0 | 2,0 |
+|  |  | B2 - uffici aperti a pubblico | 3,0 | 2,0 |
+|  |  | CI | 3,0 | 2,0 |
+|  |  | C2 | 4,0 | 4,0 |
+|  |  | C3-C2 | ર્ર 0 | રુ,0 |
+|  |  | DI | 4,0 | 4,0 |
+|  |  | D2 | ર,0 | 5,0 |
+| 6.3.1.2 | (10) (11) | Si adottano i valori raccomandati per aA ed am |  |  |
+| 6.3.2.2(1)P | Tabella 6.4 | gk ≥ 6,00 kN/m2 Qk = 6,00 kN |  |  |
+| 6.3.3.2(1) | Tabella 6.8 | Si adottano i seguenti valori: |  |  |
+|  |  | qk (kN/m²) Cat. Or (kN) |  |  |
+
+2 x 10,0 2,5
+
+2 x 50,0 5,0
+
+F
+
+G
+
+{21}------------------------------------------------
+
+| 6.3.4.2(1) | Tabella 6.9 | Cat. H: si aggiungono i sottotetti non praticabili |  |
+| --- | --- | --- | --- |
+|  |  | Altre Cat .: nessuna modifica |  |
+| 6.3.4.2(1) | Tabella 6.10 | Si adottano i seguenti valori: |  |
+|  |  | Cat. | qk (kN/m2) Qk (kN) |
+|  |  | ਜ 0,5 | 1,2 |
+| 6.4(1) | Tabella 6.12 | Si adottano i seguenti valori: |  |
+|  |  | Cat. gx (kN/m) |  |
+|  |  | A 1,0 |  |
+|  |  | B1,B2, C1 1,0 |  |
+|  |  | C2 2,0 |  |
+|  |  | C3-C5 3,0 |  |
+|  |  | D1, D2 2,0 |  |
+|  |  | El, E2 1,0 (*) |  |
+|  |  | F. G 1.0 (**) |  |
+
+(*) Non comprende le azioni orizzontali eventualmente esercitate dai materiali immagazzinati.
+
+(**) Per i soli parapetti o partizioni nelle zone pedonali. Le azioni sulle barriere esercitate dagli automezzi sono indicate nell'annesso B dell'EN 1991-1-1.
+
+{22}------------------------------------------------
+
+![](_page_22_Picture_3.jpeg)
+
+### UNI EN 1991-1-2:2005
+
+Eurocodice 1: Azioni sulle strutture Parte 1-2: Azioni in generale-Azioni sulle strutture esposte al fuoco
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-1-2:2005
+
+Parametri adottati a livello nazionale da utilizzare per le strutture esposte al fuoco
+
+{23}------------------------------------------------
+
+### APPENDICE NAZIONALE
+
+UNI-EN1991-1-2: Eurocodice 1: Azioni sulle strutture ~ Parte 1-2: Azioni in generale - Azioni sulle strutture esposte al fuoco
+
+EN 1991-1-2 Eurocode 1 : Actions on structures - Part 1-2: General actions - Actions on structures exposed to fire
+
+#### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1991-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1991-1-2 relativamente ai seguenti paragrafi:
+
+| 2.4 (4) nota 1 | 3.1 (10) | · 3.3.1.3 (1) | 4.2.2 (2) |
+| --- | --- | --- | --- |
+| 2.4 (4) nota 2 | 3.3.1.2 (1) nota 1 | 3.3.2 (2) | 4.3.1 (2) |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1991-1-2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN 1991-1-1 Azioni sulle strutture – Parte 1-2: Azioni in generale - Azioni sulle strutture esposte al fuoco
+
+#### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1991-1-2.
+
+{24}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Il neriodo di tempo specificato è fornito nei regolamenti nazionali di prevenzione incendi emanati dal Ministero dell'interno per le costruzioni |
+| 2.4(4) | Nota I | nelle quali si svolgono attività soggette al controllo del Corpo Nazionale dei |
+|  |  | Vigili del Fuoco ovvero disciplinate da specifiche regole tecniche di |
+|  |  | prevenzione incendi |
+|  |  | Limitati periodi di tempo sono forniti nell'Allegato al Decreto del Ministero |
+|  |  | dell'interno 9 marzo 2007 vunto 4.2. per le costruzioni nelle quali si svolgono attività soggette al controllo del Corpo Nazionale dei Vigili del |
+| 2.4(4) | Nota 2 | Fuoco ovvero disciplinate da specifiche regole tecniche di prevenzione |
+|  |  | incendi. |
+|  |  | Sono ammessi ambedue i metodi di cui al punto 3.2 e 3.3. |
+|  |  | Per le costruzioni nelle quali si svolgono attività soggette al controllo del |
+| 3.1(10) | Nota | Corpo Nazionale dei Vigili del Fuoco ovvero disciplinate da specifiche regole tecniche di prevenzione incendi, ulteriori indicazioni sono contenute |
+|  |  | nel Decreto del Ministero dell'interno 9 marzo 2007 con riferimento alla |
+|  |  | curva nominale temperatura-tempo e nel Decreto del Ministero dell'interno |
+|  |  | 9 maggio 2007 con riferimento all'impiego del modello di fuoco naturale. |
+| 3.3.1.2 (1) | Nota 1 | Non si forniscono indicazioni specifiche. |
+|  |  | Possono essere utilizzati vari metodi, di comprovata validità, per il calcolo |
+| 3.3.1.3(1) | Nota 1 | delle azioni termiche conseguenti ad incendi localizzati. Un metodo |
+|  |  | semplificato è fornito nell'appendice C. |
+|  |  | Nel caso di modelli a una zona, due zone o di fluidodinamica |
+| 3.3.2(2) | Nota | computazionale possono essere utilizzati vari metodi, di comprovata |
+|  |  | validità, per il calcolo delle azioni termiche ai fini dell'analisi delle |
+|  |  | temperature. Un metodo è fornito nell'appendice D. |
+| 4.2.2(2) | Nota | Non si forniscono indicazioni specifiche. |
+| 4.3.1(2) | Nota | Si adotta il valore raccomandato V21 Q1 |
+|  |  | Le Appendici A, B, C e D mantengono il carattere informativo. L'Appendice E non si adotta limitatamente ai punti E1 ed E2, ma si adottano |
+|  |  | le indicazioni aggiuntive contenute nell'allogato alla presente Appendice |
+| Utilizzo delle appendici |  |  |
+| informative |  | nazionale. Possono essere utilizzati i punti E3 ed E4 dell'Appendice E come |
+|  |  | informativi e limitatamente agli scopi indicati nei punti stessi. |
+|  |  | L'Appendice F non si adotta. |
+
+{25}------------------------------------------------
+
+#### ALLEGATO - INDICAZIONI AGGIUNTIVE SUL CARICO D'INCENDIO SPECIFICO
+
+#### E.1 Generalità
+
+Il presente allegato è conforme all'allegato del decreto del Ministero dell'interno 9 marzo 2007.
+
+(1) La densità di carico d'incendio usata nei calcoli corrisponde ad un valore di progetto, basato su misurazioni o, in casi speciali, su requisiti di resistenza al fuoco indicati nei regolamenti nazionali.
+
+(2) Il valore di progetto può essere determinato:
+
+- a partire da una classificazione nazionale dei carichi d'incendio in base alla destinazione d'uso, e/o
+
+- specificamente per un progetto singolo, attraverso una ricognizione dei carichi d'incendio.
+
+(3) Il valore di progetto del carico d'incendio qta è definito come segue:
+
+$q_{\rm c,d}=q_{\rm f}\cdot\delta_{\rm d}\cdot\delta_{\rm d}\cdot\delta_{\rm o}$
+
+#### dove:
+
+Sol è il fattore che tiene conto del rischio di attivazione del fuoco in relazione alla dimensione del compartimento (vedere successivo prospetto E.1);
+
+04 è il fattore che tiene conto del rischio di attivazione del fuoco in relazione al tipo di attività svolta nel compartimento (vedere successivo prospetto E.1);
+
+ 1 8, è il fattore che tiene conto delle differenti misure di protezione (vedere successivo prospetto on =
+
+E.2); q ¿ è il valore nominale del carico d'incendio specifico per unità di area in pianta [MJ/m²] (vedere per esempio il successivo prospetto E.4).
+
+| Superficie in pianta lorda del compartimento (m2) | જેવા | Sp | Classe di rischlo |
+| --- | --- | --- | --- |
+| A < 500 | 1,00 | 0.80 | Aree che presentano un basso rischio di incendlo in termini di probabilità di innesco, velocità di propagazione delle fiamme e possibilità di controllo dell'incendio da parte delle squadre di |
+| 500 ≤ A < 1.000 | 1,20 |  | emergenza |
+| 1.000 ≤ A < 2.500 | 1.40 | 1,00 | Aree che presentano un moderato rischio di incendio in tennini di probabilità d'innesco, velocità di propagazione di un incendio e possibilità di controllo dell'incendio stesso da parte delle squadre di |
+| 2.500 ≤ A < 5.000 | 1,60 |  | emergenza |
+| 5.000 ≤ A < 10.000 | 1,80 | 1,20 | Aree che presentano un alto rischio di incendio in termini di probabilità d'innesco, velocità di oropagazione delle fiamme e possibilità di controllo dell'incendio da parte delle squadre di emergenza |
+| A ≥ 10.000 | 2,00 |  |  |
+
+### prospetto E.1 Fattori Sql, Sq2
+
+{26}------------------------------------------------
+
+|  |  |  | કે | Funzione delle misure di protezione |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sistemi automatici di |  | Sistemi di evacuazione | Sistemi automatici di rivelazione, | Squadra aziendale |  | Rete idrica antincendio | Percorsi protetti di | Accessibilità ai mezzi di |
+| estinzione |  | automatica di fumo e calore | segnalazione e allame di incendio | dedicata alla lotta antincendio |  |  | accesso | SOCCOrso VVF |
+| ଥମ Butche | altro |  |  |  | intema | interna e esterna |  |  |
+| ેમ | ર્બન્ટ | ર્વનું | On4 | ર્ષ્ટ | Ga | 0.7 | ર્વેન્ક | વેન્ક |
+| 0,60 | 0,80 | 0,90 | 0,85 | 0,90 | 0,90 | 0,80 | 0,90 | 0,90 |
+
+#### prospetto E.2 Fattori oni
+
+Gli addetti devono aver conseguito l'attestato di idoneità tecnica di cui all'art. 3 della legge 28 novembre1996, n. 609, a seguito del corso di formazione di tipo C di cui all'allegato IX del decreto ministeriale 10 marzo 1998.
+
+E.2 Determinazione delle densità di carico d'incendio
+
+#### E.2.1 Generalità
+
+(1) II carico d'incendio è determinato tenendo conto di tutto il contenuto combustibile dell'edificio e di tutte le parti rilevanti della costruzione che possono bruciare, ivi incluse le finiture e gli impianti. Parti combustibili che non carbonizzano durante l'incendio non devono essere considerate.
+
+Il contributo alla determinazione della densità di carico d'incendio delle strutture di legno è determinato tenendo conto delle indicazioni fornite dal Ministero dell'Interno per le attività soggette al controllo del Corpo Nazionale dei Vigili del Fuoco ovvero disciplinate da specifiche regole tecniche di prevenzione incendi.
+
+(2) Per la determinazione della densità di carico d'incendio è possibile operare:
+
+- attraverso una classificazione del carico d'incendio in funzione della destinazione d'uso (vedere il successivo punto E.2.5) e/o
+
+- attraverso specifici progetti (vedere il successivo punto E.2.6).
+
+(3) Se le densità di carico d'incendio sono determinate attraverso una classificazione del carico d'incendio in funzione della destinazione d'uso, si deve tenere conto:
+
+- del carico d'incendio proprio della destinazione d'uso, fornito dalla classificazione,
+
+- del carico d'incendio dell'edificio (elementi costruttivi, impianti e finiture), che non è generalmente incluso nella classificazione e che deve pertanto essere valutato con riferimento ai seguenti punti, ove applicabili.
+
+#### E.2.2 Definizioni
+
+(1) Il carico d'incendio nominale è definito nella forma:
+
+Qf = Σ Μ; · Hui · mi · Ψ; = Σ Q fi, i
+
+[M] (E,2)
+
+dove:
+
+<sup>1</sup> Gli addetti devono aver conseguito l'attestato di idoneità tecnica di cui all'art. 3 della legge 28 novembre 1996, n. 609, a seguito del corso di formazione di tipo C di cui all'allegato IX del decreto ministeriale 10 marzo 1998.
+
+{27}------------------------------------------------
+
+Mi è l'ammontare del materiale combustibile [kg], in accordo a (3) e (4); Hoi è il potere calorifico netto [MJ/kg], (vedere il successivo punto E.2.4 ); mi è il fattore per stimare la partecipazione alla combustione dell'i-esimo materiale combustibile, (vedere E.3 dell'appendice E di EN1991-1-2);
+
+Vi è il fattore per stimare carichi d'incendio con protezioni, (vedere il successivo punto E.2.3).
+
+(2) Il carico d'incendio specifico nominale qr per unità di area è definito come:
+
+[MJ/m2] (E.3) gf=Q5/Af
+
+dove:
+
+Ar è l'area in pianta del compartimento o dello spazio di riferimento
+
+(3) I carichi d'incendio permanenti, che non ci si attende subiscano variazioni nel corso della vita di esercizio della struttura, sono introdotti con il loro valore atteso risultante da una analisi di dettaglio.
+
+(4) I carichi d'incendio variabili, che possono variare durante la vita di esercizio della struttura, sono rappresentati da valori, che ci si attende non siano superati per l'80% del tempo.
+
+#### E.2.3 Carico d'incendio protetto
+
+(1) Non occorre considerare nel calcolo i carichi d'incendio in contenitori che somo progettati per sopravvivere all'esposizione al fuoco.
+
+(2) Per i carichi d'incendio in contenitori non combustibili che rimangono intatti per il tempo d'esposizione, possono essere adottati valori di Y ; come segue:
+
+0 per i materiali contenuti in contenitori appositamente progettati per resistere al fuoco;
+
+0,85 per i materiali contenuti in contenitori non combustibili e non appositamente progettati per resistere al fuoco;
+
+1 in tutti gli altri casi.
+
+#### E.2.4 Potere calorifico netto
+
+(1) I poteri calorifici netti sono determinati secondo la EN ISO 1716:2002.
+
+(2) Il contenuto d'umidità dei materiali può essere tenuto in conto come segue:
+
+Ha = Hao (1 - 0,01 u ) - 0,025 u [MJ/kg] (E.4) dove:
+
+u è il contenuto d'umidità espresso come percentuale rispetto al peso secco; Huo è il potere calorifico netto del materiale secco.
+
+(3) I poteri calorifici di alcuni materiali solidi, liquidi e gas sono indicati nel successivo prospetto E.3.
+
+prospetto E.3 Poteri calorifici netti H., [MJ/kg] di materiali combustibili per il calcolo del carichi d'incendio
+
+| Salldi |  |
+| --- | --- |
+| Legno | 17,5 |
+| Altri materiali cellulosici |  |
+| - vestiti |  |
+| - sughero |  |
+| - cotone |  |
+| - carta, cartone | 20 |
+| - sets |  |
+| - paglia |  |
+| - lana |  |
+
+{28}------------------------------------------------
+
+| Carbonio |  |
+| --- | --- |
+| - antracite | 30 |
+| - carbone di legna |  |
+| - carbone |  |
+| Prodotti chimici |  |
+| Paraffine |  |
+| - metano |  |
+| - etano | રુપ |
+| - propano |  |
+| - butano |  |
+| Oletine |  |
+| - etilene | 45 |
+| - propilene |  |
+| - butene |  |
+| Composti aromatici |  |
+| - benzene | 40 |
+| - toluene |  |
+| Alcool |  |
+| - metanolo | 30 |
+| - etanolo |  |
+| - alcol etilico |  |
+| Combustibili |  |
+| - benzina, petrolio | 45 |
+| - gasolio |  |
+| Plastiche da idrocarburi puri |  |
+| - polietilene | 40 |
+| - polistirene |  |
+| - polipropilene |  |
+| Altri prodotti |  |
+| ABS (plastica) | રૂક |
+| Poliestere (plastica) | 30 |
+| Poliisocianurato e polluretano (plastica) | 25 |
+| Policloruro di vinile, PVC (plastica) | 20 |
+| Bitume, asfalto | 40 |
+| Pelle | 20 |
+| Linoleum | 20 |
+
+Pneumatici
+
+NOTA I valori forniti nel presente prospetto non sono applicabili per il calcolo del contenuto energetico del carburanti.
+
+30
+
+2017
+
+an
+
+#### E.2.5 Classificazione dei carichi d'incendio per destinazione d'uso
+
+(1) Le densità di carico d'incendio sono classificate in base alla destinazione d'uso, all'area del compartimento, e sono intese come densità nominali di carico d'incendio q { [M]/m²], come indicato nel successivo prospetto E.4.
+
+{29}------------------------------------------------
+
+| Destinazione d'uso | Media | 80% Frattile |
+| --- | --- | --- |
+| Alloggio | 780 | 848 |
+| Ospedale (stanza) | 230 | 280 |
+| Albergo (stanza) | 310 | 377 |
+| Biblioteca | 1 500 | 1 824 |
+| Ufficio | 420 | ર્સ 1 |
+| Classe di una scuola | 285 | 347 |
+| Centro commerciale | 600 | 730 |
+| Teatro (cinema) | 300 | 365 |
+| Trasporti (spazio pubblico) | 100 | 122 |
+| NOTA | La distribuzione di Gumbel è spaziata per l'80% frattile, |  |
+
+#### prospetto E.4 Densità di carico d'incendio nominali q { [MJ/m²] per differenti destinazioni d'uso
+
+(2) I valori del carico d'incendio specifico forniti nel prospetto E.4 sono validi nel caso che il fattore δαρ sia uguale a 1,0 (vedere precedente prospetto E.1).
+
+(3) I carichi d'incendio forniti nel precedente prospetto E.4 sono validi per compartimenti "ordinari" in relazione alla destinazione d'uso indicata nel prospetto. Volumi speciali sono considerati in accordo al precedente punto E.2.2.
+
+(4) I carichi d'incendio costituiti dalla costruzione stessa (elementi costruttivi, impianti, finiture) sono determinati in accordo ai precedenti punti E.2.1 e E.2.2.
+
+#### E.2.6 Valutazione individuale delle densità di carico d'incendio
+
+(1) In assenza di classi di destinazione d'uso, le densità di carico d'incendio possono essere specificamente determinate per singoli progetti, effettuando una ricognizione dei carichi d'incendio presenti in relazione all'uso previsto.
+
+(2) I carichi d'incendio e la loro disposizione puntuale sono valutati considerando l'impiego previsto, le installazioni e gli arredi, le variazioni nel tempo, le situazioni sfavorevoli e le possibili modifiche della destinazione d'uso.
+
+{30}------------------------------------------------
+
+![](_page_30_Picture_3.jpeg)
+
+### UNI EN 1991-1-3:2005
+
+Eurocodice 1: Azioni sulle strutture Parte 1-3: Azioni in generale -Carichi da neve
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-1-3:2005
+
+Parametri adottati a livello nazionale da utilizzare per i carichi da neve sulle strutture
+
+{31}------------------------------------------------
+
+#### Appendice nazionale
+
+UNI EN 1991-1-3 - Eurocodice 1 - Azioni sulle strutture Parte 1-3: Carichi da neve EN 1991-1 Eurocode 1: Actions on structures - Part 1-3: General actions -- Snow loads
+
+#### Premessa 1)
+
+Questa Appendice nazionale, contenente i parametri di determinazione nazionale presenti nella UNI EN 1991-1-3, è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+#### 2.1 Campo di applicazione
+
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI EN 1991-1-3 relativamente ai seguenti paragrafi:
+
+| 1.1(2) | 5.2(2) | 6.2(2) |
+| --- | --- | --- |
+| 1.1(3) | 5.2(5) | 6.3(1) |
+| 1.1(4) | 5.2(6) | 6.3(2) |
+|  | 5.2(7) |  |
+| 2(3) ** | 5.2(8) | A(1) (attraverso la Tabella A1) |
+| 2(4) ﺗ | 5.3.3(4) |  |
+|  | 5.3.4(3) |  |
+| 3.3(1) | 5.3.4(4) |  |
+| 3.3(3) | 5.3.5(1) |  |
+|  | 5.3.5(3) |  |
+| 4.1(1) | 5.3.6(1) |  |
+| 4.1(2) | 5.3.6(3) |  |
+| 4.2(1) |  |  |
+| 4.3(1) |  |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI EN 1991-1-3.
+
+#### Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI EN 1991-1-3 "Azioni sulle strutture Parte 1-3: Carichi da neve".
+
+{32}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione- |
+| 1.1(2) | Nota | Per altitudini superiori a 1500 m s.l.m. si dovrà fare |
+|  |  | riferimento alle condizioni locali di clima e di |
+|  |  | esposizione utilizzando comunque valori del carico |
+|  |  | della neve non inferiori a quelli previsti per la quota di |
+|  |  | 1500 m |
+| 1.1(3) | Nota | Per l'intero territorio nazionale si applica il caso A della |
+|  |  | tabella A.1 |
+| 1.1(4) | Nota | Non è ammesso l'impiego dell'Appendice B |
+| 2(3) | Nota | Il caso delle azioni della neve di tipo eccezionale non si |
+|  |  | applica in Italia |
+| 2(4) | Nota | Il caso degli accumuli eccezionali della neve non si |
+|  |  | applica in Italia |
+| 3.3(1) | Nota 2 | Il caso delle condizioni eccezionali non si applica in |
+|  |  | Italia |
+| 3.3(3) | Nota 2 | Il caso delle condizioni eccezionali non si applica in |
+|  |  | Italia I valori caratteristici minimi del carico della neve al suolo sono quelli riportati nella mappa seguente. |
+| 4.1(1) | Nota 1 |  |
+|  |  | Zona I - Alpina Aosta, Belluno, Bergamo, Biella, Bolzano, Brescia, Como, Cuneo, Lecco, Pordenone, Sondrio, Torino, |
+|  |  | Trento, Udine, Verbania, Vercelli, Vicenza: |
+|  |  | ask = 1,50 kN/m2 as <= 200 m |
+
+#### 3) Decisioni nazionali
+
+{33}------------------------------------------------
+
+qsk= 1,39 [1+[728 ]2] kN/m2 as > 200 m Zona I - Mediterranea Alessandria, Ancona, Asti, Bologna, Cremona, Forli-Cesena, Lodi, Milano, Modena, Novara, Parma, Pavia, Pesaro e Urbino, Piacenza, Ravenna, Reggio Emilia, Rimini, Treviso, Varese: qsk = 1,50 kN/m2 as <= 200 m 1,35 [1+[202 ]2] kN/m² as > 200 m Zona II Arezzo, Ascoli Piceno, Bari, Campobasso, Chieti, Ferrara, Firenze, Foggia, Genova, Gorizia, Imperia, Isernia, La Spezia, Lucca, Macerata, Mantova, Massa Carrara, Padova, Perugia, Pescara, Pistoia, Prato, Rovigo, Savona, Teramo, Trieste, Venezia, Verona: as <= 200 m qsk= 1,00 kN/m2 = 0,85 [1+[28] ]2] kN/m² as > 200 m Zona III Agrigento, Avellino, Benevento, Brindisi, Cagliari, Caltanisetta, Carbonia-Iglesias, Caserta, Catania, Catanzaro, Cosenza, Crotone, Enna, Frosinone, Grosseto, L'Aquila, Latina, Lecce, Livorno, Matera, Medio Campidano, Messina, Napoli, Nuoro, Ogliastra Olbia-Tempio, Oristano, Palermo, Pisa, Potenza, Ragusa, Reggio Calabria, Rieti, Roma, Salerno, Sassari, Siena, Siracusa, Taranto, Terni, Trapani, Vibo Valentia, Viterbo: qsk= 0,60 kN/m2 as <= 200 m qsk=0,51 [1+[48] ]2] kN/m² as > 200 m La mappa del carico della neve caratteristico al suolo è basata sulle mappe riportate nell'Appendice C, per le 4.1(1) Nota 2 regioni Alpina e Mediterranea Non sono necessarie ulteriori indicazioni 4.1(2) Nota 1 Nota Si adottano i valori raccomandati nella tabella 4.2(1) Il caso delle azioni eccezionali della neve non si applica Nota 4.3(1) in Italia 5.2(2) Nota Non è ammesso l'impiego dell'Appendice B Nessuna indicazione aggiuntiva 5.2(5) Nota 2 Nessuna indicazione aggiuntiva 5.2(6) Nota
+
+{34}------------------------------------------------
+
+|  |  | I valori dei coefficienti di esposizione Ce, per le varie condizioni topografiche, sono i seguenti: battuta dai venti Ce = 0,9 |
+| --- | --- | --- |
+| 5.2(7) | Nota | - |
+|  |  | . normale Ce = 1,0 |
+|  |  | riparata Ce = 1,1 |
+| 5.2(8) | Nota 1 | Si adotta il valore raccomandato Ci = 1,0 |
+| 5.3.3(4) | Nota | Non è ammesso l'impiego di distribuzioni di carico |
+|  |  | alternative |
+| 5.3.4(3) | Nota | Non è ammesso l'impiego dell'Appendice B |
+| 5.3.4(4) | Nota | Per o, o a2 > 60° il valore di u, non potrà essere |
+|  |  | assunto inferiore a u .= 1,6 |
+| 5.3.5(1) | Nota I | Si adotta il valore raccomandato per il limite superiore |
+|  |  | del coefficiente us = 2.0, come indicato nella Figura 5.5 |
+| 5.3.5(3) | Nota | Non è ammesso l'impiego di distribuzioni di carico |
+|  |  | alternative |
+| 5.3.6(1) | Nota 1 | Si adottano i valori raccomandati per i limiti di |
+|  |  | variazione del coefficiente Lw : 0,8 ≤ Liv ≤ 4,0 |
+| 5.3.6(3) | Nota | Non è ammesso l'impiego dell'Appendice B |
+| 6.2(2) | Nota | Non è ammesso l'impiego dell'Appendice B |
+| 6.3(1) | Nota | L'impiego è consentito ner quote superion a 800 m |
+|  |  | s.l.m. |
+| 6.3(2) | Nota | Si adotta il valore raccomandato per k = 3/d, con k ≤ dy |
+| A(1) | Tabella A.1 Nota 1 | Si applica il caso A |
+| A(1) | Tabella A.1 Nota 2 | I casi B2 e B3 non si applicano |
+
+#### 4) Indicazioni aggiuntive non contraddittorie
+
+Sino a quando non sarà disponibile la mappa fisica della neve varrà la suddivisione amministrativa indicata al punto 3.4.2
+
+{35}------------------------------------------------
+
+![](_page_35_Picture_3.jpeg)
+
+### UNI EN 1991-1-4:2007
+
+### Eurocodice 1: Azioni sulle strutture Parte 1-4: Azioni in generale - Azioni del vento
+
+# APPENDICE NAZIONALE ITALIANA
+
+# alla UNI EN 1991-1-4:2007
+
+## Parametri adottati a livello nazionale
+
+da utilizzare per le azioni da vento sulle strutture
+
+{36}------------------------------------------------
+
+#### Appendice Nazionale
+
+UNI-EN 1991-1-4 - Eurocodice 1 - Azioni sulle strutture - Parte 1-4: Azioni in generale - Azioni del vento" EN 1991-1-4 - Eurocode 1 - Actions on structures - Part 1-4: General Actions - Wind Actions"
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN 1991-1-4, è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+2.1. Campo di applicazione
+
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN 1991-1-4 relativamente ai seguenti paragrafi:
+
+| 1.1 (11) Note 1 | 7.1.2 (2) Note | 8.1 (1) Notes 1 and 2 |
+| --- | --- | --- |
+| 1.5 (2) Note | 7.1.3 (1)Note | 8.1 (4) Note |
+| 4.1 (1) Note | 7.2.1 (1) Note 2 | 8.1 (5) Note |
+| 4.2 (1) P Note 2 | 7.2.2 (1) Note | 8.2 (1) Note 1 |
+| 4.2 (2) P Notes 1, 2, 3 and 5 | 7.2.2 (2) Note 1 | 8.3 (1) Note |
+| 4.3.1 (1) Notes 1 and 2 | 7.2.3 (2) Note | 8.3.1 (2) Note |
+| 4.3.2 (1) Note | 7.2.3 (4) Note 1 | 8.3.2 (1) Note |
+| 4.3.2 (2) Note | 7.2.4 (1) Note | 8.3.3 (1) Note 1 |
+| 4.3.3 (1) Note | 7.2.4 (3) Note | 8.3.4 (1) Note |
+| 4.3.4 (1) Note | 7.2.5 (1) Note | 8.4.2 (1) Note 1 |
+| 4.3.5 (1) Note | 7.2.5 (3) Note | A.2 (1) Note |
+| 4.4 (1) Note 2 | 7.2.6 (1) Note | E.1.3.3 (1) Note |
+| 4.5 (1) Notes 1 and 2 | 7.2.6 (3) Note | E.I.5.1 (1) Notes 1 and 2 |
+| 5.3 (5) Note | 7.2.8 (1) Note | E.1.5.1 (3) Note |
+| 6.1 (1) Note | 7.2.9 (2) Note | E.1.5.2.6 (1) Note 1 |
+| 6.3.1 (1) Note 3 | 7.2.10 (3) Notes 1 and 2 | E.1.5.3 (2) Note 1 |
+| 6.3.2 (1) Note | 7.3 (6) Note | E.1.5.3 (4) Note |
+|  | 7.4.1 (1) Note | E.1.5.3 (6) Note |
+|  | 7.4.3 (2) Note | E.3 (2) Note |
+|  | 7.6 (1) Note 1 |  |
+|  | 7.7.(1) Note 1 |  |
+|  | 7.8 (1) Note |  |
+|  | 7.9.2 (2) Note |  |
+|  | Table 7.14 Note |  |
+|  | 7.10 (1) Note 1 |  |
+|  | 7.11 (1) Note 2 |  |
+|  | 7.13 (1) Note |  |
+|  | 7.13 (2) Note |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN 1991-1-4.
+
+#### 2.2) Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla EN-UNI 1991-1-4 - Azioni sulle strutture - Parte 1-4: Azioni in generale -- Azioni del vento.
+
+| AND THE CONSTITUTION OF THE CONTRACT OF CONSTITUTION OF THE CONTRACT OF CONSTITUTION OF THE CONTRACT OF THE CONTRACT OF CONSTITUTION O |  |  |  |  |  | 2000 224 |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Same 201 1974 - 199 |  |  |  |  |  |  | 1 - 10 - |
+| 2008 - 12 - 1 |  |  |  |  |  | Park P. P. P. P. |  |
+| STATE AND THE FORM THE FOR | છ | 201 Active of the FRON | 5200 - 17 | Friday 发生活 |  | A 200 11 11 FACE CARDS | 1 |
+| . |  |  | 12 30 37 12 37 | 2008 000 000 | A 200 September 200 Company of the Company of Children School Come | 1940-33 | ਲ ਦੇ |
+| BATCHE FOR |  |  |  |  | 1. 2. 2. | 45 25 883 3 |  |
+
+{37}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione |
+| 1.1 (11) | Nota 1 | Nessuna informazione aggiuntiva |
+| 1.5 (2) | Nota | Nessuna informazione aggiuntiva |
+| 4.1 (1) | Nota | Il valore vh a attraverso cui si arriva, con l'applicazione delle formule |
+| 4.2 (1)P | Nota 2 | (4.1) e (4.3). alla vm(z) si ottiene attraverso la seguente procedura: |
+| 4.2 (2)P | Nota 1 | In mancanza di specifiche ed adeguate indagini statistiche vb.o è data |
+|  |  | dall'espressione: |
+|  |  | per as ≤ ao |
+|  |  | per ao ≤ ag ≤ 1500 m |
+|  |  | dove |
+|  |  | sono dati nella tabella N.A.1 in funzione della zona, Vb.0, do. Ko |
+|  |  | definita in Figura N.A.1, ove sorge la costruzione; |
+|  |  | è l'altitudine sul livello del mare (in metri) del sito ਬੰ ove sorge la costruzione. |
+|  |  | 0 0 |
+|  |  | and and 3 |
+|  |  | Fig. N.A.1 |
+|  |  | Per altitudini superiori a 1500 metri sul livello del mare si potrà fare |
+|  |  | riferimento alle condizioni locali di clima e di esposizione, |
+|  |  | utilizzando comunque valori della velocità di riferimento non |
+|  |  | inferiori a quelli previsti alla quota di 1500 m |
+
+#### 3). Decisioni nazionali
+
+![](_page_37_Figure_5.jpeg)
+
+{38}------------------------------------------------
+
+| Descrizione | ko (1/s) | Zona | Vb.0 (m/s) | ao | Valle d'Aosta, Piemonte, |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lombardia, Trentino Alto | Adige. Veneto. | Friuli |  |  |  |  |
+| 1 | 0.010 | ર્ટર | 1000 | Giulia | (con | Venezia |
+| l'eccezione della prov. di | Trieste) |  |  |  |  |  |
+| 0.015 | રેર | 750 | Emilia Romagna | 2 | Toscana, Marche, Umbria, |  |
+| Lazio, Abruzzo, Molise, | Campania, | Puglia, |  |  |  |  |
+| 3 | 0.020 | 200 | 27 | Basilicata, | Calabria |  |
+| (esclusa la prov. di Reggio | Calabria) |  |  |  |  |  |
+| Sicilia e prov. di Reggio | 28 | 500 | 0.020 | 4 | Calabria |  |
+| Sardegna (zona a oriente | della retta congiungente |  |  |  |  |  |
+| 5 | Capo Teulada con l'isola | 0.015 | 28 | 750 |  |  |
+| della Maddalena) | Sardegna | (zona | રી |  |  |  |
+| occidente | della | retta | congiungente | б | Capo |  |
+| 28 | 0.020 | ર૦૦ | Teulada con l'isola della |  |  |  |
+| Maddalena) | 1 000 | 7 | Liguria | 28 | 0.015 |  |
+| 30 | 1 200 | Provincia di Trieste | 0.010 | 8 | Isole (con l'eccezione di |  |
+| Sicilia e Sardegna) e mare | 9 | 0.020 | 31 | 200 | aperto |  |
+| Tab. N.A.1 |  |  |  |  |  |  |
+| Si adotta il valore raccomandato cair = 1 | 4.2 (2)P | Nota 2 | 4.2 (2)P | Si adotta il valore raccomandato Csesson = 1 | Nota 3 |  |
+| 4.2 (2)P | Nota 5 | Per i veriodi di ritorno compresi fra 5 e 50 anni, si adottano i valori | K=0,20 e n=0,5; per periodi di ritorno compresi fra 50 e 1000 anni, |  |  |  |
+| si adottano i valori K=0,138 e n=1 | 4.3.1 (1) | Nota 1 | Si adotta il valore raccomandato co = 1 a meno di diverse indicazioni |  |  |  |
+| del paragrafo 4.3.3. | Il valore vo(z) è dato dall'espressione (4.3). Per c.(z) si adotta la | 4.3.1 (1) | Nota 2 |  |  |  |
+| formula 4.4 dove i parametri k (z), Zo e zmin sono dati dalla tabella | Nota | 4.3.2. (1) | N.A.2 in funzione della categoria di esposizione del sito dove sorge |  |  |  |
+| la costruzione. Tale categoria è assegnata tramite gli schemi in | figura N.A.2., in funzione della posizione geografica del sito e della |  |  |  |  |  |
+| classe di rugosità del terreno nella Tabella N.A.3. |  |  |  |  |  |  |
+
+{39}------------------------------------------------
+
+12
+
+ri
+
+| Categorie di esposizione | k | zo(m) | Zmin(m) | 0,17 | 0,01 | 2 | I |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 4 | I | 0,19 | 0,05 | 5 | 0,20 | 0,10 | ID |  |  |  |  |  |  |
+| 8 | 0,30 | VI | 0,22 | 0,70 | V | 0,23 | 12 |  |  |  |  |  |  |
+| ONE 1,2,3,4,5 | ZONA | 9 |  |  |  |  |  |  |  |  |  |  |  |
+| 来 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 20.55 |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 2 | ਨੇ | 11 | 1 | 1 | t | 2 | IV: | ਡ | Fi | ને કે વિ | B | I | 11 |
+| IV | 1842 | 61 | 11 | - | B | 11 | 18 11 | ** | ਾ ਨੂੰ ਕ | 1 |  |  |  |
+| 7.8 | ZONE | ZONA 6 |  |  |  |  |  |  |  |  |  |  |  |
+| 53 | 1 - 1 - 1 - 1 - 1 - 1 |  |  |  |  |  |  |  |  |  |  |  |  |
+| IV | 2 | IV | 15 | 1 | II |  |  |  |  |  |  |  |  |
+| 199 | i | 2 | 来 | 11 |  |  |  |  |  |  |  |  |  |
+| : | . | I | D | ે અન્ય | CEL | II | III | II | 25.0 |  |  |  |  |
+| Fig. N.A.2. |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+
+
+
+{40}------------------------------------------------
+
+|  |  | Tab. N.A.3 |
+| --- | --- | --- |
+|  |  | Classe di rugosità Descrizione |
+|  |  | A Aree urbane in cui almeno il 15% della |
+|  |  | superficie sia coperto da edifici la cui altezza |
+|  |  | media superi i 15 m |
+|  |  | B Aree urbane (non di classe A), suburbane, |
+|  |  | industriali e boschive. |
+|  |  | C Aree con ostacoli diffusi (alberi, case, muri, |
+|  |  | recinzioni, ); aree con rugosità non |
+|  |  | riconducibile alle classi A, B, D. |
+|  |  | D Aree prive di ostacoli (aperta campagna, |
+|  |  | aeroporti, aree agricole, pascoli, zone |
+|  |  | paludose o sabbiose, superfici innevate o |
+|  |  | ghiacciate, mare, laghi, ) |
+|  |  | L' assegnazione della classe di rugosità non dipende dalla |
+|  |  | conformazione orografica del terreno. Affinché una costruzione |
+|  |  | possa dirsi ubicata in classe A o B è necessario che la situazione che |
+|  |  | contraddistingue la classe permanga intorno alla costruzione per non |
+|  |  | meno di 1 km e comunque non meno di 20 volte l' altezza della |
+|  |  | costruzione. Laddove sussistano dubbi sulla classe di rugosità, a |
+|  |  | meno di analisi dettagliate, verrà assegnata la classe più sfavorevole. |
+|  |  | Si assume zonav=200 m come raccomandato. |
+| 4.3.2 (2) | Nota | Oltre a quelle raccomandate (Appendice A2) si possono utilizzare |
+|  |  | altre procedure. |
+| 4.3.3 (1) | Nota | Si adotta la procedura raccomandata riportata in Annex A.3. |
+| 4.3.4 (1) | Nota | Si adotta la procedura raccomandata riportata in Annex A.4. |
+| 4.3.5 (1) | Nota | Si adotta la procedura raccomandata riportata in Annex A.5. |
+| 4.4 (1) | Nota 2 | Si adotta il valore raccomandato k1=1,0. |
+| 4.5 (1) | Nota 1 | Si adotta la espressione raccomandata (4.8). |
+| 4.5 (1) | Nota 2 | Si adotta il valore raccomandato o = 1.25 kg/m². |
+| 5.3 (5) | Nota | Nessuna indicazione aggiuntiva. |
+| 6.1 (1) | Nota | Il coefficiente coca (non separato nei due coefficienti cs e ca) viene |
+| 6.3.1 (1) | Nota 3 | calcolato secondo la procedura dell'Annex B. |
+| 6.3.2 (1) | Nota | Si adotta il metodo dell'Annex B. |
+| 7.1.2 (2) | Nota | Si adotta la procedura raccomandata. |
+| 7.1.3 (1) | Nota | Nessuna indicazione aggiuntiva, |
+| 7.2.1 (1) | Nota 2 | Si adotta la procedura raccomandata di Fig. 7.2. |
+| 7.2.2 (1) | Nota | Si adotta la procedura raccomandata di assumere l'altezza della |
+|  |  | costruzione come altezza di riferimento. |
+| 7.2.2 (2) | Nota 1 | Si adottano i valori raccomandati nella Tab. 7.1. |
+| 7.2.3 (2) | Nota | Si adottano le zone raccomandate nella Fig. 7.6. |
+| 7.2.3 (4) | Nota 1 | Si adottano i valori raccomandati nella Tab. 7.2. |
+| 7.2.4 (1) | Nota | Si adottano le zone raccomandate nella Fig. 7.7. |
+| 7.2.4 (3) | Nota | Si adottano i valori raccomandati nella Tab. 7.3a e nella Tab. 7.3b. |
+| 7.2.5 (1) | Nota | Si adottano le zone raccomandate nella Fig. 7.8. |
+| 7.2.5 (3) | Nota | Si adottano i valori raccomandati nella Tab. 7,4a e nella Tab. 7.4b. |
+| 7.2.6 (1) | Nota | Si adottano le zone raccomandate nella Fig. 7.9. |
+
+{41}------------------------------------------------
+
+| 7.2.6 (3) | Nota | Si adottano i valori raccomandati nella Tab. 7.5. |
+| --- | --- | --- |
+| 7.2.8 (1) | Nota | Si adottano i valori raccomandati di Fig. 7.11 e 7.12. |
+| 7.2.9 (2) | Nota | Nessuna indicazione aggiuntiva. |
+| 7.2.10 (3) | Note 1 e 2 | Nessuna indicazione aggiuntiva. |
+| 7.3 (6) | Nota | Si adotta per centro di pressione la posizione raccomandata nella Fig. 7.16. |
+| 7.4.1 (1) | Nota | Si adottano i valori raccomandati dalla Tab. 7.9. |
+| 7.4.3 (2) | Nota | Si adotta il valore raccomandato e = ± 0,25b. |
+| 7.6 (1) | Nota 1 | Si adottano i valori raccomandati in Fig. 7.24. |
+| 7.7 (1) | Nota l | Si adotta il valore raccomandato cco = 2. |
+| 7.8 (1) | Nota | Si adottano i valori raccomandati di Tab. 7.11. |
+| 7.9.2 (2) | Nota | Nessuna indicazione aggiuntiva. |
+| 7.10 (1) | Nota 1 | Si adottano i valori raccomandati di Fig. 7.30. |
+| 7.11 (1) | Nota 2 | Nessuna indicazione aggiuntiva. |
+| 7.13 (1) | Nota | Nessuna indicazione aggiuntiva. |
+| 7.13 (2) | Nota | Si adottano i valori raccomandati di Tab. 7.16 e Fig. 7.36. |
+| 8.1 (1) | Nota l | Nessuna indicazione aggiuntiva. |
+| 8.1 (1) | Nota 2 | Nessuna indicazione aggiuntiva. |
+| 8.1 (4) | Nota | Si assume v*b.0 = 0,9 Vb.0. |
+| 8.1 (5) | Nota | Si assume v**b.o = Vb.0. |
+| 8.2 (1) | Nota 1 | Non viene fornita una procedura specifica. |
+| 8.3 (1) | Nota | Nessuna indicazione aggiuntiva, si rimanda all'applicazione della Section 7.4. |
+| 8.3.1 (2) | Nota | Nessuna specifica aggiuntiva. |
+| 8.3.2 (1) | Nota | Si adottano i valori raccomandati della Tab. 8.2. |
+| 8.3.3 (1) | Nota 1 | Si adotta il valore raccomandato. |
+| 8.3.4 (1) | Nota 1 | Si adottano i valori raccomandati. |
+| 8.4.2 (1) | Nota 1 | Non si forniscono regole semplificate. |
+| ANNEX A, |  | Le Appendici A, B, C, D, E, F possono essere utilizzate come |
+| B, C, D, E, F |  | informative e limitatamente agli scopi indicati nelle Appendici |
+|  |  | stesse, in quanto contenenti informazioni aggiuntive non |
+|  |  | contraddittorie con il testo dell'EN 1991-1-4. |
+
+{42}------------------------------------------------
+
+![](0__page_42_Picture_3.jpeg)
+
+imistero delle . Infrastrutture e dei Trasporti Lavori . Publici
+
+# UNI EN 1991-1-5:2005
+
+Eurocodice 1: Azioni sulle strutture Parte 1-5: Azioni in generale -Azioni termiche
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-1-5:2005
+
+Parametri adottati a livello nazionale da utilizzare per le azioni termiche sulle strutture
+
+{43}------------------------------------------------
+
+### Appendice Nazionale
+
+UNI-EN 1991-1-5 - Eurocodice 1 - Azioni sulle strutture - Parte 1-5: Azioni in generale - Azioni Termiche EN 1991-1-5 - Eurocode 1 - "Actions on structures - Part 1-5: General actions - Thermal actions"
+
+1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN 1991-1-5, è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+## 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN 1991-1-5 relativamente ai seguenti paragrafi:
+
+| 5.3(2) (Tables 5.1, 5.2 and 5.3) 6.2.1(1)P (Note) |  |
+| --- | --- |
+| 6.1.1 (1) (Note 1) | 6.2.2(1) (Note) |
+| 6.1.2(2) (Note) | 6.2.2(2) (Note 1) |
+| 6.1.3.1(4) (Note) | 7.2.1(1) P (Note) |
+| 6.1.3.2(1)P (Note) | 7.5(3) (Note 1) |
+| 6.1.3.3(3) (Note 2) | 7.5(4) (Note) |
+| 6.1.4(3) (Note) | A.1(1) (Notes 1 and 2) |
+| 6.1.4.1(1) (Note) | A.1(3) (Note) |
+| 6.1.4.2(1) (Note 1) | A.2(2) (Notė 1) |
+| 6.1.4.3(1) (Nota) | B(1) (Tables B.1, B.2 and B.3) |
+| 6.1.4.4(1) (Nota) |  |
+| 6.1.5(1) (Note 1) |  |
+| 6.1.6(1) (Nota) |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN 1991-1-5.
+
+2.2) Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla EN-UNI 1991-1-5 - Azioni sulle strutture - Parte 1-5: Azioni in generale - Azioni Termiche.
+
+| Section of the final of the see the new the first for |  | IT Per- Bholman in | 出来 文艺 文 文 文 文 中 文 中 文 中 文 | 11 22 200 2 2 3 200 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 |
+| --- | --- | --- | --- | --- |
+| The Research of the Real |  |  |  |  |
+| 2 8 8 8 6 | STATUTE OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF CONSULTION OF CONSULTIO | - 12:05 - 12 - 12 - 12 - | RA PART PART AND CONSULT | 11.200 |
+| DO RECOUNTER DE LECTRICITY CONTROLLER SECTION OF |  | MEMBARANTEMINMATET MAMMANT THE TENNERSED | YOUR WANT MANAGEMENT POSCIENCE AND PARTY PANYS | TOCK NAMEMANA METH MANAGE FEMAN MIT MELEMINATION |
+| 2 RC |  |  |  | NOT & CONCE |
+| Clear Card |  |  |  |  |
+| Charles of the different of the desires of the cases of the comments of |  | 11 1 4 4 4 | And A S W A C 50.500 | 12 1 2 2 2 2 2 2 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 |
+| MTAATTESTSGESSAFFASSANTSACEMETERSAFACTSCARAGES |  | SBANDESAMESFACTGASAGARATETSACESSFFESSMETERS/TEST | SESSORIESALTTSAGAATTAGETSACTEMENTERSENTERSENSTERAN | ** |
+|  |  |  | 2011 124 1 |  |
+| A STREET P The St | To 30 L Value of No. of 2 1 1 -- 4 | AND POST OF COLLECTION 80. 100 0.500 | Can and States of the Career of the comments of Black Black | 215 972 a concession and on the be |
+| CHILLAND CK. COUTT. CONTINUE ST. LE B. Book do |  | FANTAL PROPERTY CONTENTIAL PRODUCT PARTIC COMES | 1 VW 1 1 M 1 1 M 1 M 1 M 1 M 1 1 M 1 1 M 4 1 | SEEVER WINGMEN MEET VEMEMORE !! MI |
+| UC - 6 - 1 - 0 |  | WATERS AND | Carles Company College |  |
+
+{44}------------------------------------------------
+
+### 3). Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione |
+| 5.3 (2) | Tabelle 5.1, | Tint=T ;= T2=20°C |
+|  | 5.2 e 5.3 | Tmax = 45 °C, Toun = - 15 °C. |
+|  |  | Per superfici esposte a Nord-Est si assume: |
+|  |  | T3=0 ℃, T4 = 2 ℃, T5 = 4 ℃. |
+|  |  | Per superfici esposte a Sud-Ovest si assume: |
+|  |  | T3= 18 ℃, T4 = 30 ℃, T5 = 42 ℃. |
+|  |  | T6=8 ℃, T7 = 5 ℃, Tg = - 5 ℃, Tg = - 3 ℃. |
+| 6.1.1 (1) | Nota 1 | Non vengono fornite informazioni aggiuntive |
+| 6.1.2 (2) | Nota | Si utilizza l'Approccio 1. |
+| 6.1.3.1(4) | Nota | Per i valori di Temig e Temax si adottano i valori raccomandati in Figura 6.1. |
+| 6.1.3.2(1)P | Nota |  |
+| 7.2.1(1) P A.1(1) | Nota Nota 1 |  |
+|  |  | ﻌﻜﺴ |
+|  |  | Mappa delle temperature massime dell'aria all'ombra, al livello del mare |
+|  |  | (Tmax). |
+
+{45}------------------------------------------------
+
+![](0__page_45_Picture_3.jpeg)
+
+{46}------------------------------------------------
+
+| 6.1.6(1) | Nota | Si adottano i valori raccomandati. |
+| --- | --- | --- |
+| 6,2.1(1)P | Nota | Non viene fornita una procedura specifica, si utilizza quella raccomandata. |
+| 6.2.2(1) | Nota | Si adotta il valore raccomandato, AT = 5 °C. |
+| 6.2.2(2) | Nota 1 | Si adotta il valore raccomandato, AT = 15 °C. |
+| 7.5(3) | Nota 1 | Si adotta il valore raccomandato, AT = 15 °C. |
+| 7.5(4) | Nota | Si adotta il valore raccomandato, AT = 15 °C. |
+| A.1(1) | Nota 2 | Al fine della valutazione della temperatura dell'aria all'ombra a quote |
+|  |  | diverse da quella del mare, il territorio italiano è suddiviso in 4 zone |
+|  |  | climatiche: |
+|  |  | - zona I (Valle d'Aosta, Piemonte Lombardia, Emilia Romagna, Veneto, |
+|  |  | Friuli Venezia Giulia, Trentino Alto Adige); - zona II (Liguria, Toscana, Umbria, Lazio, Sardegna, Campania, |
+|  |  | Basilicata): |
+|  |  | - zona III (Marche, Abruzzo, Molise, Puglia); |
+|  |  | - zona IV (Calabria, Sicilia). |
+|  |  | 015 A |
+|  |  | ﺔ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﺤﺪﺓ ﺍﻟﻤﺘﻮﻗﻊ ﺍﻟﻤ |
+|  |  | Zone climatiche italiane. |
+
+{47}------------------------------------------------
+
+|  |  | La temperatura minima Tmin.h e la temperatura massima Tmax.b dell'aria alla quota h (in m) sul livello del mare possono essere valutate utilizzando le |
+| --- | --- | --- |
+|  |  | relazioni seguenti: |
+|  |  | Zona I |
+|  |  | Tmin,h = Tmin - 4,38 h/1000 |
+|  |  | Tmax,t = Tmax - 6,16 h/1000 |
+|  |  | Zona II |
+|  |  | Tminh = Imin - 5,49 h/1000 |
+|  |  | Tmax.b = Tmax - 1,95 h/1000 |
+|  |  | Zona III |
+|  |  | Tmin.b = Tmin - 6,91 h/1000 |
+|  |  | Tmax h = Tresx - 0,35 h/1000 |
+|  |  | Zona IV |
+|  |  | Tmin.b = Tmin - 8,58 h/1000 |
+|  |  | Tmax = Tmax - 1,59 h/1000 |
+| A.1(3) | Nota | Si adotta il valore To = 15 °C. |
+| A.2(2) | Nota 1 | Si adottano i valori raccomandati. |
+| B(1) | Tabelle B.1, | Si adottano per AT i valori raccomandati nelle Tabelle B.1, B.2 e B.3. |
+|  | B.2 e B.3. |  |
+| Annesso C |  | L'uso dell'annesso informativo C è consentito . |
+| Annesso D |  | L'uso dell'annesso informativo D è consentito. |
+
+{48}------------------------------------------------
+
+![](0__page_48_Picture_3.jpeg)
+
+rastrutture e orti iore dei Samori . In
+
+# UNI EN 1991-1-6:2005
+
+# Eurocodice 1: Azioni sulle strutture Parte 1-6: Azioni in generale-Azioni durante la costruzione
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-1-6:2005
+
+# Parametri adottati a livello nazionale da utilizzare per le azioni durante la costruzione
+
+{49}------------------------------------------------
+
+## Appendice Nazionale
+
+UNI EN 1991-1-6 – Eurocodice 1 - Azioni sulle strutture - Parte 1-6: Azioni in qenerale, Azioni durante la costruzione EN 1991-1-6 Eurocode 1 "Actions on structures Part 1-6: General actions -
+
+Actions during execution"
+
+#### 1) Premessa
+
+Questa appendice nazionale, contenente i Parametri Determinati in sede Nazionale (NPD) per la UNI-EN 1991-1-6, è stata approvata dal Consiglio Superiore dei LL.PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+## 2.1 Campo di applicazione
+
+Questa appendice nazionale contiene, al punto 3, le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN 1991-1-6, relativamente ai sequenti paragrafi
+
+| 1.1(3) | 3.3(6) |  | 4.13(2) |
+| --- | --- | --- | --- |
+| 2 (4) | 4.9(6) NOTE 2 |  | Annesso A1 A1.1(1) |
+| 3.1(1)P | 4.10(1)P |  | Annesso A1 A1.3(2) |
+| 3.1(5) NOTE 1 | 4.11.1(1) | Tabella | Annesso A2 A2.3(1) |
+| 3.1(5) NOTE 2 | 4.1 |  | Annesso A2 A2.4(2) |
+| 3.1(7) | 4.11.2(2) |  | Annesso A2 A2.4(3) |
+| 3.1(8) NOTE 1 | 4.12(1)P NOTE 2 |  |  |
+| 3.3(2) | 4.12(2) |  |  |
+|  | 4.12 (3) |  |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, debbono essere applicati in Italia per l'impiego della UNI-EN 1991-1-6.
+
+## 2.2 Documenti normativi di riferimento
+
+la presente appendice deve essere considerata quando si utilizzino i documenti normativi che fanno riferimento alla UNI-EN 1991-1-6 Azioni sulle strutture -Parte 1-6: Azioni in generale, Azioni durante la costruzione.
+
+{50}------------------------------------------------
+
+|
+|  |
+
+| Paragrafo | Riferimento | Parametro Nazionale, |
+| --- | --- | --- |
+|  |  | valore o prescrizione |
+| 1.1 | (3) | Nessuna indicazione aggiuntiva |
+| 2.2 | (4) Nota 1 | Nessuna indicazione aggiuntiva |
+| 3.1 | (1) | Nessuna indicazione aggiuntiva |
+| 3.1 | (5) Nota 1 | Si adottano i valori raccomandati, con la seguente |
+|  |  | modifica: non è consentito l'impiego di periodi di ritorno |
+|  |  | Inferiori a 5 anni. |
+| 3.1 | (5) Nota 2 | Non è prescritto alcun valore minimo della velocità del |
+|  |  | vento |
+| 3.1 | (7) | In condizioni normali i carichi di costruzione dovuti al |
+|  |  | personale non dovranno essere combinati con i carichi |
+|  |  | della neve e del vento. |
+|  |  | Per i carichi di costruzione quali, deposito di materiali |
+|  |  | ecc., gli effetti delle azioni della neve e del vento |
+|  |  | dovranno essere valutati con particolare riguardo alle |
+|  |  | interazioni di queste ultime con la struttura in costruzione |
+|  |  | per la parte effettivamente realizzata. |
+| 3.1 | (8) Nota 1 | Nessuna indicazione aggiuntiva |
+| 3.3 | (2) | Nessuna indicazione aggiuntiva |
+| 3.3 | (6) | Nessuna indicazione aggiuntiva |
+| 4.9 | (6) Nota 2 | Nessuna indicazione aggiuntiva |
+| 4.10 | (1) | Nessuna indicazione aggiuntiva |
+| 4.11.1 | (1) Tabella 4.1 | Si utilizzano i valori raccomandati. |
+| 4.11.2 | (1) Nota 2 | Si adottano i valori raccomandati nella tabella 4,2. E' |
+|  |  | consentito l'uso di schemi di carico differenti, |
+|  |  | adeguatamente giustificati. |
+| 4.12 | (1)P Nota 2 | Laddove eventuali effetti dinamici siano rilevanti, și |
+|  |  | effettueranno specifiche verifiche aggiuntive con fattore |
+|  |  | di amplificazione dinamica del carichi statici pari a 2.0. Si |
+|  |  | veda anche EN 1991-1-7. |
+
+{51}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro Nazionale, |
+| --- | --- | --- |
+|  |  | valore o prescrizione |
+| 4.12 | (2) | Nessuna indicazione aggiuntiva |
+| 4.12 | (3) | Si adottano i valori esemplificativi indicati |
+| 4,13 | (2) | Si veda l'Annesso Nazionale alla EN 1998-1. |
+| Annesso A |  | L'Annesso A mantiene il carattere informativo |
+| Annesso A1 | (1) | 42=0,2) Si adottano i valori raccomandati ( w=1,0 |
+| A1.1 |  |  |
+| Annesso A1 | (2) | Si adotta il valore raccomandato |
+| A1.3 |  |  |
+| Annesso A2 | (1) | Si adottano | valori raccomandati quali valori minimi |
+| A2.3 |  |  |
+| Annesso A2 | (2) | Si adotta il valore raccomandato |
+| A2.4 |  |  |
+| Annesso A2 | (3) | L'impiego di questo paragrafo è consentito, adottando |
+| A2.4 |  | per x Il valore raccomandato |
+| Annesso A2 | (2) | Si adotta il valore raccomandato, si vedano le indicazioni |
+| A2.5 |  | aggiuntive |
+| Annesso A2 | (3) | Si dovranno utilizzare i valori ottenuti da prove specifiche |
+| A2.5 |  |  |
+| Annesso B |  | L'Annesso B mantiene il carattere informativo |
+
+{52}------------------------------------------------
+
+![](0__page_52_Picture_3.jpeg)
+
+ultur
+
+# UNI EN 1991-1-7:2006
+
+# Eurocodice 1: Azioni sulle strutture Parti 1-7: Azioni in generale - Azioni eccezionali
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-1-7:2006
+
+# Parametri adottati a livello nazionale da utilizzare per le azioni eccezionali
+
+{53}------------------------------------------------
+
+### Appendice Nazionale
+
+UNI-EN 1991-1-7 - Eurocodice 1 - Azioni sulle strutture - Parte 1-7: Azioni in generale - Azioni eccezionali EN 1991-1-7 - Eurocode 1 - "Actions on structures - Part 1-7: General actions - Accidental actions"
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN 1991-1-7, è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+## 2) Introduzione
+
+## 2.1. Campo di applicazione
+
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN 1991-1-7 relativamente ai seguenti paragrafi:
+
+| 2 (2) | 4.4 (1) | 4.6.1(3) Note 1 |
+| --- | --- | --- |
+| 3.1(2) Note 4 | 4.5(1) | 4.6.2(1) |
+| 3.2(1) Note 3 | 4.5.1.2(1) Notes 1 and 2 | 4.6.2(2) |
+| 3.3(2)P Notes 1, 2 and 3 | 4.5.1.4(1) | 4.6.2(3) Note 1 |
+| 3.4(1) Note 4 | 4.5.1.4(2) | 4.6.2(4) |
+| 3.4(2) | 4.5.1.4(3) | 4.6.3(1) |
+| 4.1(1) Note 1 | 4.5.1.4(4) | 4.6.3(3) |
+| 4.1(1) Note 3 | 4.5.1.4(5) | 4.6.3(4) P |
+| 4.3.1(1) Notes 1. 2 and 3 | 4.5.1.5(1) | 4.6.3(5) Note 1 |
+| 4.3.1(2) | 4.5.2(1) | 5.3 (1)P |
+| 4.3.1(3) | 4.5.2(4) | A.4 (1) |
+| 4.3.2 (1) Notes 1, 3 and 4 |  |  |
+
+- 4.3.2 (2)
+- 4.3.2 (3)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN 1991-1-7.
+
+## 2.2) Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla EN-UNI 1991-1-7 - Azioni sulle strutture - Parte 1-7: Azioni in generale - Azioni eccezionali.
+
+| AND STATES CONSTITUTION CONSULTION CONSULTION CONTROLLER COLLEGION |  |
+| --- | --- |
+| Carlos STANSSAFFERSONASES/SAFEESA/SES/ESTERS/FESSUALS/S/SALES CLASS STATES SAATEMAAAAATENATISATISTTA 40.00 MMERICAN PET SEMILIA SEMEM SEMENT M SET M SET M M S TENTSANSERSESSESSESSEMENTSSESSMENTSSTESSATSMET Carlos Concession |  |
+|  |  |
+| 1 4 10 10 10 10 | 10.0 m. |
+| A T M C T E T M C S M S S S S S S S S S S T S S S T S S S T S SAMESTARRANASEST TESSESSETS MATERSESSMENTS NE TOTAL PLANS OF MANAGEMENT IN MANITANCE AND PASSION COLLEGIONAL AND 11 11 1 SAAFSFENATION SESSORABESET SERESARTE SETTE |  |
+|  |  |
+| A S WARK 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 A Property of Children 100 Mark 2100 2002 225 ARTICLE A |  |
+| SACAGACAT NY EXCANTENCE MONT TEN TO M M LE SAME SAMPSACEALTSAFEATSACESTTSAFAFTSFAATTTSFAATTESSANT STORES WE MACAN LACK TO CALL M T M CAM T M CAN LEAN M T SO ERESTSPESSMENTSOFESFAREESE FFSFENATIMENA |  |
+| 1000 STATUTE OF THE CANA ------ |  |
+
+{54}------------------------------------------------
+
+### 3). Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione |
+| 2 (2) | Nota | Nessuna informazione aggiuntiva |
+| 3.1(2) | Nota 4 | Nessuna informazione aggiuntiva |
+| 3.2(1) | Nota 3 | Nessuna informazione aggiuntiva |
+| 3.3(2) | Nota 1 | E' accettato il modello di carico distribuito ed il valore raccomandato |
+| 3.3(2) | Nota 2 | Il limite di accettabilità del collasso locale, causato dalla rimozione di un |
+|  |  | pilastro, colonna o di un setto, è pari al minore tra 100 m' e il 15% della |
+|  |  | superficie di ciascuno di due solai contigui, sostenuti dall'elemento verticale |
+|  |  | rimosso |
+| 3.3(2) | Nota 3 | Si segue la strategia contenuta al punto A.4 dell'Annesso A, in funzione |
+|  |  | della classe di conseguenze, con la seguente modifica: per strutture in classe |
+|  |  | di conseguenza 3, oltre a quanto previsto per le strutture in classe di |
+|  |  | conseguenza 2, si dovranno eseguire analisi più approfondite, che potranno |
+|  |  | comprendere anche l'analisi di rischio. |
+| 3.4(1) | Nota 4 | Si adotta la seguente classificazione, che non si intende esaustiva, e che |
+|  |  | dovrà essere integrata da valutazioni caso per caso. |
+|  |  | Classe di Esempi di classificazione delle strutture |
+|  |  | conseguenza |
+|  |  | CCI Costruzioni con presenza solo occasionale di persone, edifici agricoli. |
+|  |  | CC2 - Costruzioni il cui uso preveda normali affollamenti, senza contenuti |
+|  |  | rischio pericolosi per l'ambiente e senza funzioni pubbliche e sociali essenziali. |
+|  |  | inferiore Industrie con attività non pericolose per l'ambiente. Ponti, opere |
+|  |  | infrastrutturali, reti viarie non ricadenti in Classi di conseguenza |
+|  |  | superiori. |
+|  |  | CC2 - Costruzioni il cui uso preveda affollamenti significativi. Industrie con |
+|  |  | rischio attività pericolose per l'ambiente. Reti viarie extraurbane non ricadenti in |
+|  |  | superiore Classe di conseguenza 3. Ponti e reti ferroviarie la cui interruzione |
+|  |  | provochi situazioni di emergenza. |
+|  |  | CC3 Costruzioni con funzioni pubbliche o strategiche importanti, anche con |
+|  |  | riferimento alla gestione della protezione civile in caso di calamità. |
+|  |  | Industrie con attività particolarmente pericolose per l'ambiente. Ponti e |
+|  |  | reti ferroviarie di importanza critica per il mantenimento delle vie di |
+|  |  | comunicazione. |
+| 3.4(2) | Nota | Nessuna informazione aggiuntiva |
+| 4.1 (1) | Nota 1 | Nessuna informazione aggiuntiva |
+| 4.1 (1) | Nota 3 | Nessuna informazione aggiuntiva |
+| 4.3.1 (1) | Nota 1 | In assenza di determinazioni più accurate e trascurando la capacità |
+|  |  | dissipativa della struttura, le forze statiche equivalenti sono quelle mostrate |
+|  |  | in tabella: |
+
+{55}------------------------------------------------
+
+|  |  | FORZA Fax (KN) TIPO DI STRADA TIPO DI VEICOLO |
+| --- | --- | --- |
+|  |  | 1000 Autostrade, strade |
+|  |  | extraurbane |
+|  |  | Strade locali • 750 |
+|  |  | Strade urbane २०० |
+|  |  | Automobili 50 |
+|  |  | Veicoli destinati al 1 20 Aree di parcheggio e |
+|  |  | trasporto di merci, aventi autorimesse |
+|  |  | massa massima superiore |
+|  |  | a 3,5 t |
+|  |  | Fd,y può essere assunto pari al 50 % di Fd,x |
+| 4.3.1 (1) | Nota 2 | Nessuna informazione aggiuntiva, si veda anche l'annesso C. |
+| 4.3.1 (1) | Nota 3 | Nessuna informazione aggiuntiva |
+| 4.3.1 (2) | Nota | Nelle verifiche potranno essere considerate, non simultaneamente, due |
+|  |  | azioni nelle direzioni parallela (Fax ) e ortogonale (Fav ) alla direzione di |
+|  |  | marcia normale. |
+| 4.3.1 (3) | Nota | Per urti di automobili si accettano le condizioni raccomandate. |
+|  |  | Per urti di altri autoveicoli diversi dalle automobili, si accettano le |
+|  |  | condizioni raccomandate fatta eccezione per l'altezza di applicazione della |
+|  |  | forza risultante di collisione dalla superficie di marcia, che si assume pari a |
+|  |  | 1,25 m. |
+| 4.3.2 (1) | Nota I |  |
+|  |  | Si adottano le azioni statiche equivalenti riportate in Tabella 4.2. |
+| 4.3.2 (1) | Nota 3 | Si accettano i valori raccomandati. |
+| 4.3.2 (1) | Nota 4 | Si accetta il valore raccomandato. |
+| 4.3.2 (2) | Nota | Si accetta la procedura raccomandata. |
+| 4.3.2 (3) | Nota | Si accetta la procedura raccomandata. |
+| 4.4 (1) | Nota | Nelle costruzioni dove sono presenti con regolarità carrelli elevatori si può |
+|  |  | considerare equivalente agli urti accidentali un'azione orizzontale statica, |
+|  |  | applicata all'altezza di 0,75 m dal piano di calpestio, pari a |
+|  |  | F=5 W |
+|  |  | essendo W il peso complessivo del carrello elevatore e del massimo carico |
+|  |  | trasportabile. |
+| 4.5 (1) | Nota | Nessuna informazione aggiuntiva |
+| 4.5.1.2 (1) | Nota 1 | Nessuna informazione aggiuntiva |
+| 4.5.1.2 (1) | Nota 2 | Nessuna informazione aggiuntiva |
+| 4.5.1.4 (1) | Nota | In mancanza di specifiche analisi di rischio possono assumersi le seguenti |
+|  |  | azioni statiche equivalenti, variabili in funzione della distanza "d" degli |
+|  |  | elementi esposti dall'asse del binario: |
+
+- 52
+
+{56}------------------------------------------------
+
+|  |  | Forza Fdy Distanza "d" degli elementi Forza Fdx |
+| --- | --- | --- |
+|  |  | esposti dall'asse del binario |
+|  |  | (KN) (KN) |
+|  |  | (m) |
+|  |  | 4000 1 200 d ≤ 5.0 m |
+|  |  | 2000 750 ર<વ<1 > m |
+|  |  | d>15 m 0 0 |
+|  |  | Queste forze non dovranno essere considerate agenti simultaneamente. |
+| 4.5.1.4 (2) | Nota | Non è prevista alcuna riduzione delle azioni d'urto. |
+| 4.5.1.4 (3) | Nota | Si utilizza il valore raccomandato. |
+| 4.5.1.4.(4) | Nota | Non è prevista alcuna riduzione delle azioni d'urto. |
+| 4.5.1.4 (5) | Nota | Nessuna informazione aggiuntiva |
+| 4.5.1.5 (1) | Nota | Nessuna informazione aggiuntiva |
+| 4.5.2 (1) | Nota | Nessuna informazione aggiuntiva |
+| 4.5.2 (4) | Nota | Si utilizzano i valori raccomandati |
+| 4.6.1 (3) | Nota l | Si accetta la classificazione della Tabella C.4 dell'Annesso C. |
+| 4.6.2 (1) | Nota | Nessuna informazione aggiuntiva |
+| 4.6.2 (2) | Nota | Si utilizza il valore raccomandato |
+| 4.6.2 (3) | Nota 1 | Si utilizzano i valori indicati |
+| 4.6.2 (4) | Nota | Si utilizza il valore indicato |
+| 4.6.3 (1) | Nota | Si accettano i valori della Tabella C.4 dell'Annesso C. |
+|  |  | Valori relativi ad imbarcazioni di massa diversa possono essere ricavati |
+|  |  | mediante interpolazione lineare. |
+| 4.6.3 (3) | Nota | Si utilizza il valore raccomandato |
+| 4.6.3 (4) P | Nota | Si utilizzano i valori raccomandati |
+| 4.6.3 (5) | Nota 1 | Si utilizza il valore del 10%. |
+| 5.3 (1)P | Nota | Si utilizza la procedura per le esplosioni di gas naturale contenuta |
+|  |  | nell'Annesso D. |
+| A.4(1) | Nota 1 | Nessuna informazione aggiuntiva |
+| Annesso A |  | L'uso dell'annesso informativo A è consentito. |
+| Annesso B |  | L'uso dell'annesso informativo B è consentito. |
+| Annesso C |  | L'uso dell'annesso informativo C è consentito. |
+| Annesso D |  | L'uso dell'annesso informativo D è consentito. |
+
+{57}------------------------------------------------
+
+![](0__page_57_Picture_3.jpeg)
+
+shorti
+
+## UNI EN 1991-2:2005
+
+## Eurocodice 1: Azioni sulle strutture Parte 2- Carichi da traffico sui ponti
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-2:2005
+
+# Parametri adottati a livello nazionale
+
+da utilizzare per i carichi da traffico sui ponti
+
+![](0__page_57_Picture_10.jpeg)
+
+{58}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1991 - 2 - Eurocodice 1 - Azioni sulle strutture - Parte 2 -- Carichi da traffico sui ponti
+
+EN-1991 - 2 - Eurocode 1 - Action on structures - Part 2 - Traffic loads on bridges
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1991 - 2. è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1991 - 2 relativamente ai paragrafi
+
+Sezione 1 - Generalità
+
+- 1.1(3) Regole complementari per muri di sostegno, strutture interrate e tunnels.
+Sezione 2 - Classificazione delle azioni
+
+2.2.(2) Nota 2 Uso dei valori infrequenti del carico per ponti stradali
+
+2.3(1) Definizione di protezioni adeguate contro la collisione
+
+2.3(4) Regole concernenti forze di collisione di varia origine
+
+Sezione 3 - Situazioni di progetto
+
+3(5) Regole per ponti soggetti a traffico stradale e ferroviario
+
+Sezione 4 – Azioni da traffico stradale e altre azioni specifiche per i ponti stradali
+
+- 4.1(1) Nota 2 Azioni da traffico stradale per stese di carico di lunghezza maggiore di 200 m
+- 4.1(2) Nota 1 Modelli di carico specifici per ponti con limitazione del peso dei veicoli
+- 4.2.1(1) Nota 2 Definizione di modelli di carico complementari
+- 4.2.1(2) Definizione di modelli di veicoli speciali
+
+4.2.3(1) Altezza convenzionale dei marciapiedi
+
+4.3.1(2) Nota 2 Uso del modello LM2
+
+4.3.2(3) Note 1 e 2 Valori dei fattori a
+
+4.3.2(6) Uso di modelli semplificativi alternativi
+
+4.3.3(2) Valori dei fattori ß
+
+4.3.3(4) Nota 2 Scelta della superficie di contatto per il modello LM2
+
+- 4.3.4(1) Definizione del modello di carico 3 (veicoli speciali)
+4.4.1(2) Nota 2 Limite superiore per le azioni di frenamento nei ponti stradali
+
+- 4.4.1(3) Nota Forze orizzontali associate con il modello di carico 3
+- 4.4.1(6) Forze di frenamento trasmesse dai giunti d'espansione
+
+રર
+
+4.4.2(4) Forze laterali sugli impalcati stradali
+
+4.5.1 - Tavola 4.4a Note a e b - Considerazione di forze orizzontali in gr1a
+
+![](0__page_58_Picture_36.jpeg)
+
+{59}------------------------------------------------
+
+| 4.5.2(1) Nota 3 Uso di valori infrequenti delle azioni variabili |
+| --- |
+| 4.6.1(2) Punto c) - Condizioni per l'impiego dei modelli di carico di fatica 1 |
+| e 2 |
+| 4.6.1(2) Punto e ) - Condizioni per l'impiego del modello di carico di fatica 4 |
+| 4.6.1(2) Nota 2 - Uso dei modelli di carico di fatica |
+| 4.6.1(2) Nota 4 -Modifica dei valori per i modelli di carico di fatica 1 e 2 |
+| 4.6.1(3) Nota 1 - Definizione delle categorie di traffico |
+| 4.6.1(6) Definizione di coefficienti di amplificazione dinamica addizionali |
+| (fatica) |
+| 4.6.4(3) Adattamenti del modello di carico a fatica n. 3 |
+| 4.6.5(1) Nota 2 Caratteristiche del traffico stradale per l'utilizzo del modello |
+| di fatica n. 4 |
+| 4.6.6(1) Utilizzo del modello di carico a fatica n. 5 |
+| 4.7.2.1(1) Definizione della forza e dell'altezza d'impatto. |
+| 4.7.2.2(1) Nota 1 - Definizione delle forze di collisione sull'impalcato |
+| 4.7.3.3(1) Nota 1 - Definizione delle forze di collisione sul sistema di |
+| contenimento dei veicoli |
+| 4.7.3.3(1) Nota 3 - Definizione della forza verticale agente simultaneamente |
+| con la forza orizzontale di collisione. |
+| 4.7.3.3(2) Carico di progetto per la struttura di sostegno di un guardavia |
+| 4.7.3.4(1) Definizione della forza di collisione per un elemento strutturale |
+| verticale non protetto |
+| 4.8(1) Nota 2 Definizione delle azioni sui parapetti |
+| 4.8(3) Definizione delle azioni di progetto dovute ai parapetti sulle strutture |
+| di sostegno |
+| 4.9.1(1) Nota 1 Definizione dei modelli di carico per i terrapieni |
+| Sezione 5 - Azioni sui marciapiedi, sulle piste ciclabili ei ponti pedonali |
+| 5.2.3(2) Definizione dei modelli di carico per le passerelle d'ispezione |
+| 5.3.2.1(1) Definizione del valore caratteristico per il carico distribuito |
+| 5.3.2.2(1) Definizione dei valori caratteristici per il carico concentrato sui |
+| ponti pedonali |
+| 5.3.2.3(1)P Nota 1 Definizione dei veicoli di servizio per i ponti pedonali |
+| 5.4(2) Valore caratteristico della forza orizzontale sui ponti pedonali |
+| 5.6.1(1) Definizione di forze di collisione specifiche |
+| 5.6.2.1(1) Forze di collisione sulle pile |
+| 5.6.2.2(1) Forze di collisione sugli impalcati |
+| 5.6.3(2) Nota 2 Definizione di un modello di carico per la presenza |
+| accidentale di un veicolo su un ponte pedonale |
+| 5.7(3) Definizione di modelli dinamici per carichi pedonali |
+| Sezione 6- Azioni da traffico ferroviario e altre azioni specifiche per i ponti |
+| ferroviari |
+| 6.1(2) Traffico non contemplato nell'EN1991-2, modelli di carico alternativi |
+| per i ponti ferroviari. |
+| 6.1(3)P Altri tipi di ferrovie |
+| 6.1(7) Ponti ferroviari temporanei |
+| 6.3.2(3)P Valore del coefficiente or |
+| 6.3.3(4)P Scelta delle linee a traffico pesante |
+
+{60}------------------------------------------------
+
+| 6.4.4 Parametri per la scelta tra analisi statica e dinamica |
+| --- |
+| 6.4.5.2(3)P Scelta del coefficiente di amplificazione dinamica |
+| 6.4.5.3(1) Lunghezza caratteristica |
+| 6.4.5.3 Tabella 6.2 Lunghezze caratteristiche si strutture a spalzo |
+| 6.4.6.1.1(6) Richieste addizionali per l'uso dei modelli HSLM-A e HSLM-B |
+| 6.4.6.1.1(7) Carichi e metodologia per l'analisi dinamica |
+| 6.4.6.1.2(3) Tahella 6.5. Casi di carico addizionali in funzione dei numero di |
+| binari |
+| 6.4.6.3.1(3) Valori del coefficiente di smorzamento |
+| 6.4.6.3.2(3) Valori alternativi della densità dei materiali |
+| 6.4.6.3.3(3) Nota 1 Modulo di Young migliorati |
+| 6.4.6.3.3(3) Nota 2 Altre proprietà dei materiali |
+| 6.4.6.4(4) Riduzione della risposta di picco in risonanza e valori di |
+| smorzamento addizionali |
+| 6.4.6.4(4) Incremento del coefficiente di smorzamento |
+| 6.4.6.4(5) Valori ammissibili dei difetti dei binari e imperfezioni dei veicoli |
+| 6.5.1(2) Altezza incrementata del baricentro per l'applicazione delle forze |
+| centrifughe |
+| 6.5.3(5) Azioni dovute alla frenatura per stese di carico di lunghezza |
+| maggiore di 300m |
+| 6.5.3(9)P Prescrizioni alternative per l'applicazione delle forze di frenatura |
+| ed avviamento |
+| 6.5.4.1(5) Interazione binario struttura, prescrizioni per binari senza ballast |
+| 6.5.4.3.(2) Note 1 e 2 Prescrizioni alternative per le variazioni di temperatura |
+| 6.5.4.4(2) Resistenza longitudinale a taglio tra binario e impalcato |
+| 6.5.4.5 Criteri di progetto alternativi |
+| 6.5.4.5.1(2) Valore minimo del raggio di curvatura |
+| 6.5.4.5.1(2) Limiti delle tensioni nei binari |
+| 6.5.4.6 Metodi di calcolo alternativi |
+| 6.5.4.6.1(1) Criteri alternativi per l'applicazione di metodi di calcolo |
+| semplificati |
+| 6.5.4.6.1(4) Resistenza plastica a taglio longitudinale tra binario e impalcato |
+| 6.6.1(3) Valori alternativi delle azioni aerodinamiche |
+| 6.7.1(2)P Prescrizioni addizionali per i deragliamenti |
+| Deragliamenti, misure addizionali per elementi strutturali situati 6.7.1(8)P |
+| sopra il piano del ferro e prescrizioni per contenere un treno |
+| deragliato sulla struttura |
+| 6.7.3(1)P Altre azioni |
+| 6.8.1(11)P Tavola 6.10 Numero di binari caricati da considerare per il calcolo |
+| del sistema di drenaggio e dei franchi strutturali |
+| 6.8.2(2) Tavola 6.11 Definizione dei gruppi di carico |
+| 6.8.3.1(1) Valori frequenti delle azioni multi-componente |
+| 6.8.3.2(1) Valori quasi permanenti delle azioni multi-componente |
+| 6.9(6) Modelli di carico per fatica, vita della struttura |
+| 6.9(7) Modelli di carico per fatica, traffico speciale |
+| Appendice C(3)P Nota 1 Coefficiente dinamico |
+| Appendice C(3)P Nota 2 Metodo di analisi dinamica |
+| Appendice D2(2) Coefficiente di sicurezza parziale per il carico di fatica |
+
+{61}------------------------------------------------
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici normative B e C e delle appendici informative A, D, E, F, G e H per i ponti.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1991-2.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1991 - 2 - Eurocodice 1 -Azioni sulle strutture - Parte 2 - Carichi da traffico sui ponti unitamente all'Appendice A2 - Applicazioni ai ponti della UNI-EN-1991- Criteri generali di progettazione strutturale
+
+$$-\ 58$$
+
+{62}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 1.1(3) | Nota | Non si forniscono condizioni complementari. |
+| 2.2.(2) | Nota 2 | Non si impone l'uso dei valori infrequenti. |
+| 2.3(1) | Nota | Non si propone alcuna definizione specifica, |
+| 2.3(4) | Nota | I valori delle forze da collisione sono da definitsi per il singolo progetto. I valori |
+|  |  | raccomandati per le forze di collisione delle imbarcazioni sono dati nella EN1991-1-7. |
+| ૩(ર) | Nota | Regole appropriate sono da definirsi per il singolo progetto. |
+| 4.1(1) | Nota 2 | In assenza di studi specifici, le azioni di carico definite in questa sezione valgono |
+|  |  | anche per stese di carico di lunghezza maggiore di 200 m. In assenza di studi specifici ed in alternativa al modello di carico principale, |
+|  |  | generalmente cantelativo, per opere di luce maggiore di 300 m, ai fini della statica |
+|  |  | complessiva del ponte, si può far riferimento ai seguenti carichi qr. qLb e qLe |
+|  |  | kN/m: kN/m; kN/m, |
+|  |  | essendo L la lunghezza della zona caricata, in m. Si disporrà sulla corsia n. 1 un carico |
+|  |  | Q1. 3411a corsia n. 2 un carico q1.b. sulla corsia n. 3 un carico que e sulle altre corsie e |
+|  |  | sull'area rimanente un carico distribuito di intensità 2,5 kN/m². I carichi di .. Gi .. e Gr . si dispongono in asse alle rispettive corsie. |
+| 4.1(2) | Nota 1 | Modello specifici sono da definirsi per il singolo progetto. |
+| 4.2.1(1) | Nota 2 | Non si definiscono modelli complementari. |
+| 4.2.1(2) | Nota | Non si definiscono modelli specifici. Quando significativo, si adottano la tabella di |
+|  |  | veicoli speciali e le regole di applicazione riportate nell'Appendice informativa A. |
+| 4.2.3(1) | Nota | Si adotta come altezza minima dei marciapiedi "non somnontabile" 200 mm (al posto |
+|  |  | del valore raccomandato 100 mm) |
+| 4.3.1(2) | Nota 2 | Non si forniscono regole supplementari per l'utilizzo del LM2 |
+| 4.3.2(3) | Nota 1 | Si adottano i seguenti valori dei coefficienti di adattamento: |
+|  |  | = a = l per ponti di I categoria. |
+|  |  | 0.8 per ponti di II categoria. at ום di |
+| 4.3.2(3) | Nota 2 | Si considerano due sole classi di traffico, corrispondenti alla categoria del ponte, cosicché il traffico di classe 1 interessa i ponti di I categoria e il traffico di classe 2 |
+|  |  | interessa i ponti di II categoria. |
+| 4.3.2(6) | Nota | Non si definiscono condizioni specifiche. |
+| 4.3.3(2) | Nota | Si adotta il criterio raccomandato, pertanto Bo-1 per ponti di I categoria e Bo-0.8 per |
+|  |  | ponti di II categoria. |
+| 4.3.3(4) | Nota 2 | Si adotta la superficie di contatto rettangolare. |
+
+#### Decisioni nazionali 3)
+
+{63}------------------------------------------------
+
+| 4.3.4(1) | Nota | Onando significativo, si adottano la tabella di veicoli speciali e le regole di annlicazione rivortate nell'Appendice informativa A, |
+| --- | --- | --- |
+| 4.4.1(2) | Nota 2 | Si adotta il valore raccomandato 900 kN. |
+| 4.4.1(3) | Nota | Si adotta un carico orizzontale concomitante parì al 60% del peso del veicolo speciale, comunque non superiore a 900 kN. |
+| 4.4.1(6) | Nota | Si adotta il valore raccomandato Qx-0.6001018- |
+| 4.4.2(4) | Nota | Come valore minimo dell'azione trasversale si adotta il valore raccomandato, pari al 25% dell'azione longitudinale di frenamento o accelerazione. |
+| 4.5.1 | Tavola 4.4a | Per i valori di combinazione si adotta il valore 0. |
+|  | Nota a |  |
+| 4.5.1 | Tavola 4.4a | Valore di combinazione |
+|  | Nota b | Si adotta il valore 2.5 kN/m-. |
+| 4.5.2(1) | Nota 3 | Non sono richieste verifiche con la combinazione infrequente. |
+| 4.6.1(2) | Punto c) | Non si forniscono condizioni specifiche. |
+| 4.6.1(2) | Punto e) | Non si definiscono dati o condizioni specifiche addizionali. La possibilità di interazione tra veicoli deve essere valutata caso per caso. |
+| 4.6.1(2) | Nota 2 | * Il nunto d si applica ai soli modelli 3 e 4 (vedi rif. 4.6.6(1) nota), * Non si tratta di parametro nazionale, ma di correzione di errore materiale, consistente in errato riferimento al modello S. |
+| 4.6.1(2) | Nota 4 | Non sono ammesse riduzioni dei valori dei modelli di carico a fatica I e 2 |
+| 4.6.1(3) | Nota 1 | In assenza di studi specifici, sulle corsie lente si adottano i flussi annui di veicoli pesanti indicati in tabella 4.5. Per le corsie veloci si possono adottare flussi pari al |
+|  |  | 10% del flusso considerato sulla corsia lenta. |
+| 4.6.1(6) | Nota | Si adotta l'espressione raccomandata (4.7). |
+| 4.6.4(3) | Nota | Si adottano le modalità raccomandate di applicazione del secondo veicolo. |
+| 4.6.5(1) | Nota 2 | Non vengono definiti altri veicoli standard o altre composizioni di traffico. |
+| 4.6.6(1) | Nota | Il modello 5 può essere utilizzato sia per verifiche di danneggiamento, sia per |
+|  |  | verifiche con vita a fatica illimitata. Si adotta l'appendice informativa B. |
+| 4.7.2.1(1) | Nota | Per gli urti dovuti a veicoli erratici si può operare come indicato nel seguito. |
+|  |  | Per le pile o altri elementi strutturali di sostegno del ponte gli urti dei veicoli possono essere rappresentati mediante forze equivalenti orizzontali. |
+|  |  | In assenza di determinazioni più accurate e trascurando la capacità dissipativa della |
+|  |  | struttura, se l'impatto è considerato avvenire nella direzione di marcia del veicolo, si |
+|  |  | possono adottare le forze statiche equivalenti Fax riportate in tabella. |
+|  |  | Tipo di strada Forza Fdx [kN] |
+|  |  | Autostrade, strade extraurbane principali e secondarie 1000 |
+|  |  | 750 Strade locali |
+|  |  | Strade urbane 200 |
+
+{64}------------------------------------------------
+
+|  |  | Se l'impatto è considerato avvenire in direzione perpendicolare alla direzione di marcia si adotta Fdy-0.5 Fax- |
+| --- | --- | --- |
+|  |  | Dette forze sono considerate applicate su un'area di altezza 0.5 m e larghezza parr al |
+|  |  | valore minimo tra la larghezza dell'elemento e 1.50 m. il cui bancentro è posto ad |
+|  |  | un'altezza di 1.25 m al di sopra del piano stradale |
+|  |  | Si veda anche EN 1991-1-7. |
+| 4.7.2.2(1) | Nota 1 | Gli unti su elementi orizzontali posti al di sopra della strada dovuti a veicoli di altezza |
+|  |  | abaorme nossono essere simulati, in assenza di studi specifici e trascurando la capacità |
+|  |  | dissipativa della struttura, mediante una forza risultante di collisione P, applicata sulla |
+|  |  | superficie verticale (prospetto dell'elemento strutturale) e distribuita su un'area |
+|  |  | quadrata di 0.25 m di lato. La forza F, da utilizzare per le verifiche dell'equilibrio statico o della resistenza o della capacità di deformazione degli elementi strutturali, è |
+|  |  | data da Fer Fa., essendo F ... data nella nota al $4.7.2.1(1). Il fattore r è uguale a 1.0 |
+|  |  | per altezze del sottovia fino a 5 m. è uguale a 0 per altezze superiori a 6.0 m e varia |
+|  |  | linearmente tra 5.0 e 6.0 m. Sull'intradosso dell'elemento strutturale si considerano gli |
+|  |  | stessi carichi da urto F di cui sopra, con un'inclinazione verso l'alto di 10°. |
+|  |  | Si veda anche EN 1991-1-7. |
+| 4.7.3.3(1) | Nota 1 | I sicurvia e gli elementi strutturali ai quali sono collegati devono essere dimensionati |
+|  |  | in funzione della classe di contenimento richiesta per l'impiego specifico (vedi D.M. 21-06-04 n. 2367). In mancanza di specifiche indicazioni si deve comunque |
+|  |  | considerare una forza orizzontale di valore non inferiore a 100 kN, raccomandato per |
+|  |  | la classe A in Tabella 4.9(a). |
+| 4.7.3.3(1) | Nota 3 | Nel progetto dell'impalcato deve essere considerata una condizione di carico |
+|  |  | eccezionale nella quale alla forza orizzontale d'urto su sicurvia si associa un carico |
+|  |  | vertiçale isolato sulla sede stradale costituito dal LM2, posizionato in adiacenza al |
+|  |  | sicurvia stesso e disposto nella posizione più gravosa. |
+| 4.7.3.3(2) | Nota | Il carico di progetto della struttura alla quale il parapetto è vincolato deve essere non |
+|  |  | inferiore a 1.5 volte la resistenza caratteristica del parapetto. |
+| 4.7.3.4(1) | Nota | Si adotta la formulazione proposta, per cui le forze da considerare sono quelle indicate |
+|  |  | al § 4.7.2.1(1). |
+| 4.8(1) | Nota 2 | Per le azioni sui parapetti pedonali, per i ponti pedonali o ciclabili e per le passerelle di |
+|  |  | servizio si adotta un valore di 1.5 kNm; come carico variabile, appliçato |
+|  |  | orizzontalmente o verticalmente in testa al parapetto. |
+| 4.8(3) | Nota | Per il carico di progetto della struttura che supporta il parapetto si adotta il valore 1.5 |
+|  |  | volte la resistenza caratteristica del parapetto. |
+| 4.9.1(1) | Nota 1 | Si adotta il modello raccomandato. |
+| 5.2.3(2) | Nota | Si adottano i modelli raccomandati. |
+| 5.3.2.1(1) | Nota | Si adotta il valore raccomandato qn=5.0 kN/m². |
+| 5.3.2.2(1) | Nota | Si adotta il valore raccomandato. |
+| 5.3.2.3(1)P | Nota 1 | Si adotta, come raccomandato, il veicolo definito in 5,6.3. |
+| 5.4(2) | Nota | Si adotta il valore raccomandato. |
+| 5.6.1(1) | Nota | Altre forze d'urto sono da definirsi per il singolo progetto. |
+| 5.6.2.1(1) | Nota 1 | Per gli urti dovuti a veicoli erratici si può operare come indicato nel seguito. |
+|  |  | Per le pile o altri elementi strutturali di sostegno del ponte gli urti dei veicoli possono essere rappresentati mediante forze equivalenti orizzontali. |
+
+|  |  | Fire for a company of the first for former of The Bank Bank Submit Submit Submit Company of Children Company |  | but the first and the bear to the been and CARACTER FOR AND |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  | CHARRE |  |
+|  |  | .. |  |  |  |
+| 100 00 |  |  |  |  |  |
+| STATUTE OF THE FORM THE FOR |  |  |  | -14-0550 |  |
+| ** |  | ESSAF M SESSARABAR SESSENTS M SESSOF ESSAULT SE | TABESTERMETTERSENSESSESSMENTEMENTS SESSENSE ME |  |  |
+|  |  |  |  | -0.00 |  |
+| PRIVETY | 2007 | 150 | Contraction of the result of | 100 100 2007 11:30 |  |
+| MANTAVERAMELY VAMILLY VANULU VITWALL MAN | 10.00 |  | EXETSPECTS/ARANTESTSALES/S/S/FFSAFTAR | SAATESAFETAFFACES/SACESS SAFFACESSOFT SALES/ 158 T SET |  |
+|  |  |  |  | A BOOK COLLECT COLLEGION OF COLLECTION OF CLEASE OF COLLECTION OF CLEASE OF COLLECTION OF COLLECTION OF CLEASE OF COLLECTION OF CLEASE OF CONSULTS OF CONSULTS OF CONSULTS OF |  |
+| CHAND CILS | STATE AND THE FORM THE FORM THE FOR | CARDER 100 10 | PACE AND PARTY OF COLLECTION OF CO | SA THE PARTY 1 11/11/2017 | Carlos |
+| SENSORAPSESSANCES/MARKEMARES SPETTSATESSATTAGAS |  |  | ERESSMENT SERSTERNET SERVED TO FEESSARIE STEEN STORES SOUTH | ** |  |
+| of the R. L. B. B. B. |  | A SE CALL BE THE FOR |  | Manager of the province of the a man |  |
+|  |  |  |  | CANNA |  |
+
+{65}------------------------------------------------
+
+|  |  | In assenza di determinazioni più accurate e trascurando la capacità dissipativa della |
+| --- | --- | --- |
+|  |  | struttura, se l'impatto è considerato avvenire nella direzione di marcia del veicolo, si |
+|  |  | possono adottare le forze statiche equivalenti Fax riportate in tabella. |
+|  |  | Tipo di strada Forza Fax [kN] |
+|  |  | 1 000 Autostrade, strade extraurbane principali e secondarie |
+|  |  | Strade locali 750 |
+|  |  | 500 Strade urbane |
+|  |  | Se l'impatto è considerato avvenire in direzione perpendicolare alla direzione di |
+|  |  | marcia si adotta Fav 0.5-Fax. |
+|  |  | Dette forze sono considerate annicate su un'area di altezza 0.5 m e larghezza pari al |
+|  |  | valore minimo tra la larghezza dell'elemento e 1.50 m, il cui baricentro è posto ad |
+|  |  | un'altezza di 1.25 m al di sopra del piano stradale |
+|  |  | Si veda anche EN 1991-1-7. |
+| 5.6.2.2(1) | Nota 1 | Gli urti su elementi orizzontali posti al di sopra della strada dovuti a veicoli di altezza |
+|  |  | abnorme possono essere simulati, in assenza di studi specifici e trascurando la capacità |
+|  |  | dissipativa della struttura, mediante una forza risultante di collisione F, applicata sulla |
+|  |  | superficie verticale (prospetto dell'elemento strutturale) e distribuita su un'area |
+|  |  | quadrata di 0.25 m lato. La forza F, da utilizzare per le verifiche dell'equilibrio statico |
+|  |  | o della resistenza o della capacità di deformazione degli elementi strutturali, è data da |
+|  |  | F=r-F., essendo Fi, data nella nota al 64.7.2.1(1). Il fattore r è uguale a 1.0 per altezze del sottovia fino a 5 m, è uguale a 0 per altezze superiori a 6.0 m e varia |
+|  |  | linearmente tra 5.0 e 6.0 m. Sull'intradosso dell'elemento strutturale si considerano gli |
+|  |  | stessi carichi da urto F di cui sopra, con un'inclinazione verso l'alto di 10°. |
+|  |  | Si veda anche EN 1991-1-7. |
+| 5.6.3(2) | Nota 2 | Si adotta il modello raccomandato. |
+| 5.7(3) | Nota | Si adotta la procedura dell'Appendice 2 EN 1990. |
+|  | Indicazioni | Le decisioni che nell'EN1991-2 sono demandate all'Antorità competente in relazione |
+|  |  | ai ponti ferroviari saranno predisposte dal Committente dell'onera, previo parere, per |
+|  | aggiuntive per | gli aspetti di sicurezza, del Consiglio Superiore dei Lavori Pubblici. |
+|  | ponti ferroviari |  |
+| 6.1(2) | Nota | Non si forniscono modelli di carico alternativi. |
+|  |  | Da definirsi per il singolo progetto. |
+| 6.1(3)P | Nota |  |
+| 6.1(7) | Nota | Da definirsi per il singolo progetto. |
+|  |  | I valori del coefficiente di adattamento o sono variabili in ragione della tipologia |
+| 6.3.2(3)P | Nota | dell'infrastruttura (ferrovie ordinarie, ferrovie leggere, metropolitane ecc). Il |
+|  |  | coefficiente di adattamento moltiplica i carichi dei modelli LM71, SW/0 e SW/2. |
+| 6.3.3(4)P | Nota | Da definirsi per il singolo progetto. |
+| 6.4.4 | Nota | Nella progettazione dei ponti ferroviari dovrà effettuarsi una analisi dinamica, |
+|  |  | adottando convogli reali e parametri di controllo specifici dell'infrastruttura e del tipo |
+|  |  | di traffico ivi previsto |
+|  |  | quando la frequenza propria della struttura non ricade all'interno del fuso |
+|  |  | indicato in Fig. 6.10, indipendentemente dalla velocità di percorrenza, per ponti |
+|  |  | di tipologia usuale; |
+|  |  | in ogni caso, per ponti di tipologia non convenzionale (ponti strallati, ponti |
+|  |  | sospesi, ponti di grande luce, ponti metallici difformi dalle tipologie in uso in |
+|  |  | ambito ferroviario, ecc.). |
+| 6.4.5.2(3)P | Nota | Da definirsi per il singolo progetto. |
+
+{66}------------------------------------------------
+
+| 6.4.5.3(1) | Nota | Si adottano i valori raccomandati in tabella 6.2, con le seguenti modifiche: |
+| --- | --- | --- |
+|  |  | in 2.3 Lo-luce della trave trasversale |
+|  |  | in 3.2 @3=2 ove non meglio specificato |
+|  |  | in 3.4 La luce della trave frasversale |
+|  |  | in 4.5 se e<0,5m: Φ2=1,67 |
+|  |  | e l'aggiunta dei punti 5.3.a (solette e altri elementi di scatolari), 6.1 e 6.2 (supporti |
+|  |  | strutturali): |
+|  |  | 5.3.a Solette ed altri elementi di scatolari per uno o più binari (sottovia di altezza |
+|  |  | libera ≤5.0 m e altezza libera ≤8,0 m): Φ2 = 1,20; Φ3 = 1,35. Per gli scatolari che non |
+|  |  | rispettano i limiti precedenti vale il punto 5.3, trascurando la presenza della soletta |
+|  |  | inferiore e considerando un coefficiente riduttivo del @ pari a 0.9. da applicare al |
+|  |  | coefficiente . |
+|  |  | 6.1 Pile con snellezza A>30 |
+|  |  | Lo = Somma delle lunghezze delle campate adiacenti la pila |
+|  |  | 6.2 Appoggi, calcolo delle tensioni di contatto al di sotto degli stessi e tiranti di |
+|  |  | sospensione |
+|  |  | Lo = Lunghezza degli elementi sostenuti. |
+| 6.4.5.3 | Tabella 6.2 | La nota "a" diventa: "In generale tutte le mensole di luce superiore a 0.50 m sottoposte |
+|  |  | a carichi da traffico ferroviario necessitano uno studio dedicato in accordo con 6.4.6 e |
+|  |  | con un carico da definirsi per il singolo progetto" |
+| 6.4.6.1.1(6) | Tabella 6.4 | Non si aggiungono ulteriori specifiche per l'uso dei modelli HSLM-A e HSLM-B su strutture complesse o travi continue. |
+| 6.4.6.1.1(7) | Nota | Da definirsi per il singolo progetto. |
+| 6.4.6.1.2(3) | Tabella 6.5 | Il carico a cui si fa riferimento nella nota "a" è da definirsi per il singolo progetto. |
+| 6.4.6.3.1(3) | Tabella 6.6 | Si adottano per C i valori raccomandati in Tabella 6.6. |
+| 6.4.6.3.2(3) | Nota | Valori più attendibili della densità possono essere dedotti in base a risultati di prove |
+|  |  | condotte in accordo con le EN 1990, EN 1992 e ISO 6784. |
+| 6.4.6.3.3(3) | Nota 1 | Valori più attendibili dei modulo elastico Em possono essere dedotti in base a risultati |
+|  |  | di prove condotte in accordo con le EN 1990, EN 1992 e ISO 6784. |
+| 6.4.6.3.3(3) | Nota 2 | Non si applica. |
+| 6.4.6.4(4) | Nota 1 | Non si applica. |
+| 6.4.6.4(4) | Nota 2 | Si adottano per AC i valori proposti in 6.4.6.4(4) . |
+| 6.4.6.4(5) | Nota | Si adottano per ø" i valori proposti nell'Annesso C. |
+| 6.5.1(2) | Nota | Si adotta per h, il valore proposto in 6.5.1(2). |
+| 6.5.3(5) | Nota | Da definirsi per il singolo progetto. |
+|  |  | Nel caso di ponti a doppio binario si devono considerare due treni in transito in versi |
+| 6.5.3(9)P | Nota | opposti, uno in fase di avviamento, l'altro in fase di frenatura. |
+|  |  | Nel caso di ponti a più di due binari, si deve considerare: |
+|  |  | un primo binario con la massima forza di frenatura; |
+|  |  | un secondo binario con la massima forza di avviamento nello stesso verso della forza di frenatura; |
+|  |  | un terzo ed un quarto binario con il 50% della forza di frenatura, concorde con le |
+
+{67}------------------------------------------------
+
+| precedenti; | altri eventuali binari privi di forze orizzontali. |  |  |  |
+| --- | --- | --- | --- | --- |
+| Da definirsi per il singolo progetto. | 6.5.4.1(5) | Nota |  |  |
+| Per onere direttamente esposte alle azioni atmosferiche, in mancanza di studi | Note 1 e 2 | 6.5.4.3.(2) | approfonditi, si adottano per ATN i valori seguenti: |  |
+| AT = ± 15°C | Impalcato in calcestruzzo, c.a. e c.a.p. | ■ | AT = ± 15°C | Impalcato in struttura mista acciaio - calcestruzzo |
+| Impalcato con strutture in acciaio ed armamento su ballast | AT = ± 20°C | Impalcato con strutture in acciaio ed armamento diretto | AT = + 25°C |  |
+| ■ | ■ | Strutture in calcestruzzo | AT = ± 15°C. |  |
+| La figura 6.20 è sostituita con le figure seguenti 6.20.a, 6.20.b e 6.20.c in cui sono | 6.5.4.4(2) | Figura 6.20 | riportati i legami tra la resistenza longitudinale allo scorrimento e lo scorrimento |  |
+| Nota 1 | longitudinale per metro per il singolo binario, in caso di posa su ballast, posa diretta | con attacco tradizionale indiretto di tipo K e posa diretta con attacco elastico, |  |  |
+| rispettivamente. |  |  |  |  |
+| Fig. 6.20.a - Legame tra resistenza allo scorrimento e scorrimento longitudinale per metro per ll | singolo binario (posa su ballast) |  |  |  |
+| Fig. 6.20.b - Legame tra resistenza allo scorràmento e scorrimento longitudinate per metro per il | singolo binario (posa diretta con attacco tradizionale indiretto di tipo K) |  |  |  |
+| tonal |  |  |  |  |
+| 35 REG |  |  |  |  |
+| 13 KESH |  |  |  |  |
+| 1 05 run |  |  |  |  |
+| Fig. 6.20.c - Legame tra resistenza allo scorrimento e scorrimento longitudinale per metro per il | singolo binario (posa diretta con attacco elastico) |  |  |  |
+
+{68}------------------------------------------------
+
+|  |  | Nel caso di posa su ballast, la forza di scorrimento longitudinale q, in assenza di carico |
+| --- | --- | --- |
+|  |  | verticale da traffico, è assunta pari a 12.5 kN/m su rilevato e a 20 kN/m su ponte, |
+|  |  | mentre in presenza di un carico verticale da traffico di 80 kN/m, è assunta pari a 60 |
+|  |  | kN/m. Per carichi diversi i valori della resistenza si otterranno per interpolazione o |
+|  |  | estrapolazione lineare. In tutti i casi si assume uno spostamento di soglia di 2 mm, per |
+|  |  | cui risulta univocamente definita la rigidezza iniziale. |
+|  |  | Nel caso di binario con posa diretta, la resistenza allo scorrimento q dipende dal tipo di attacco e dalla forza di serraggio, oltre che dal carico verticale applicato, come |
+|  |  | descritto nel seguito. Dette norme non si applicano alle opere d'arte con armamento di |
+|  |  | tipo innovativo. |
+|  |  | Per l'attacco indigetto di tipo K tradizionale, la forza di scorrimento longitudinale q è |
+|  |  | assunta, per interasse fra le traverse di 0.6 m, 50 kN/m in assenza di carico verticale da |
+|  |  | traffico e 80 kN/m in presenza di un carico verticale da traffico di 80 kN/m. |
+|  |  | Per l'attacco elastico, la forza di scorrimento longitudinale q è assunta pari a 13 kN/m |
+|  |  | in assenza di carico verticale da traffico e a 35 kN/m in presenza di un carico verticale |
+|  |  | da traffico di 80 kN/m. |
+|  |  | Nel caso di posa diretta e per carichi verticali da traffico diversi, i valori della |
+|  |  | resistenza si otterranno per interpolazione o estrapolazione lineare. In tutti i casi si |
+|  |  | assume uno spostamento di soglia di 0.5 mm, per cui risulta univocamente definita la |
+|  |  | rigidezza iniziale. |
+| 6.5.4.5 | Nota | Non si specificano prescrizioni alternative. |
+| 6.5.4.5.1(2) | Nota 1 | Si adotta per tutti i casi r ≥ 1500 m. |
+| 6.5.4.5.1(2) | Nota 2 | Per rotaie UIC 60 con resistenza di 900 N/mm² si adottano i valori proposti in |
+|  |  | 6.5.4.5.1(1). |
+| 6.5.4.6 | Nota | Non si specificano metodi di calcolo alternativi. |
+| 6.5.4.6.1(1) | Nota | Si adottano i criteri raccomandati. |
+| 6.5.4.6.1(4) | Nota | Si adottano i valori richiamati al precedente punto 6.5.4.4.(2). |
+| 6.6.1(3) | Nota | Si adottano i valori raccomandati nei paragrafi da 6.6.2 a 6.6.6. |
+|  |  | Non si specificano prescrizioni e/o carichi alternativi. |
+| 6.7.1(2)P | Nota |  |
+| 6.7.1(8)P | Note 1 e 2 | Si adottano i modelli e i valori riportati nel seguito: |
+|  |  | Deragliamento sopra il ponte |
+|  |  | Oltre a considerare i modelli di carico verticale da traffico ferroviario, ai fini della |
+|  |  | verifica della struitura si dovrà tenere conto della possibilità alternativa che un |
+|  |  | locomotore o un carro pesante deragli, esaminando separatamente le due seguenti |
+|  |  | situazioni di progetto: |
+|  |  | Caso I: Si considerano due carichi verticali lineari qnid= 60 kN/m (comprensivo |
+|  |  | dell'effetto dinamico) ciascuno (fig. a). |
+|  |  | Trasversalmente i carichi distano fra loro di s (scartamento del binario) e possono |
+|  |  | assumere tutte le posizioni comprese entro i limiti indicati in Fig. a. Per questa |
+|  |  | condizione sono tollerati danni locali, purché possano essere facilmente riparati, |
+|  |  | mentre sono da evitare danneggiamenti delle strutture portanti principali. |
+
+{69}------------------------------------------------
+
+![](0__page_69_Figure_3.jpeg)
+
+{70}------------------------------------------------
+
+|  |  | · nulle per una distanza d > 1 5 m. |
+| --- | --- | --- |
+|  |  | Queste forze dovranno essere applicate a 1,80 m dal piano del ferro e non dovranno |
+|  |  | essere considerate agenti simultaneamente. |
+| 6.7.3(1)P | Nota | Si accettano le azioni proposte nel paragrafo 6.7.3(1)P. |
+|  |  | Ulteriori azioni possono essere specificate per i singoli progetti. |
+|  |  | Si dovrà considerare, come azione eccezionale, l'eventualità che si verifichi la rottura |
+|  |  | della catenaria nel punto più sfavorevole per la struttura del ponte. La forza trasmessa |
+|  |  | alla struttura in conseguenza di un simile evento si considererà come una forza di |
+|  |  | natura statica agente in direzione parallela all'asse dei binari, di intensità pari a ± 20 |
+|  |  | kN e applicata sui sostegni alla quota del filo. |
+|  |  | In funzione del numero di binari presenti sull'opera si assumerà la rottura simultanea |
+|  | તો: |  |
+|  |  | per ponti con un binario; ] catenaria |
+|  |  | 2 catenarie per ponti con un numero di binari compreso fra 2 e 6; |
+|  |  | 3 catenarie per ponti con più di sei binari. |
+|  |  | Nelle verifiche saranno considerate totte le catenarie che determinano l'effetto più |
+|  |  | sfavorevole. |
+| 6.8.1(1)P | Tabella 6.10 | Da definirsi per il singolo progetto. |
+|  | Nota |  |
+| 6.8.2(2) | Tabella 6.1 1 | In sostituzione di quelli previsti nella tabella 6.11, si adottano i seguenti gruppi di |
+|  |  | azioni |
+|  | Nota | Azioni orizzontali TIPO DI CARKCO Azioni verticali |
+|  |  | Trene Frenatura Commenti Carico |
+|  |  | Centrifuga Gruppo di carico scarico .. Serpeggio verticale (1) |
+|  |  | (1) avviamento |
+|  |  | massima azione Gruppo. 1 O.S (0.0) 1.0 (0.0) 1.0 (0.0) vertiçale e |
+|  |  | (2) |
+|  |  | laterale |
+|  |  | Gruppa. 2 0.00 1.0 (0.0) 1,0(0.0) stabilità laterale (2) |
+|  |  | Gruppe. 3 massima azione 1,0 (0,5) 0.5 (0.0) 0.5 (0.0) |
+|  |  | longitudinale (2) |
+|  |  | Gruppe, 4 0.8 (0.6;0.4) 0.8 (0.6;0.4) 0.8 (0.6;0.4) 0.8 (0.6;0.4) fessurazione |
+|  |  | Azione domina dendo este i fattori ad essi selativi (@,a, occ., |
+|  |  | timultaesità di des o tre valori canatteristici intern (ansumerono di diversi coefficienti pari ad 1), sebbene |
+|  |  | lontbilt, è stata considerata come semptificazione per i gruppi di cacico 1, 2, 3 e 4, senza che cilo abbia |
+|  |  | nearive consequence provettuali |
+|  |  | Quando l'azione risulta favorevole nei riguardi della verifica che si sta svolgendo |
+|  |  | vanno assunti i valori indicati in tabella fra parentesi. |
+|  |  | Il gruppo 4 è da considerarsi esclusivamente per le verifiche a fessurazione. I valori |
+|  |  | indicati fra parentesi si assumeranno pari a: (0.6) per impalcati con 2 binari caricati e |
+|  |  | (0.4) per impalcati con tre o più binari caricati. |
+| 6.8.3.1(1) | Nota | Si adotta, quando rilevante, la regola raccomandata. Per le verifiche a fessurazione si |
+|  |  | dovrà considerare il gruppo di carico 4 della tabella del §6.8.2.2(2). |
+| 6.8.3.2(1) | Nota | Si adotta il valore nullo raccomandato. |
+| 6.9(6) | Nota | Si adotta il valore raccomandato 100 anni. |
+| 6.9(7) | Nota | Da definirsi per il singolo progetto. |
+
+{71}------------------------------------------------
+
+| Appendice C(3)P | Nota 1 | Quando non è appositamente specificata l'espressione (C.2), si deve adottare l'espressione (C.1 ), come raccomandato. |
+| --- | --- | --- |
+| Appendice | Nota 2 | Non si applica. |
+| C(3)P |  |  |
+| Appendice | Nota | Si adotta il valore YFr =1,00 raccomandato. |
+| D2(2) |  |  |
+| Utilizzo appendici |  | Le Appendici informative A, B, E, F, G, H mantengono il carattere informativo. |
+|  | informative |  |
+
+{72}------------------------------------------------
+
+![](0__page_72_Picture_3.jpeg)
+
+Intrastrutture e dei rasporti
+
+## UNI EN 1991-3:2006
+
+# Eurocodice 1: Azioni sulle strutture Parte 3: Azioni indotte da gru e da macchinari
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-3:2006
+
+# Parametri adottati a livello nazionale
+
+da utilizzare nelle azioni indotte da gru e da macchinari
+
+![](0__page_72_Picture_10.jpeg)
+
+{73}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1991-3 - Eurocodice 1 - Azioni sulle strutture: Parte 3: Azioni indotte da gru e macchinari. EN-1991-3 - Eurocode 1 - Actions on structures -- Part 3: Actions induced by cranes and machinery
+
+## 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1991-3, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+## 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1991-3 relativamente ai seguenti paragrafi:
+
+- 2.1(2) Procedure quando le azioni sono fornite da gru
+- 2.5.2.1(2) Eccentricità del carico ruota
+- 2.5.3(2) Massimo numero di gru da considerare nella condizione più sfavorevole
+- 2.7.3(3) Valore del coefficiente d'attrito
+- A2.2(1) Definizione dei coefficienti y - per i casi STR e GEO
+- Definizione dei coefficienti y per il caso EQU A2.2(2)
+- A2.3(1) Definizione dei coefficienti y
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1991-3.
+
+## 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1991-3 - Azioni sulle strutture: Azioni indotte da gru e macchinari.
+
+{74}------------------------------------------------
+
+## 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.1(2) | Nota | Ai fini del progetto e verifica delle vie di corsa si possono impiegare i valori delle |
+|  |  | azioni specificate nel progetto della gru. |
+| 2.5.2.1(2) | Nota | Si adotta il valore raccomandato: e = 0.25 b. |
+| 2.5.3(2) | Nota | Si adotta la tabella 2.3 raccomandata. |
+| 2.7.3(3) | Nota 2 | Si adottano i valori raccomandati: |
+|  |  | u = 0,20 per contatto acciaio - acciaio; |
+|  |  | u = 0.50 per contatto acciaio - gomma. |
+| A.2.2(1) | Nota 2 | Si adottano i valori raccomandati nella tabella A.1: |
+| A.2.2(2) | Nota | Si adottano i seguenti valori: |
+|  |  | YGem = 1.10; |
+|  |  | Ycint = 0.90. |
+|  |  | Per gli altri casi vale quanto riportato (con modifiche) in A.2.2(1). |
+| A.2.3(1) | Nota | Si adottano i valori raccomandati. |
+
+L'Annesso A conserva valore normativo.
+
+L'Annesso B conserva valore informativo.
+
+{75}------------------------------------------------
+
+![](0__page_75_Picture_2.jpeg)
+
+astrutture ou orti
+
+## UNI EN 1991-4:2006
+
+# Eurocodice 1: Azioni sulle strutture Parte 4: Azioni su silos e serbatoi
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1991-4:2006
+
+# Parametri adottati a livello nazionale da utilizzare per le azioni su silos e serbatoi
+
+{76}------------------------------------------------
+
+## Appendice Nazionale
+
+UNI EN 1991-4 - Eurocodice 1 - Azioni sulle strutture - Parte 4: Azioni su silos e serbatoi EN 1991-4 Eurocode 1 "Actions on structures - Part 4: Silos and tanks"
+
+#### 1) Premessa
+
+Questa appendice nazionale, contenente i Parametri Determinati in sede Nazionale (NPD) per la UNI-EN 1991-4, è stata approvata dal Consiglio Superiore dei LL.PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+## 2.1 Campo di applicazione
+
+Questa appendice nazionale contiene, al punto 3, le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN 1991-4, relativamente ai sequenti paragrafi
+
+- 2.5 (5) 1
+- 3.6 (2)
+- 5.2.4.3.1 (3) l
+- 5.4.1 (3) =
+- 5.4.1 (4) –
+- -A.4 (3)
+- B.2.14 (1) =
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, debbono essere applicati in Italia per l'impiego della UNI-EN 1991-4.
+
+## 2.2 Documenti normativi di riferimento
+
+la presente appendice deve essere considerata quando si utilizzino i documenti normativi che fanno riferimento alla UNI-EN 1991-4: Azioni sulle strutture -Parte 4 - Azioni su silos e serbatoi.
+
+{77}------------------------------------------------
+
+| Paragrafo | Rif. | Parametro Nazionale. |
+| --- | --- | --- |
+|  |  | valore o prescrizione |
+| 2.5 | (5) | Si adotta la classificazione proposta nella tabella 2.1 |
+| 3.6 | (2) | Nessuna indicazione aggiuntiva |
+| 5.2.4.3.1 | (3) | Si adottano i valori raccomandati |
+| 5.4.1 | (3) | Si adotta la procedura raccomandata |
+| 5.4.1 | (4) | Si adotta la procedura raccomandata |
+| Annesso A |  | L'Annesso A mantiene il carattere informativo |
+| A.4 | (3) | Si adottano i valori e le combinazioni raccomandate |
+|  |  | sequenti: |
+|  |  | - Tabella A.1 |
+|  |  | - Tabella A.2: uso non consentito |
+|  |  | - Tabella A.3, come di seguito modificata |
+|  |  | - Tabella A.4, come di seguito modificata |
+|  |  | - Tabella A.5, come di seguito modificata. |
+|  |  | Tabella A.3 |
+|  |  | I valori di vn. o V21, nella colonna "Accompanying |
+|  |  | variable action 1 (main)", per entrambe le righe "E" e |
+|  |  | "V", sono integrati da: Contenuto Liquido y¡¡= ½.¡¬1.0 |
+|  |  | Tabella A.4 |
+|  |  | I valori di 11.1 0 421, nella colonna "Accompanying |
+|  |  | variable action 1 (main)", nella riga "SF" sono integrati |
+|  |  | da: Contenuto Liquido y13=421=1.0 |
+|  |  | I valori di 19.1 0 421, nella colonna "Accompanying |
+|  |  | variable action 1 (main)", nella riga "SE" sono |
+|  |  | modificati in: Contenuto Solido o Liquido γη γε γε γ=0.0 |
+
+#### 3) Decisioni nazionali
+
+{78}------------------------------------------------
+
+|  |  | Tabella A.5 |
+| --- | --- | --- |
+|  |  | l valori di via o ve . nella colonna "Accompanving variable action 1 (main)", in tutte le righe sono integrati da: Contenuto Liquido yn.1=42,1=1.0. |
+| Annesso B |  | L'Annesso B mantiene il carattere informativo |
+| 8.2.14 (1) | Non sono fornite indicazioni aggiuntive |  |
+| Annesso F |  | L'Annesso F mantiene il carattere informativo |
+| Annesso H |  | L'Annesso H mantiene il carattere informativo |
+
+{79}------------------------------------------------
+
+![](0__page_79_Picture_3.jpeg)
+
+e. Intrastrutture rasporti
+
+# UNI EN 1992-1-1:2005
+
+Eurocodice 2: Progettazione delle strutture di calcestruzzo Parte 1-1: Regole generali e regole per gli edifici
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1992-1-1:2005
+
+Parametri adottati a livello nazionale da utilizzare per la progettazione delle strutture di calcestruzzo
+
+
+
+
+{80}------------------------------------------------
+
+#### APPENDICE NAZIONALE
+
+UNI-EN1992-1-1: Eurocodice 2: Progettazione delle strutture di calcestruzzo - Part 1-1: Regole generali e regole per gli edifici
+
+EN 1992-1-1 Eurocode 2: Design of concrete structures - Part 1-1: General rules and rules for buildings
+
+#### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1992-1-1 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1992-1-1 relativamente ai seguenti paragrafi:
+
+| 2.3.3 (3) | 4.4.1.3 (4) | 6.4.3 (6) | 9.2.1.2 (1) | 9.10.2.3 (3) |
+| --- | --- | --- | --- | --- |
+| 2.4.2.1 (1) | 5.1.2 (1)P | 6.4.4 (1) | 9.2.1.4 (1) | 9.10.2.3 (4) |
+| 2.4.2.2 (1) | 5.2 (5) | 6.4.5 (3) | 9.2.2 (4) | 9.10.2.4 (2) |
+| 2.4.2.2 (2) | 5.5 (4) | 6.4.5 (4) | 9.2.2 (5) | 11.3.5 (1)P |
+| 2.4.2.2 (3) | 5.6.3 (4) | 6.5.2 (2) | 9.2.2 (6) | 11.3.5 (2)P |
+| 2.4.2.3 (1) | 5.8.3.1 (1) | 6.5.4 (4) | 9.2.2 (7) | 11.3.7 (1) |
+| 2.4.2.4 (1) | 5.8.3.3 (1) | 6.5.4 (6) | 9.2.2 (8) | 11.6.1 (1) |
+| 2.4.2.4 (2) | 5.8.3.3 (2) | 6.8.4 (1) | 9.3.1.1(3) | 11.6.1 (2) |
+| 2.4.2.5 (2) | 5.8.5 (1) | 6.8.4 (5) | 9.4.3(1) | 11.6.2 (1) |
+| 3.1.2 (2)P | 5.8.6 (3) | 6.8.6 (1) | 9.5.2 (1) | 11.6.4.1 (1) |
+| 3.1.2 (4) | 5.10.1 (6) | 6.8.6 (3) | 9.5.2 (2) | 12.3.1 (1) |
+| 3.1.6 (1)P | 5.10.2.1 (1)P | 6.8.7 (1) | 9.5.2 (3) | 12.6.3 (2) |
+| 3.1.6 (2)P | 5.10.2.1 (2) | 7.2 (2) | 9.5.3 (3) | A.2.1 (1) |
+| 3.2.2 (3)P | 5.10.2.2 (4) | 7.2 (3) | 9.6.2 (1) | A.2.1 (2) |
+| 3.2.7 (2) | 5.10.2.2 (5) | 7.2 (5) | 9.6.3 (1) | A.2.2 (1) |
+| 3.3.4 (5) | 5.10.3 (2) | 7.3.1 (5) | 9.7 (1) | A.2.2 (2) |
+|  | 5.10.8 (2) | 7.3.2 (4) | 9.8.1 (3) | A.2.3 (1) |
+| 4.4.1.2 (3) | 5.10.8 (3) | 7.3.4 (3) | 9.8.2.1 (1) | C.I (1) |
+| 4.4.1.2 (5) | 5.10.9 (1)P | 7.4.2 (2) | 9.8.3 (1) | C.1 (3) |
+| 4.4.1.2 (6) | 6.2.2 (1) | 8.2 (2) | 9.8.3 (2) | E.1 (2) |
+| 4.4.1.2 (7) | 6.2.2 (6) | 8.3 (2) | 9.8.4 (1) | J.1 (2) |
+| 4.4.1.2 (8) | 6.2.3 (2) | 8.6 (2) | 9.8.5 (3) | J.2.2 (2) |
+|  | 6.2.3 (3) | 8.8 (1) | 9.8.5 (4) | J.3 (2) |
+| 4.4.1.3 (2) | 6.2.4 (4) | 9.2.1.1 (1) | 9.10.2.2 (2) | 1.3 (3) |
+| 4.4.1.3 (3) | 6.2.4 (6) | 9.2.1.1 (3) |  |  |
+|  |  | e suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere os |  |  |
+|  | uando si utilizzi, in Italia, la UNI-EN 1992-1-1. |  |  |  |
+| 3.3.6 (7) 4.4.1.2 (13) |  |  |  |  |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1992-1-1.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN 1992-1-1 Progetto di strutture in calcestruzzo - Parte 1-1 : Regole generali e regole per gli edifici
+
+| A BE CARD FREE CARDER FREE PRODUCT FOR SEARTH CONTRACTORIAL |
+| --- |
+| PARTERS 1948 - 1998 |
+| STAFF START |
+| Book The Friday of |
+
+{81}------------------------------------------------
+
+#### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1992-1-1
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si adotta il valore raccomandato: djoint = 30 m. Per le strutture |
+| 2.3.3 (3) |  | prefabbricate questo valore può essere più alto che per le strutture |
+|  | Nota | gettate in opera per compensare la parte di deformazione viscosità e di |
+|  |  | ritiro che si produce prima della costruzione. |
+| 2.4.2.1 (1) | Nota | Si adotta il valore raccomandato ysH = 1,0 |
+|  |  | Si adotta il valore raccomandato % rav = 1,0 per situazioni di progetto |
+| 2.4.2.2 (1) | Nota | persistenti e transitorie. Il valore ½,fav = 1,0 può essere usato anche per |
+|  |  | la verifica a fatica. |
+| 2.4.2.2 (2) | Nota | Per l'analisi globale si adotta il valore raccomandato Ye, untav = 1,3. |
+| 2.4.2.2 (3) | Nota | Si adotta il valore raccomandato Yr,wfav = 1,2 |
+| 2.4.2.3 (1) | Nota | Si adotta il valore raccomandato YF fat = 1,0 |
+| 2.4.2.4(1) | Nota | Si adottano i valori contenuti nel Prospetto 2.1N: per il |
+|  |  | Prospetto 2.1N: Coefficienti di sicurezza parziali per gli stati limite |
+|  |  | ultimi per i materiali |
+|  |  | 's per gli Yc % per gli acciai Situazioni di acciai da |
+|  |  | da progetto armatura |
+|  |  | calcestruzzo precompressione ordinaria |
+|  |  | Persistenti e 1,5* 1,15 1,15 |
+|  |  | transitorie |
+|  |  | 1.0 1.0 1.0 Eccezionall |
+|  |  | * Nel caso di elementi piani (solette, pareti, ... ) gettati in opera e con spessori minori |
+|  |  | di 50 mm, si assume % = 1,875 |
+|  |  | * Il coefficiente Yc può essere ridotto da 1,5 a 1,4 per produzioni continuative di |
+|  |  | elementi o strutture soggette a controllo continuativo del calcestruzzo dal quale risulti |
+|  |  | un coefficiente di variazione (rapporto tra scarto quadratico medio e valor medio) |
+|  |  | della resistenza non superiore al 10%. Le suddette produzioni devono essere inserite |
+|  |  | in un sistema di qualità di cui al § 11.8.3. delle NTC 2008. |
+| 2.4.2.4 (2) | Nota | Per situazioni non coperte da parti specifiche di questo Eurocodice si |
+|  |  | adotta il valore raccomandato Yo =1 e % = 1 |
+| 2.4.2.5 (2) | Nota | Si adotta il valore di kr = 1,0 |
+
+{82}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si adotta il valore raccomandato: Cmax = 90/105 , tenendo presente che, per l'impiego delle classi |
+| 3.1.2 (2)P | Nota | C80/95 e C90/105, occorre specifica autorizzazione del Servizio |
+|  |  | Tecnico Centrale del Consiglio Superiore dei Lavori Pubblici. |
+|  |  | (vedi inoltre indicazioni aggiuntive) |
+| 3.1.2 (4) | Nota | Si adotta il valore k = 1,0 |
+|  |  | Si adotta il valore dec = 0,85 |
+| 3.1.6 (1)P | Nota: | Nelle sole verifiche di resistenza al fuoco si assumerà 000 = 1.0 |
+| 3.1.6 (2)P | Nota | Si adotta il valore raccomandato act = 1,0. |
+|  |  | Si adotta il limite superiore fok = 450 MPa |
+|  |  | È consentito l'uso dei soli acciai: |
+| 3.2.2 (3)P | Nota | B450C per i diametri 6 < ø < 40mm |
+|  |  | B450A per i diametri 5 < φ < 10 mm |
+| 3.2.7 (2) | Nota 1 | Si adotta il valore raccomandato Eug = 0,9 Euk- |
+|  |  | Si adotta il valore raccomandato k = 1,1 .. |
+| 3.3.4 (5) | Nota | fermo restando che le armature da precompressione devono possedere |
+|  |  | le proprietà meccaniche definite nel DM 14/01/2008(Norme Tecniche) |
+|  |  | al punto 11.3.3.2 caratteristiche meccaniche. |
+| 3.3.6 (7) | Nota | Si adotta il valore raccomandato Eud = 0,9&ik. Se non sono noti valori più accurati, i valori raccomandali sono |
+|  |  | Eud = 0,02 e foo th Ppk = 0,9. |
+|  |  | Per guaine circolari e rettangolari di armature post-tese aderenti e per armature da precompressione pre-tese, si adottano, per conino , i seguenti |
+|  |  | valori: |
+|  |  | Per guaine da precompressione per post-tensione: guaine di sezione circolare: comino = diametro della guaina stessa |
+|  |  | gualne di sezione rettangolare: Cmich = dimensione più piccola o metà della |
+| 4.4.1.2 (3) |  | dimensione più grande, se quest'ultima è superiore |
+|  | Nota | Non vi sono requisiti per copriferro di guaine circolari o rettangolari |
+|  |  | maggiore di 80 mm |
+|  |  | Per le armature pre-tese: |
+|  |  | Grieb = 2.0 x il diametro del trefolo o del filo liscio |
+|  |  | Caino = 1,5 x II diametro del trefolo o del filo liscio nei solai |
+|  |  | Corin > = 3.0 x il diametro del filo indentato. |
+
+{83}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si adotta la classe strutturale raccomandata (vita utile di progetto di 50 anni) pari a S4 per le resistenze indicative del calcestruzzo date nel Prospetto |
+|  |  | E1N con le modifiche delle classi strutturali raccomandate nel Prospetto |
+| 4.4.1.2 (5) | Nota | 4.3N. |
+|  |  | La Classe Strutturale minima raccomandata è S1. |
+|  |  | l valori raccomandati di Graindur sono dati nel Prospetto 4.4N (acciai da |
+|  |  | armatura ordinaria) e nel Prospetto 4.5N (acciai da precompressione). |
+| 4.4.1.2 (6) | Nota | Si adotta il valore raccomandato Accury = 0 mm. |
+| 4.4.1.2 (7) | Nota | Si adotta il valore raccomandato Δcdur,si = 0 mm. |
+| 4.4.1.2 (8) | Nota | Si adotta Il valore raccomandato Acidurada = 0 mm. |
+| 4.4.1 2 (13) | Nota | Si adottano i valori raccomandati k1 = 5 mm; k2 = 10 mm e k3 = 15 mm |
+| 4.4.1.3 (2) | Nota | Si adotta il valore raccomandato Aciev = 10 mm, |
+| 4.4.1.3 (3) | Nota | Si adottano i valori raccomandati: |
+|  |  | - se l'esecuzione è sottoposta ad un sistema sicuro di controllo della |
+|  |  | qualità, nel quale siano incluse le misure dei copriferri, la tolleranza |
+|  |  | ammessa nel progetto, Acoev , può essere ridotta: |
+|  |  | 10 mm ≥ △Cdey ≥ 5 mm (4.3N) |
+|  |  | - se si può assicurare che sia utilizzato un sistema di misura molto |
+|  |  | accurato per il monitoraggio e che gli elementi non conformi siano respinti |
+|  |  | (ad es. elementi prefabbricati), la tolleranza ammessa ΔCow può essere |
+|  |  | ridotta: |
+|  |  | (4.4N) 10 mm ≥ Acdey ≥ 0 mm |
+| 4.4.1 3 (4) | Nota | Si adottano i valori raccomandati ki = 40 mm e k2 = 75 mm. |
+|  |  | Per gli edifici, si adottano le disposizioni di carico semplificate raccomandate: |
+|  |  | (a) Campate alterne caricate con i carichi di progetto variabile e |
+|  |  | permanente (%Qx + %Gx+ Pm), le campate rimanenti caricate con il |
+| 5,1 .3 (1)P | Nota | solo carico di progetto permanente, %Gr + Pm- |
+|  |  | (b) Due qualsiasi campate adiacenti caricate con i carichi di progetto |
+|  |  | variabile e permanente (%Qx + 16Gx+ Pm), tutte le altre campate |
+|  |  | caricate con il solo carico di progetto permanente, 16Gx+ Pm . |
+| 5.2 (5) | Nota | Si adotta il valore raccomandato 60 = 1/200. |
+
+{84}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si adottano i valori raccomandati k = 0,44, |
+|  |  | K2 = 1,25 (0,6 + 0,0014 / Ecuz), |
+|  |  | k3 = 0.54. |
+| 5.5 (4) | Nota | K4 = 1,25 (0,6 + 0,0014 / Equ2), |
+|  |  | ks = 0,7 |
+|  |  | Per ka si adotta il valore: |
+|  |  | k6 = 0,85 |
+|  |  | EN è la deformazione ultima secondo il Prospetto 3.1. |
+|  |  | Si adottano i valori raccomandati di Aug . |
+|  |  | I valori raccomandati per le Classi di acciaio B e C (l'utilizzo di acciaio di |
+|  |  | Classe A non è consigliato per l'analisi plastica) e classi di resistenza del |
+|  |  | calcestruzzo minori o uguali a C50/60 e C90/105 sono dati nella Figura |
+|  |  | 5.6N. I valori per classi di resistenza del calcestruzzo da C 55/67 a C 90/105 possono essere interpolati. I valori si applicano per una snellezza a |
+|  |  | taglio } = 3.0. Per valori diversi della snellezza a taglio, si raccomanda di |
+|  |  | moltiplicare Bold per ki: |
+| 5.6.3 (4) | Nota | K. = - 213 (5.11N) |
+|  |  | Dove 2 è il rapporto tra la distanza fra i punti di momento nullo e momento |
+|  |  | massimo dopo la ridistribuzione e l'altezza utile, d. |
+|  |  | Più semplicemente 1 può essere calcolato per i valori di progetto |
+|  |  | concomitanti di momento flettente e taglio: |
+|  |  | A = Msd ( (Vsd . d) (5.12N) |
+|  |  | Si adotta il valore raccomandato di Am- |
+|  |  | Il valore raccomandato si calcola con l'espressione: |
+|  |  | 2 .. = 20 . A . B . Cl Jn (5.13N) |
+|  |  | dove: |
+|  | ﺃ | è il rapporto di snellezza così come definito in 5.8.3.2 |
+|  | A | = 1 / (1 + 0,2 @g) (se @x non è noto, si può adottare A = 0,7) |
+|  | в | = < 1 + 2@ (se w non è noto, si può adottare B = 1,1} |
+|  | C | = 1,7 ~ Im (se Im non è noto, si può adottare C = 0.7) |
+|  |  | coefficiente efficace di viscosità; vedere 5,8.4 ਉਸ |
+|  | 3 | = Astud (Asfed); rapporto meccanico di armatura |
+| 5.8.3.1 (1) | Nota: As | è l'area totale dell'armatura longitudinale |
+|  | પિ | = NEa / (Ac for); forza normale relativa |
+|  | I m | = Mo3 / Moz; rapporto tra i momenti |
+|  |  | Mot. Mo2 sono i momenti del primo ordine alle estremità, | Moz | ≥ |Mos | |
+|  |  | Se i momenti finali Moj e Mo2 provocano trazione sullo stesso lato, rm va |
+|  |  | assunto positivo (cioè C ≤ 1,7), In caso contrario negativo (cioè C > 1,7). |
+|  |  | Nei casi seguenti, si raccomanda di assumere rm pari a 1,0 (cioè C = 0,7): |
+|  |  | - per telai a nodi fissi soggetti solo a momenti del primo ordine o a momenti |
+|  |  | dovuti prevalentemente ad imperfezioni o a carico trasversale |
+|  |  | - per telai a nodi mobili in generale |
+
+| and a control be consider for any and Call Charles College of Children Company of Children C DA 2- 100 日本の方法 出来はあるというか | 出しています。 出来なんて | And State States of the States | 12 8 8 8 3 5 | . |  |
+| --- | --- | --- | --- | --- | --- |
+|  | SATURE |  | Carres States |  |  |
+|  |  | Caroline of the |  |  |  |
+| A Property of the Research and Children and STATUTE AND THE FORM OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF CONSULTION OF CONSULTION | CARDE SERVICE AND THE FOR | 20 11 2 2 0 0 2 3 Friday of the company of the comments of the comments of the comments of the comments of the comments of the first of the | And A Property 1 |  | . |
+| Theorer M VOLM V SOCIETY CLEW TO M TEM TEM T | MACSENSORATESSETS SEMPETT SESSEMBART TEST ENNETT SATES METTIAL | . |  | MENTNASSESSESSESSESSESSMENTESSANAFEEM |  |
+| Status Career States |  |  |  |  | CA MILLERY. |
+|  |  | STERE THE START |  |  |  |
+|  |  | M SYSCHIT SALE T MARACT MALE MALE SALE SE SE T M TEMAAN AND |  | NAMESFERANTERSANASEEST SALESARY |  |
+|  |  |  | BARRE |  |  |
+|  | 2 - 1 - 1 - 1 - 1 - | 100 100 A 400 |  |  |  |
+| 22 |  | 1 40 300 800 |  |  | Property Book |
+| SACAGAGAT SAFESFERE |  | (1) (1) (1) 0 ) 0 ) 0 ) |  |  |  |
+|  |  | ATHESA |  |  |  |
+| and and the contract and the first of the county of the county of | A 200 - 100 - | A STATE A STATE 83.002 | CALL CALL CONSULT OF |  |  |
+
+{85}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 5.8.3.3 (1) | Nota | Si adotta il valore raccomandato k1 = 0,31. |
+| 5.8.3.3 (2) | Nota 1 | Si adotta il valore raccomandato k2 = 0,62. |
+| 5.8.5 (1) | Nota | Si possono adottare entrambi i metodi semplificati (a) e (b) |
+| 5.8.6 (3) | Nota | Si adotta il valore raccomandato %E = 1,2. |
+| 5.10.1 (6) | Nota: | $i adottano i metodi generali A e B. In casi particolari si potranno adoțiare i |
+|  |  | metodi C.D.E. con adequata giustificazione. |
+|  |  | Si adottano i valori: |
+|  |  | k1 = 0,80 armatura pre-tesa |
+| 5.10.2.1 (1)P Nota: |  | k1 = 0,75 armatura post-tesa |
+|  |  | k2 = 0,90 armatura pre-tesa |
+|  |  | k2 = 0,85 armatura post-tesa |
+| 5.10.2.1 (2)P| Nota: |  | Si adotta il valore raccomandato ka = 0,95. |
+| 5.10,2.2 (4) | Nota: | Si adottano i valori raccomandati k4= 50 e k5= 30. |
+| 5.10.2.2 (5) | Nota | Si adotta il valore k6 = 0,70 |
+| 5.10.3 (2) | Nota | Si adottano i valori raccomandati k7 = 0,75 e Kg = 0,85. |
+| 5.10.8 (2) | Nota | Si adotta il valore raccomandato Ado,sLu = 100 MPa. |
+|  |  | Si adottano i valori raccomandati YoP.sup = 1,2 e YoP.inf = 0,8. |
+| 5.10.8 (3) | Nota | Se si eseque l'analisi lineare con sezioni non fessurate, è possibile adottare |
+|  |  | un limite di deformazione minore e il valore raccomandato per entrambi 1888 e VAR int & 1.0. |
+|  | - | Si adottano i valori raccomandati: per armature pre-tese o armature non aderenti: |
+| 5.10.9 (1)P | Nota l | raun = 1,05 e rint = 0,95 per armature post-tese aderenti: Tsuo = 1,10 and fire = 0,90 |
+|  |  | Quando sono prese misure appropriate (ad es. misura diretta della |
+|  |  | precompressione): rsup = Firt = 1,0. |
+|  |  | Si adottano i valori raccomandati |
+| 6.2.2 (1) | Nota | CRdc = 0,18/ % |
+|  |  | (6.3N) Vmin = 0,035 k314fck |
+|  |  | k; = 0,15. |
+
+{86}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | (6.6N) |
+|  |  | Si adotta il valore: v = 0,5 fino alla classe C70/85 |
+| 6.2.2 (6) | Nota | ুট per le classi C80/95 e C90/105. v=0,6 1- |
+|  |  | 250 |
+|  |  | Per l'impiego delle classi C80/95 e C90/105 occorre specifica autorizzazione |
+|  |  | del Servizio Tecnico Centrale del Consiglio Superiore dei Lavori Pubblici. |
+| 6.2.3 (2) | Nota | Si adottano i limiti raccomandati: 1 ≤ coto ≤ 2.5 (6.7N) |
+|  |  | Si adottano i seguenti valori di Vj e ocw 1 |
+|  |  | Si adotta vi = v anche quando la tensione di calcolo dell'armatura a |
+|  |  | taglio è minore dell'80% della tensione caratteristica di snervamento |
+|  |  | f.k. (per i valori di y vedi 6.2.2 (6)) |
+|  |  | Il valore raccomandato di 0cm è: |
+|  |  | per strutture non precompresse |
+|  |  | (1 + ocp/fcd) per 0 < ocp ≤ 0,25 fcd |
+| 6.2.3 (3) | Nota | l ,25 per 0,25 fcd < ocp ≤ 0,5 fcd (6. 11.bN) |
+|  |  | 2,5 (1 - ocp/fcd) per 0,5 fod < ocp < 1,0 fcd (6. 11.cN) |
+|  |  | dove |
+|  |  | o co è la tensione media di compressione, considerata positiva, nel |
+|  |  | calcestruzzo dovuta alla forza assiale di calcolo. Questa si ottiene come |
+|  |  | valor medio sulla sezione di calcestruzzo tenendo conto delle armature. |
+|  |  | Il valore di ocp non deve necessariamente essere calcolato ad una |
+|  |  | distanza minore di 0,5d cot 0 dal bordo dell'appoggio. |
+|  |  | In assenza di calcoli più rigorosi, si adottano i valori raccomandati: 1,0 ≤ cot 0 £ ≤ 2,0 |
+|  |  | per piattabande compresse (45° ≥0 : ≥ 26,5°) |
+| 6.2.4 (4) | Nota | 1,0 < cot 0 = 1,25 |
+|  |  | per piattabande tese (45° ≥ 0 = 38,6°) |
+| 6.2.4 (6) | Nota | Si adotta il valore raccomandato k = 0,4. |
+|  |  | Si adottano i valori raccomandati dati nella Figura 6.21N |
+|  |  | A - pilastro interno B = 1,15 |
+| 6.4.3 (6) | Nota | B - pilastro di bordo B = 1,4 |
+|  |  | C - pilastro d'angolo B = 1,5 |
+|  |  | Si adottano i valori raccomandati: |
+| 6.4.4 (1) | Nota | Crd.c = 0,18/Yc2 |
+|  |  | Vmin è dato dall'espressione (6.3N) |
+|  |  | k1 = 0,1 |
+
+{87}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 6.4.5 (3) | Nota | Si adotta il valore raccomandato: |
+|  |  | VRd.max = 0,4 V fos ; per i valori di V vedi 6.2.2 (6) |
+| 6.4.5 (4) | Nota | Si adotta il valore raccomandato: k = 1,5 Si adotta il valore: |
+|  |  | V = 0.83 fino alla classe C70/85 |
+| 6.5.2 (2) | Nota | per le classi C80/95 e C90/105 |
+|  |  | () - 1 - 1 - 6 ck 250 |
+|  |  | Per l'impiego delle classi C80/95 e C90/105 occorre specifica |
+|  |  | autorizzazione del Servizio Tecnico Centrale del Consiglio Superiore |
+|  |  | dei Lavori Pubblici. |
+| 6.5.4 (4) | a) Nota | Si adottare il valore raccomandato k1 = 1,0. |
+| 6.5.4 (4) | b) Nota | Si adotta il valore raccomandato k> = 0.85 |
+| 6.5.4 (4) | c) Nota | Si adotta il valore raccomandato k3 = 0,75 |
+| 6.5.4 (6) | Nota | Si adotta il valore raccomandato k4 = 3,00 |
+| 6.8.4 (1) | Nota 1 | Si adotta il valore raccomandato YF fat = 1,0 |
+|  |  | Si adottano i valori raccomandati riportati nei Prospetti 6.3N e 6.4N |
+| 6.8.4 (1) | Nota 2 | che si riferiscono rispettivamente agli acciai ordinari ed a quelli da |
+|  |  | precompressione. |
+| 6.8.4 (5) | Nota | Si adotta il valore raccomandato k2 = 5,0 |
+| ર 8.8 (1) | Nota | Si adotta il valore raccomandato k1 = 70 Mpa |
+| 6.8.6 (1) | Nota | Si adotta il valore raccomandato k2 = 35 MPa |
+| 6,8.6 (3) | Nota | Si adotta il valore raccomandato k3 = 0,9 |
+| 6.8.7 (1) | Nota | Si adotta il valore raccomandato N = 10º cicli |
+| 6.8.7 (1) | Nota | Si adotta il valore raccomandato k1 = 0,85 |
+|  |  | Si adotta il valore raccomandato k1 = 0,60 |
+|  |  | Nel caso di elementi piani (solette, pareti, ... ) gettati in opera e con |
+| 7.2 (2) | Nota | spessori di calcestruzzo minori di 50 mm il valore di ki va ridotto del |
+|  |  | 20%. |
+
+{88}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | Si adotta il valore raccomandato k2 = 0.45 |  |  |  |  |  |  |
+| 7.2 (3) | Nota | Nel caso di elementi piani (solette, pareti, ... ) gettati in opera e con |  |  |  |  |  |  |
+|  |  | spessori di calcestruzzo minori di 50 mm il valore di k2 va ridotto del |  |  |  |  |  |  |
+|  |  | 20%. |  |  |  |  |  |  |
+| 7.2 (5) | Nota | Si adotta il valore k3 = 0.80 |  |  |  |  |  |  |
+| 7.2 (5) | Nota | Si adotta il valore k4 = 0,90 |  |  |  |  |  |  |
+| 7.2 (5) | Nota | Si adotta il valore ks = 0,70 |  |  |  |  |  |  |
+|  |  | Si adottano i valori di tabella Grappi di Combinazione | Condizioni |  |  | Armatura |  |  |
+|  |  | esigenze | amblentali | di azioni | Sensibile |  | Poco sensibile |  |
+|  |  |  |  |  | Stato Umite | WA | Stato Minite |  |
+|  |  | sp. frasma 성 | Ordinatio | Trequente |  | ર્દ્ર પછ | ap, fessure | < 11 |
+|  |  | ap. fessure |  | quasi permanente |  | 5 Ar | ap. fessure | ≤ 127 |
+|  |  | ap. fessure b | Aggressive | trequente |  | ਟ ਸਮ | an. Tescure | 三 187 |
+|  |  | decompressione |  | quasi permonente |  |  | an, fessure | રે A |
+|  |  | Molto aggressive t |  |  | tormazione fessure |  |  | C. LE |
+|  |  | decompressione |  | quasi permamente |  |  | 20. 1445 UTS |  |
+| 7.3.1 (5) | Nota | w1=0.2 mm; w2=0.3 mm; w3-0.4 mm |  |  |  |  |  |  |
+|  |  | Le condizioni ambientali sono così definite: |  |  |  |  |  |  |
+|  |  | CONDIZIONI AMBIENTALI CLASSE DI ESPOSIZIONE |  |  |  |  |  |  |
+|  |  | Ordinarie X0, XC1, XC2, XC3, XF1 |  |  |  |  |  |  |
+|  |  | Aggressive XC4, XD1, XS1, XA1, XA2, XF2, XF3 |  |  |  |  |  |  |
+|  |  | Molto aggressive XD2, XD3, XS2, XS3, XA3, XF4 |  |  |  |  |  |  |
+| 7.3.2 (4) | Nota | Si adotta il valore raccomandato Octo = fecer in accordo con il punto 7.3.2 (2). |  |  |  |  |  |  |
+| 7.3.4 (3) | Nota | Si adottano i valori raccomandati k2 = 3,4 k4 = 0,425 |  |  |  |  |  |  |
+|  |  | Si adottano i valori di K raccomandati, dati nel Prospetto 7.4N. Lo stesso |  |  |  |  |  |  |
+| 7.4.2 (2) | Nota | fornisce anche i valori ottenuti applicando l'espressione (7.16) a casi comuni |  |  |  |  |  |  |
+|  |  | (C30, c = 310 Mpa, diversi sistemi strutturali, rapporti di armatura p=0,5 % |  |  |  |  |  |  |
+|  |  | and p=1,5 %). |  |  |  |  |  |  |
+| 8.2.(2) | Nota | Si adottano i valori raccomandati k1 = 1 mm e k2 = 5 mm |  |  |  |  |  |  |
+
+{89}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si adottano i valori èro min raccomandati dati nel Prospetto 8. IN. all'armatura a) per barre e fili |
+|  |  | Prospetto 8.1N: Diametro minimo del mandrino per evitare danni |
+|  |  | Diametro minimo del mandrino per |
+|  |  | Diametro barra Piegature, uncini, ganci (vedere |
+|  |  | Figura 8.1), |
+|  |  | ¢≤ 16 mm 40 |
+|  |  | ø > 16 mm 70 |
+|  |  | b) per barre piegate saldate e reti piegate dopo saldatura |
+| 8.3 (2) | Nota | Diametro minimo del mandrino |
+|  |  | oppure oppure |
+|  |  | d ≥ 3ø : 50 |
+|  |  | 5ø d < 3ø o saldatura |
+|  |  | intema alla piegatura: |
+|  |  | 200 |
+|  |  | Nota: Il diametro del mandrino per la piegatura di barre o reti nel |
+|  |  | caso risulti una saldatura interna alla zona di piegatura, può |
+|  |  | essere ridotto a 5 @ se la saldatura è eseguita in accordo |
+|  |  | con l'allegato B della norma EN ISO 17660. |
+|  |  | Si adotta il valore raccomandato determinato da: |
+| 8.6 (2) | Nota |  |
+|  |  | Fred = hd @ Gra ma non maggiore di Fwd (8.8N) |
+| 8.8 (1) | Nota | Si adotta il valore raccomandato gioro = 32 mm. Si adotta il valore raccomandato: |
+|  |  | As min = 0,26 -- D, d ma non minore di 0,0013 b, d (9.1N) |
+|  |  | Syc |
+|  | dove: |  |
+|  |  | b, rappresenta la larghezza media della zona tesa; per una trave a T con |
+|  |  | piattabanda compressa, nel calcolare il valore di b, si considera solo la |
+|  |  | larghezza dell'anima |
+| 9.2.1.1 (1) | Nota 2 cam | si determina in funzione della classe di resistenza corrispondente in |
+|  |  | accordo con il Prospetto 3.1. |
+|  |  | In alternativa, per elementi secondari, dove qualche rischio di rottura fragile |
+|  |  | può essere accettato, As,min può assumersi pari a 1,2 volte l'area richiesta |
+|  |  | per la verifica allo stato limite ultimo. |
+|  |  | La formula (9.1N) non si applica alle strutture precompresse con sole |
+|  |  | armature pre-tese aderenti |
+
+{90}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 9.2.1.1 (3) | Nota | Si adotta il valore raccomandato Ag,max = 0,04Ac |
+| 9.2.1.2 (1) | Nota 1 | Si adotta il valore raccomandato B = 0.15 |
+| 9.2.1.4 (1) | Nota | Si adotta il valore raccomandato B2 = 0,25 |
+| 9.2.2 (4) | Nota | Si adotta ii valore raccomandato B3 = 0,50 |
+|  |  | Si adotta il valore raccomandato dato dall'espressione (9.5N) |
+| 9.2.2 (5) | Nota | = (0.08, It .. ) /f .. (9.5N) Pw.min |
+|  |  | $1 adotta il valore raccomandato dato dall'espressione (9.6N) |
+|  |  | St may = 0.75d (1 + cot ot ) (9.6N) |
+| 9.2.2 (6) | Nota | essendo a l'inclinazione dell'armatura per il taglio rispetto all'asse longitudinale della trave. |
+|  |  | Si adolta il valore raccomandato dato dall'espressione (9.7N) |
+| 9.2.2 (7) | Nota | = 0.6 d (1 + cot a) (9.7N) $ b,max |
+|  |  | Si adotta il valore dato dall'espressione |
+| 9.2.2 (8) | Nota |  |
+|  |  | St.max = 0.75d ≤ 300 mm |
+|  |  | Si adotta il valore: - per l'armatura principale, 2h ≤ 350 mm, essendo h l'altezza totale della |
+|  |  | piastra; |
+| 9.3.1.1 (3) | Nota | - per l'armatura secondaria, 3h ≤ 400 mm . |
+|  |  | In zone con carichi concentrati o di momento massimo il precedente valore, |
+|  |  | per l'armatura principale, diventa: 2h ≤ 250 mm |
+| 9.4.3 (1) | Nota | Si adotta il valore raccomandato k = 1,5 |
+| 9.5.2 (1) | Nota | Si adotta il valore 4min = 12 mm |
+|  |  | Si adotta il valore dato dall'espressione |
+|  |  | 0,10 NEd o 0,003 Ac, il maggiore dei due As,min |
+| 9.5.2 (2) | Nota | yd |
+|  |  | qove: |
+|  |  | è la tensione di snervamento di calcolo dell'armatura િવ |
+|  |  | NEd è la forza di compressione assiale di calcolo |
+|  |  | Si adotta valore raccomandato A "ma = 0,04A, al di fuori delle zone di |
+|  |  | sovrapposizione a meno che non si possa dimostrare che non è inficiata |
+| 9.5.2 (3) | Nota | l'integrità del calcestruzzo, e che si raggiunge l'intera resistenza allo stato |
+|  |  | limite ultimo. Questo limite è aumentato a 0,08 A. nelle zone di |
+|  |  | sovrapposizione. |
+
+{91}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 9.5.3 (3) | Nota | Per sa trass si adotta il valore minore tra le seguenti distanze: |
+|  |  | · 12 volte il diametro minimo delle barre longitudinali |
+|  |  | - la dimensione minore del pilastro |
+|  |  | - 250 mm |
+| 9.6.2 (1) | Nota 1 | Si adotta il valore Asymin = 0,002 Ac. |
+| 9.6.2 (1) | Nota 2 | Si adotta il valore raccomandato Assimax = 0,04 Ag al di fuori delle zone di sovrapposizione a meno che non si possa dimostrare che non è inficiata |
+|  |  | l'integrità del calcestruzzo, e che si raogiunge l'intera resistenza allo stato |
+|  |  | limite ultimo. Questo limite può essere raddopplato nelle zone di |
+|  |  | sovrapposizione. |
+| 9.6.3 (1) | Nota | Si adotta il valore raccomandato, ossia Asbrin è il maggiore dei due valori: 25% dell'armatura verticale, 0,001Ac. |
+|  |  | Si adotta il valore raccomandato Andomio = 0,001Ac, ma non minore di 150 |
+| 9,7 (1) | Nota | mm²/m su ciascuna faccia e in ogni direzione. |
+| 9.8.1 (3) | Nota | Si adotta il valore Anio = 12 mm. |
+| 9.8.2,1 (1) | Nota | Si adotta il valore Amin = 12 mm. |
+| 9.8.3 (1) | Nota | Si adotta il valore Amin = 12 mm |
+| 9.8.3 (2) | Nota | Si adotta il valore raccomandato q = 10 kN/m. |
+| 9.8.4 (1) | Nota | Si adottano i valori raccomandati q2 = 5 Mpa e dmin = 8 mm |
+|  |  | Si adottano i valori raccomandati. Il valore raccomandato per ha è 600 mm e Prospetto 9.6N: Area minima di armatura longitudinale consigliata nei Sezione trasversale del |
+|  |  | quello per As bornin è riportato nel Prospetto 9.6N. Si raccomanda di distribuire |
+|  |  | tale armatura lungo il perimetro della sezione. |
+|  |  | pali trivellati gettati in opera |
+|  |  | Area minima di armatura |
+|  |  | longitudinale: As.opmin palo: Ac |
+| 9.8.5 (3) | Nota | Ac ≤ 0,5 m² As ≥ 0,005 · Ac |
+|  |  | As ≥ 25 cm² 0,5 m2 < Ac ≤ 1,0 m² |
+|  |  | Ac > 1.0 m2 As ≥ 0,0025 · Ac |
+|  |  | SI raccomanda che il diametro minimo delle barre longitudinali sia non |
+|  |  | minore di 16 mm. che i pali abbiano almeno 6 barre longitudinali e che la |
+|  |  | distanza netta tra le barre misurata fungo il contorno del palo non sia |
+|  |  | maggiore di 200 mm |
+| 9.10.2.2 (2) | Nota | Si adottano I valori raccomandati qi = 10 kN/m e q2 = 70 kN. |
+
+![](1__page_91_Picture_5.jpeg)
+
+{92}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 9.10.2.3 (3) | Nota | Si adotta il valore raccomandato Frie.int = 20 kN/m. |
+| 9.10.2.3 (4) | Nota | Si adottano i valori raccomandati q3 = 20 kN/m e Q4 = 70 kN. |
+| 9.10.2.4 (2) | Nota | Si adottano i valori raccomandati Flie.fac = 20 kN e Ftie.col = |
+|  |  | 150 kN. |
+| 11.3.5 (1)P | Nota | Si adotta il valore raccomandato dec = 0,85 |
+| 11.3.5 (2)P | Nota | Si adotta il valore raccomandato ala = 0,85 |
+| 1 1.3.7 (1) |  | Si adotta il valore raccomandato e cioè: k =1.1 per calcestruzzi |
+|  | Nota | con aggregati leggeri con sabbia come aggregato fine e k = 1,0 |
+|  |  | per calcestruzzi con aggregati leggeri (fini e grossi) |
+| 11.6.1 (1) | Nota | Si adottano i valori raccomandati: |
+|  |  | CiRd.c = 0,15/Yc; Vi.min = 0,028 K3/2 fick 12 e k1 = 0,15 |
+| 11.6.2 (1) | Nota | Si adotta il valore raccomandato : |
+|  |  | 1 = 0,50 (1 - 1ck/250) (11.6.6N) |
+| 11.6.4.1 (1) | Nota | Si adotta il valore raccomandato k2 = 0.08. |
+| 12.3.1 (1) | Nota | Si adottano i valori raccomandati dec,pi = Oct.pl = 0,8. |
+| 12.6.3 (2) | Nota | Si adotta il valore raccomandato k = 1,5. |
+|  | Appendice A | Tale Appendice mantiene il carattere informativo (fermi restando i |
+|  |  | valori dei coefficienti indicati negli articoli normativi) |
+|  | Appendice B | Tale Appendice mantiene il carattere informativo |
+|  |  | Per i valori relativi all'intervallo delle tensioni a fatica con un |
+|  |  | limite superiore di ß for e relativi all'area minima delle nervature |
+| C.1 (1) | Nota | si adottano i valori raccomandati che sono dati nel Prospetto |
+|  |  | C.2N. Per B si adotta il valore raccomandato B = 0,6. |
+| C.1 (3) | Nota 1 | Per a si adotta il valore raccomandato. Il valore raccomandato per fyk è 10 MPa e per k e Euk è 0. |
+
+{93}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| C.1 (3) | Nota 2 | Per i valori minimi e massimi di fujo k e euk si adottano i valori contenuti nel seguente prospetto: |  |  |  |  |
+|  |  | Prospetto C.3N. Limiti assoluti dei risultati sperimentali |  |  |  |  |
+|  |  | Valore Valore massimo caratteristico |  | Valore minimo |  |  |
+|  |  | Tensione di 1,03x massimo C, snervamento fok |  | 0,95 x minimo Cv |  |  |
+|  |  | k 1,02 x massimo Cv |  | 0,96 × minimo Cv |  |  |
+|  |  | Non applicabile Euk |  | 0,93 × minimo Cv |  |  |
+| Appendice | D | Tale Appendice mantiene il carattere informativo |  |  |  |  |
+| Appendice | E | Tale Appendice mantiene il carattere informativo |  |  |  |  |
+| E.1 (2) | Nota | Per il valore delle classi indicative di resistenza si adottano i valori dati nel Prospetto E. 1N. Corrosione indotta da Corrosione indotta Corrosione indotta XCI |  |  | l 2 | origine marina |
+|  |  | Prospetto E.1N: Classi di resistenza indicativa |  |  |  |  |
+|  |  | Classi di esposizione in accordo con il Prospetto 4.1 |  |  |  |  |
+|  |  | Corrosione |  |  |  |  |
+|  |  | carbonatazione da ioni cloro |  |  |  | da foni cloro di |
+|  |  | XD XD XD3 | XC2 | XC3 | XC4 |  | XSI X 82 XS3 |
+|  |  | Classi di C25/3 C35/ | C2SI | C30/37 | C30/37 | C30/ C35/42 |
+|  |  | resistenza 0 30 વર્ indicativa |  |  |  | 37 |
+|  |  | Danni al calcestruzzo |  |  |  |  |
+|  |  | Attacco chimico Nessun |  | Attacco gelo/disgelo |  |  |
+|  |  | rischio |  |  |  |  |
+|  |  | xa XAl XA2 XA3 | XPI | XF2 | XF3 |  |
+|  |  | Classi C12/15 C30/37 C30/37 C35/45 | C30/37 | C30/37 |  |  |
+|  |  | indicative di resistenza |  |  |  |  |
+| Appendice | F | Tale Appendice mantiene il carattere informativo |  |  |  |  |
+| Appendice | G | Tale Appendice mantiene il carattere informativo |  |  |  |  |
+| Appendice | H | Tale Appendice mantiene il carattere informativo |  |  |  |  |
+| Appendice I |  | Tale Appendice mantiene il carattere informativo |  |  |  |  |
+
+{94}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  | Appendice J | Tale Appendice mantiene il carattere informativo |
+| J.1 (2) | Nota | Si adotta il valore raccomandato As,surf,min = 0,01 Actexi, essendo Accea l'area di calcestruzzo tesa af di fuori delle staffe (vedere la Figura J.1). |
+| J.2,2 (2) | Nota | Per i valori dei limiti di si adottano i valori raccomandati: per il limite inferiore tano= 0,4 e per il limite superiore tane= 1. |
+| J.3. (2) | Nota | Si adotta il valore raccomandato k2 = 0,25. |
+| 1.3 (3) | Nota | Si adotta il valore raccomandato ko= 0,5 |
+
+#### 4). INDICAZIONI AGGIUNTIVE
+
+#### 3.1 CALCESTRUZZO
+
+#### Classi di calcestruzzo
+
+In relazione agli specifici usi si devono impiegare le classi di resistenza minime indicate nella seguente tabella:
+
+| STRUTTURE DI DESTINAZIONE | CLASSE DI RESISTENZA |
+| --- | --- |
+|  | MINIMA |
+| Per strutture non armate o a bassa | C8/10 |
+| percentuale di armatura |  |
+| Per strutture semplicemente armate | C16/20 |
+| Per strutture precompresse | C28/35 |
+
+#### 11. STRUTTURE DI CALCESTRUZZO CON AGGREGATI LEGGERI
+
+#### 11.3.1 CALCESTRUZZO
+
+Sono ammesse classi di resistenza fino alla classe LC55/60.
+
+ Anche per i calcestruzzi leggeri, in relazione agli specifici usi, si devono impiegare le classi di resistenza minime indicate nella precedente tabella per il calcestruzzo ordinario.
+
+{95}------------------------------------------------
+
+![](1__page_95_Picture_3.jpeg)
+
+Indrastrutture e dei sporti
+
+### UNI EN 1992-1-2:2007
+
+### Eurocodice 2: Progettazione delle strutture di calcestruzzo Parte 1-2: Regole generali-Progettazione strutturale contro l'incendio
+
+### APPENDICE NAZIONALE ITALIANA alla UNI EN 1992-1-2:2007
+
+### Parametri adottati a livello nazionale da utilizzare per la progettazione delle strutture esposte all'incendio
+
+{96}------------------------------------------------
+
+#### APPENDICE NAZIONALE
+
+UNI-EN1992-1-2: Eurocodice 2: Progettazione delle strutture di calcestruzzo – Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio EN 1992-1-2 Eurocode 2 : Design of concrete structures - Part 1-2: General rules - Structural
+
+fire design
+
+#### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1992-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1992-1-2 relativamente ai seguenti paragrafi:
+
+| 2.1.3(2) nota | 4.5.1(2) nota | 6.1(5) | nota |
+| --- | --- | --- | --- |
+| 2.3(2)P nota 1 | 5.2(3) nota | 6.2(2) | nota |
+| 3.2.3(5) nota | 5.3.1(1) nota | 6.3(1) | notal |
+| 3.2.4(2) nota | 5.3.2(2) nota 1 | 6.4.2.1(3) nota |  |
+| 3.3.3(1) nota 1 | 5.6.1(1) nota | 6.4.2.2(2) nota |  |
+| 4.1(1)P nota 3 | 5.7.3(2) nota |  |  |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1992-1-2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN1992-1-2: Eurocodice 2: Progettazione delle strutture di calcestruzzo - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+#### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1992-1-2
+
+{97}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si adottano i valori raccomandati: |
+| 2.1.3(2) | Nota | 0AI = 200 K |
+|  |  | 002 = 240 K |
+| 2.3(2)P | Nota 1 | Si adotta il valore raccomandato YMA = 1,0 |
+| 3.2.3(5) | Nota | Si adotta la Classe raccomandata N. |
+| 3.2.4(2) | Nota | Si adotta la classe B. |
+| 3.3.3 (1) | Nota 1 | Il valore di 2 per il calcestruzzo con inerte prevalentemente calcareo si |
+|  |  | assume coincidente con il limite inferiore (2) della figura 3.7 |
+| 4.1 (1)P | Nota 3 | Non si forniscono indicazioni specifiche. |
+| 4.5.1(2) | Nota | In assenza di più accurate valutazioni si adotta il valore raccomandato |
+|  |  | k = 3% |
+| 5.2 (3) | Nota | Non si forniscono indicazioni specifiche. |
+| 5.3.1(1) | Nota | Non si forniscono indicazioni specifiche. |
+| 5.3.2(2) | Nota 1 | Per il valore massimo dell'eccentricità del primo ordine in condizioni di |
+|  |  | incendio si adotta il valore raccomandato emax = 0,15 h (o b) |
+| 5.6.1(1) | Nota | Non si forniscono indicazioni specifiche. |
+| 5.7.3(2) | Nota | Non si forniscono indicazioni specifiche. |
+|  |  | Per i valori fe dfor si adottano i dati forniti nel prospetto 6.1N. Per il calcestruzzo C 55/67 e C 60/75 si adotta la classe 1, per il |
+| ୧'I(२) | Nota | calcestruzzo C 70/85 e C80/95 si adotta la Classe 2 e per il calcestruzzo C |
+|  |  | 90/105 si adotta la Classe 3. Vedere anche la nota del punto 6.4.2.1(3) e del punto 6.4.2.2 (2) |
+| 6.2(2) | Nota | Non si forniscono indicazioni specifiche. |
+| 6.3(1) | Nota 1 | Per il valore della conduttività termica del calcestruzzo ad alta resistenza si |
+|  |  | adotta il limite superiore (1) della figura 3.7 |
+| 6.4.2.1(3) | Nota | Si adottano i valori raccomandati k = 1,1 per la Classe 1 e 1,3 per la Classe |
+|  |  | 2. Per la Classe 3 si adottano metodi più accurati. |
+| 6.4.2.2(2) | Nota | Si adottano i valori raccomandati indicati nel prospetto 6.2N. Si adottano |
+|  |  | metodi più accurati per la Classe 3. |
+| Utilizzo delle appendici |  | Le Appendici A, B, C, D, E mantengono il carattere informativo |
+| informative |  |  |
+
+{98}------------------------------------------------
+
+#### 4. INDICAZIONI AGGIUNTIVE
+
+| 3.3.2(2) | aggiungere | Per elementi di calcestruzzo ordinario in ambienti a unidità normale, in assenza di valutazioni specifiche, si assume una umidità convenzionale del |
+| --- | --- | --- |
+|  | Nota | 2% in peso (50 kg di acqua per m' di calcestruzzo) cui corrisponde un |
+|  |  | Co mack= 1653 J/Kg K. |
+| 4.1(1)P | aggiungere alla Nota 1 | Quando si usano i metodi di calcolo, per il requisito integrità (E), oltre al |
+|  |  | riferimento suddetto che riguarda i giunti si richiama il rispetto dei valori |
+|  |  | minimi di spessore e armatura previsti per il calcolo a temperatura ordinaria |
+|  |  | (UNI EN 1992-1-1). Particolare attenzione dovrà inoltra essere posta sul |
+|  |  | pericolo di scoppio del calcestruzzo che ingloba alleggerimenti di materiale |
+|  |  | combustibile. |
+
+{99}------------------------------------------------
+
+![](1__page_99_Picture_3.jpeg)
+
+Indrastruttur asporti
+
+### UNI EN 1992-2:2006
+
+Eurocodice 2: Progettazione delle strutture di calcestruzzo Parte 2: Ponti di calcestruzzo-Progettazione e dettagli costruttivi
+
+> APPENDICE NAZIONALE ITALIANA alla UNI EN 1992-2:2006
+
+Parametri adottati a livello nazionale da utilizzare nella progettazione dei ponti in calcestruzzo
+
+{100}------------------------------------------------
+
+#### Appendice nazionale
+
+UNI-EN-1992 - 2 - Eurocodice 2 - Progettazione delle strutture di calcestruzzo - Parte 2 - Ponti di calcestruzzo - Progettazione e dettagli costruttivi
+
+EN-1992-2 - Eurocode 2 - Design of concrete structures - Part 2 - Concrete bridges design and detailing rules
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1992 - 2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1992 - 2 relativamente ai paragrafi
+
+| 3.1.2 (102)P | Classi di calcestruzzo minima e massima consentite. |
+| --- | --- |
+| 3.1.6 (101)P | Effetti di lungo termine sulla resistenza a compressione. |
+| 3.1.6 (102)P | Effetti di lungo termine sulla resistenza a trazione. |
+| 3.2.4 (101)P | Classi di acciaio consentite. |
+| 4.2 (105) | Classi di esposizione per superfici protette da |
+|  | impermeabilizzazione. |
+| 4.2 (106) | Distanza di propagazione dei sali disgelanti dalla carreggiata. |
+| 4.2 (106) | Classi di esposizione per superfici direttamente esposte a Sali |
+|  | antigelo. |
+| 4.3 (103) | Prescrizioni per la durabilità dei cavi esterni |
+| 4.4.1.2 (109) | Copriferro minimo in presenza di rivestimento aggiuntivo in |
+|  | calcestruzzo. |
+| 5.1.3 (101)P | Semplificazione delle disposizioni di carico. |
+| 5.2 (105) | Imperfezioni geometriche. |
+| 5.3.2.2 (104) | Riduzione del momento sugli appoggi di progetto. |
+| 5.5 (104) | Coefficienti di ridistribuzione. |
+| 5.6 (101)P | Impiego di metodi per l'analisi plastica. |
+| 5.7 (105) | Dettagli per l'analisi non lineare. |
+| 6.1 (109) | Scelta del metodo e valore di fetz- |
+| 6.1 (110) | Moltiplicatore per il copriferro dei cavi da precompressione. |
+| 6.2.2 (101) | Taglio di progetto in elementi sprovvisti di specifica armatura |
+|  | a taglio |
+| 6.2.3 (103) | Taglio di progetto in elementi provvisti di specifica armatura a |
+|  | taglio |
+| 6.2.3 (107) | Sovrapposizione di modelli resistenti a traliccio per il taglio in |
+|  | strutture precompresse. |
+| 6.2.3 (109) | Altezza ridotta per le strutture a conci. |
+| 6.8.1 (102) | Regole addizionali per le verifiche a fatica. |
+| 6.8.7 (101) | Dati per le verifiche a fatica |
+
+| STANKENT MONOM WEEN M TAMEERM ? " M T | . |  |  | but and the all a the next all and so the done of all the would be which and |
+| --- | --- | --- | --- | --- |
+| Career of the comments of | A BREAK OF THE STATE | Company of the complex of the comparis of the comparis of the control of the contribution of t | A Box 200 Come PROPERTER | 200 - 12 - 12 - 12 13.00 --- |
+| Partic Partice Class "INTEMBER MOVEM V WILL WEEK TV T M TEM TENN TIME |  | SOCIALS MARTENETS SEMPER TRESSESSARY TRETESSORT TARSO | And I The First TEMEMORE MENT MENT VALUM IN TIME MET MET MET MET MET MET MET TO BE | SEESCREESSESSESSESSESSESSMENTESSANDESAFSSTEMATS |
+| Acres of the compare |  |  |  | 100 0000 |
+| ESTSETSAFTESTSALSARNAGETSACEMETESSITESSENTSANAL |  | 2008 - MANUAL MONTH M MANAGAM M "MATENCE" ST MANNEY" | 1. 05 14.55 12.77 | ** |
+|  |  | .. | M VITAL MARCHILL MANAGEMENT COLLECTION COLLEGION Chake B |  |
+| 100 10 |  | 12.50 | A .. . Black Stearlier | CARDA |
+| A Change of the States of the State and the first of the county of the | を与えたと | A . A . A . A . A . A | STATE AND THE | Can and the state of the state |
+| ** | SALES MART SES OF SES SAFE SE SE SE SE SE SE SE S S S S S S S S S S S S S S S S S S S S . S . S . S . S . S . |  | SSAFETATTACTSCARSARSHITETSTEMARTSSCEEATSACTSCTTS | CANNA |
+
+{101}------------------------------------------------
+
+| 6.8.7 (101) Nota | Valore di kı |
+| --- | --- |
+| 7.2 (102) | Limiti della massima tensione di compressione in classi di |
+|  | esposizione XD, XF e XS |
+| 7.3.1 (105) | Massima apertura delle fessure e limite di decompressione in |
+|  | funzione della classe di esposizione. |
+|  | Estensione della zona compressa nello stato limite di |
+|  | decompressione |
+| 7.3.3 (101) | Metodo semplificato per il controllo della fessurazione senza |
+|  | calcolo diretto. |
+| 7.3.4 (101) | Calcolo dell'apertura delle fessure; metodi riconosciuti per il |
+|  | suo controllo. |
+| 8.9.1 (101) | Barre accoppiate. |
+| 8.10.4 (105) | Massima percentuale di cavi accoppiati in una sezione. |
+|  | Minima distanza tra sezioni in cui sono accoppiati i cavi di |
+|  | precompressione. |
+| 8.10.4 (107) | Regole aggiuntive per gli ancoraggi e l'accoppiamento dei cavi |
+|  | di precompressione in ambienti aggressivi. |
+| 9.1 (103) | Regole addizionali su: minimo spessore di elementi strutturali, |
+|  | armatura minima, minimo diametro dei ferri e massima |
+|  | distanza tra le barre. |
+| 9.2.2 (101) | Dettagli di armatura trasversale consentiti. |
+| 9.5.3 (101) | Minimo diametro dell'armatura trasversale. |
+| 9.7 (102) | Distanza tra barre successive di una rete. |
+| 9.8.1 (103) | Minimo diametro dei ferri della testa-pali. |
+| 11.9 (101) | Uso di barre accoppiate. |
+| 113.2 (102) | Stato ultimo di equilibrio per i ponti costruiti a conci. |
+| 113.3.2 (103) | Controllo delle tensioni di trazione durante le fasi costruttive |
+|  | per elementi per i quali è previsto lo stato limite di |
+|  | decompressione in esercizio. |
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici informative per i ponti.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1992-2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1992 - 2 - Eurocodice 2 -Progetto di strutture in cemento armato - Parte 2 - Ponti in cemento armato.
+
+{102}------------------------------------------------
+
+#### Decisioni nazionali 3)
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 3.1.2 (102)P | Nota | Classe minima: C23/30 per c.a. C28/35 per c.a.p. |
+|  |  | Classe massima: C70/85 |
+|  |  | Per le classi di resistenza superiore a C45/55 la resistenza caratteristica e tutte le grandezze meccaniche e fisiche che hanno influenza sulla resistenza e durabilità del conglomerato vanno |
+|  |  | accertate prima dell'inizio dei lavori tramite un'apposita sperimentazione preventiva e la |
+|  |  | produzione deve seguire specifiche procedure per il controllo di qualità. |
+|  |  | Per l'impiego delle classi C80/95 e C90/105 occorre specifica autorizzazione del Servizio |
+|  |  | Tecnico Centrale del Consiglio Superiore dei Lavori Pubblici. |
+| 3.1.6 (101)P | Nota | Si adotta il valore raccomandato co = 0.85 |
+| 3.1.6 (102)P | Nota | Si adotta il valore ce = 0.85 |
+| 3.2.4 (101)P | Nota | Per i ponti si deve utilizzare acciaio B450C. Si consente l'utilizzo di acciai di tipo B450A, con diametri compresi tra 5 e 10 mm, per le reti e i tralicci; non se ne consente inoltre l'uso per |
+|  |  | l'armatura trasversale. |
+| 4.2 (105) | Nota | Si adotta la classe raccomandata (XC3) |
+| 4.2 (106) | Nota | Si adottano le distanze raccomandate (x = 6m, y = 6m) |
+| 4.2 (106) | Nota 2 | Si adottano le classi di esposizione raccomandate |
+|  |  | Per Autorità Nazionale si deve intendere il Consiglio Superiore dei Lavori Pubblici - Ministero |
+| 4.3 (103) |  | delle Infrastratture |
+| 4.4.1.2 (109) | Nota | Si adotta il valore raccomandato (vedi punto 4.4.1.2(3) dell'EN1992-1-1) |
+| 5.1 .3 (101)P | Nota | Non sono ammesse semplificazioni. |
+| 5.2 (105) | Nota | Si adotta il valore raccomandato 00 =1/200 |
+| 5.3.2.2 (104) | Nota | Si adotta il valore raccomandato. |
+| 5.5 (104) | Nota | Si adottano i valori di k; raccomandati, |
+| 5.6.1 (101)P |  | Si consente l'uso dell'analisi plastica per le verifiche allo SLU |
+| 5.7 (105) | Nota 1 | Si adottano le procedure e i valori raccomandati. |
+| 6.1 (109) | Nota | Possono essere adottati tutti e tre gli approcci. |
+|  |  | Nel caso si utilizzi l'approccio b) si adotta il valore for mecomandato, fox feem |
+| 6.1 (110) | Nota | Si adotta il valore di kon raccomandato, k.m=2.0. |
+| 6.1 (110) | Nota | Si adotta il valore di ko raccomandato kg=1.0. |
+
+gg
+
+{103}------------------------------------------------
+
+| 6.2.2 (101) | Nota | Si adottano i valori raccomandati, |
+| --- | --- | --- |
+| 6.2.3 (103) | Nota 2 | Si adottano i seguenti valori di Vi e dem |
+|  |  | Si adotta vi = v anche quando la tensione di calcolo dell'armotura a taglio è minore dell'80% |
+|  |  | della tensione caratteristica di snervamento for. |
+|  |  | Il valore raccomandato di cam è: |
+|  |  | I per strutture non precompresse |
+|  |  | (1 + Golfoa) per 0 < Or 5 0,25 fod (6. 11.aN) |
+|  |  | 1,25 per 0,25 for < On ≤ 0,5 for (6. 11.PN) |
+|  |  | (6. 11.cN) 2,5 (1 - Ordfod) per 0,5 fod < ap < 1,0 fed |
+|  |  | dove |
+|  |  | è la tensione media di compressione, considerata positiva, nel calcestruzzo dovuta alla 0 co |
+|  |  | forza assiale di calcolo. Questa si ottiene come valor medio sulla sezione di calcestuzzo |
+|  |  | tenendo conto delle armature. Il valore di o. non deve necessariamente essere calcolato ad una |
+|  |  | distanza minore di 0,5d cot 9 dal bordo dell'appoggio. |
+| 6.2.3 (107) | Nota | Si adotta la procedura raccomandata (Figura 6.102N) |
+| 6.2.3 (109) | Nota | Si adotta il valore raccomandato hzed = 0,5 h. |
+|  |  | Non si forniscono indicazioni addizionali |
+| 6.8.1 (102) | Nota |  |
+| 6.8.7 (101) |  | Per i modelli di carico e i dati di traffico si deve far riferimento all'EN1991-2, usando la curva |
+|  |  | S-N raccomandata (espressione 6.72 dell'EN1992-1-1). |
+| 6.8.7 (101) | Nota | Si adotta il valore raccomandato ki=0.85. |
+| 7.2 (102) | Nota | Si adottano i valori raccomandati. |
+| 7.3.1 (105) | Nota | se riferimento al punto 7.3.1(5) dell'EN1992-1-1, si adottano i valori di tabella |
+|  |  | Gruppi Armatura |
+|  |  | Condizioni Combinazione di ਕੇ Sensibile Poco sensibile ambientali azioni |
+|  |  | esigenze Stato limite A4 Stato limite WA |
+|  |  | frequente ap. fessure ap. fessure ર્ W2 ર્ટ વ્યુ ક્ષ્ટ Ordinarie |
+|  |  | quasi permanente ap. fessure ਟ ਅ ap. fessure క్ W2 |
+|  |  | frequente an, fessure ર W ap. fessure ≤ W2 b Aggressive |
+|  |  | quasi permanente decompressione ap. fessure ਟ ਘ |
+|  |  | frequente formazione fessure ap. fessure ≤ ₩1 C Molto aggressive quasi permanente decompressione |
+|  |  | w1=0.2 mm; w2=0.3 mm; w3=0.4 mm |
+| 7.3.1 (105) | Nota | La zona compressa in prossimità dei cavi di precompressione aderenti o delle loro guaine si |
+|  |  | deve estendere per almeno 100 mm (valore raccomandato) dal bordo dell'armatura aderente o |
+|  |  | della guaina, rispettivamente. |
+| 7.3.3 (101) | Nota | Si adotta il metodo raccomandato. |
+| 7.3.4 (101) | Nota | Si adotta il metodo raccomandato; si possono adottare anche altri metodi, purché di riconosciuta |
+|  |  | validità |
+| 8.9.1 (101) | Nota | Come raccomandato, non si introducono restrizioni addizionali. |
+| 8.10.4 (105) | Nota 1 | Si adottano i valori raccomandati. |
+| 8.10.4 (105) | Nota 2 | Si adottano i valori raccomandati in Tabella 8.101N. |
+
+{104}------------------------------------------------
+
+| 8.10.4 (107) | Nota | Le aperture e le cavità per gli ancoraggi dei cavi di precompressione sul lato superiore della soletta sono vietate in ambiente aggressivo. |
+| --- | --- | --- |
+| 9.1 (103) | Nota | Non si forniscono indicazioni addizionali. |
+| 9.2.2 (101) | Nota | Si adottano le forme raccomandate. |
+| 9.5.3 (101) | Nota | Si adottano i diametri minimi raccomandati dmin-6 mm e dmin.mesh-5 mm. |
+| 9.7 (102) | Nota | Si adotta il valore raccomandato per Seresh- |
+| 9.8.1 (103) | Nota | Si adotta il valore raccomandato dmin-12 mm. |
+| 11.9 (101) | Nota | Non si introducono ulteriori restrizioni. |
+| 113.2 (102) | Nota | La pressione grizzontale o verticale verso l'alto, agente su una delle due mensole di un ponte realizzato in avanzamento a sbalzo, si assume x= 300 N/m². |
+| 113.3.2 (103) | Nota | Si adotta il valore k = 0,70 |
+| Utilizzo appendici informative |  | Non è consentito l'uso delle Appendici A e NN. |
+|  |  | Le altre Appendici informative B, C, D, E, F, G, H, I, J, KK, LL, MM, OO, PP e QQ mantengono il carattere informativo. |
+
+{105}------------------------------------------------
+
+![](1__page_105_Picture_3.jpeg)
+
+## UNI EN 1992-3:2006
+
+Eurocodice 2: Progettazione delle strutture di calcestruzzo Parte 3: Serbatoi e strutture di contenimento liquidi
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1992-3:2006
+
+Parametri adottati a livello nazionale da utilizzare nella progettazione di serbatoi e strutture di contenimento liquidi in calcestruzzo
+
+{106}------------------------------------------------
+
+### APPENDICE NAZIONALE
+
+UNI-EN1992-3: Eurocodice 2: Progettazione delle strutture di calcestruzzo - Parte 3: Serbatoi e strutture di contenimento liquidi
+
+EN 1992-3 Eurocode 2: Design of concrete structures- Part 3: Liquid retaining and containment structures
+
+### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1992-3 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 25/02/2011
+
+#### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1992-3 relativamente ai seguenti paragrafi:
+
+7.3.1 (111)
+
+7.3.1 (112) 8.10.1.3 (103)
+
+9.11.1 (102)
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1992-3.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN 1992-3 Progetto di strutture in calcestruzzo -Parte 3: Serbatoi e strutture di contenimento liquidi
+
+### 3. DECISIONI NAZIONALI
+
+Si adottano i valori raccomandati
+
+{107}------------------------------------------------
+
+![](1__page_107_Picture_3.jpeg)
+
+rastruttur
+
+### UNI EN 1993-1-1:2005
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-1: Regole Generali e regole per gli edifici
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-1:2005
+
+Parametri adottati a livello nazionale da utilizzare per le strutture di acciaio
+
+{108}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-1-1 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 1-1: Regole generali e regole per gli edifici.
+
+EN-1993-1-1 - Eurocode 3: Design of steel structures - Part 1-1: General rules for buildings
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+2.1. Campo di applicazione
+
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-1 relativamente ai seguenti paragrafi:
+
+| 2.3.1(1) | 5.3.2(3) | 6.3.2.4(2)B |
+| --- | --- | --- |
+| 3.1(2) | 5.3.2(11) | 6.3.3(5) |
+| 3.2.1(1) | 5.3.4(3) | 6.3.4(1) |
+| 3.2.2(1) | 6.1(1) | 7.2.1(1)B |
+| 3.2.3(1) | 6.1(1)B | 7.2.2(1)B |
+| 3.2.3(3)B | 6.3.2.2(2) | 7.2.3(1)B |
+| 3.2.4(1)B | 6.3.2.3(1) | BB.1.3(3)B |
+| 5.2.1(3) | 6.3.2.3(2) |  |
+| 5.2.2(8) | 6.3.2.4(1)B |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-1.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-1 - Progettazione delle strutture di acciaio: Regole generali e regole per gli edifici.
+
+| 11 8 6 6 1 8 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 4 3 |  | Company of Complete the later | をかなりますのですが、そのあると、そのため、という | 100 - 100 - 100 - 1 2008 12 |
+| --- | --- | --- | --- | --- |
+| GRAND STATE | 新教育教育 发生 | Carrely Controller | MACKC of Nice of Not of Children to Children CALL PARTY | 1000 |
+| DOWNER |  |  |  |  |
+| A . L . L Friday | A PART 2017 11:22 1000 1000 100 | Same Beach and States of the Career A 410 And States of States |  | 12 11 12 1 1 67 12 22 4 |
+| 本体的方法 |  | 10.0 152 403 1998 - 1992 | CONNECT A TAX . OF THE STANTARY . CANADA . PASSED A The Court Production of the Children Company Contract Controlled Trans and 12 44-4 | 2007 11:5 |
+| PRESERVE |  | 1000 2000 | 100 100 100 100 | 225, 17 10. Sales of the same of the |
+| And And Children | A C 2 2 1 | 以及人的方法 | Security of the state the same | 本文大学生学 |
+
+{109}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.3.1(1) | Nota 1 | Non sono previste azioni specifiche per particolari situazioni |
+|  |  | regionali, climatiche o accidentali. |
+|  |  | Non si aggiungono altri materiali diversi da quelli riportati nella tabella 3.1. |
+| 3.1(2) | Nota | Per l'uso di acciai non compresi nella tabella 3.1 occorre il |
+|  |  | benestare, per lo specifico impiego, del Consiglio Superiore |
+|  |  | LL.PP. - Servizio Tecnico Centrale. |
+|  |  | Per i valori nominali delle tensioni di snervamento f, e ultima |
+| 3.2.1(1) | Nota | f, si fa riferimento ai valori riportati nelle relative norme |
+|  |  | prodotto; in sede di progettazione si possono assumere nei |
+|  |  | calcoli i valori nominali riportati nella tabella 3.1. |
+|  |  | Si adottano i seguenti valori: |
+|  |  | - f./f. > 1,15 - allungamento a rottura ≥ 15%; |
+|  |  | - 2, ≥ 20E, Per le zone dissipative delle strutture in zona sismica si |
+|  |  | adottano i seguenti valori; |
+| 3.2.2(1) | Nota | - f./f. > 1,20 |
+|  |  | -1 - 11 - 1 - 20 - allungamento a rottura ≥ 20%; |
+|  |  | - En ≥ 20Ev |
+|  |  | Il rispetto di queste prescrizioni va garantito riportandole sui |
+|  |  | documenti di progetto. |
+|  |  | La temperatura minima di servizio da assumere nel progetto non deve essere superiore a quella minima ambientale del sito |
+|  |  | con periodo di ritorno di 50 anni per strutture non protette, |
+|  |  | non superiore alla temperatura di cui sopra, aumentata di 15 |
+| 3.2.3(1) | Nota | oC per strutture protette. |
+|  |  | Nel caso non si disponga di dati statistici locali di temperatura |
+|  |  | si potrà assumere come temperatura minima di servizio il |
+|  |  | valore di -25°C per strutture non protette e -10°C per |
+|  |  | strutture protette. Per il valore limite di resilienza per gli elementi compressi |
+| 3.2.3(3)B | Nota B | degli edifici si adotta la tabella 2.1 della EN 1993-1-10 per |
+|  |  | GEd=0,25fy (t) |
+| 3.2.4(1)B | Nota 3B | I valori di Zea, devono essere valutati in accordo alla tabella 3.2, nel caso di edifici. Relativamente agli altri casi si |
+|  |  | rimanda alla EN 1993-1-10. |
+|  |  | Non sono ammessi valori limite di ca inferiori a quelli raccomandati, anche se supportati da metodologie di calcolo |
+| 5.2.1(3) | Nota | più accurate: |
+|  |  | - a > 10 ver analisi elastiche: |
+|  |  | - act 2 15 per analisi plastiche. |
+| 5.2.2(8) | Nota | Nessuna precisazione aggiuntiva. |
+| 5.3.2(3) | Nota | Si adottano i valori raccomandati nella tabella 5.1 |
+| 5.3.2 (11) | Nota 2 | Nessuna precisazione aggiuntiva |
+| 5.3.4(3) | Nota | Si adotta il valore raccomandato: |
+|  |  | k = 0,5 |
+| 6.1(1) |  | Per le strutture non incluse nelle parti da 2 a 6 dell' EN 1993 nell'appendice nazionale a UNI EN 1993-2 (Progettazione |
+|  | Nota 1 | si adottano gli stessi valori validi per i ponti riportati |
+|  |  | dei ponti di acciaio). |
+
+#### 3) Decisioni nazionali
+
+{110}------------------------------------------------
+
+|  |  | Si adottano i seguenti valori per gli edifici: = YMO= 1.05: |
+| --- | --- | --- |
+| 6.1(1)B | Nota 2B |  |
+|  |  | - YMI= 1,05; |
+|  |  | · VM2= 1,25, |
+| 6.3.2.2(2) | Nota | Si adottano i valori raccomandati nella tabella 6.3 |
+|  | Nota | Si adottano i seguenti valori: 0,20 ≤ AIT, 5 0,40 0,75 ≤ 8 ≤ 1,0 |
+|  |  | con le seguenti limitazioni |
+| 6.3.2.3(1) |  | limiti Curva di |
+|  |  | Sezione retta PP stabilità |
+|  |  | રેપે b laminati |
+|  |  | sezioni - I >2 C |
+|  |  | saldati ಸ C |
+|  |  | sezioni - I >2 d |
+|  |  | Altre sezioni d trasversali |
+|  |  | Si adotta la formulazione raccomandata: |
+| 6.3.2.3(2) | Nota |  |
+|  |  | con f < 1,0 |
+| 6.3.2.4(1)B | Nota 2B | Si adotta il valore raccomandato: |
+|  |  | Aco = ALT.o + 0, I |
+| 6.3.2.4(2)B | Nota B | Si adotta un fattore kg correttivo pari a 1,10, nel caso di profili laminati, e pari a 1,00 nel caso di profili in |
+|  |  | composizione saldata. |
+| 6.3.3(5) | Nota 2 | Possono essere impiegate entrambe le metodologie. |
+|  |  | Il metodo può essere utilizzato quando i metodi riportati in |
+|  |  | 6.3.1, 6.3.2 e 6.3.3 non sono applicabili. Il metodo permette la |
+|  |  | verifica della resistenza nei confronti dell'instabilità laterale e |
+|  |  | latero-torsionale per elementi strutturali quali: singole |
+|  |  | membrature, composte o non, uniformi o non, con condizioni |
+|  |  | di vincolo complesse o non, strutture piane o sottostrutture |
+| 6.3.4(1) | Nota | composte da membrature soggette a compressione e/o |
+|  |  | flessione semplice nel piano, che non contengono cerniere |
+|  |  | plastiche rotazionali. |
+|  |  | I moltiplicatori dei carichi di progetto du, Mi,k accopi possono |
+|  |  | essere determinati tramite modelli numerici, purché |
+|  |  | convalidati riferimento con ad attendibili riscontri |
+|  |  | sperimentali. |
+|  |  | Si adottano i seguenti limiti per gli spostamenti verticali (8 freccia nello stato finale, depurata della monta iniziale; o2 |
+|  |  | variazione dovuta all'applicazione dei carichi variabili): |
+|  |  | - coperture in generale: 8rons/LS1/200, 85/L≤1/250 |
+|  |  | - coperture praticabili: 8mm/L≤1/250, 82/L≤1/300 |
+|  |  | - solai în generale: 8 mor/L≤1/250, 82/L≤1/300 |
+|  |  | - solai o coperture che reggono intonaco o altro materiale di |
+| 7.2.1(1)B | Nota B | finitura fragile o tramezzi non flessibili: 8mm/L<1/250, |
+|  |  | श्री दा | 320 |
+|  |  | - solai che supportano colonne: Sprax/LS1/400, 82/L≤1/500 |
+|  |  | Nei casi in cui lo spostamento può compromettere l'aspetto |
+|  |  | dell'edificio: Sman/LS1/250 |
+|  |  | In caso di specifiche esigenze tecniche e/o funzionali tali |
+|  |  | limiti devono essere opportunamente ridotti. |
+
+{111}------------------------------------------------
+
+|  |  | Si adottano i seguenti valori per gli spostamenti orizzontali |
+| --- | --- | --- |
+|  |  | র spostamento orizzontale in sommità, 8 spostamento relativo di piano): |
+|  |  | - edifici industriali monopiano senza carroponte: ofa≤1/150; |
+| 7.2.2(1)B | Nota B | - altri edifici monopiano: &h≤1/300; |
+|  |  | - edifici multipiano: 80≤1/300; Δ/Η ≤ 1/500 |
+|  |  | In caso di specifiche esigenze tecniche c/o funzionali tali |
+|  |  | limiti devono essere opportunamente ridotti. |
+|  |  | Quando necessario si adottano i seguenti limiti relativi alle vibrazioni degli impalcati: - solai caricati da persone: la frequenza naturale più bassa |
+|  |  | della struttura non deve in generale essere inferiore a 3Hz: |
+| 7.2.3(1)B | Nota B | - solai soggetti a eccitazioni cicliche: la frequenza naturale |
+|  |  | più bassa della struttura non deve in generale essere inferiore |
+|  |  | a 5Hz. |
+|  |  | In alternativa a tali limitazioni potrà condursi un controllo di |
+|  |  | accettabilità della percezione delle vibrazioni. |
+| BB.1.3(3)B | Nota | Nessuna informazione aggiuntiva. |
+
+{112}------------------------------------------------
+
+![](1__page_112_Picture_3.jpeg)
+
+![](1__page_112_Picture_4.jpeg)
+
+### UNI EN 1993-1-2:2005
+
+### Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-2: Regole generali -Progettazione strutturale contro l'Incendio
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-2:2005
+
+Parametri adottati a livello nazionale da utilizzare per la progettazione delle strutture di acciaio esposte all'incendio
+
+{113}------------------------------------------------
+
+#### APPENDICE NAZIONALE
+
+UNI-EN1993-1-2 Eurocodice 3: Progettazione delle strutture di acciaio - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+EN 1993-1-2 Eurocode 3 : Design of steel structures - Part 1-2; General rules - Structural fire design
+
+#### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1993-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+#### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1993-1-2 relativamente ai seguenti paragrafi:
+
+> 2.3 (1) nota 4.1(2) nota 4.2.3.6 (1) nota 2 4.2.4 (2) nota 2.3 (2) nota
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1993-1-2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN1993-1-2: Eurocodice 3: Progettazione delle strutture di acciaio - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+#### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1993-1-2
+
+{114}------------------------------------------------
+
+| Paragrafe | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 2.3(1) | Nota | Si adotta il valore raccomandato |
+|  |  | YM.fi = 1,0 |
+| 2-3(2) | Nota | Si adotta il valore raccomandato |
+|  |  | YM.s = 1,0 |
+| 4.1 (2) | Nota | Non si forniscono indicazioni specifiche. |
+| 4.2.3.6 (1) | Nota 2 | Si adotta il valore raccomandato |
+|  |  | Acrit = 350°C |
+| 4.2.4 (2) | Nota | Non si forniscono indicazioni specifiche |
+| Utilizzo delle appendici |  | Le Appendici C, D, E mantengono il carattere informativo. |
+| informative |  |  |
+
+{115}------------------------------------------------
+
+![](1__page_115_Picture_3.jpeg)
+
+inistero delle Infrastrutture e dei . Trasporti
+
+### UNI EN 1993-1-3:2007
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-3: Regole generali-regole supplementari per l' impiego dei profilati e delle lamiere sottili piegati a freddo
+
+### APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-3:2007
+
+Parametri adottati a livello nazionale da utilizzare per le strutture in profili sottili di acciaio
+
+{116}------------------------------------------------
+
+#### Appendice nazionale
+
+UNI-EN-1993-1-3 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 1-3: Regole generali - Regole supplementari per l'impiego dei profilati e delle lamiere sottili piegati a freddo.
+
+EN-1993-1-3 - Eurocode 3: Design of steel structures - Part 1-3: General rules - Supplementary rules for cold-formed members and sheeting
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-3 relativamente ai seguenti paragrafi:
+
+| 2(3)P | 8.3(13) Tav. 8.3 | A.6.4(4) |
+| --- | --- | --- |
+| 2(5) | 8.3(13) Tav. 8.4 | E(1) |
+| 3.1(3) Nota 1 | 8.4(5) |  |
+| 3.1(3) Nota 2 | 8.5.1(4) |  |
+| 3.2.4(1) | 9(2) |  |
+| 5.3(4) | 10.1.1(1) |  |
+| 8.3(5)B | 10.1.4.2(1) |  |
+| 8.3(13) Tav. 8.1 | A.1(1) Nota 2 |  |
+| 8.3(13) Tav. 8.2 | A.1(1) Nota 3 |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-3.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-3: Regole generali -Regole supplementari per l'impiego dei profilati e delle lamiere sottili piegati a freddo.
+
+{117}------------------------------------------------
+
+# 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | - valore o prescrizione - |  |  |  |  |
+|  |  | Si adottano i seguenti valori dei coefficienti parziali VM : YMO = 1,05; YMI = 1,05; YM2 = 1,25. |  |  |  |  |
+| 2(3)P |  | Per i ponti (stradali e ferroviari) si adottano i seguenti valori dei coefficienti parziali |  |  |  |  |
+|  |  | M : |  |  |  |  |
+|  |  | YM0 = 1,05; YM1 = 1,10; YM2 = 1,25. |  |  |  |  |
+| 2(5) |  | Si adotta il valore raccomandato |  |  |  |  |
+|  |  | M.Sex = 1,00. |  |  |  |  |
+| 3.1(3) | Nota 1 | Non è accettata una riduzione dei valori nominali delle caratteristiche meccaniche |  |  |  |  |
+|  |  | (resistenza di snervamento fot e resistenza a rottura fi). |  |  |  |  |
+|  |  | La tabella 3.1b di EN 1993-1-3 è sostituita dalla seguente tabella |  |  |  |  |
+|  |  | Tipo di acciaio | Norma | Qualità degli | fyk | fik |
+|  |  | [N/mm"] [N/mm"] |  | acciai |  |  |
+| 3.1(3) | Nota 2 | impieghi strutturali, zincati per immersione a caldo in continuo. Condizioni tecniche di fomitura. di acciai ad alto limite di | UNI EN UNI EN | S250GD+Z | 250 | 330 |
+|  |  | Nastri e lamiere di acciaio per | 10326 | S280GD+Z | 280 | 360 |
+|  |  |  |  | S320GD+Z | 320 | ਤੇ ਨੇ 0 |
+|  |  |  |  | S350GD+Z | 350 | 420 |
+|  |  | Prodotti piani laminati a caldo |  |  |  |  |
+|  |  |  |  | $ 315 MC | ૩ I ર | 390 |
+|  |  |  |  | 8 355 MC | રેરેર | 430 |
+|  |  | snervamento per formatura a | 10149-2 | S 420 MC | 420 | 480 |
+|  |  | freddo. Condizioni di fornitura |  | S 460 MC | 460 | 520 |
+|  |  | degli acciai ottenuti mediante |  |  |  |  |
+|  |  | laminazione termomeccanica. |  |  |  |  |
+|  |  | Prodotti piani laminati a caldo |  | S 260 NC | 260 | 370 |
+|  |  | di acciai ad alto limite di |  |  |  |  |
+|  |  |  | UNI EN | S 315 NC | 31 રે | 430 |
+|  |  | snervamento per formatura a | 10149-3 | S 355 NC | રૂર્સ | 470 |
+|  |  | freddo. Condizioni di fornitura |  |  |  |  |
+|  |  | degli acciai normalizzati o |  | S 420 NC | 420 | 230 |
+|  |  | laminati normalizzati. |  |  |  |  |
+|  |  | Si adottano le seguenti limitazioni: |  |  |  |  |
+|  |  | pannelli e membrature 0,8 mm ≤ 16 mm |  |  |  |  |
+| 3.2.4(1) |  | (il limite inferiore può essere ridotto a 0.7 mm quando è garantita |  |  |  |  |
+|  |  | la pedonabilità dei pannelli o lamiere grecate); |  |  |  |  |
+|  |  | collegamenti 0,8 mm (0,7 mm) ≤ toor < 4 mm (per tcor ≥ 4 mm si applica EN 1993-1-8). |  |  |  |  |
+| 5.3(4) |  | Si adottano i valori raccomandati; |  |  |  |  |
+|  |  | eo/L = 1/600 per analisi elastica; ev/L = 1/500 per analisi plastica. |  |  |  |  |
+| 8.3(5) |  | Si adotta il fattore parziale raccomandato YM2 = 1,25. |  |  |  |  |
+| 8.3(13) | Tav. 8.1 | Nessuna informazione o prescrizione aggiuntiva. |  |  |  |  |
+| 8.3(13) | Tav. 8.2 | Nessuna informazione o prescrizione aggiuntiva. |  |  |  |  |
+| 8.3(13) | Tav. 8.3 | Nessuna informazione o prescrizione aggiuntiva. |  |  |  |  |
+| 8.3(13) | Tav. 8.4 | Nessuna informazione o prescrizione aggiuntiva. |  |  |  |  |
+| 8.4(5) |  | Si adotta il fattore parziale raccomandato: YM2 = 1,25. |  |  |  |  |
+| 8.5.1(4) |  | Si adotta il fattore parziale raccomandato YM2 = 1,25. |  |  |  |  |
+
+| A market |
+| --- |
+| 2008 100 100 12 11 11 11 |
+|  |
+|  |
+
+{118}------------------------------------------------
+
+| 9(2) |  | Nessuna informazione o prescrizione aggiuntiva. |
+| --- | --- | --- |
+| 10.1.1(1) |  | Nessuna informazione o prescrizione aggiuntiva sulla sperimentazione. |
+| 10.1.4.2(1) |  | Per le verifiche si adotta la curva di stabilità "b" raccomandata. |
+| A.1(1) | Nota 2 | Non si forniscono indicazioni o prescrizioni aggiuntive sulle procedure di |
+|  |  | sperimentazione. |
+| A.I(1) | Nota 3 | Si adottano i criteri raccomandati. |
+| A6.4(4) |  | I fattori parziali YM determinati a seguito di sperimentazione devono |
+|  |  | essere determinati seguendo le indicazioni di EN 1990, ma non |
+|  |  | saranno comunque inferiori a: |
+|  |  | YMO ≥ 1,05 ; YM1 ≥ 1,05 ; YM2 ≥ 1,25. |
+|  |  | Per i ponti (stradali e ferroviari) devono essere rispettate le seguenti limitazioni: |
+|  |  | Mo ≥ 1,05; Mi ≥ 1,10; YM2 ≥ 1,25. |
+| E(1) |  | Nessuna limitazione o precisazione aggiuntiva. |
+| Utilizzo delle appendici |  | Le Appendici informative B, C, D ed E conservano il carattere informativo." |
+| informative |  |  |
+
+{119}------------------------------------------------
+
+![](1__page_119_Picture_3.jpeg)
+
+rastruttur sporti
+
+### UNI EN 1993-1-4:2007
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-4: Regole generali-regole supplementari per accial inossidabili
+
+### APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-4:2007
+
+Parametri adottati a livello nazionale da utilizzare per le strutture di acciaio inossidabile
+
+
+
+
+{120}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1993-1-4 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 1-4: Regole generali - Regole supplementari per acciai inossidabili.
+
+EN-1993-1-4 - Eurocode 3: Design of steel structures - Part 1-4: General rules - Supplementary rules for stainless steels
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-4, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-4 relativamente ai seguenti paragrafi:
+
+| 2.1.4(2) | 5.5(1) | 6.1(2) |
+| --- | --- | --- |
+| 2.1.5(1) | 5.6(2) | 6.2(3) |
+| 5.1(2) |  |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-4.
+
+2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-4: Regole generali -Regole supplementari per acciai inossidabili.
+
+{121}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.1.4(2) | Nota 2 | Nessuna informazione o prescrizione aggiuntiva. |
+| 2.1.5(1) |  | Nessuna informazione o prescrizione aggiuntiva. |
+| 5.1(2) |  | Si adottano i valori raccomandati dei coefficienti parziali YM : |
+|  |  | YMO = 1,10; %A1 = 1,10; YM2 = 1,25. |
+|  |  | Tali valori si possono adottare anche per i ponti (stradali e ferroviari). |
+| 5.5(1) | Nota 1 | Non si propongono formule alternative per i coefficienti Ky, kz e kur e si adottano le |
+|  |  | formule raccomandate. |
+| 5.5(1) | Nota 2 | Non si propongono formule di interazione alternative alle formule da 5.13 a 5.17 che |
+|  |  | vengono adottate. |
+| 5.6(2) | Nota | Si adotta il valore raccomandato n= 1.20. |
+| 6.1(2) | Nota 2 | Non si propongono nuove formule aggiuntive. |
+| 6.2(3) | Nota | Si adottano i valori raccomandati del coefficiente o: |
+| Utilizzo delle appendici |  | Le Appendici informative A e B conservano il carattere informativo. |
+| informative |  |  |
+
+### 3) Decisioni nazionali
+
+![](2__page_121_Figure_5.jpeg)
+
+{122}------------------------------------------------
+
+![](2__page_122_Picture_3.jpeg)
+
+ristero delle eriore dei Lavori Sur
+
+## UNI EN 1993-1-5:2007
+
+## Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-5: Elementi strutturali a lastra
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-5:2007
+
+# Parametri adottati a livello nazionale da utilizzare per le strutture di acciaio a lastra
+
+{123}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-1-5 - Eurocodice 3 - Progettazione delle strutture in acciaio: Elementi strutturali a lastra EN-1993-1-5 - Eurocode 3: Design of steel structures - Part 1-5: Plated structural elements
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-5, è stata approvata dal Consiglio Superiore dei LL. PP. In data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-5 relativamente ai seguenti paragrafi:
+
+| 2.2(5) | Appendice A |
+| --- | --- |
+| 3.3(1) | Appendice B |
+| 4.3(6) | Appendice C |
+| 5.1(2) | C.2(1) |
+| 6.4(2) | C.5(2) |
+| 8(2) | C.8(1) |
+| 9.1(1) | C.9(3) |
+| 9.2.1(9) | Appendice D |
+| 10(1) | D.2.2(2) |
+| 10(2) |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-5.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-5 - Progettazione delle strutture in acciaio: Elementi strutturali a lastra.
+
+{124}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.2(5) | Nota 1 | Si adotta il valore raccomandato phim = 0,5. |
+| 3.3(1) | Nota 1 | Si adotta il metodo raccomandato c) |
+| 4.3(6) | Nota | Si adotta il valore raccomandato de = 2,0. |
+| 5.1(2) | Nota 2 | Si adotta il valore raccomandato 7 = 1.20 per acciai fino al grado S460. Non é consentito l'uso di acciai di grado |
+|  |  | superiore. |
+| 6.4(2) | Nota | Nessuna informazione aggiuntiva. |
+|  |  | Si adottano le regole raccomandate. |
+| 8(2) | Nota | Nessuna informazione aggiuntiva. |
+| 9.1(1) | Nota | Nessuna informazione aggiuntiva. |
+| 9.2.1(9) | Nota | Si adotta il valore raccomandato 0 = 6. |
+| 10(1) | Nota 2 | Nessuna limitazione all'impiego del metodo |
+| 10(2) | Nota 2 | Nessuna informazione aggiuntiva. |
+| Appendice A |  | L'appendice conserva il carattere "informativo" |
+| Appendice B |  | L'appendice conserva il carattere "informativo" |
+| Appendice C |  | L'appendice conserva il carattere "informativo" |
+| C.2(1) | Nota | Nessuna limitazione all'uso di analisi FEM |
+| C.5(2) | Nota 1 | Si adotta il valore raccomandato. |
+| C.8(1) | Nota 1 | Si adotta il valore raccomandato. |
+| C.9(3) | Nota | Si adottano, come raccomandato, i valori dei coefficienti parziali riportati nelle parti relative delle EN1993: |
+|  |  | ½41 = 1,05; Ma1 = 1,10 per i ponti stradali e ferroviari, %2 = |
+|  |  | 1,25. |
+| Appendice D |  | L'appendice conserva il carattere "informativo" |
+| D.2.2(2) | Nota | Nessuna informazione aggiuntiva. |
+|  |  | Si adottano le formulazioni raccomandate. |
+
+{125}------------------------------------------------
+
+![](2__page_125_Picture_3.jpeg)
+
+![](2__page_125_Picture_4.jpeg)
+
+## UNI EN 1993-1-6:2007
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-6: Resistenza e stabilità delle strutture a guscio
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-6:2007
+
+# Parametri adottati a livello nazionale
+
+da utilizzare per le strutture di acciaio a guscio
+
+![](2__page_125_Picture_10.jpeg)
+
+{126}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1993-1-6 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 1- 6: Resistenza e stabilità delle strutture a guscio.
+
+EN-1993-1-6 - Eurocode 3: Design of steel structures - Part 1-6: Strength and stability of shell structures
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-6, è stata approvata dal Consiglio Superiore dei LL. PP. In data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-6 relativamente ai seguenti paragrafi:
+
+| 3.1(4) | 8.4.4(4) |
+| --- | --- |
+| 4.1.4(3) | 8.4.5(1) |
+| 5.2.4(1) | 8.5.2(2) |
+| 6.3(5) | 8.5.2(4) |
+| 7.3.1(1) | 8.7.2(7) |
+| 7.3.2(1) | 8.7.2(16) |
+| 8.4.2(3) | 8.7.2(18) |
+| 8.4.3(2) | 8.7.2(18) |
+| 8.4.3(4) | 9.2.1(2) |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-6.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-6 - Progettazione delle strutture di acciaio: Resistenza e stabilità delle strutture a guscio.
+
+{127}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 3.1(4) |  | Il campo di applicazione della norma è limitato a temperature inferiori a 150° C. Non |
+|  | Nota | si forniscono indicazioni sulla proprietà dei materiali oltre tale temperatura. |
+| 4.1.4(3) | Nota | Si adotta il valore raccomandato Nr = 10'000. |
+| 5.2.4(1) | Nota | Si adotta il valore raccomandato(r/t)min = 25. |
+| 6.3(5) | Nota | Si adotta il valore raccomandato Emos = 50 fyd / E. |
+| 7.3.1(1) | Nota 2 | Nessuna informazione aggiuntiva su regole di analisi più raffinate. |
+| 7.3.2(1) | Nota | Si adotta il valore raccomandato Ep.eg.Ed = 25 fyd / E. |
+| 8.4.2(3) | Nota | Si adottano i valori raccomandati nella tabella 8.1. |
+| 8.4.3(2) | Nota | Si adottano i valori raccomandati nella tabella 8.2. |
+| 8.4.3(4) | Nota 1 | Si adottano i valori raccomandati nella tabella 8.3. |
+| 8.4.4(4) | Nota 1 | Si adottano i valori della tolleranza di concavità relativa raccomandati che sono |
+|  |  | riportati nella tabella 8.4. |
+| 8.5.2(2) | Nota | Si adotta il valore raccomandato YMI=1,1. |
+| 8.5.2(4) | Nota 1 | Si adottano i valori indicati nell'Annesso D. |
+| 8.7.2(7) | Nota | Si adotta il valore raccomandato ß = 0.1 radianti. |
+| 8.7.2(16) | Nota | Non si forniscono indicazioni aggiuntive circa l'andamento delle imperfezioni |
+|  |  | geometriche da introdurre nella modellazione numerica. |
+| 8.7.2(18) | Nota 1 | Si adotta il valore raccomandato n; = 25. |
+| 8.7.2(18) | Nota 2 | Si adottano i valori raccomandati nella Tabella 8.5 . |
+| 9.2.1(2)P | Nota | Il fattore parziale ysar viene assunto secondo la tabella 3.1 della norma EN 1993-1-9. |
+
+Gli Annessi A, B, C e D conservano valore normativo.
+
+{128}------------------------------------------------
+
+![](2__page_128_Picture_3.jpeg)
+
+![](2__page_128_Picture_4.jpeg)
+
+# UNI EN 1993-1-7:2007
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-7: Strutture a lastra ortotropa caricate al di fuori del piano
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-7:2007
+
+Parametri adottati a livello nazionale da utilizzare per le strutture di acciaio a lastra ortotropa caricate al di fuori piano
+
+{129}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-1-7 - Eurocodice 3 - Progettazione delle strutture di acciaio - Parte 1-7: Strutture a lastra ortotropa caricate al di fuori del piano
+
+EN-1993-1-7 - Eurocode 3: Design of steel structures – Part 1- 7: Plated structures subject to out of plane loading
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-7, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-7 relativamente ai seguenti paragrafi:
+
+### 6.3.2(4)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-7.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-7 - Strutture a lastra ortotropa caricate al di fuori del piano
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 6.3.2(4) | Nota 1 | Plasticizzazione ciclica. Limite delle deformazioni plastiche | accumulate. |
+|  |  | Si adotta il valore raccomandato nen = 25. |
+
+Gli Annessi A, B e C mantengono valore informativo.
+
+| A Comments of the Cameral 2017 227 |  | 12200 - 12 - 1 |  | 378 15 |  |  |  | A 2000 11 1 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| POSTERS ... | · Property of Art | September 19, 2011 |  |  | Status and States of | Sept of the Research | 200 12.120 | AR 200 |
+|  |  |  |  | 1 6.0% |  |  | A STATE |  |
+| Concession and the property. | . | 45 03 124 | MARTERSANAGE STATES SEE SECTEM SE SE SE SE SE SE SE SE SE SE SE SE ST S S F S |  | ي جي جي جي للد | STATE OF COLLECTION | SAATSA | READ WALL |
+|  |  | 100 |  |  | ี |  |  |  |
+|  |  |  |  | . |  |  |  |  |
+| Property of Children |  | PAGE PARTY | Property | 14.78 45 | A COLLECT |  |  | PANITA POST NA |
+| 1918-11-2 | STATE OF STATE | 1997 - 1998 - 1998 |  |  |  |  |  | A the start of the state of the state of |
+
+{130}------------------------------------------------
+
+![](2__page_130_Picture_3.jpeg)
+
+istero delle . Infrastrutture e dei sporti
+
+# UNI EN 1993-1-8:2005
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-8: Progettazione dei collegamenti
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-8:2005
+
+Parametri adottati a livello nazionale da utilizzare per la progettazione dei collegamenti nelle strutture di acciaio
+
+{131}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-1-8 - Eurocodice 3 - Progettazione delle strutture di acciaio - Parte 1-8: Progettazione dei collegamenti EN-1993-1-8 - Eurocode 3: Design of steel structures - Part 1- 8: Design of joints
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1- 8, è stata approvata dal Consiglio Superiore dei LL. PP. In data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1- 8 relativamente ai seguenti paragrafi:
+
+## 2.2(2) 1.2.6 (Gruppo 6: rivetti) 3.1.1(3) 3.4.2(1) 5.2.1(2)
+
+6.2.7.2(9)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-8.
+
+#### Documenti normativi di riferimento 2.2.
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-8 - Progettazione delle strutture in acciaio - Progetto dei collegamenti.
+
+{132}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 1.2.6 (Gruppo 6: rivetti) | Nota | Nessuna normativa di riferimento aggiuntiva |
+| 2.2(2) | Nota | Si adottano i valori raccomandati nella tabella 2.1 |
+| 3.1.1(3) | Nota | Si escludono i bulloni delle classi 4.8 e 5.8 Quando il precarico non è esplicitamente considerato per la |
+| 3.4.2(1) | Nota | resistenza ad attrito, ma è richiesto ai fini della esecuzione o come requisito di qualità, il livello di precarico da applicare deve essere conforme alle indicazioni della EN 1090-2 par. |
+|  |  | 8.3. |
+| 5.2.1(2) | Nota | Non vengono fornite informazioni aggiuntive |
+| 6.2.7.2(9) | Nota | Non vengono definite altre situazioni nelle quali è possibile utilizzare l'equazione (6.26) |
+
+{133}------------------------------------------------
+
+![](2__page_133_Picture_3.jpeg)
+
+inistero delle . Infrastrutture e dei
+
+## UNI EN 1993-1-9:2005
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-9: Fatica
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-9:2005
+
+# Parametri adottati a livello nazionale
+
+da utilizzare nelle strutture di acciaio soggette a fatica
+
+|  |  | 12 2017 |  |
+| --- | --- | --- | --- |
+|  | C. Caracters 100 100 100 And States of the States |  |  |
+| 153 12 12 1 100 100 |  | a participant program and the program and the second of the section of the second of the second of the second of the second of the second of the second the section of the sec | the start of the states of the states |
+|  |  |  |  |
+|  |  |  | , |
+
+{134}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993 - 1 - 9 - Eurocodice 3 - Progettazione delle strutture di acciaio - Parte 1 - 9 -Fatica
+
+EN-1993 -1-9 - Eurocode 3 - Design of steel structure - Part 1 - 9 - Fatigue
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993 - 1 - 9, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1993 -- 1 - 9 relativamente ai paragrafi
+
+- 1.1(2) 2 posizioni
+- 2(2)
+- 2(4)
+- 3(2)
+- 3(7)
+- 5(2)
+- 6.1(1)
+- 6.2(2)
+- 7.1(3)
+- 7.1(5) - 8(4)
+- Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-9.
+
+2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993 – 1 – 9 – Eurocodice 3 – Progettazione delle strutture in acciaio - Parte 1 - 9 - Fatica.
+
+{135}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| - 1.1(2) | Nota 1 | Non si forniscono indicazioni specifiche |
+| - 1.1(2) | Nota 2 | Non si forniscono indicazioni supplementari |
+| - 2(2) | Nota | La formula (A.3) dell'Appendice normativa A è affetta da errore materiale, essa, infatti |
+|  |  | dovrebbe leggersi AOc . |
+|  |  | YaAG. AD, S 1 10 |
+|  |  | Il ricorso alla formula (A,3) così corretta è ammesso limitatamente al caso in cui siano |
+|  |  | disponibili valori dei coefficienti di danneggiamento equivalente 2, fondati su adegusta |
+|  |  | base scientifica. In ogni caso, ove rilevante, la scelta dell'esponente della radice, m. deve |
+|  |  | essere adeguatamente giustificata e deve comunque essere cautelativa. In altri termini è ammessa l'assunzione m-3 soltanto quando il danneggiamento effettivo da considerare è |
+|  |  | maggiore di quello di riferimento utilizzato per il calcolo di Adezz- |
+| - 2(4) | Nota | Non si forniscono prescrizioni addizionali, |
+| - 3(2) | Nota 2 | Non si danno prescrizioni specifiche. In opere di particolare rilevanza il programma di |
+|  |  | ispezioni deve essere specificato caso per caso. |
+| - 3(7) | Nota | Sono applicabili entrambi i metodi per la verifica a fatica. La scelta dipende dallo spettro |
+|  |  | di tensione, dal dettaglio, dalle conseguenze della crisi e dall'ispezionabilità e riparabilità |
+|  |  | del dettaglio stesso. Per i coefficienti parziali 1/4 si adottano i valori raccomandati di |
+|  |  | tabella 3.1. |
+| - 5(2) | Nota 2 | Non si prescrivono limitazioni all'impiego delle sezioni di classe 4. |
+| - 6.1(1) | Nota | I delta di tensione Ao da impiegare nelle verifiche debbono essere coerenti con quelli |
+|  |  | impiegati nella definizione delle curve S-N, Qualora si faccia riferimento alle tensioni di |
+|  |  | picco è necessario che le tensioni di calcolo siano determinate con le stesse modalità |
+|  |  | adottate per ricavare i valori sperimentali di picco. |
+| - 6.2(2) | Nota | Non si forniscono informazioni aggiuntive. |
+| - 7.1(3) | Nota 2 | Si consente di effettuare il calcolo con riferimento a categorie di dettaglio determinate |
+|  |  | sperimentalmente secondo il procedimento indicato nella nota 1. |
+| - 7.1(5) | Nota | Non si forniscono categorie di dettaglio aggiuntive. |
+| - 8(4) | Nota 2 | Vale quanto già indicato al precedente punto 2(2). |
+
+{136}------------------------------------------------
+
+![](2__page_136_Picture_3.jpeg)
+
+tero delle . Infrastrutture e dei rashorts periore dei Lavori . It
+
+# UNI EN 1993-1-10:2005
+
+Eurocodice 3: Progettazione delle strutture di acclaio Parte 1-10: Resilienza del materiale e proprietà attraverso lo spessore
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-10:2005
+
+Parametri adottati a livello nazionale da utilizzare per le verifiche di resilienza di strutture di acciaio
+
+{137}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1993-1-10 - Eurocodice 3 - Progettazione delle strutture di acciaio - Parte 1-10: Resilienza del materiale e proprietà attraverso lo spessore
+
+EN-1993-1-10 - Eurocode 3: Design of steel structures - Part 1-10: Material toughness and through-thickness properties
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-1-10, è stata approvata dal Consiglio Superiore dei LL. PP. In data 24/09/2010
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 Ie decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-1-10 relativamente ai seguenti paragrafi:
+
+### 2.2(5)
+
+## 3.1(1)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-10.
+
+Inoltre al punto 4 della presente Appendice sono riportate alcune indicazioni aggiuntive che, senza contraddizioni con la UNI-EN-1993-1-10, forniscono informazioni aggiuntive e chiarimenti su alcune regole della UNI-EN-1993-1-10.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-1-10 - Progettazione delle strutture di acciaio - Resilienza del materiale e proprietà attraverso lo spessore.
+
+{138}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.2(5) | Nota 1 | Si adotta il valore raccomandato: |
+|  |  | ATR = 0° Per elementi strutturali, la cui crisi può avere gravi |
+| 2.2(5) | Nota 3 | conseguenze in termini di sicurezza ed economia, la |
+|  |  | validità dei valori degli spessori ammessi nella tabella 2,1 |
+|  |  | deve essere limitata con il seguente criterio: |
+|  |  | - per Opo ≥ 0,75 fo: T27 ≤ TED + 30 °C |
+|  |  | - per 0.5 fy < Opp < 0.75 fy: T27 ≤ TED + 40 °C |
+| 2.2(5) | Nota 4 | L'uso della tabella 2.1 è consentito per gli acciai indicati |
+|  |  | nella tabella stessa fino al grado S460 compreso; è |
+|  |  | escluso, nell'ambito di EN 1993-1-1, l'impiego di acciaio |
+|  |  | di grado S 690. |
+| 3.1(1) | Nota | Si adotta la classe raccomandata: |
+|  |  | classe 1 |
+
+{139}------------------------------------------------
+
+![](2__page_139_Picture_3.jpeg)
+
+Infrastrutture e dei sporti
+
+# UNI EN 1993-1-11:2007
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-11: Progettazione di strutture con elementi tesi
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-11:2007
+
+Parametri adottati a livello nazionale da utilizzare nelle strutture di acciaio con elementi tesi
+
+{140}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993 – 1 – 11 – Eurocodice 3 – Progettazione delle strutture di acciaio – Parte 1 – 11 – Progettazione di strutture con elementi tesi
+
+EN-1993 - 1- 11 - Eurocode 3 - Design of steel structure - Part 1 - 11 - Design of structures with tension components
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993 - 1 - 11, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1993 – 1 – 11 relativamente ai paragrafi
+
+- 2.3.6(1) -
+- 2.3.6(2) –
+- 2.4.1(1) -
+- 3.1(1) –
+- 4.4(2) –
+- 4.5(4) -
+- 5.2(3) –
+- 5.3(2) -
+- 6.2(2) -
+- 6.3.2(1) -
+- 6.3.4(1) –
+- 6.4.1(1)P -
+- 7.2(2) -
+- A.4.5.1(1) -
+- A. 4.5.2(1) -
+- B(6) -
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-11.
+
+## 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993 - 1 - 11 - Eurocodice 3 - Progettazione delle strutture in acciaio - Parte 1 - 11 - Progettazione di strutture con elementi tesi.
+
+![](2__page_140_Picture_30.jpeg)
+
+{141}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione |
+| --- | --- | --- |
+| 2.3.6(1) | Nota | Per questa condizione transitoria si adottano i fattori parziali dei carichi relativi alla combinazione eccezionale. |
+|  |  | Per le verifiche degli elementi e dei collegamenti si adottano i fattori parziali YM previsti |
+|  |  | per le situazioni persistenti. |
+| 2.3.6(2) | Nota 1 | Non si forniscono indicazioni supplementari. |
+| 2.4.1(1) | Nota | Fattori parziali dei carichi permanenti durante le fasi di montaggio. Si adottano i seguenti valori del fattore parziale dei carichi permanenti durante il |
+|  |  | montaggio: |
+|  |  | Yo = 1,20 per breve periodo (poche ore) per il montaggio del primo strallo; |
+|  |  | Yr = 1,30 per il montaggio degli stralli successivi; |
+|  |  | Yr = 1,00 per gli effetti favorevoli (in generale); |
+|  |  | Yc = 0,90 per gli effetti favorevoli (per verifiche EQU). |
+| 3.1(1) | Nota 6 | Si adottano i valori raccomandati: fili tondi - resistenza nominale 1'770 Nmm2 : |
+|  |  | fili di acciaio fili sagomati - resistenza nominale 1'570 Nmm" : |
+|  |  | fili di acciaio inossidabile - fili tondi - resistenza nominale 1'450 Nom" . |
+|  |  | Non si forniscono prescrizioni specifiche. |
+| 4.4(2) | Nota 1 |  |
+| 4.5(4) | Nota 1 | Non si forniscono indicazioni specifiche. |
+| 5.2(3) | Nota | Si adotta il valore raccomandato yp = 1,00. |
+| 5.3(2) | Nota | Non si forniscono informazioni aggiuntive. |
+|  |  | Si adottano i seguenti valori: |
+| 6.2(2) | Nota 4 | presenza di misure atte a ridurre gli effetti di flessione agli ancoraggi Yn = 1,00; |
+|  |  | assenza di misure atte a ridurre gli effetti di flessione agli ancoraggi Yn = 1,10. |
+| 6.3.2(1) | Nota | Si adotta il valore raccomandato Yote = 1,65. |
+|  |  | Per k si adotta il valore raccomandato k = 1,10. |
+| 6.3.4(1) | Nota |  |
+|  |  | Si adotta il fattore parziale raccomandato YM.R = 1,65. |
+| 6.4.1(1)P | Nota 1 |  |
+|  |  | Si adottano i seguenti valori limiti |
+| 7.2(2) | Nota 1 | Tensioni limite per le fasi costruttive f consi (tabella 7.1). |
+|  |  | Messa in tensione del primo componente (per poche ore) forea ≤ 0,57 Gak |
+|  |  | Dopo la messa in tensione di altri componenti Feoner ≤ 0,52 Out |
+|  |  | Tensioni limite per le condizioni di servizio f .k (tabella 7.2). |
+|  |  | Progetto a fatica tenendo conto degli effetti di flessione fels ≤ 0,47 Only |
+|  |  | Progetto a fatica trascurando gli effetti di flessione Lis ≤ 0,43 Out |
+| A.4.5.1(1) | Nota | Non si forniscono indicazioni specifiche di prova. |
+| A.4.5.2 | Nota | Non si forniscono indicazioni specifiche di prova. |
+| B(6) | Nota | Non si forniscono indicazioni specifiche di monitoraggio ed ispezione. |
+
+#### Decisioni nazionali 3)
+
+Le Appendici A, B e C conservano carattere informativo.
+
+| A M S A S A S A S A S A S |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Production of the CART A THE LEA Cloud | Par 15 and | STATISTICS AND THE FOR A C - 1 - 1 - 1 - 1 - | RALE PROPER CALL CLAND |  |  |
+| "MANAGEM WANTER WARRENGER STATEM TEMPERATE |  | SAUCESS MARTEN THE SEMPER TRESSESSARE M SETEM TEMPER | TENSMENTETSESSMENTSESENSESFORDSSEEMENTSSFEED STANKS |  | SATSATTATACACACACACCACTERSSANDESAFFACTSACTSAAF |
+|  | 100 - 60 - |  |  |  |  |
+| ي جي تي خليلي |  |  | 14.00 |  |  |
+| STORE THE COLLECT AND CHANNER SECTION CONSTITUTION |  | SA | STEND STATES. STATES AND STATES CANDER CONSTITUTION 2011 . MI |  | MACOLES WOTTE BEM WANE M T MALEME T STORT START |
+| 1 - 16 - 12 - 2 |  | PATER |  |  |  |
+| 124 2007 A 200 SEPT 200 A | ST PULLE OF | A C U T C L B B L | 1 AN 2018 Not of the SEAST SE |  |  |
+| SAAAATAFAATA "MAN","MACAN","IMAGEM","INTENCES","IT","MOLOGI","NY |  |  | ENGALES SAFESSORATE SERSEES FRESSORATE TRESOURCE SERVAN |  | EEST SEESSAF TAUCTS CARESSET STESSO SAMETERSON MAARTI |
+| STORE CORDER CONSULTION OF A BREAK AND A BREAK AND PERSONAL PROPERTY PROPER |  |  | A COLLECTION The Card of the Same of the Same |  | 0.44 TO . 30 . 8. 350 . 0. 000 . 0. |
+
+{142}------------------------------------------------
+
+![](2__page_142_Picture_3.jpeg)
+
+istero delle Infrastrutture e dei Trasporti uperiore dei Lavori . Publici
+
+# UNI EN 1993-1-12:2007
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 1-12: Regole aggiuntive per la estensione della EN 1993 fino agli acciai di grado S 700
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-1-12:2007
+
+Parametri adottati a livello nazionale da utilizzare per la estensione della EN 1993 fino agli acciai di grado S 700
+
+{143}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993 - 1 - 12 - Eurocodice 3 - Progettazione delle strutture di acciaio - Parte 1 - 12 -Regole aggiuntive per l'estensione della EN 1993 fino agli acciai di grado S 700
+
+EN-1993 - 1 - 12 - Eurocode 3 - Design of steel structure - Part 1 - 12 - Additional rules for the extension of EN 1993 up to steel grades S 700
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993 - 1 - 12, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1993 - 1 - 12 relativamente ai paragrafi -2.1 (3.1(2))
+
+- -2.1 (3.2.2(1)) - 2.1 (5.4.3(1)) -2.1 (6.2.3(2)) - 2.8 (4.2(2)) -3(1)
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-1-12.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993 - 1 - 12 - Eurocodice 3 - Progettazione delle strutture in acciaio - Parte 1 - 12 - Regole aggiuntive per l'estensione della EN 1993 fino agli acciai di grado S 700.
+
+{144}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| - 2.1 (3.1(2)) | Nota 1 | Acciai di grado superiore a S460 e fino a S700 potranno essere utilizzati per la |
+|  |  | realizzazione di elementi strutturali od opere, previa autorizzazione del Servizio Tecnico |
+|  |  | Centrale su parere del Consiglio Superiore dei Lavori Pubblici, autorizzazione che . |
+|  |  | riguarderà l'utilizzo del materiale nelle specifiche tipologie strutturali proposte sulla base |
+|  |  | di procedure definite dal Servizio Tecnico Centrale. |
+|  |  | Per i tipi di acciaio da utilizzare e per le relative caratteristiche meccaniche si adottano i |
+|  |  | valori di tensione di snervamento raccomandati nelle tabelle 1 e 2. Si dovrà inoltre |
+|  |  | garantire che i valori delle tensioni di rottura siano pari al massimo tra il valore raccomandato e quello ottenuto applicando le indicazioni del successivo paragrafo 2.1 |
+|  |  | (3.2.2(1). |
+| - 2.1 (3.2.2(1)) |  | Il rapporto fra i valori caratteristici della tensione di rottura fix (nominale) e la tensione di |
+|  | Nota | snervamento f. (nominale) deve essere maggiore di 1.10 e l'allungamento a rottura Ac, |
+|  |  | misurato su provino standard, deve essere non inferiore al 14%; |
+|  |  | - per la deformazione ultima si adotta il valore raccomandato E = 15 f. |
+|  |  | Per le zone dissipative delle strutture in zona sismica si adottano i seguenti valori; |
+|  |  | - £/f,≥ 1,20 |
+|  |  | - Iv. max / Iv v ≤ 1,20 |
+|  |  | - allungamento a rotura ≥ 20% |
+|  |  | 20 22 2 - |
+| - 2.1 (5.4.3(1)) | Nota | Non si forniscono prescrizioni addizionali. |
+| - 2.1 (6.2.3(2)) | Nota | Si adotta il valore raccomandato "MI2=YM2=1.25 |
+| - 2.8 (4.2(2)) |  |  |
+|  | Nota | Non sono previste restrizioni all'uso di elettrodi sottoresistenti. |
+| - 3(1) | Nota | Non si prescrivono limitazioni specifiche. |
+
+| 1 |  |  |  |
+| --- | --- | --- | --- |
+| Partic City STATE AND THE FOR | A BOOK A BOOK OF CONSULT OF CONSULT OF THE CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CARDED THE CON | A 14 - | Controller of the comments of the states |
+| CEMBANAGEM VOLM WALL WEEK I W M TEMS TO THE | STATISTSCARTESSTS SAMMER TEST SESSEMBARAT SET ESSET MATTS | TENSEESSESSES SESSOFINE SES SES SESSENT SET ESSET MES ST | EBOASARA SESSES SES SES SES SECT SE SALES SE SECTEM TESSATE TEN |
+| 100 00 |  |  |  |
+| CTSAFTESTAGESARYSSESSARSACESSFFESSMENASSAGESAMES A BARRETH | CANNAAREE | ENAMES SETTERSANT TEARSTARESSETEMENTS SEART CALLERY | .. STATUTE OF |
+|  |  |  |  |
+| A BREAD A PROPERTY OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF CONSULTION OF CONSULTION OF CONSULTION O | Acres of the A | PAT 1 | 1000 000 000 |
+| GARAGAGAGAGAGAGATTETAAAAAAATTATAAAAAATTATA | SALES SOLET SALE SALE SAFE SAFE SET SAFE SET SALES ST ST ST | The Real Property ESSAFESSESSES SES SACESSET SEESSES SECTIME SESSED TO | Concession of the property EEET SEE STAFF EST SALES MES SECT SALES SALES SALES FEBETS |
+
+{145}------------------------------------------------
+
+![](2__page_145_Picture_3.jpeg)
+
+![](2__page_145_Picture_4.jpeg)
+
+# UNI EN 1993-2:2007
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 2: Ponti di acciaio
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-2:2007
+
+# Parametri adottati a livello nazionale da utilizzare per la progettazione dei ponti di acciaio
+
+![](2__page_145_Picture_9.jpeg)
+
+{146}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993 – 2 – Eurocodice 3 – Progettazione delle strutture di acciaio – Parte 2: Ponti di acciaio
+
+EN-1993 - 2 - Eurocode 3 - Design of steel structure - Part 2 - Steel bridges
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993 - 2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1993 - 2 relativamente ai paragrafi
+
+| - 2.1.3.2(1) | 6.3.2.3(1) | - 9.5.2(2) |
+| --- | --- | --- |
+| - 2.1.3.3(5) | 6.3.4.2(1) | - 9.5.2(3) |
+| - 2.1.3.4(1) | 6.3.4.2(7) | - 9.5.2(5) |
+| - 2.1.3.4(2) | - 7.1(3) | - 9.5.2(6) |
+| - 2.3.1(1) | - 7.3(1) | - 9.5.2(7) |
+| - 3.2.3(2) | - 7.4(1) | - 9.5.3(2) (2 posizioni) |
+| - 3.2.3(3) | - 8.1.3.2.1(1) | - 9.6(1) (2 posizioni) |
+| - 3.2.4(1) | - 8.1.6.3(1) | - 9.7(1) |
+| - 3.4(1) | - 8.2.1.4(1) | - A.3.3(1)P |
+| - 3.5(1) | - 8.2.1.5(1) | - A 3.6(2) |
+| - 3.6(1) | - 8.2.1.6(1) | - A.4.2.1.(2) |
+| - 3.6(2) | - 8.2.10(1) | - A.4.2.1(3) |
+| - 4(1) | - 8.2.13(1) | - A.4.2.1(4) |
+| - 4(4) | - 8.2.14(1) | - A.4.2.4(2) |
+| - 5.2.1(4) | - 9.1.2(1) | - C.1.1(2) |
+| - 5.4.1(1) | - 9.1.3(1) | - C.1.2.2(1) |
+| - 6.1(1)P | - 9.3.(1)P | - C.1.2.2(2) |
+| - 6.2.2.3(1) | - 9.3(2)P | - E.2(1) |
+| - 6.2.2.4(1) | - 9.4.1(6) |  |
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici normative A, B e E delle appendici informative C e D per i ponti in acciaio.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-2.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993 – 2 – Eurocodice 3 – Progettazione delle strutture in acciaio - Parte 2 - Ponti in acciaio.
+
+| 一直人有人人 人人人人人人人人人人人人人人 |  | A BREAK BARRET | ATTACT | Bear Class | A SHA T ST ST ST . |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 128 |  | with and and the at 31 Carles | A STER COMMENT | Anticle Pro | ES 200 State | 15003 | CALL CALLER | CANAGE | 100 September 20 | CARDER |  |  |
+| Artist | 1.0.04 | 11 11 11 11 11 11 | of any and in the a | of the first of | 2017 11:20 | 123, 11 | A STATE A BEATH | 11 | the state of the comments | and and the same of the same of the same | 2020 |  |
+| 22 2018 55 | 11 11 11 | 20000000 | HARRETHER AND | A STATE ARE | 大大大学生文学校校校 | 100 - 3 | 1 - 1 | the the the many of the may | C | A STATISTICS CARTS | A Book Company of Children | AND AND INC. |
+
+{147}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| - 2.1.3.2(1) | Nota 1 | Per ponti di dimensioni contenute o di importanza normale si adotta una vita nominale |
+|  |  | non inferiore a 50 anni. Per ponti di grandi dimensioni o di importanza strategica la vita |
+|  |  | nominale non può essere assunta minore di 100 ami. |
+| - 2.1.3.3(5) | Nota | Non si danno raccomandazioni addizionali. |
+| - 2.1.3.4(1) | Nota | Non si danno raccomandazioni addizionali. |
+| - 2.1.3.4(2) |  | Sono applicabili entrambi i metodi per la venifica a fatica. La scelta divende dallo spettro |
+|  | Nota 2 | di tensione, dal dettaglio, dalle conseguenze della crisi e dall'ispezionabilità e riparabilità |
+|  |  | del dettaglio stesso. |
+| - 2.3.1(1) | Nota 2 | Non si forniscono informazioni addizionali. |
+| - 3.2.3(2) | Nota 2 | Non si forniscono informazioni addizionali. |
+| - 3.2.3(3) | Nota | Si adottano i valori raccomandati della tabella 2.1 dell'EN 1993-1-10 per GEA-0.25 E,(t). |
+| - 3.2.4(1) | Nota | Si adottano i valori raccomandati in tabella 3.2. |
+| - 3.4(1) | Nota | Non si forniscono informazioni specifiche. |
+| - 3.5(1) | Nota | Non si forniscono informazioni aggiuntive. |
+| - 3.6(1) | Nota | I guardavia debbono essere di tipo omologato secondo il DM Infrastrutture e Trasporti |
+|  |  | del 21/06/2004: "Aggiornamento delle istruzioni tecniche per la progettazione, |
+|  |  | l'omologazione e l'impiego delle barriere stradali di sicurezza e le prescrizioni tecniche |
+|  |  | per le prove delle barriere di sicurezza stradale". Per gli altri elementi non si forniscono |
+|  |  | indicazioni aggiuntive. |
+| - 3.6(2) | Nota | Non si forniscono informazioni aggiuntive. |
+| - 4(1) | Nota | Non si forniscono indicazioni specifiche. |
+| - 4(4) |  | Non si fomiscono informazioni aggiuntive. |
+|  | Nota |  |
+| - 5.2.1(4) | Nota | Non si forniscono indicazioni aggiuntive |
+| - 5.4.1(1) | Nota | In situazioni di progetto eccezionali è ammesso il ricorso all'analisi plastica globale. |
+| - 6.1(1)P | Nota 2 | Si adottano i valori raccomandati dei coefficienti Thato ad eccezione del coefficiente |
+|  |  | YMa=1.05. |
+| - 6.2.2.3(1) | Nota | Non si fomiscono indicazioni aggiuntive |
+| - 6.2.2.5(1) | Nota | Non si indica un metodo specifico |
+| - 6.3.2.3(1) | Nota | Non si forniscono indicazioni aggiuntive |
+| - 6.3.4.2(1) | Nota | Si adottano i valori raccomandati |
+
+#### Decisioni nazionali 3)
+
+{148}------------------------------------------------
+
+| - 6.3.4.2(7) | Nota | Si adotta il metodo raccomandato |
+| --- | --- | --- |
+| - 7.1(3) | Nota | Non si forniscono indicazioni specifiche |
+| - 7.3(1) |  | Si adotta il valore YMsm=1.05 |
+|  | Nota 2 |  |
+| - 7.4(1) | Nota | Non si indicano casi specifici |
+| - 8.1.3.2.1(1) |  | È ammesso l'uso di bulloni iniettati, previa sperimentazione in Laboratorio ufficiale in |
+|  | Nota | accordo con 2,5 dell' EN 1993-1-1 |
+|  |  | Si può fare riferimento alle raccomandazioni relative al "progetto assistito da prove" |
+| - 8.1.6.3(1) | Nota | È ammesso l'uso di connessioni ibride, in accordo con 3.9 3(1) dell'EN1993 -1-8 |
+| - 8.2.1.4(1) | Nota | Saldature a parziale penetrazione sono ammesse limitatamente ad elementi secondari, |
+|  |  | non soggetti a fatica e non coinvolgenti la stabilità globale del ponte |
+| - 8.2.1.5(1) | Nota | Saldature a bottone sono ammesse limitatamente agli elementi secondari, non soggetti a |
+|  |  | fatica e non coinvolgenti la stabilità globale del ponte |
+| - 8.2.1.6(1) | Nota | Saldature a gola svasata sono anumesse limitatamente ad elementi secondari, non soggetti |
+|  |  | a fatica e non coinvolgenti la stabilità globale del ponte. Sono sempre consentite, invece, |
+|  |  | nei casi di accoppiamento di elementi tubolari con cordoni soggetti a prevalenti ofi |
+| - 8.2.10(1) | Nota | Nelle unioni di testa non sono ammesse connessioni a cordone d'angolo singolo o a |
+|  |  | parziale penetrazione da un solo lato. |
+| - 8.2.13(1) | Nota | Non si forniscono informazioni addizionali |
+| - 8.2.14(1) | Nota | Non si forniscono informazioni addizionali |
+| - 9.1.2(1) |  | Non si forniscono indicazioni |
+|  | Nota |  |
+| - 9.1.3(1) | Nota | Non si forniscono indicazioni |
+| - 9.3(1)P | Nota | Si adotta il valore raccomandato yn 1.00 |
+| - 9.3(2)P | Nota | Si adottano i valori raccomandati di Ybr (Tabella 3.1 della EN1993-1-9) |
+| - 9.4.1(6) | Nota | Non si forniscono indicazioni ulteriori (vedi ENI 991-2). |
+| - 9.5.2(2) | Nota | Si adottano i valori raccomandati di 2.7 limitatamente alle travi semplicemente appoggiate |
+|  |  | e in assenza di valutazioni più raffinate. Per travi contime o schemi statici più complessi |
+|  |  | sono necessarie calibrazioni specifiche, considerando l'equivalenza in termini di |
+|  |  | danneggiamento. In questi casi per valutare 2, si può adottare un'espressione del tipo |
+|  |  | n. . . Ars." |
+|  |  | , dove Aop è il delta di tensione massimo indotto dal 2.10° N. - 40" |
+|  |  | modello di fatica n, 3 dell'EN1991-2, No è il flusso annuo di riferimento (Na-0,5-10"), la |
+|  |  | sommatoria è estesa allo spettro di tensione indotto dagli N, veicoli dello spettro di |
+|  |  | carico, e m è un opportuno coefficiente dipendente dalla pendenza della curva S-N e dal flusso lotale di veicoli. |
+| - 9.5.2(3) |  |  |
+|  | Nota | In assenza di valutazioni più raffinate, si adotta il valore raccomandato. Quando siano |
+|  |  | necessari calcoli più raffinati si può porre 1, = k QL, in No D, Qml |
+|  |  | cui D, è il danneggiamento prodotto da No veicoli di fatica e Derè il danneggiamento |
+
+{149}------------------------------------------------
+
+|  |  | prodotto da No veicoli reali. Per m si deve adottare un opportuno valore dipendente dalla |
+| --- | --- | --- |
+|  |  | forma della curva S-N e da Note- |
+| -9.5.2(5) | Nota | Si adotta il valore raccomandato ti =100 anni. |
+| - 9.5.2(6) |  | In assenza di valutazioni più raffinate, per 2, si può adottare il valore |
+|  | Nota | , in cui N; è il flusso sulla prima N, N camb A comp 2, (2, N, ) |
+|  |  | N, 71 |
+|  |  | corsia, Ni è il flusso sulla i-esima corsia, ni la massima ordinate della superficie di |
+|  |  | influenza corrispondente all'i-esima corsia. Ni il flusso dei veicoli non interagenti |
+|  |  | sull'i-esima corsia. Nombil numero di veicoli interagenti sull'i-esima corsia e norsia e norma |
+|  |  | l'ordinata globale della superficie di influenza per le corsie interagenti, essendo la |
+|  |  | seconda sommatoria estesa a tutte le combinazioni rilevanti di veicoli dello spettro su più |
+|  |  | corsie. |
+|  |  | Nel caso significativo di due corsie soggette allo stesso flusso, si può assumere |
+|  |  | L·N in cui L è la lunghezza base della superficie di 7, + 12 1.03 + 0.01 · |
+|  |  | V.10° 1/1 |
+|  |  | influonza in m, v è la velocità media dei veicoli pesanti in m/s, e n]; e 12, n12 112 112 1 |
+|  |  | coefficienti d'influenza delle due corsie, rispettivamente. |
+| - 9.5.2(7) | Nota | Si adottano i valori raccomandati di Amax - |
+| - 9.5.3(2) | Nota 1 | Non si forniscono informazioni addizionali |
+| - 9.5.3(2) |  |  |
+|  | Nota 3 | Non si adottano i valori di 2, raccomandati. I valori di 2, da adottare debbono essere |
+|  |  | opportunamente adattati al caso specifico, considerando l'equivalenza in termini di |
+|  |  | danneggiamento. |
+| - 9.6(1) | Nota 1 | Non si prevedono esclusioni a priori di dettagli. |
+| - 9.6(1) |  | Non si forniscono indicazioni addizionali. |
+|  | Nota 2 |  |
+| - 9.7(1) | Nota | Non si forniscono indicazioni specifiche. |
+| - A.3.3(1)P |  |  |
+|  | Nota | Si adottano i valori raccomandati y .= 2.00 per l'attrito di acciaio su acciaio e y, = 1.20 per |
+|  |  | l'attrito di acciaio su calcestruzzo. |
+| - A 3.6(2) |  |  |
+|  | Nota | Si adottano i valori raccomandati di « (tabella A.2), ove n è il numero di appoggi. |
+| - A.4.2.1.(2) |  |  |
+|  | Nota | Non si forniscono indicazioni addizionali. |
+| - A.4.2.1(3) |  |  |
+|  | Nota | Si adottano per ATo i valori raccomandati di tabella A.4. |
+| - A.4.2.1(4) | Nota 1 | La variazione termica addizionale AT, deve soddisfare la relazione |AT, ≥ 5 ℃ . |
+| - A.4.2.4(2) | Nota | Non si forniscono informazioni addizionali. |
+| - C.1.1(2) | Nota | Le indicazioni fornite hanno carattere meramente informativo e non implicano in nessun |
+|  |  | caso soddisfacimento automatico delle verifiche a fatica. |
+| - C.1.2.2(1) | Nota 1 | Si adottano i valori raccomandati, eccezion fatta per il punto 1: per lo spessore minimo la |
+|  |  | lamiera d'impalcato si adotta t≥12 mm. |
+| - C.1.2.2(1) | Nota 2 | La nota 2 è eliminata. |
+| - C.1.2.2(2) | Nota | I valori indicati in figura C4 hanno fini esclusivamente informativi |
+
+{150}------------------------------------------------
+
+| - E 2(1) Nota | Il fattore di combinazione è da assumersi uguale a 1.00. |
+| --- | --- |
+| Utilizzo appendici | Le Appendici A, B, C, D e E mantengono il carattere informativo. |
+| informative |  |
+
+rea
+
+and
+
+115
+
+and the
+
+e and
+
+e a
+
+d th
+
+{151}------------------------------------------------
+
+![](2__page_151_Picture_3.jpeg)
+
+linistero delle . Infrastrutture e dei sporti
+
+## UNI EN 1993-3-1:2007
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 3-1: Torri, pali e ciminiere-Torri e pali
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-3-1:2007
+
+Parametri adottati a livello nazionale da utilizzare per torri e pali di acciaio
+
+{152}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-3-1 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 3-1: Torri, pali e ciminiere - Torri e pali.
+
+EN-1993-3-1 - Eurocode 3: Design of steel structures - Part 3-1: Towers, masts and chimneys -Towers and masts
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-3-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-3-1 relativamente ai seguenti paragrafi:
+
+- -2.1.1(3)P
+- -2.3.1(1)
+- -2.3.2(1)
+- -2.3.6(2)
+- -2.3.7(1)
+- -2.3.7(4)
+- -2.5(1)
+- -2.6(1)
+- -4.1(1)
+- 4.2(1)
+- 5.1(6) -5.2.4(1)
+- -6.1(1)
+- -6.3.1(1)
+- –6.4.1(1)
+- -6.4.2(2)
+- -6.5.1(1)
+- -7.1(1)
+- -9.5(1)
+- -A.1(1)
+- A.2(1)P (2 places)
+- -B.1.1(1)
+- B.2.1.1(5)
+- -B.2.3(1)
+- B.3.2.2.6(4)
+- -B.3.3(1)
+- B.3.3(2)
+- B.4.3.2.2(2)
+- B.4.3.2.3(1)
+- B.4.3.2.8.1(4)
+- C.2(1)
+- C.6.(1)
+- D. 1. 1 (1) – D. 1.2(2)
+- D.3(6) (2 places)
+- -D.4.1(1)
+- -D.4.2(3)
+- -D.4.3(1)
+
+|  |  |  |
+| --- | --- | --- |
+| ES SAMAGE SE SAME 中国政府市委员会 2017年12月11日 100 - 10 - 1 | 100 100 100 | The first of the states PARTIC STATE |
+| And Children Children | ENERAL PARTY 17 22 - 12 - 11 - 11 |  |
+| 2012 23 13 45 The state of the state the former of the first of the states |  | 15 10 74 1922 - 15 - 15 |
+
+{153}------------------------------------------------
+
+#### -D.4.4(1) -F.4.2.1(1 -F.4.2.2(2 -G.1(3) - H .2(5) - H.2(7)
+
+Nota: questo riferimento [B2.3(3)] è stato eliminato nel "Corrigendum" - Doc. TC 250 SC3 N1673E9.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-3-1.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-3-1 - Progettazione delle strutture di acciaio: Parte 3-1: Torri, pali e ciminiere - Torri e pali.
+
+{154}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.1.1(3)P | Nota | Si adottano le procedure raccomandate riportate nell'Annesso E. |
+| 2.3.1(1) | Nota | Si adotta la raccomandazione di fare riferimento all'annesso B. |
+| 2.3.2(1) | Nota | Si adotta la raccomandazione di fare riferimento all'annesso C. |
+| 2.3.6(2) | Nota 1 | Si adottano i valori seguenti: |
+|  |  | carico variabile sulle piattaforme 2 kNm"; |
+|  |  | carico variabile sui parapetti 1 kNm" |
+| 2.3.7(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 2.3.7(4) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 2.5(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 2.6(1) | Nota | La vita di servizio dovrà essere correlata a quella dell' impianto e al piano di |
+|  |  | manutenzione previsto. |
+| 4.1(1) | Nota 1 | Non si forniscono indicazioni aggiuntive. |
+| 4.2(1) | Nota | Non si forniscono indicazioni specifiche. |
+| 5.1(6) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 5.2.4(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 6.1(1) | Nota 1 | Si adottano i seguenti valori dei fattori parziali delle resistenze: - YMO= 1,05: |
+|  |  | - YMI= 1,05; |
+|  |  | - YM2= 1,25; |
+|  |  | - Yza = 2,00 (stralli); |
+|  |  | - YMi= 2,50 (isclatori). |
+| 6.3.1(1) | Nota 1 | Non si forniscono prescrizioni per la scelta tra i due metodi proposti |
+|  |  | Si adottano i seguenti valori, raccomandati nella Tabella 2.1 della EN 1993-1-8, dei fattori parziali delle resistenze: - YM2= 1,25 Resistenza bulloni, chiodi, connessioni a perno, saldature |
+| 6.4.1(1) | Nota | e piatti a contatto: |
+|  |  | - YM3= 1,25 Resistenza a scorrimento - SLU; |
+|  |  | Resistenza a scorrimento - SLE; - YM3= 1,10 |
+|  |  | Resistenza connessioni a perno - SLE; - Y 316. er = 1, 00 |
+|  |  | - YMT= 1,10 Precarico di bulloni ad alta resistenza. |
+| 6.4.2(2) | Nota | Non si forniscono prescrizioni aggiuntive. |
+| 6.5.1(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 7.1(1) | Nota | Non si forniscono indicazioni aggiuntive riguardo agli stati limiti di servizio e si adotta |
+|  |  | il fattore parziale raccomandato. |
+
+{155}------------------------------------------------
+
+| વે ર(1) | Nota | Si adottano i valori dei fattori parziali raccomandati: YFr=1,00 e YM come indicato nella |
+| --- | --- | --- |
+|  |  | Tabella 3.1 della EN 1993-1-9 |
+| A.1(1) | Nota | Si adotta una sola classe di affidabilità, corrispondente alla classe 2 della tabella A.I. |
+| A.2(1)P | Nota 2 | La tabella A.2 viene modificata nel modo seguente |
+|  |  | Table A.2 Partial factors for permanent and variable actions |
+|  |  | Tipo di effetto Classe di affidabilità Azioni Permanenti Azioni Variabili (Qs) |
+|  |  | Sfavorevole 2 1 .35 1.50 |
+|  |  | 2 Favorevole 1.00 0.00 |
+|  |  | Situazioni Eccezionali 1.00 1.00 |
+| A.2(1)P | Nota 3 | Non si forniscono indicazioni per l' analisi dinamica degli effetti del vento. |
+| B.1.1(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| B.2.1.1(5) | Nota | Non si forniscono indicazioni aggiuntive. |
+| B.2.3(1) | Tabella B.2.1 | Si adottano i valori proposti in Tabella |
+|  | Nota 4 |  |
+| B.2.3(1) | Tabella B.2.2 | Si adottano i valori proposti in Tabella |
+|  | Nota |  |
+| B.3.2.2.6(4) | Nota 1 | Si adotta il valore raccomandato Kz = 1,00. |
+| B.3.3(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| B.3.3(2) | Nota | Non si forniscono indicazioni aggiuntive. |
+| B.4.3.2.2(2) | Nota 2 | Si adotta il valore raccomandato Ks = 3,50, |
+| B.4.3.2.3(1) | Nota 2 | Si adotta il valore raccomandato K. = 3,50. |
+| B.4.3.2.8.1(4) | Nota 1 | Si adotta il valore raccomandato K. = 1,00. |
+| C.2(1) | Nota | Non si forniscono indicazioni aggiuntive, |
+| C.6(1) | Nota | Si adottano i valori raccomandati. |
+| D.1.1(2) | Nota | Non si forniscono indicazioni aggiuntive. |
+| D.1.2(2) | Nota | Non si forniscono indicazioni aggiuntive. |
+| D.3(6) | Nota 1 | Non si forniscono indicazioni aggiuntive. |
+| D.3(6) | Nota 2 | Non si forniscono indicazioni. |
+
+{156}------------------------------------------------
+
+| D.4.1(1) | Nota | Non si forniscono ulteriori informazioni |
+| --- | --- | --- |
+| D.4.2(3) | Nota | Non si forniscono indicazioni. |
+| D.4.3(1) | Nota | Non si forniscono indicazioni. |
+| D.4.4(1) | Nota | Non si forniscono indicazioni. |
+| F.4.2.1(1) | Nota | Si adotta il valore raccomandato. |
+| F.4.2.2(2) | Nota | Si adotta il valore raccomandato. |
+| G. 1(3) | Nota | Si adottano i valori raccomandati del fattore di riduzione della resistenza n. |
+| H.2(5) | Nota |  |
+|  |  | Nel caso in cui la distanza dei collegamenti intermedi superi i limiti fissati al punto 6.4.4. di EN 1993-1-1 si può fare riferimento alle indicazioni seguenti. |
+|  |  | La verifica dell'asta può condursi come per un'asta semplice, ma assumendo una |
+|  |  | snellezza equivalente pari a: |
+|  |  | 200 = ( 22 + 2 12 2 ) 0.5 . |
+|  |  | Dove: |
+|  |  | ನ snellezza effettiva dell'asta; |
+|  |  | 21 = Lo / imip |
+|  |  | interasse dei collegamenti; ﻟﻤﻠ |
+|  |  | imin raggio minimo di inerzia dell'angolare singolo; |
+|  |  | con la limitazione: |
+|  |  | 21 ≤ 50 per $235 ed $275; Ar ≤ 40 per $355 ed S 430, |
+|  |  | I collegamenti intermedi devono essere almeno in numero di due [ 2 ] e devono essere |
+|  |  | costituiti da una piastra di imbottitura saldata o collegata con almeno due [ 2 ] bulloni |
+|  |  | (precaricati ad attrito o in accompiamento di precisione, definito al successivo punto |
+|  |  | H.2(7)-Nota 2). |
+| H.2(7) | Nota 2 | Il collegamento, se bullonato, deve essere costituito da almeno due bulloni disposti secondo l'asse della membratura in accoppiamento di precisione (gioco foro bullone |
+|  |  | pari a 0.3 mm per bulloni sino a M20, 0.5 mm per bulloni di diametro superiore). |
+
+Gli Annessi A e D conservano valore normativo.
+
+Gli Annessi B, C, E, F, G ed H conservano valore informativo.
+
+{157}------------------------------------------------
+
+![](2__page_157_Picture_3.jpeg)
+
+nistero delle Infrastrutture e dei Frasporti Lavori Subblici heriore dei
+
+# UNI EN 1993-3-2:2007
+
+Eurocodice 3: Progettazione delle strutture di acciaio Parte 3-2: Torri, pali e ciminiere-Ciminiere
+
+> APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-3-2:2007
+
+Parametri adottati a livello nazionale da utilizzare per le ciminiere di acciaio
+
+{158}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-3-2 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 3-1: Torri, pali e ciminiere - Ciminiere.
+
+EN-1993-3-2 - Eurocode 3: Design of steel structures - Part 3-1: Towers, masts and chimneys -Chimneys
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-3-2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-3-2 relativamente ai seguenti paragrafi:
+
+- 2.3.3.1(1) l
+- 2.3.3.5(1) -
+- 2.6(1) l
+- 4.2(1) -
+- 5.1(1) l
+- 5.2.1(3) l
+- 6.1(1)P -
+- 6,2,1(6) l
+- 6,4,1(1) i
+- 6.4.2(1) -
+- 6.4.3(2) l
+- 7.2(1) -
+- 7.2(2) -
+- 9.1(3) –
+- 9.1(4) -
+- 9.5(1) –
+- A. 1(1) i
+- A.2(1) (2 places) l
+- C.2(1) l
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-3-2.
+
+## 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-3-2 - Progettazione delle strutture di acciaio: Parte 3-2: Torri, pali e ciminiere - Ciminiere.
+
+| THE FOR FOR AND THE FORMAL CONTRACT PARTY OF THE FOR THE FOR THE FOR THE FOR THE FORMIC FOR THE FOR THE FORMIC FOR THE FORMIC |  |  |  |
+| --- | --- | --- | --- |
+| 100 - 10 - 100 - 100 - 100 - A C . C . | 2007 2007 2007 1 |  | THE SALE CALL 13 |
+|  | 2 8 1 | 0-1011 14 1 | CALL PRODUCT 7.6 2017 11:42 |
+| The state the states 第二十五十六年四六 | 2017 11:22 PM |  | SEE BALLERS |
+| 10 - 1 - 1 - 1 - 1 - 1 - 2000000 |  | also and compr | 188883 |
+| CANADA BARA FRANCE AND THE CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CARAL CONTRACT CARAL CONTACT CARAL CONT The for the first to the comment | 1 |  | 10 2 2 2 2 2 2 4 2 1 2 11 REVEL CALCARE |
+
+{159}------------------------------------------------
+
+#### 3)Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.3.3.1(1) | Nota 1 | Si adottano i valori seguenti: |
+|  |  | carico variabile sulle piattaforme 2 kNm -; |
+|  |  | carico variabile sui parapetti 1 kNm 4. |
+| 2.3.3.5(1) | Nota 1 | Si può fare riferimento ad ISO 12494. |
+| 2.6(1) | Nota | La vita di servizio dovrà essere correlata a quella dell' impianto e al piano di |
+|  |  | manutenzione previsto. |
+| 4.2(1) | Nota | Si adottano i valori raccomandati nella Tabella 4.1. |
+| 5.1(1) | Nota | Non si forniscono indicazioni specifiche. |
+| 5.2.1(3) | Nota | Si adottano i criteri raccomandati. |
+|  |  | Si adottano i seguenti valori dei fattori parziali delle resistenze: - YMO= 1,05; |
+|  | Nota |  |
+| 6.1(1)P |  | - YMI= 1,15 |
+| 6.2.1(6) | Nota | - YM2= 1,25. Si adottano le limitazioni raccomandate. |
+|  |  | Si adottano i seguenti valori dei fattori parziali delle resistenze: |
+| 6.4.1(1) | Nota | Resistenza bulloni, chiodi, connessioni a perno, saldature - YM2= 1,25 e piatti a contatto; |
+|  |  | Resistenza a scorrimento - SLU; - Умз= 1,25 |
+|  |  | - YM3= 1,10 Resistenza a scorrimento - SLE; |
+|  |  | Resistenza connessioni a perno - SLE; - YM6 ser = 1, UV |
+|  |  | - YM7= 1,10 Precarico di bulloni ad alta resistenza. |
+| 6.4.2(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 6.4.3(2) | Nota 1 | Non si forniscono indicazioni aggiuntive. |
+| 7.2(1) | Nota | Si adotta il valore raccomandato &max = h / 50. |
+| 7.2(2) | Nota 2 | Si fa riferimento alla sola classe di affidabilità 2 e si adotta il valore raccomandato in |
+|  |  | tabella 7.1. |
+| 9.1(3) | Nota I | Non si forniscono indicazioni aggiuntive. |
+| 9.1(4) | Nota | Non si forniscono indicazioni aggiuntive. |
+| 9.5(1) | Nota | Si adottano i valori dei fattori parziali raccomandati yer=1,00 e YM come indicato nella |
+|  |  | Tabella 3.1 della EN 1993-1-9. |
+| A.1(1) | Nota | Si adotta una sola classe di affidabilità, corrispondente alla classe 2 della tabella A.1. La tabella A.2 viene modificata nel modo seguente |
+|  | Nota 2 |  |
+| A.2(1) |  | Tabella A.2 Fattori parziali per le azioni permaneti e variabili |
+|  |  | Azioni Variabili (Qs) Tipo di effetto Classi di affidabilità Azioni Permanenti |
+|  |  | Sfavorevole 2 1.35 1.50 |
+|  |  | 0.00 Favorevole 2 1.00 |
+|  |  | Situazioni Eccezionali 1.00 1.00 |
+| A.2(1) | Nota 3 | Non si forniscono indicazioni specifiche. |
+| C.2(1) | Nota | Non si forniscono indicazioni aggiuntive. |
+
+L'Annesso A conserva valore normativo.
+
+Gli Annessi B, C, D ed E conservano valore informativo.
+
+
+
+
+{160}------------------------------------------------
+
+![](3__page_160_Picture_3.jpeg)
+
+Infrastrutture e dei sporti
+
+# UNI EN 1993-4-1:2007
+
+# Eurocodice 3: Progettazione delle strutture di accialo Parte 4-1: Silos
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-4-1:2007
+
+### Parametri adottati a livello nazionale da utilizzare per i silos di acciaio
+
+{161}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-4-1 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 4-1: Silos. EN-1993-4-1 - Eurocode 3: Design of steel structures - Part 4-1: Silos
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-4-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-4-1 relativamente ai seguenti paragrafi:
+
+| 2.2 (1) | Classi di conseguenze. |
+| --- | --- |
+| 2.2 (3) | Classi di conseguenze. |
+| 2.9.2.2 (3) | Coefficienti parziali YMi- |
+| 3.4 (1) | Acciai speciali |
+| 4.1.4 (2) and (4) | Riduzioni di spessore Ata per corrosione o abrasione |
+| 4.2.2.3 (6) | Interasse limite delle nervature verticali (calcolo a piastra . |
+|  | equivalente) |
+| 4.3.1 (6) | Interasse limite delle nervature orizzontali (calcolo a piastra |
+|  | ortotropa equivalente) |
+| 4.3.1 (8) | Larghezza di lamiera collaborante |
+| 5.3.2.3 (3) | Coefficiente di efficienza dei giunti a sovrapposizione |
+| 5.3.2.4 (10) | Distribuzione armonica equivalente |
+| 5.3.2.4 (12) | Eccentricità dello sforzo normale nei giunti a sovrapposizione |
+| 5.3.2.4 (15) | Coefficiente di riduzione per l'instabilità |
+| 5.3.2.5 (10) | Coefficiente di imperfezione per l'instabilità |
+| 5.3.2.5 (14) | Coefficiente di rigidezza |
+| 5.3.2.6 (3) | Coefficiente di rigidezza |
+| 5.3.2.6 (6) | Coefficiente di imperfezione per l'instabilità |
+| 5.3.2.8 (2) | Numero minimo di cicli significativo per la verifica a fatica |
+| 5.3.3.5 (1) | Coefficiente di rigidezza |
+| 5.3.3.5 (2) | Coefficiente per la lunghezza di diffusione |
+| 5.3.4.3.2 (2) | Coefficiente di imperfezione per l'instabilità |
+| 5.3.4.3.3 (2) | Interasse limite delle nervature (calcolo a piastra ortotropa |
+|  | equivalente) |
+| 5.3.4.3.3 (5) | Coefficiente di imperfezione per l'instabilità |
+| 5.3.4.3.4 (5) | Rigidezza equivalente della parete |
+| 5.3.4.5 (3) | Distanza minima tra le nervature |
+| 5.4.4 (2) | Criteri per l'applicazione della teoria membranale dei gusci in |
+|  | presenza di carichi assialsimmetrici |
+| 5.4.4 (3) | Rigidezza flessionale minima |
+| 5.4.4 (4) | Altezza minima del guscio |
+| 5.4.7 (3) | Azioni di sollevamento dovute al vento |
+| 5.5.2 (3) | Rigidezza minima degli irrigiditori in presenza di aperture |
+| 5.6.2 (1) | Limiti di deformabilità orizzontale (SLS) |
+| 5.6.2 (2) | Limiti di deformabilità radiale (SLS) |
+| 6.1.2 (4) | Incremento del coefficiente parziale YMOg nei sili di classe 1, |
+
+|
+|  |
+
+{162}------------------------------------------------
+
+|  | ove si trascurino gli stati limite di plasticità ciclica e di fatica. |
+| --- | --- |
+| 6.3.2.3 (2) | Forze meridiane nelle tramogge: effetti di asimmetria |
+| 6.3.2.3 (4) | Resistenza di progetto della tramoggia nel giunto di transizione |
+| 6.3.2.7 (3) | Resistenza di progetto all'instabilità della tramoggia |
+| 7.3.1 (4) | Resistenza di progetto all'instabilità di coperture coniche |
+| 8.3.3 (4) | Instabilità nel piano - Angolo limite di apertura del cono |
+| 8.4.1 (6) | Omissione della verifica di stabilità nel piano di giunzioni |
+| 8.4.2 (5) | Omissione della verifica di stabilità nel piano di giunzioni |
+| 8.5.3 (3) | Rigidezza flessionale minima dell'anello di base |
+| 9.5.1 (3) | Coefficienti di forma per le pressioni esercitate da solidi in |
+|  | grani grossi |
+| 9.5.1 (4) | Coefficienti di stato di carico |
+| 9.5.2 (5) | Freccia iniziale massima di tiranti |
+| 9.8.2 (1) | Freccia globale massima |
+| 9.8.2 (2) | Freccia locale massima dei pannelli |
+| A.2 (1) | Coefficiente di amplificazione degli sforzi di membrana |
+| A.2 (2) | Coefficiente di amplificazione degli sforzi di membrana |
+| A.3.2.1 (6) | Coefficiente di efficienza dei giunti a sovrapposizione |
+| A.3.2.2 (6) | Coefficiente parziale yMI |
+| A.3.2.3 (2) | Pressione esterna, depressione interna e vento |
+| A.3.3 (1) | Incremento del coefficiente parziale YM0g |
+| A.3.3 (2) | Coefficiente di intensificazione degli sforzi per dissimmetria |
+| A.3.3 (3) | Tensioni meridiane di membrana alla sommità della tramoggia |
+| A.3.4 (4) | Coefficiente parziale YM0 |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-4-1.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-4-1 – Progettazione delle strutture di acciaio: Silos.
+
+{163}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione |
+| --- | --- | --- |
+| 2.2(1) | Nota | Le classi di conseguenze per i silos sono definite in funzione soltanto della dimensione |
+|  |  | e del tipo di azione da considerare, come indicato al §2.2(3). |
+|  |  | In funzione della dimensione e del tipo di azione da considerare, si adottano le classi |
+|  |  | indicate nella Tabella 2.1. |
+| 2.2(3) | Nota | Le classi di capacità dei silos sono definite in funzione dei valori raccomandati dei |
+|  |  | limiti W 1as W tbs W 3c2 W 3b, W 3c |
+| 2.9.2.2(3) | Nota | Si adottano i seguenti valori: 140=1,05; |
+|  |  | YMI=1,15; |
+|  |  | YM2=1,25; |
+|  |  | YMa=1,05; |
+|  |  | YM5=1,25; |
+|  |  | Y246-1,10. |
+| 3.4(1) | Nota | Non si forniscono informazioni specifiche. |
+| 4.1.4 (2) | Nota | Si adotta il valore raccomandato At-2 mm, salvo considerare spessori maggiori ove |
+|  |  | richiesto dall'impiego specifico. |
+| 4.1.4. (4) | Nota 1 | Non vengono date informazioni specifiche |
+| 4.2.2.3(6) | Nota | Ai fini del calcolo delle tensioni nelle nervature e nella parete, l'area delle nervature può essere conglobata in quella della parete, purché l'interasse delle nervature sia non |
+|  |  | maggiore di n.v. (rt)"2 : Per n. si adotta il valore raccomandato n.ges5. |
+|  |  | Ai fini del calcolo a piastra ortotropa delle tensioni nelle nervature e nella parete, l'area delle nervature orizzontali può essere conglobata in quella della parete, purché |
+| 4.3.1(6) | Nota |  |
+|  |  | l'interasse delle nervature sia non maggiore di n .. Per n, si adotta il valore |
+|  |  | raccomandato n, 40. |
+| 4.3.1(8) | Nota | La larghezza di lamiera collaborante è data da nowt. Per new si adotta il valore nes=15. |
+| 5.3.2.3(3) | Nota | Si adottano i valori raccomandati. per j; |
+| 5.3.2.4(10) | Nota | Si adotta il valore raccomandato Un-0,40. |
+| 5.3.2.4(12) | Nota | Si adottano i valori raccomandati: 01 =0, 7 x; k =0,5; k2-0,25. |
+| 5.3.2.4(15) | Nota | Si adottano i valori raccomandati: ß=0,6; n=1,0. |
+| 5.3.2.5(10) | Nota | Si adotta il valore raccomandato q=0,5. |
+| 5.3.2.5(14) | Nota | Si adotta il valore raccomandato k2-0,1. |
+| 5.3.2.6(3) | Nota | Si adotta il valore raccomandato k=0,1. |
+| 5.3.2.6(6) | Nota | Si adotta il valore raccomandato co-0,8. |
+| 5.3.2.8 (2) | Nota | Si adotta il valore raccomandato Ne-10000. |
+| 5.3.3.5(1) | Nota | Si adotta il valore raccomandato k .- 0.1. |
+| 5.3.3.5(2) | Nota | Si adotta il valore raccomandato k=4,0. |
+| 5.3.4.3.2(2) | Nota | Si adotta il valore raccomandato cox-0,8. |
+| 5.3.4.3.3(2) | Nota | Ai fini del calcolo a piastra ortotropa la rigidezza delle nervature può essere |
+|  |  | conglobata in quella della parete, purché l'interasse delle nervature sia non maggiore |
+|  |  | di demax. Per il coefficiente kar si adotta il valore raccomandato ka=7,4. |
+| 5.3.4.3.3(5) | Nota | Si adotta il valore raccomandato ax=0,8. |
+| 5.3.4.3.4(5) | Nota | Si adotta il valore raccomandato k -6,0. |
+| 5.3.4.5(3) | Nota | Si adotta il valore raccomandato kao 7.4. |
+| 5.4.4(2) | Nota | Si adottano i valori raccomandati: (z/t)max=400; k=2,0; k2=1,0; k2=1,0 |
+| 5.4.4(2) | Nota | Si adottano i valori raccomandati: (r/t)max=400; k2=1,0; k2=1,0; k=1,0 |
+| 5.4.4(3) | Nota | Si adotta il valore raccomandato k=0,10 |
+| 5.4.4(4) | Nota | Si adotta il valore raccomandato k =4,0 |
+
+{164}------------------------------------------------
+
+| 5.4.7(3) | Nota | Per i sili di classe 1 e 2 si adottano i valori dei coefficienti armonici raccomandati. Per i sili di classe 3 si può far riferimento, come raccomandato, all'appendice informativa |
+| --- | --- | --- |
+|  |  | C |
+| 5.5.2(3) | Nota | Si adotta il valore raccomandato kai=0,02 |
+| 5.6.2(1) | Nota | Si adotta il valore raccomandato kd2=0,02 |
+| 5.6.2(2) | Nota | Si adottano i valori raccomandati ka-0,05 e kar-20,0 |
+| 6.1.2(4) | Nota | Si adotta il valore 7M0g=1,5. |
+| 6.3.2.3(2) | Nota | Si adotta il valore raccomandato giova 1,2 per il coefficiente di intensificazione degli |
+|  |  | sforzi per effetto di dissimmetrie. |
+| 6.3.2.3(4) | Nota | Si adotta il valore raccomandato k, 0,9. |
+| 6.3.2.7(3) | Nota | Si adotta il valore raccomandato oxx 0,10. |
+| 7.3.1(4) | Nota | Si adotta il valore raccomandato o -0,20. |
+| 8.3.3(4) | Nota | Si adotta il valore raccomandato Bim =20°. |
+| 8.4.1(6) | Nota I | Si adottano i valori raccomandati Bin=10°, ki=10; kk=0,04. |
+| 8.4.2(5) | Nota 1 | Si adottano i valori raccomandati Bun=10°, k2=10; kg=0,04. |
+| 8-5.3(3) | Nota | Si adotta il valore raccomandato k=0,10. |
+| 9.5.1(3) | Nota | Si adottano i valori raccomandati C== 1,0; Cs=1,2. |
+| 9.5.1(4) | Nota | Si adottano i valori raccomandati k1-4,0; kiz=2,0. |
+| 9.5.2(5) | Nota | Si adotta il valore raccomandato k .- 0,01. |
+| 9.8.2(1) | Nota | Si adottano i valori raccomandati k1=0,02; k2=10. |
+| 9.8.2(2) | Nota | Si adotta il valore raccomandato k3-0,05. |
+| A.2(1) | Nota | Si adotta il valore raccomandato kni=1,10. |
+| A.2(2) | Nota | Si adotta il valore raccomandato kn=1,20. |
+| A.3.2.1(6) | Nota | Si adottano i valori raccomandati di ji. |
+| A.3.2.2(6) | Nota | Si adotta il valore YMI=1,15. |
+| A.3.2.3(2) | Nota | Si adottano i valori on 0,5 e YM1=1,15. |
+| A.3.3(1) | Nota | Si adotta il valore 1,50. |
+| A.3.3(2) | Nota | Si adotta il valore raccomandato garm=1,2. |
+| A.3.3(3) | Nota | Si adottano i valori raccomandati k =0,90 e YM2=1,25, |
+| A.3.4(4) | Nota | Si adotta il valore 1,05. |
+
+Le appendici A, B e C conservano valore informativo.
+
+{165}------------------------------------------------
+
+![](3__page_165_Picture_3.jpeg)
+
+inistero delle Infrastrutture e der shorti
+
+# UNI EN 1993-4-2:2007
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 4-2: Serbatoi
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-4-2:2007
+
+### Parametri adottati a livello nazionale da utilizzare per i serbatoi di acciaio
+
+{166}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-4-2 – Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 4-2: Serbatoi. EN-1993-4-2 - Eurocode 3: Design of steel structures - Part 4-2: Tanks
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-4-2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-4-2 relativamente ai seguenti paragrafi:
+
+| 2.2 (1) | Classi di conseguenze. |
+| --- | --- |
+| 2.2 (3) | Classi di conseguenze. |
+| 2.9.2.1 (1)P | Coefficienti parziali yF. |
+| 2.9.2.1 (2)P | Coefficienti parziali YF- |
+| 2.9.2.1 (3)P | Coefficienti parziali YF. |
+| 2.9.2.2 (3)P | Coefficiente parziale умі- |
+| 2.9.3 (2) | Coefficiente parziale YMSer- |
+| 3.3 (3) | Acciai per apparecchi in pressione |
+| 4.1.4 (3) | Numero minimo di cicli significativo per la verifica a fatica |
+| 4.3.1 (6) | Interasse limite delle nervature verticali (calcolo a piastra |
+|  | equivalente) |
+| 4.3.1 (8) | Larghezza di lamiera collaborante |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-4-2.
+
+2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-4-2 - Progettazione delle strutture di acciaio: Serbatoi.
+
+![](3__page_166_Picture_15.jpeg)
+
+{167}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione |
+| --- | --- | --- |
+| 2.2(1) | Nota | Le classi di conseguenze per i serbatoi sono definite al §2.2(3). |
+| 2.2(3) | Nota | In funzione della dimensione e del tipo di azione da considerare, si adottano le classi di |
+|  |  | conseguenze raccomandate date nella Tabella 2.1. |
+| 2.9.2.1(1)P | Nota | Si adottano i valori raccomandati in tabella 2.1 |
+| 2.9.2.1(2)P | Nota | Si adottano i valori raccomandati in tabella 2.1 |
+| 2.9.2.1(3)P | Nota | Si adottano i valori raccomandati in tabella 2.1 |
+| 2.9.2.2(3)P | Nota | Si adottano i seguenti valori: |
+|  |  | Yug=1,05; |
+|  |  | Vitt = 1, 15: |
+|  |  | YM2=1,25; |
+|  |  | Yua=1,05; |
+|  |  | Yu5=1,25; |
+|  |  | YMG=1,10. |
+| 2.9.3(2) | Nota | Si adotta il valore raccomandato YMBer=1,0. |
+| 3.3(3) | Nota | Non si fomiscono informazioni addizionali. |
+| 4.1.4(3) | Nota | Si adotta il valore raccomandato Ne 10000. |
+|  |  | Ai fini del calcolo a piastra ortotropa delle tensioni nelle nervature e nella parete, l'area delle nervature orizzontali può essere conglobata in quella della parete, purché |
+| 4.3.1(6) | Nota | l'interasse delle nervature sia non maggiore di nit. Per n, si adotta il valore |
+|  |  | raccomandato n,-40. |
+| 4.3.1(8) | Nota | La larghezza di lamiera collaborante è data da newt. Per new si adorta il valore |
+|  |  | raccomandato new=15. |
+
+L'appendice A conserva valore informativo.
+
+{168}------------------------------------------------
+
+![](3__page_168_Picture_3.jpeg)
+
+ero delle Infrastrutture e dei Irasporti eriore dei Lavori . In
+
+# UNI EN 1993-4-3:2007
+
+# Eurocodice 3: Progettazione delle strutture di acclaio Parte 4-3: Condotte
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-4-3:2007
+
+# Parametri adottati a livello nazionale da utilizzare per le condotte di acciaio
+
+{169}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-4-3 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 4-3: Condotte. EN-1993-4-3 - Eurocode 3: Design of steel structures - Part 4-3: Pipelines
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-4-3, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-4-3 relativamente ai seguenti paragrafi:
+
+2.3 (2) 3.2 (2)P, (3), (4) 3.3 (2), (3), (4) 3.4 (3) 4.2 (1)P 5.1.1 (2), (3), (4), (5), (6), (9), (10), (11), (12), (13) 5.2.3 (2) 5.2.4 (1)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-4-3.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-4-3 -- Progettazione delle strutture di acciaio: Parte 4-3: Condotte.
+
+{170}------------------------------------------------
+
+#### Decisioni nazionali 3)
+
+| Paragrafo |  | Parametro nazionale Riferimento |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.3(2) | Nota | Non si forniscono indicazioni specifiche. |
+| 3.2(1)P | Nota | Si adotta il valore Vm-1,05 |
+| 3.2(2)P | Nota | Si adotta il valore raccomandato. |
+| 3.2(3) | Nota | Si adotta il valore raccomandato. |
+| 3.2(4) | Nota | Si adotta il valore raccomandato (20 %), |
+| 3.3(2) | Nota | Si adottano i criteri raccomandati. |
+| 3.3(3) | Nota | Si adotta il criterio raccomandato. |
+| 3.3(4) | Nota | Si adottano i criteri raccomandati. |
+| 3.4(3) | Nota | Si adotta il valore raccomandato. |
+| 4.2(1)P | Nota | I fattori parziali delle azioni vengono determinati con riferimento alle indicazioni delle |
+|  |  | normative specialistiche. |
+| 5.1.1(2) | Nota | Si adottano i valori raccomandati. |
+| 5.1.1(3) | Nota | Si adottano i valori limiti raccomandati (per i differenti valori dello snervamento |
+|  |  | dell'acciaio impiegato). |
+| 5.1.1(4) | Nota | Si adotta il valore limite raccomandato. |
+| 5.1.1(5) | Nota | Si adotta il valore limite raccomandato. |
+| 5.1.1(6) | Nota | Si adotta il valore limite raccomandato. |
+| 5.1.1(9) | Nota | Si adotta il valore limite raccomandato. |
+| 5.1.1(10) | Nota | Si adotta il valore limite raccomandato. |
+| 5.1.1(11) | Nota | Si adottano i valori limite raccomandati. |
+| 5.1.1(12) | Nota | Si adottano i valori limite raccomandati. |
+| 5.1.1(13) | Nota | Si adottano i valori limite raccomandati |
+| 5.2.3(2) | Nota | Si adotta il limite raccomandato. |
+| 5.2.4(1) | Nota | Non si danno altre normative di riferimento |
+
+Gli Annessi A, B e C conservano valore informativo.
+
+{171}------------------------------------------------
+
+![](3__page_171_Picture_3.jpeg)
+
+inistero delle rasporti
+
+## UNI EN 1993-5:2007
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 5: Pali e palancole
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-5:2007
+
+## Parametri adottati a livello nazionale da utilizzare per i pali e palancole di acciaio
+
+{172}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-5 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 5: Pali e palancole. EN-1993-5 - Eurocode 3: Design of steel structures - Part 5: Piling
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-5, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-5 relativamente ai seguenti paragrafi:
+
+- 3.7 (1) 3.9 (1)P 4.4 (1) 5.1.1 (4) 5.2.2 (2) 5.2.2 (13) 5.2.5 (7) 5.5.4 (2) 6.4 (3) 7.1 (4) 7.2.3 (2) 7.4.2 (4) A.3.1 (3) B.5.4 (1) D.2.2 (5)
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-5.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-5 ~ Progettazione delle strutture di acciaio: Pali e Palancole.
+
+{173}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 3.7(1) | Nota | La resistenza massima degli acciai (secondo EN 1537) impiegati per gli ancoraggi |
+|  |  | deve risultate fy socc.max ≤ 460 Nmm -. |
+| 3.9(1)P | Nota | La temperatura minima di esercizio da considerare nei calcoli e nella scelta dei |
+|  |  | materiali non deve superare - 15 °C .. |
+| 4,4(1) | Nota | Si adottano i valori raccomandati e riportati nelle tabelle 4-1 e 4-2, |
+| 5.1.1(4) | Nota | Si adottano i seguenti valori dei fattori parziali delle resistenze: |
+|  |  | - YMO= 1,05; |
+|  |  | - YMI = 1,15; |
+|  |  | - YM2- 1,25. |
+| 5.2.2(2) | Nota 2 | Non si forniscono indicazioni specifiche. |
+| 5.2.2(13) |  | Per la lunghezza minima del tratto iniziale e del tratto finale si adotta il valore raccomandato i = 500 mm. Tale lunghezza deve essere non minore della lunghezza dei |
+|  | Nota |  |
+|  |  | tratti intermedi. |
+| 5.2.5(7) | Nota | Si adotta il valore raccomandato BR = 0,80. |
+| 5.5.4(2) | Nota | Si adotta il valore raccomandato, h ≤ 5 m. |
+| 6.4(3) | Nota l | Non si forniscono indicazioni specifiche. |
+| 7.1(4) | Nota | Si adottano i valori raccomandati: YN2™ 1,25 ; YMser = 1,10. |
+| 7.2.3(2) | Nota 1 | Si adotta il valore raccomandato k = 0.90. |
+| 7.4.2(4) | Nota | Non si forniscono prescrizioni specifiche di progetto |
+| A.3.1(3) | Nota | Si adottano i valori raccomandati per il rapporto fi/f, l' allungamento a rottura AS e la |
+|  |  | deformazione ultima & |
+| B.5.4(1) | Nota I | Per i casi indicati si adotta il valore raccomandato neve = 1,00. |
+| D.2.2(5) | Nota | Non si forniscono indicazioni specifiche. |
+
+L'Annesso A conserva valore normativo.
+
+Gli Annessi B, C e D conservano valore informativo.
+
+{174}------------------------------------------------
+
+![](3__page_174_Picture_3.jpeg)
+
+inistero delle Trasporti Luperiore dei Lavori Publici
+
+# UNI EN 1993-6:2007
+
+# Eurocodice 3: Progettazione delle strutture di acciaio Parte 6: Strutture per apparecchi di sollevamento
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1993-6:2007
+
+# Parametri adottati a livello nazionale da utilizzare per apparecchi di sollevamento di acciaio
+
+![](3__page_174_Picture_9.jpeg)
+
+{175}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1993-6 - Eurocodice 3 - Progettazione delle strutture di acciaio: Parte 6: Strutture per apparecchi di sollevamento.
+
+EN-1993-6 - Eurocode 3: Design of steel structures - Part 6: Crane supporting structures
+
+1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1993-6, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1993-6 relativamente ai seguenti paragrafi:
+
+2.1.3.2(1)P 2.8(2)P 3.2.3(1) 3.2.3(2)P 3.2.4(1) tabella 3.2 3.6.2(1) 3.6.3(1) 6.1(1) 6.3.2.3(1) 7.3(1) 7.5(1) 8.2(4) 9.1(2) 9.2(1)P 9.2(2)P 9.3.3(1) 9.4.2(5)
+
+> Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1993-6.
+
+2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1993-6 - Progettazione delle strutture di acciaio: Strutture per apparecchi di sollevamento.
+
+| A C Company Concerner Station Comparison Comparison Comparison Comparison Comparison Comparison Compar |  | せんしたんているのですができる | 11 2 2 2 2 2 2 2 8 2 8 2 8 2 8 2 4 2 3 | . |
+| --- | --- | --- | --- | --- |
+| 10.2000 |  | 10 |  |  |
+| Career of Children |  | A CONTRACT 2005 315500 . A .. | A | STATE OF COLLECTION |
+| MODELLE WANTE WEEK WEEK TO M TEMES OF M TEMPLEM T |  | SCATSARESSALTS SETSEMMER TETTSENSESSMENT SCENTERS FOR TEN FOR TEN FOR TEN FOR TEN FOR TEN FOR TEN FE | SENSETESTSESSMENTSESFORDSCIPACTSACTESSTEMATS | "NADERATESSAFSESSMENTSETESSANAFESFERENT |
+|  |  |  |  |  |
+| . 1 . 1 . 1 . 1 . | A 2 2 2 2 2 2 2 1 2 1 Carrely Comments of the | STATE CONSULTION CONSULTION | -14-0550 And State of States of Children and Children |  |
+| MTSATTESTSGENGENESESSESSEDS FESSORITE NASSESSENSEMENTSES |  | MACHENE MARKERS FREE SECRECT START SET FEMALE FOR | SENSOMERACTTSAGAACTSAGESAFFACESSFETMTFMAASCISC | CANNERSENAMANASSANAAAAAAAAAAAAAAAAAAAAAAAA |
+|  |  |  | -0.02 |  |
+| 100 |  |  |  |  |
+| " & Warrer | September 2014 |  | THE COLUMN 100 100 100 CONSTITUTION |  |
+| GARAGESTANCESCARESSESSMENASSESSESSMENTSSANA |  | SAANTSACAGACANTESTAGES SESSENTS SESSMENTS |  | 100 100 |
+|  |  |  | NO 20 |  |
+|  |  | and the comments of the comments of the comments of the comments of the comments of the comments of the comments of the comments of the comments of the contraction of the con | December 2011 1 | 200 200 2000 |
+
+{176}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione |
+| --- | --- | --- |
+| 2.1.3.2(1)P | Nota | Si adottano i valori raccomandati. |
+| 2.8(2)P | Nota | Si adotta il valore raccomandato: YF.scst = 1,1. |
+| 3.2.3(1) | Nota | In mancanza di più precise determinazioni si adotta una temperatura di servizio |
+|  |  | dell'aria all'interno delle costruzioni pari a 0 °C. |
+| 3.2.3(2)P |  | Si adotta la indicazione raccomandata di far riferimento alla tabella 2.1 di EN 1993-1- |
+|  | Nota | 10 per |
+|  |  | GEd = 0,25 fy(t) . |
+| 3.2.4(1) | Nota 2 | Per le proprietà di resistenza dell'acciaio attraverso lo spessore si adottano i valori |
+|  |  | raccomandati di cui alla tabella 3.2. |
+| 3.6.2(1) | Nota | Non si forniscono informazioni specifiche, |
+| 3.6.3(1) | Nota | Non si forniscono informazioni specifiche. |
+| 6.1(1) | Nota | Si adottano i seguenti valori. - YM2= 1,25. |
+|  |  | Per le membrature |
+|  |  | - YMD= 1,05; |
+|  |  | - YM1= 1,05: |
+|  |  | Per i collegamenti - YM2= 1,25 Resistenza bulloni, chiodi, connessioni a perno, saldature |
+|  |  | e piatti a contatto: |
+|  |  | Resistenza a scorrimento - SLU; - YM3 - 1,25 |
+|  |  | Resistenza a scorrimento - SLE: = " " " " = " 1 , 1 V |
+|  |  | - YRAG an = 1 . UA) Resistenza connessioni a perno - SLE; |
+|  |  | Precarico di bulloni ad alta resistenza. - Y242= 1,10 |
+| 6.3.2.3(1) | Nota | In alternativa al metodo semplificato di cui al punto 6.3.2.3 si può seguire il metodo di |
+|  |  | cui all'Annesso A. |
+| 7.3(1) | Nota | Si adottano i valori raccomandati nella tabella 7.1 e 7.2. |
+| 7.5(1) | Nota | Si adotta il valore YM,ser = 1,10. |
+| 8.2(4) | Nota | Si adottano le classi di gru raccomandate. |
+| 9.1(2) | Nota | Numero di cicli al di sotto del quale non sono richieste verifiche a fatica: si adotta il |
+|  |  | numero raccomandato, Co = 10+. |
+| 9.2(1)P | Nota | Si adotta il valore raccomandato YFf = 1,0. |
+
+{177}------------------------------------------------
+
+| 9.2(2)P | Nota | Per il fattore parziale Yor si adotta la raccomandazione di fare riferimento alla tabella |
+| --- | --- | --- |
+|  |  | 3.1 della .EN 1993-1-9 |
+| 9.3.3(1) | Nota | Si adottano le indicazioni raccomandate. |
+| 9.4.2(5) | Nota | Si adotta il criterio raccomandato che fa riferimento alla: tabella 2.12 di EN 1991-3. |
+
+L'Annesso A conserva valore informativo.
+
+e and
+
+{178}------------------------------------------------
+
+![](3__page_178_Picture_3.jpeg)
+
+istero delle . Infrastrutture e dei horti
+
+## UNI EN 1994-1-1:2005
+
+Eurocodice 4: Progettazione delle strutture composte acciaio-calcestruzzo Parte 1-1: Regole generali e regole per gli edifici
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1994-1-1:2005
+
+Parametri adottati a livello nazionale da utilizzare nelle strutture composte acciaiocalcestruzzo
+
+{179}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1994-1-1 - Eurocodice 4 - Progettazione delle strutture composte acciaio-calcestruzzo Parte 1-1: Regole generali e regole per gli edifici
+
+EN-1994-1-1 - Eurocode 4: Design of composite steel and concrete structures -Part 1-1: General rules and rules for buildings
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1994-1-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1994-1-1 relativamente ai seguenti paragrafi:
+
+| - 2.4.1.1(1) | - 6.6.3.1(1) | - 9.7.3(4) |
+| --- | --- | --- |
+| - 2.4.1.2(5) | - 6.6.3.1(3) | - 9.7.3(8) |
+| - 2.4.1.2(6) | - 6.6.4.1(3) | - 9.7.3(9) |
+| - 2.4.1.2(7) | - 6.8.2(1) | - B.2.5(1) |
+| - 3.1(4) | - 6.8.2(2) | - B.3.6(5) |
+| - 3.5(2) | - 9.1.1(2) |  |
+| - 6.4.3(1)(h) | - 9.6(2) |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1994-1-1.
+
+Inoltre al punto 4 della presente Appendice sono riportate alcune indicazioni supplementari, che, senza contraddizioni con la UNI-EN-1994-1-1, forniscono informazioni aggiuntive e chiarimenti su alcune regole della UNI-EN-1994-1-1.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1994-1-1 - Progettazione delle strutture composte acciaio-calcestruzzo: Regole generali e regole per gli edifici.
+
+{180}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.4.1.1(1) | Nota | Si adotta il valore raccomandato: |
+|  |  | Yp = 1,0 |
+| 2.4.1.2(5)P | Nota | Si adotta il valore raccomandato: |
+|  |  | Yy =1,25 |
+| 2.4.1.2(6)P | Nota | Si adotta il valore raccomandato: |
+|  |  | Yvs =1,25 |
+| 2.4.1.2(7)P | Nota | Si adotta il valore raccomandato: |
+|  |  | Vur. = 1.0 |
+| 3.1(4) | Nota | Si adottano i valori raccomandati nell'Allegato C della EN |
+|  |  | 1994-1-1 |
+|  |  | Lo spessore nominale minimo delle lamiere grecate impiegate |
+| 3.5(2) | Nota | nelle solette composte è pari a 0,8 mm; è tuttavia possibile ridurre lo spessore della lamiera al valore 0,7 mm quando in |
+|  |  | fase costruttiva vengano studiati idonei provvedimenti atti a |
+|  |  | consentire il transito in sicurezza di mezzi d'opera e personale. |
+| 6.4.3(1)h | Nota | Si adottano i valori raccomandati nella tabella 6.1 |
+| 6.6.3.1(1) | Nota | Si adotta il valore raccomandato: |
+|  |  | Yy =1,25 |
+| 6.6.3.1(3) | Nota | Non si danno indicazioni aggiuntive |
+| 6.6.4.1(3) | Nota | Si confermano i dettagli costruttivi indicati al punto 6.6.5.4. |
+| 6.8.2(1) | Nota | Si adotta il valore raccomandato: |
+|  |  | YMES =1,0 |
+| 6.8.2(2) | Nota | Per il coefficiente ypr si rimanda alla EN 1991-2. |
+| 9.1.1(2)P | Nota | Si adotta il valore raccomandato: |
+|  |  | massimo rapporto b/b2=0,6 |
+| 9.6(2) | Nota | L'inflessione & delle lamiere nella fase di getto, per effetto del peso proprio della lamiera e del calcestruzzo, non deve superare Tali limiti possono essere aumentati qualora inflessioni maggiori non inficino la resistenza o l'efficienza del solaio e sia in ogni caso considerato nella progettazione del solaio e della |
+|  |  | la quantità Ss max = min(L/180 ; 20 mm). |
+|  |  | struttura di supporto il peso addizionale dovuto all'accurnulo |
+|  |  | del calcestruzzo. Nel caso in cui l'inflessione dell'estradosso possa condurre a problemi legati ai requisiti di funzionalità |
+|  |  | della struttura, i limiti deformativi debbono essere ridotti. |
+| 9.7.3(4) | Nota | Si adotta il valore raccomandato: |
+|  |  | Yyg=1,25 |
+| 9.7.3(8) | Nota 1 | Si adotta il valore raccomandato : |
+|  |  | Yvx =1,25 |
+| 9.7.3(9) | Nota | Si adotta il valore raccomandato : |
+|  |  | 11 =0,5 |
+| B.2.5(1) | Nota | Si adotta il valore raccomandato: |
+|  |  | Yy =1,25 |
+| B.3.6(5) | Nota | Si adotta il valore raccomandato: |
+|  |  | Yvs =1,25 |
+
+Le Appendici A , B , C informative mantengono il carattere informativo.
+
+|  |  | 東京都会の駅となる。 |  |  |  |  | AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND A BREATH AND A BREATH AND A BREATH AND A BREAT |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Party of the program and |  |  | FOR THE PERFECT |  |  |  |  |  |
+| 1 SAMAGAZ SESSORIALS SOLEE SALE | AND AND OF A |  | A STATE A STATE A BEATH A BEATH A BEATH A BEACH AND A BEACH AND A BEACH AND A BEACH AND A BEACH AND A BEACH AND A BEACH AND A BEACH AND A BREACH AND A BREACH AND A BREACH AND | 20 11 11 12 12 |  | -10-145 |  |  |
+|  |  | Company of the nature of |  |  |  |  |  | 13 |
+|  |  |  |  |  | Continent of the First of the First |  |  |  |
+|  |  |  |  |  |  |  |  | 104 |
+|  |  |  |  |  |  |  | AND THE FOR |  |
+| Manager V NY LV M | CAND 1. 108 |  |  |  |  |  |  |  |
+| 1 |  |  |  |  | 80. 11.11 |  | STATUTE AND | 2 |
+| STATE CALLERY |  |  |  |  |  |  |  |  |
+
+{181}------------------------------------------------
+
+![](3__page_181_Picture_3.jpeg)
+
+inistern delle . Infrastrutture e dei Trasporti Panori . Publici
+
+### UNI EN 1994-1-2:2005
+
+Eurocodice 4: Progettazione delle strutture composte acciaio-calcestruzzo Parte 1-2 Regole generali-Progettazione strutturale contro l'incendio
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1994-1-2:2005
+
+Parametri adottati a livello nazionale da utilizzare per le strutture composte acciaiocalcestruzzo esposte all'incendio
+
+{182}------------------------------------------------
+
+### APPENDICE NAZIONALE
+
+UNI-EN1994-1-2 Eurocodice 4: Progettazione delle strutture composte acciaio-calcestruzzo -Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio EN 1994-1-2 Eurocode 4 : Design of composite steel and concrete structures -- Part 1-2: General rules - Structural fire design
+
+### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1994-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+### 2. INTRODUZIONE
+
+### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1994-1-2 relativamente ai seguenti paragrafi:
+
+| 1.1 (16) nota | 2.3 (1)P nota 1 | 2.4.2 (3) nota 1 | 4.1 (1)P nota |
+| --- | --- | --- | --- |
+| 2.1.3 (2) nota | 2.3 (2)P nota 1 | 3.3.2 (9) nota 1 | 4.3.5.1 (10) nota 1 |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1994-1-2.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN1994-1-2: Eurocodice 4: Progettazione delle strutture composte accio-calcestruzzo - Parte 1-2: Regole generali -- Progettazione strutturale contro l'incendio
+
+### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1994-1-2
+
+{183}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | L'impiego di calcestruzzi di classe maggiore di C50/60 ed LC50/55 è |
+| 1.1 (16) | Nota | consentita se si utilizzano nel progetto i modelli di calcolo avanzato e |
+|  |  | facendo riferimento alle proprietà dei materiali indicate nella Sezione 6 |
+|  |  | di EN 1992-1-2. |
+| 2.1.3(2) | Nota | Si adottano i valori raccomandati: |
+|  |  | 0A1 = 200 K |
+|  |  | 0A2 = 240 K |
+| 2.3(1)P | Nota 1 | Si adottano i valori raccomandati |
+|  |  | YMAs= 1,0 |
+|  |  | YM.fi,8 = 1,0 |
+|  |  | VMAc = 1,U |
+|  |  | VM fi v = 1, U |
+| 2.3(2)P | Nota 1 | Si adotta il valore raccomandato: |
+|  |  | YMA=1,0 |
+| 2,4,2 (3) | Nota 1 | Si sottolinea che la figura 2.1 è costruita assumendo YG = 1,35 e Yo = |
+|  |  | 1,50 non coerenti con quanto riportato nelle Norme tecniche delle |
+|  |  | costruzioni. |
+| 3.3.2 (9) | Nota 1 | Il valore di 2% per il calcestruzzo con inerte prevalentemente calcareo è |
+|  |  | quello del limite inferiore di cui all'espressione 3.6b |
+| 4.1 (1)P | Nota | Non si forniscono indicazioni specifiche. |
+|  |  | Si adottano i valori raccomandati |
+| 4.3.5.1(10) | Nota 1 | Lei = 0,5 |
+|  |  | Let = 0,7 |
+| Utilizzo delle appendici |  | Le Appendici A, B, C, D, E, F e G mantengono il carattere informativo. |
+| informative |  |  |
+
+| - 20 - 200-11 FOR STORE STATE | PRODUCT |  | A COLOR PARTY POST OF PARTY OF CELL SEPT. |  |
+| --- | --- | --- | --- | --- |
+| STATE AND THE FOR THE THE | 14 15 2 3 2 1 2 1 2 1 Company of the control of the company of the county of the cou | 205/-17180 | STATE AND THE FOR THE FORM AND THE FORM A SALE A BROAD STATE AND TA WAS TA | Call of Children A 1 60 12 -- |
+| The first of the property of the control of ENGARIESE SOULERS/SAFEESAFRESFETSTERSET START SUP | MARKETASSARTESSTENTSEMENTSFFSESSESSMENTSETESSATSPACE |  | TEMBERSETSTSCANTEMENTSFACTACTAACCMTACTESSATISTER | Call Property NATIESMANAGESEESESFEESESFORTSESSANDEESFECTES |
+|  | and the start of the state of the states |  | CARD COLUMN |  |
+| -- |  |  | - 1813 |  |
+|  |  |  | THE INC. CARDS - 4. 800 |  |
+| and the province of the states . | A LEAST STATE | 10 100 100 | BALLER FOR AND STORES AND | The Bir States of Bank Be |
+| CANTEST MEMOLMAN MARK MET MITTEN MELLAN IN | SBANDERAAFSETS/SSAMMAT STEEFERFTESSETSASSETSSANTSENSE |  | MITOOSTS MC T " MANAG T MAN" MART SALE " E V M " VOLT " SCARAGENT | MACHENNATITAL MODI MIMMAN MALEM MOVING MANAGEM MANAGEM MANA |
+| Antonio Charles Property of Children And And State | Kan Sept |  | Callery of Children | 150 11 1-0-3-88 |
+| STATUTE IN STATE |  |  | Property of the States 1 |  |
+|  | Parties and States | 2005 | BAS STATE COLL 10.00 PM 1 48 15 15 1 A METH AS CONTRACTOR | 19-4-6 A STATE AND THE COLLECTION OF CONSTITUTION OF THE CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CARACT CARACT CARACT CARACT CARAL |
+| The contract and the control of the comments of the company of | SALES SENSEE SALES SES SAFE SAFF ST SENSEMBER FOR SENSE SE |  | STORE WORLD MARKET TO MEM MEM MEMER TEN SOUTH | 1811 1 |
+|  |  |  |  | 28204 |
+| FOR AT HOLES OF |  |  | FACE OF CARTER FREE FREE FOR |  |
+
+{184}------------------------------------------------
+
+![](3__page_184_Picture_3.jpeg)
+
+Indrastrutture e der porti
+
+# UNI EN 1994-2:2006
+
+Eurocodice 4: Progettazione delle strutture composte acciaio-calcestruzzo Parte 2: Regole generali e regole per i ponti
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1994-2:2006
+
+### Parametri adottati a livello nazionale da utilizzare per i ponti con struttura composta acciaio-calcestruzzo
+
+{185}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1994 - 2 - Eurocodice 4 - Progettazione delle strutture composte acciaio-calcestruzzo -Parte 2: Regole generali e regole per i ponti
+
+EN-1994 - 2 - Eurocode 4 - Design of composite steel and concrete structures - Part 2 ~ General Rules and rules for bridges
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1994 - 2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010.
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1994 - 2 relativamente ai paragrafi
+
+- 1.1.3(3) - 2.4.1.1(1) - 2.4.1.2(5)P - 2.4.1.2(6)P - 5.4.4(1) - 6.2.1.5(9) - 6.2.2.5(3) - 6.3.1(1) - 6.6.1.1(13) - 6.6.3.1(1) - 6.8.1(3) - 6.8.2(1) -7.4.1(4) - 7.4.1(6) - 8.4.3(3)
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1994-2.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1994 - Eurocodice 4 -Progettazione delle strutture composte acciaio-calcestruzzo - Parte 2 - Regole per i ponti
+
+{186}------------------------------------------------
+
+#### Decisioni nazionali 3)
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| - 1.1.3(3) | Nota | Altri tipi di connettori, per es. connettori rigidi, possono essere utilizzati, purché progettati e |
+|  |  | verificati secondo procedimenti di comprovata validità. |
+| - 2.4.1.1(1) | Nota | Si adotta il valore naccomandato %-1.0 sia ner gli effetti favorevoli sia per gli effetti |
+|  |  | sfavorevoli |
+| - 2.4.1.2(5)P | Nota | Si adotta il valore raccomandato y=1.25 |
+| - 2.4.1.2(6)P | Nota | Si adotta il valore raccomandato YMc=1.00 |
+| - 5.4.4.1 | Nota | Si adotta un coefficiente di combinazione unitario |
+| - 6.2.1.5(9) | Nota | Non si dà alcuna specifica indicazione sulla scelta del metodo. |
+| - 6.2.2.5(3) | Nota | Si adottano i valori raccomandati Con =0.15/yc e ki=0.12, con il valore limite doco=1.85 Nimm' |
+| - 6.3.1(1) | Nota | Non si forniscono informazioni addizionali. |
+| - 6.6.1.1(13) | Nota | Non si forniscono informazioni addizionali. |
+| - 6.6.3.1(1) | Nota | Si adotta il valore raccomandato "v=1.25 |
+| - 6.8.1(3) | Nota | Si adotta il valore raccomandato k. 0.75 |
+| - 6.8.2(1) | Nota | Si adotta il valore raccomandato YMI=1.00 |
+| -7.4.1(4) | Nota | Si veda EN1992-2, 7.3.1(105) Riportare |
+| - 7.4.1(6) | Nota | Si adotta il valore raccomandato di 20 K |
+| - 8.4.3(3) | Nota | Non si forniscono informazioni addizionali. |
+| Utilizzo appendici |  | L'Appendice informativa C mantiene il carattere informativo. |
+| informative |  |  |
+
+{187}------------------------------------------------
+
+![](3__page_187_Picture_3.jpeg)
+
+struttur
+
+### UNI EN 1995-1-1:2005
+
+## Eurocodice 5: Progettazione delle strutture di legno Parte 1-1:Regole generali - Regole comuni e regole per gli edifici
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1995-1-1:2005
+
+## Parametri adottati a livello nazionale da utilizzare per le strutture di legno
+
+![](3__page_187_Picture_9.jpeg)
+
+{188}------------------------------------------------
+
+#### Appendice nazionale
+
+UNI-EN-1995-1-1 - Eurocodice 5 - Progettazione delle strutture di legno: Parte 1-1: Regole generali Regole comuni e regole per gli edifici
+
+EN-1995-1-1 - Eurocode 5 - Design of timber structures. Part 1-1: General - Common rules and rules for buildings
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1995-1-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+2.1. Campo di applicazione
+
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1995-1-1 relativamente ai seguenti paragrafi:
+
+| 2.3.1.2(2)P | 2.4.1(1)P | 7.2(2) | 8.3.1.2(4) | 9.2.4.1(7) | 10.9.2(3) |
+| --- | --- | --- | --- | --- |
+| 2.3.1.3(1)P 6.4.3(8) | 7.3.3(2) | | 8.3.1.2(7) | 9.2.5.3(1) | 10.9.2(4) |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1995-1-1.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1995-1-1 - Progettazione delle strutture di legno: Parte 1-1: Regole generali - Regole comuni e regole per gli edifici
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+|  |  | carico neve è da considerare in relazione alle ll |
+| 2.3.1.2(2)P | Nota - Tabella 2.2 | caratteristiche del sito. Il vento può essere considerato |
+|  |  | istantaneo salvo valutazioni più accurate in relazione al sito. |
+| 2.3.1.3(1)P | Nota 2 | Esempi di classi di servizio (non esaustivi): |
+|  |  | 1: strutture al chiuso in zone asciutte e riscaldate. |
+|  |  | 2: strutture al chiuso in zone non riscaldate senza particolari |
+|  |  | fonti di umidità: strutture all'esterno protette dall'acqua. |
+|  |  | 3: strutture al chiuso in presenza di forti concentrazioni di |
+|  |  | umidità: strutture all'esterno esposte a precipitazioni |
+|  |  | atmosferiche, o comunque all'acqua. |
+|  |  | Si adottano i valori della tabella seguente: |
+| 2.4.1(1)P | Nota 2 | Coefficienti parziali yn per le proprietà e le resistenze dei |
+|  |  | materiali. |
+
+{189}------------------------------------------------
+
+|  |  | Combinazioni fondamentali: |  |
+| --- | --- | --- | --- |
+|  |  | Legno massiccio 1,50 |  |
+|  |  | Legno lamellare incollato 1,45 |  |
+|  |  | LVL, compensato, OSB 1,40 |  |
+|  |  | Pannelli di particelle 1,50 |  |
+|  |  | Pannelli di fibre ad alta densità 1,50 |  |
+|  |  | Pannelli di fibre a media densità 1,50 |  |
+|  |  | Pannelli di fibre MDF 1,50 |  |
+|  |  | Pannelli di fibre a bassa densità 1,50 |  |
+|  |  | Connessioni 1,50 |  |
+|  |  | Mezzi di unione a piastra metallica 1,50 |  |
+|  |  | punzonata |  |
+|  |  | Combinazioni eccezionali: 1,00 |  |
+| 6.4.3(7) | Nota | Si adotta la formula 6.54 |  |
+|  |  | Si adottano i valori della tabella 7.2 dell'EC5, salvo |  |
+|  | Nota | verifiche accurate sulle deformazioni in relazione all'uso |  |
+| 7.2(2) |  | della struttura, con particolare riferimento ai danni sugli |  |
+|  |  | elementi non strutturali e sulla funzionalità dell'opera. |  |
+|  |  | Si adottano i seguenti valori: |  |
+| 7.3.3(2) | Nota | a=1,0 mm/kN |  |
+|  |  | b=120 |  |
+| 8.3.1.2(4) | Nota 2 | Si adotta la proposta del paragrafo 8.3.1.2(4) |  |
+| 8.3.1.2(7) | Nota | Per Abete bianco, Abete rosso e Douglasia | si applica il |
+|  |  | paragrafo 8.3.1.2(7) |  |
+| 9.2.4.1(7) | Nota | Si applica il metodo A. |  |
+| 9.2.5.3(1) | Nota | Si adottano i seguenti valori: kg = 4 |  |
+|  |  | kg - 60 |  |
+|  |  | kg - 80 |  |
+|  |  | kg = 30 |  |
+| 10.9.2(3) | Nota | abow.nem ≤ 20 Mill |  |
+| 10.9.2(4) | Nota | aday ≤ 30 mm |  |
+
+### 4) Indicazioni aggiuntive
+
+I valori Kmo della Tabella 3.1, superiori all'unità, vengono ricondotti al valore Kmod = 1,00
+
+| A STATUS CALL PROPERTY "WANNEM WANTE WITE WALK ST "M TEM " " W " | 1 THE FOR THE LEASE OF THE FORM SERFESSIONATEMENTS SESSENSESSMENT SETS SESSESSMENT SET ESSEE SOLUTIONAR | A Carrely Contraction of the Concession TTSPANESETSTSCANTEMENTSCREENSFORMATESSATETMAS | And Property STATE AND SESTERSSANDSESSENSESSMENTERSAAGESSFFACTESSOF |
+| --- | --- | --- | --- |
+| .. | инаниеваниеванная видеоманиевания в максинания Company of | 400 Y 40 1 # SOURCESSFETSASSATTSASTERSETEMENTSATSAAAAAA 14.055 FREE STATE AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND | .. LEGE OF SEAT 1 |
+| and and the of States of Status of SARAAAATTTAATESTAACEST SAFEAT SALESS SET SE SALE SATS | 11 11 From 2 SAMPSACESSFENT SALES STANDED STATUS STATUS TRANSFORM THE SU | 1000 200 S SSAFENATEST SECT ST SALES SET S N S S S S F S S S F S S S F S S S F S S S F S | PAGE 2 WITH EBETS/ES/S/MARES/MARES/METESAFES/TEACHARTTEAN |
+
+{190}------------------------------------------------
+
+![](3__page_190_Picture_3.jpeg)
+
+inistero delle . Infrastrutture e dei Trasporti Cavori . Pre esiore de
+
+### UNI EN 1995-1-2:2005
+
+Eurocodice 5: Progettazione delle strutture di legno Parte 1-2: Regole generali -Progettazione strutturale contro l'incendio
+
+> APPENDICE NAZIONALE ITALIANA alla UNI EN 1995-1-2:2005
+
+Parametri adottati a livello nazionale da utilizzare per le strutture di legno esposte all'incendio
+
+{191}------------------------------------------------
+
+### APPENDICE NAZIONALE
+
+UNI-EN1995-1-2: Eurocodice 5: Progettazione delle strutture di legno - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+EN 1995-1-2 Eurocode 5: Design of timber structures - Part 1-2: General rules - Structural fire design
+
+#### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1995-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 24/09/2010
+
+### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1995-1-2 relativamente ai seguenti paragrafi:
+
+| 2.1.3(2) nota | 2.3(2)P nota 1 | 4.2.1(1) nota |
+| --- | --- | --- |
+| 2.3(1)P nota 2 | 2.4.2(3) nota 2 |  |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1995-I -2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN1995-1-2: Eurocodice 5: Progettazione delle strutture di legno - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1995-1-2
+
+{192}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione |
+| --- | --- | --- |
+|  |  | Si adottano i valori raccomandati: |
+| 2,1.3(2) | Nota | 0g1 = 200 K |
+|  |  | 842 = 240 K |
+| 2.3(1)P | Nota 2 | Si adotta il valore raccomandato YM.f = 1,0 |
+| 2.3(2)P | Nota 1 | Si adotta il valore raccomandato VM n = 1,0 |
+| 2.4.2(3) | Nota 2 | Non si forniscono indicazioni specifiche |
+| 4.2.1(1) | Nota | Si adotta la procedura raccomandata del metodo della sezione trasversale |
+|  |  | ridotta |
+| Utilizzo delle appendici |  |  |
+| informative |  | Le Appendici A, B, C, D, E, F mantengono il carattere informativo |
+
+{193}------------------------------------------------
+
+![](3__page_193_Picture_3.jpeg)
+
+![](3__page_193_Picture_4.jpeg)
+
+### UNI EN 1995-2:2005
+
+# Eurocodice 5: Progettazione delle strutture di legno Parte 2: Ponti
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1995-2:2005
+
+## Parametri adottati a livello nazionale da utilizzare per i ponti di legno
+
+![](3__page_193_Picture_9.jpeg)
+
+{194}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1995 ~ 2 – Eurocodice 5 – Progettazione delle strutture di legno – Parte 2: Ponti
+
+EN-1995 - 2 - Eurocode 5 - Design of timber structures -- Part 2 -Bridges
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1995 - 2. è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1995 - 2 relativamente ai paragrafi
+
+- 2.3.1.2(1) Assegnazione della durata del carico
+- 2.4.1 Coefficienti parziali per le proprietà materiali
+- 7.2 Valori limite per le inflessioni
+- 7.3.1(2) Valori di smorzamento
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici informative A e B per i ponti in legno.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1995-2.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1995 - Eurocodice 5 -Progettazione delle strutture in legno - Parte 2 - Ponti
+
+{195}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |  |
+| --- | --- | --- | --- |
+|  |  | - valore o prescrizione - |  |
+| - 2.3.1.2(1) | Nota | Si adottano i valori raccomandati (vedi nota al §2.3.1.2 e prospetto 2.2 |  |
+|  |  | dell'EN1995-1-1). Le azioni durante l'esecuzione si assumono di breve durata, |  |
+|  |  | come raccomandato. |  |
+| - 2.4.1 | Nota | Si adottano i valori dei coefficienti YM della tabella seguente |  |
+|  |  | Stati limite ultimi | 'М |
+|  |  | Legno e derivati |  |
+|  |  | - combinazioni fondamentali |  |
+|  |  | legno massiccio | Yz=1.50 |
+|  |  | legno lamellare incollato | Yn=1.45 |
+|  |  | pannelli di particelle o di fibre | Ya=1.50 |
+|  |  | compensato, pannelli di scaglie orientate | YM=1.40 |
+|  |  | - stato limite di fatica | "YM Ear" 1 . UO |
+|  |  | Unioni |  |
+|  |  | - combinazioni fondamentali | 75=1.50 |
+|  |  | - stato limite di fatica | You far 1.00 |
+|  |  | Accialo usato in elementi composti | YM == 1.15 |
+|  |  | Calcestruzzo usato in elementi composti | Yu = 1.50 |
+|  |  | Unioni a taglio in elementi COMDOS!! legno |  |
+|  |  | calcestruzzo |  |
+|  |  | - combinazioni fondamentali | 11=1.25 |
+|  |  | - stato limite di fatica | YM fso=1.00 |
+|  |  | Combinazioni eccezionali | 75/2 1.00 |
+| - 7.2 | Nota | Si adottano i valori di inflessione limite raccomandati della tabella 7.1. |  |
+| - 7.3.1(2) | Nota I | Valori del coefficiente di smorzamento diversi da quelli indicati possono essere adottati per specifiche strutture, previa adeguata giustificazione su base |  |
+|  |  | sperimentale. |  |
+| Utilizzo appendici informative |  | Le Appendici informative A e B mantengono il carattere informativo. |  |
+
+![](3__page_195_Picture_5.jpeg)
+
+{196}------------------------------------------------
+
+![](3__page_196_Picture_3.jpeg)
+
+inistero delle Infrastrutture e dei Frasporti Lavori . Pelifici
+
+# UNI EN 1996-1-1:2007
+
+Eurocodice 6: Progettazione delle strutture di muratura Parte 1-1: Regole generali per strutture di muratura armata e non armata
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1996-1-1:2007
+
+Parametri adottati a livello nazionale da utilizzare nelle strutture in muratura
+
+{197}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1996-1-1 - Eurocodice 6 - Progettazione delle strutture di muratura - Parte 1-1: Regole generali per strutture di muratura armata e non armata
+
+EN 1996-1-1 - Eurocode 6 - Design of masonry structures - Part 1-1: General rules for reinforced masonry structures
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1996-1-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1996-1-1 relativamente ai seguenti paragrafi:
+
+| 2.4.3(1) P | 3.6.3(3) | 8.1.2(2) |
+| --- | --- | --- |
+| 2.4.4(1) | 3.7.2(2) | 8.5.2.2(2) |
+| 3.2.2(1) | 3.7.4(2) | 8.5.2.3(2) |
+| 3.6.1.2(1) | 4.3.3(3) | 8.6.2(1). |
+| 3.6.2(3) | 4.3.3(4) | 8.6.3(1) |
+| 3.6.2(4) | 5.5.1.3(3) |  |
+| 3.6.2(6) | 6.1.2.2(2) |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1996-1-1.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1996-1-1 – Progettazione delle strutture in muratura – parte 1-1: regole generali per strutture in muratura armata e non armata: regole generali e regole per gli edifici.
+
+![](3__page_197_Figure_15.jpeg)
+
+{198}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | - valore o prescrizione - |  |  |
+| 2.4.3(1)P | Nota | Fattori parziali % per gli stati limite ultimi. |  |  |
+|  |  | Vengono adottate le classi ed i valori % indicati nella tabella che |  |  |
+|  |  | segue: |  |  |
+|  |  | Үм Materiale Classe |  |  |
+|  |  |  | l | 2 |
+|  |  | Muratura costruita con: |  |  |
+|  |  | A Elementi di Categoria I, malta a prestazione |  |  |
+|  |  | garantita; | 2,0 | 2,5 |
+|  |  | B Elementi di Categoria I, malta a composizione |  |  |
+|  |  | prescritta; | 2,2 | 2,7 |
+|  |  | C Elementi di Categoria II, ogni tipo di malta. | 2,5 | 3,0 |
+|  |  | Ancoraggio dell'acciaio da armatura D | 2,2 | 2,7 |
+|  |  | B Acciaio da armatura e da precompressione | l 15 | 1,15 |
+|  |  | Elementi di completamento F | 2,2 | 2,7 |
+|  |  | Architravi, secondo EN845-2 G 2,0 2,5 |  |  |
+|  |  | La attribuzione alle Classi 1 e 2 viene effettuata in relazione a quanto |  |  |
+|  |  | indicato nell'Allegato A "Considerazioni sui fattori parziali riferiti alla |  |  |
+|  |  | Esecuzione". |  |  |
+|  |  | La Classe 2 è attribuita qualora siano previste solamente le operazioni |  |  |
+|  |  | di controllo, comunque obbligatorie, indicate al terzo e quarto |  |  |
+|  |  | capoverso dell'Allegato A e precisamente: |  |  |
+|  |  | disponibilità di specifico personale qualificato e con esperienza, |  |  |
+|  |  | dipendente dell'Impresa, per la supervisione del lavoro |  |  |
+|  |  | (capocantiere): |  |  |
+|  |  | - disponibilità di specifico personale qualificato e con esperienza, |  |  |
+|  |  | indipendente dall'Impresa, per il controllo ispettivo del lavoro |  |  |
+|  |  | (direttore dei lavori). |  |  |
+|  |  | La Classe 1 è attribuita qualora siano previsti, oltre ai controlli di cui |  |  |
+|  |  | sopra, le operazioni di controllo indicate al quinto e sesto capoverso |  |  |
+|  |  | dell'Allegato A e precisamente: |  |  |
+|  |  | - controllo e valutazione in loco delle proprietà della malta e del |  |  |
+|  |  | calcestruzzo: |  |  |
+|  |  | dosaggio dei componenti della malta "a volume" con l'uso di |  |  |
+|  |  | opportuni contenitori di misura e controllo delle operazioni di |  |  |
+|  |  | mescolazione o uso di malta premiscelata certificata dal |  |  |
+|  |  | Produttore. |  |  |
+| 2.4.4(1) | Nota | Si adotta il valore raccomandato YM =1. |  |  |
+| 3.2.2(1) | Nota | Si indicano, nella tabella che segue, sei miscele a composizione |  |  |
+|  |  | prescritta (in volume), col relativo valore M. |  |  |
+|  |  | Ai tre componenti base delle miscele (cemento, calce idraulica e |  |  |
+
+#### 3) Decisioni nazionali
+
+l d
+
+{199}------------------------------------------------
+
+|  |  | sabbia) vengono aggiunti due ulteriori componenti (calce aerea e |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  | pozzolana) al fine di poter considerare l'uso di malta pozzolanica. |  |  |  |  |  |  |
+|  |  | Cemento Calce Sabbia | Calce Pozzolana Classe malta Tipo |  |  |  |  |  |  |
+|  |  | idraulica aerea |  |  |  |  |  |  |
+|  |  | Idraulica M2.5,0,1,3,0,0 i l ﻟﻬﺎ i 1 |  |  |  |  |  |  |
+|  |  | M2.5,1,2,9,0,0 | Bastarda | l | 2 | 9 | ー | 二 |
+|  |  | M5,1,1,5,0,0 Bastarda l l 5 i -- |  |  |  |  |  |  |
+|  |  | M8,2,1,8,0,0 Cementizia 2 1 8 l == |  |  |  |  |  |  |
+|  |  | M12,1,0,3,0,0 Cementizia l -- ﻟﺒﺎ -- l |  |  |  |  |  |  |
+|  |  | ﺬ M2.5,0,0,0,1,3 | Pozzołanica -- -- - l |  |  |  |  |  |  |
+| 3.6.1.2(1) | Nota | Si adotta il metodo indicato come (ii). Si adotta |  |  |  |  |  |  |
+|  |  | fyk = fint = 0,065 fo |  |  |  |  |  |  |
+|  |  | ad eccezione degli elementi in calcestruzzo aerato autoclavato del |  |  |  |  |  |  |
+| 3.6.2(3) | Nota | Gruppo 1 e di tutti gli elementi caratterizzati da una resistenza a |  |  |  |  |  |  |
+|  |  | trazione (misurata in direzione orizzontale parallelamente al piano di posa) maggiore o uguale a 0.2fb , per i quali |  |  |  |  |  |  |
+|  |  | fyk = flm? = 0,10 fo |  |  |  |  |  |  |
+|  |  | Si adotta fyk > 0,045ff |  |  |  |  |  |  |
+| 3.6.2(4) | Nota |  |  |  |  |  |  |  |
+|  |  | Si adottano i valori della Tabella 3.4 |  |  |  |  |  |  |
+| 3.6.2(6) | Nota |  |  |  |  |  |  |  |
+| 3.6.3(3) | Nota1 | Si adottano per fxk1 e fxk2 i valori forniti dalle tabelle |  |  |  |  |  |  |
+|  | Nota 2 |  |  |  |  |  |  |  |
+| 3.7.2(2) |  | Si adotta il valore raccomandato KE=1000. |  |  |  |  |  |  |
+| 3.7.4(2) | Nota | Si adottano i campi dei valori forniti dalla tabella. |  |  |  |  |  |  |
+| 4.3.3(3) | Nota |  |  |  |  |  |  |  |
+|  |  | Si adottano le selezioni raccomandate, riportate nella apposita tabella. |  |  |  |  |  |  |
+| 4.3.3(4) | Nota | Si adottano per Cnom i valori raccomandati, riportati nella apposita |  |  |  |  |  |  |
+|  |  | tabella. |  |  |  |  |  |  |
+| 5.5.1.3(3) | Nota | Si adotta il valore raccomandato kter=E2/Ej≤2. |  |  |  |  |  |  |
+| 6.1.2.2(2) | Nota | Si adotta per ogni tipo di muratura il valore limite raccomandato A -- 15. |  |  |  |  |  |  |
+
+| A Children and Children and Children and Children and Charles of the Children AFLATATA | 100 - 100 - 1 |  |  |  |
+| --- | --- | --- | --- | --- |
+| Company STORE FOR SEA | 30 9 2 11 2 Property of Children of |  | ARRENT 1 430 | 200 |
+| MANAGEM WORM V WHE WITE WHERE T ME M TEN TENNET STANT 45.10 10 Company France | ** |  |  |  |
+| The control of the may of the states of the states of the states |  | 198 |  |  |
+| Comments of the comments of the comparis | P. CON PIC FILM |  |  |  |
+|  | 1200 11 |  |  |  |
+| 200 - 12 - 120 100 - 100 |  |  |  |  |
+| CAMPLE MY LV MI ર પ્રતિક જ |  |  |  |  |
+|  | 19 11 11 11 |  | REAL PROPERTY CONTRACTOR |  |
+
+
+
+
+{200}------------------------------------------------
+
+|  |  | Lo spessore minimo dei muri con funzione strutturale è pari a: |
+| --- | --- | --- |
+|  |  | muratura in elementi resistenti artificiali pieni 150 mm . |
+|  |  | ■ muratura in elementi resistenti artificiali semipieni 200 mm |
+|  |  | muratura in elementi resistenti artificiali forati 240 mm = - muratura di pietra squadrata 240 mm |
+|  |  | ﻌ muratura di pietra listata 400 mm |
+| 8.1.2(2) | Nota | - muratura di pietra non squadrata 500 mm. |
+|  |  | Per la definizione di elementi pieni, semipieni o forati si rimanda alle |
+|  |  | indicazioni aggiuntive in coda al presente documento. |
+| 8.5.2.2(2) | Nota 3 |  |
+|  |  | Si adotta nmin= 2,5 tiranti /m². |
+| 8.5.2.3(2) | Nota 2 | Si adotta i=2.5 tiranti /m . |
+| 8.6.2(1) | Nota | Si adottano i valori raccomandati in Tabella |
+| 8.6.3 (1) | Nota | Si adottano i valori raccomandati in Tabella |
+
+### 4) Indicazioni aggiuntive
+
+#### 4.1 Proprietà degli elementi per muratura
+
+Si introduce la seguente denominazione basata sulla percentuale di foratura @ espressa come rapporto percentuale tra l'area complessiva dei fori passanti e profondi non passanti e l'area lorda della faccia dell'elemento delimitata dal suo perimetro:
+
+- elementi artificiali pieni: 4 ≤ 15% l
+- elementi artificiali semipieni: 15% q ≤ 45% -
+- elementi forati: 45%< 0 ≤ 55% -
+
+Nel caso dei blocchi in laterizio estrusi la percentuale di foratura o coincide con la percentuale in volume dei vuoti come definita dalla norma UNI EN 772-9:2001
+
+Gli elementi per muratura strutturale devono rispettare le seguenti limitazioni:
+
+- percentuale di foratura φ ≤ 55%
+
+- spessore minimo dei setti interni (distanza minima tra due fori): elementi in laterizio e di silicato di calcio: 7 mm
+	- elementi in calcestruzzo: 18 mm
+
+- spessore minimo dei setti esterni (distanza minima dal bordo esterno al foro più vicino al netto dell'eventuale rigatura):
+
+elementi in laterizio e di silicato di calcio: 10 mm elementi in calcestruzzo: 18 mm
+
+| A PART PART FOR FOR THE FOR CONSTITUTION OF CONSULTION OF CONSULTION OF CONSULTION OF THE CONS |  |  | 12 22 3 31 |
+| --- | --- | --- | --- |
+| 1975 - 19 |  |  |  |
+| 2008 350 C | of the United |  | PARTIC PE |
+| France of the state 1255225 | B/Y F6 9 | PAGE OF CART | 2017 11:42 1 |
+| AND THE BEAR | FAR 2 9 Dr. Dr. Dr. Dr. Dr. D. A SENSER F | CART AND S | 15 |
+| Status and |  | - Box 11 11 100 10 11 11 |  |
+
+{201}------------------------------------------------
+
+- 4.2 Uso di giunti di malta sottili o di giunti verticali a secco (senza malta)
+Nel caso in cui si faccia utilizzo di muratura a giunti sottili con spessore compreso tra 0.5 mm e 3 mm e/o giunti verticali a secco è necessario rispettare le seguenti ulteriori limitazioni:
+
+- nessuna altezza interpiano sia superiore a 3.5 m; -
+- il numero di piani in muratura dell'edificio non sia superiore a due. -
+
+{202}------------------------------------------------
+
+![](4__page_202_Picture_3.jpeg)
+
+tero delle . Intrastrutture e dei Trasporti
+
+eriore dei
+
+## UNI EN 1996-1-2:2005
+
+Eurocodice 6: Progettazione delle strutture di muratura Parte 1-2: Regole generali-Progettazione strutturale contro l'incendio
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1996-1-2:2005
+
+Parametri adottati a livello nazionale da utilizzare per le strutture in muratura esposte all'incendio
+
+{203}------------------------------------------------
+
+#### APPENDICE NAZIONALE
+
+UNI-EN1996-1-2 Eurocodice 6: Progettazione delle strutture di muratura - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+EN 1996-1-2 Eurocode 6 : Design of masonry structures - Part 1-2: General rules - Structural fire design
+
+### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1996-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 25/02/2011
+
+### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1996-1-2 relativarnente ai seguenti paragrafi:
+
+| 2.1.3(2) nota (vedi AC:2010) | 2.4.2(3) nota 1 | 4.5(3) nota |
+| --- | --- | --- |
+| 2.2(2) nota | 3.3.3.1(1) nota | Appendice B nota 1 |
+| 2.3(1) nota | 3.3.3.2(1) nota 2 | Appendice B nota 4 |
+| 2.3(2) nota | 3.3.3.3(1) nota 2 | Appendice C nota |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1996-1-2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN1996-1-2: Eurocodice 6: Progettazione delle strutture di muratura - Parte 1-2: Regole generali - Progettazione strutturale contro l'incendio
+
+## 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1996-1-2
+
+|  |  | A BANCH A |  | 2018 - 12:00 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| A FILE BA | A Comments of the Comments of the comments of the comments of the comments of the comments of the comments of the comments of the comments of the comments of the contribution | A BOOM OF Company of Children Company of | FREE STATE AND THE FORM | 1 20 1 | Book Concerner Company Company of Children Company of | STATUTE OF COLLECTION |
+| SCENSALESS SANABEM SAMES SESSES SESSES SES FREE SET EN FREE |  |  | Steard Annual Province of Interest of the Concerner of Microcles of State | TSNESSEEM TO TSEBACE MEM SES SES SECURE SET SATES A TEMPERA TEM P | SARESCREENSFARESPEERSFARTERSSANDSESSMEN |  |
+|  |  |  |  |  |  | Marrial Laborator 4 91.4 9 |
+|  |  |  |  |  |  |  |
+| . 1984 - 1991 - 1 | Section of the state of the |  | A BOOK TO STORE THE FOR | Carles of the state of all parties and and the result of the state |  | And And Comparis Come of the Comments of |
+| TECTSAFFESTSAFNACTASSETTAGESARTESSETSSANTSEMAA |  |  | SAANFESSALESS SENSERS TO SALES SET ESSET SALES SECT STATES | SENSORANE MART TERRECT SALES SECTEM SET ESPARE FREE T SOLE ENR | .. |  |
+| -012 |  |  | Porchard | Make | 100 |  |
+|  |  |  |  | . |  |  |
+|  |  |  |  |  |  | STATIST A CONTRACT CARDED THE CONSTITUTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF COLLECTION OF CONSULTION OF CO |
+| . AFFANT | - Tal - man 0 | 11 - 12 - S | ASSEMBLE | 100000000 11 11 14 11 11 THE POST | A CALL CONSULT OF 1 | The Court of State Concerner |
+| SASSABAFSTENTERFRACESPENETTIAAPBAFT SEEEM SCEENT STEAN |  |  | SAMPSACETTSACES/SACES/SACES/SAMETERS/SESEMENTS | SARESSESSMENTSAFSAFEMETSCARTSTSSAFSNANTEESSOR |  | NAMAREMANAGEMA |
+|  |  |  |  |  |  | A STATUS COLLECT OF |
+|  |  |  |  |  | 1000 1000 |  |
+| Children on and a lots on |  | Associate of the in the in Station TV Street In 100 T Par |  | and and the production of of the more of any a province to the success of the such |  |  |
+
+{204}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione |
+| --- | --- | --- |
+| 2.1.3(2) | Nota (da | Non si forniscono indicazioni specifiche |
+|  | AC:2010) |  |
+| 2.2(2) | nota | Si adotta il valore: |
+|  |  | Em = 0,7 |
+| 2.3 (1) | nota | Si adotta il valore raccomandato |
+|  |  | MA=1,0 |
+| 2.3 (2) | nota | Si adotta il valore raccomandato |
+|  |  | 2M.fi = 1,0 |
+| 2,4.2 (3) | nota 1 | Si applica quanto stabilito nell'appendice nazionale di EN1990 |
+|  |  | Quale che sia la modalità di determinazione della dilatazione |
+|  |  | termica da utilizzare all'interno di un metodo analitico è necessario |
+| 3.3.3.1 (1) | nota | comunque validare il modello con idonea sperimentazione da |
+|  |  | condurre attraverso l'esecuzione di prove standard (EN1364-1 per |
+|  |  | murature non portanti e EN1365-1 per murature portanti) |
+| 3.3.3.2 (1) | nota 2 | Quale che sia la modalità di determinazione del calore specifico da utilizzare all'interno di un metodo analitico è necessario comunque validare il modello con idonea sperimentazione da condurre |
+|  |  | attraverso l'esecuzione di prove standard (EN1364-1 per murature |
+|  |  | non portanti e EN1365-1 per murature portanti) |
+| 3.3.3.3 (1) | nota 2 | Quale che sia la modalità di determinazione della conducibilità termica da utilizzare all'interno di un metodo analitico è necessario comunque validare il modello con idonea sperimentazione da |
+|  |  | condurre attraverso l'esecuzione di prove standard (EN1364-1 per |
+|  |  | murature non portanti e EN1365-1 per murature portanti) |
+| 4.5(3) | nota | Non si forniscono indicazioni specifiche |
+| Appendice B | nota 1 | Non si forniscono indicazioni specifiche |
+
+— 201
+
+{205}------------------------------------------------
+
+|  |  |  | I valori delle tabelle dalla N.B.1.1 alla N.B.5.2. non sono |
+| --- | --- | --- | --- |
+| Appendice B |  | nota 4 | utilizzabili. La classe di resistenza al fuoco da assegnare ad una parete di |
+|  |  |  | muratura è quella determinabile applicando il Decreto del Ministro |
+|  |  |  | dell'Interno 16 febbraio 2007 recante: "Classificazione di |
+|  |  |  | resistenza al fuoco di prodotti ed elementi costruttivi di opere da |
+|  |  |  | costruzione" e la Lettera Circolare n. 1968 del 15/02/2008 recante |
+|  |  |  | "Pareti di muratura portante resistenti al fuoco" ed ulteriori atti |
+|  |  |  | emanati dall'autorità competente in materia. |
+| Appendice C |  | nota | Non si forniscono indicazioni specifiche |
+| Utilizzo delle appendici | informative |  | Le Appendici A. C. D e F mantengono il carattere informativo |
+
+{206}------------------------------------------------
+
+![](4__page_206_Picture_3.jpeg)
+
+Infrastruttur
+
+## UNI EN 1996-2:2006
+
+Eurocodice 6: Progettazione delle strutture di muratura Parte 2: Considerazioni progettuali, selezione dei materiali ed esecuzione delle murature
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1996-2:2006
+
+Parametri adottati a livello nazionale da utilizzare per le strutture in muratura, nella selezione dei materiali e nell'esecuzione
+
+{207}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1996-2 - Eurocodice 6 - "Progettazione delle strutture di muratura - Parte 2: Considerazioni progettuali, selezione dei materiali ed esecuzione delle murature"
+
+EN 1996-2 - Eurocode 6 - "Design of masonry structures - Part 2: Design considerations, selection of materials and execution of masonry "
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1996-2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali e sulle informazioni complementari non contraddittorie che debbono essere fissati nella UNI-EN-1996-2 relativamente ai seguenti paragrafi:
+
+$$\begin{array}{c}{{1.1.(2)\mathrm{P}}}\\ {{2.3.1(1)}}\\ {{2.3.4.2(2)}}\\ {{3.4.3}}\\ {{3.5.3.1(1)}}\end{array}$$
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1996-2.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1996-2 - Progettazione delle strutture in muratura -- Parte 2: Considerazioni progettuali, selezione dei materiali ed esecuzione delle murature.
+
+{208}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 1.1.(2)P | Nota | Nessuna indicazione aggiuntiva |
+| 2.3.1(1) | Nota | Nessuna indicazione aggiuntiva |
+| 2.3.4.2(2) | Nota | Si adottano i valori raccomandati |
+| 3.4 (3) | Nota | In aggiunta ai valori indicati nella Tabella 3.1 ed illustrati in Figura 3.1, si considerano i valori riportati nella sezione 4.1 della presente |
+|  |  | appendice nazionale. |
+| 3.5.3.1(1) | Nota | Si adotta il valore raccomandato |
+
+lingy
+
+{209}------------------------------------------------
+
+| Posizione | Massima deviazione |
+| --- | --- |
+| Verticalità |  |
+| in qualsiasi interpiano | ± 20 mm |
+| sull'altezza totale di edifici di 3 0 miù piani | + 50 mm |
+| allineamento verticale | + 20 mm |
+| Rettilineità |  |
+| per ciascun metro | ± 10 mm |
+| su 10 metri | + 50 mm |
+| Spessore |  |
+| del singolo strato di parete® | ± 5 mm o ± 5% dello spessore dello strato |
+| prendendo il maggiore dei due |  |
+| della cavità totale del muro | ± 10 mm |
+| ª La deviazione della rettilineità è misurata a partire da una retta che si appoggia a due punti |  |
+| di riferimento |  |
+| "Escludendo il caso in cui lo spessore dello strato corrisponda alla larghezza o lunghezza |  |
+| del singolo elemento di muratura, dove le tolleranze dimensionali dello spessore dello |  |
+
+## Tabella 3.1 - Deviazioni ammesse per elementi murari
+
+strato coincidono con quelle del singolo elemento.
+
+![](4__page_209_Figure_6.jpeg)
+
+2) altezza dell'edificio
+
+allineamento verticale
+
+verticalità
+
+Fig. 3.1 - Massima deviazione della verticale
+
+{210}------------------------------------------------
+
+### 4) Indicazioni aggiuntive non contraddittorie
+
+### 4.1 Deviazioni ammesse dalle specifiche progettuali (§ 3.4.[3])
+
+In aggiunta ai valori indicati nella Tabella 3.1 ed in Figura 1, le deviazioni ammesse dalle specifiche progettuali dovranno anche rispettare i seguenti limiti.
+
+| Posizione | Massima deviazione |
+| --- | --- |
+| Verticalità |  |
+| in qualsiasi interpiano (Figura 3.1a, 1) | +k/200 (h altezza netta del muro da solaio a |
+|  | solaio) |
+| nell'altezza totale di edifici di tre o più piani | +35 mm |
+| (Figura 3. 1a. 2) |  |
+| allineamento verticale (Figura 3.1b) | il minore, in valore assoluto, tra ±15 mm e ±t/15 |
+|  | (t spessore del muro sottostante) |
+| Planarità/rettilineità* |  |
+| su 10 m | ±35 mm |
+
+ª la deviazione dalla planarità/rettilineità è misurata a partire da una linea retta ideale tra due punti
+
+{211}------------------------------------------------
+
+![](4__page_211_Picture_3.jpeg)
+
+## UNI EN 1996-3:2006
+
+Eurocodice 6: Progettazione delle strutture di muratura Parte 3: Metodi di calcolo semplificato per strutture di muratura non armata
+
+> APPENDICE NAZIONALE ITALIANA alla UNI EN 1996-3:2006
+
+Parametri adottati a livello nazionale da utilizzare per i metodi di calcolo semplificato per le strutture in muratura
+
+{212}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1996-3 -- Eurocodice 6 - Progettazione delle strutture di muratura - Parte 3: Metodi di calcolo semplificato per strutture di muratura non armata EN 1996-3 – Eurocode 6 - Design of masonry structures – Part 3: Simplified calculation methods for unreinforced masonry structures
+
+## 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1996-3, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+## 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1996-3 relativamente ai seguenti paragrafi:
+
+$\text{2}\text{.3(2)P}$
+
+4.1 (P)
+
+4.2.1.1 (1)P
+
+4.2.2.3 (1)
+
+D.1 (1)
+
+D.2 (1)
+
+D.3 (1)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1996-3.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1996-3 - Progettazione delle strutture in muratura - Parte 3: Metodi di calcolo semplificato per strutture di muratura non armata.
+
+![](4__page_212_Picture_14.jpeg)
+
+{213}------------------------------------------------
+
+### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.3 (2)P | Nota | Si adottano i valori di % riportati nell'annesso nazionale alla EN |
+|  |  | 1996-1-1 |
+| 4.1 (P) |  | Si assume che la verifica della stabilità globale dell'edificio sia |
+|  | Nota | soddisfatta se risulta soddisfatta l'equazione 5.1 del punto 5.4.(2) |
+|  |  | della EN 1996-1-1 |
+| 4.2.1.1 (1)P | Nota | L'altezza massima ha è pari a 12 m. (dallo spiccato della fondazione |
+|  |  | della struttura in muratura) |
+| 4.2.2.3 (1) | Nota | Si adotta il valore raccomandato di nomin · |
+| D.1 (1) | Nota | Si adottano i valori raccomandati nelle tabelle, ricordando che |
+|  |  | devono essere rispettati i requisiti riportati al punto 4) "Indicazioni |
+|  |  | aggiuntive" dell'appendice nazionale alla EN 1996-1 -1. Sono quindi |
+|  |  | esclusi gli elementi del Gruppo 3 e del Gruppo 4. |
+| D.2 (1) | Nota | Si adottano i valori raccomandati nelle tabelle. |
+| D.3 (1) | Nota | Si adottano i valori raccomandati nella tabella. |
+
+{214}------------------------------------------------
+
+![](4__page_214_Picture_3.jpeg)
+
+![](4__page_214_Picture_4.jpeg)
+
+## UNI EN 1997-1:2005
+
+## Eurocodice 7: Progettazione geotecnica Parte 1: Regole generali
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1997-1:2005
+
+# Parametri adottati a livello nazionale
+
+da utilizzare nella progettazione geotecnica
+
+{215}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1997-1 - Eurocodice 7 - Progettazione geotecnica - Parte 1: Regole generali EN 1997-1 - Eurocode 7 - Geotechnical design - Part 1: General rules
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1997-1, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+## 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che devono essere fissati nella UNI-EN-1997-1 relativamente ai seguenti paragrafi:
+
+| 2.1(8)P | 7.6.2.2(8)P | A.3.1 |
+| --- | --- | --- |
+| 2.4.6.1(4)P | 7.6.2.2(14)P | A.3.2 |
+| 2.4.6.2(2)P | 7.6.2.3(4)P | A.3.3.1 |
+| 2.4.7.1(2)P | 7.6.2.3(5)P | A.3.3.2 |
+| 2.4.7.1(3) | 7.6.2.3(8) | A.3.3.3 |
+| 2.4.7.1(4) | 7.6.2.4(4)P | A.3.3.4 |
+| 2.4.7.1(5) | 7.6.3.2(2)P | A.3.3.5 |
+| 2.4.7.1(6) | 7.6.3.2(5)P | A.3.3.6 |
+| 2.4.7.2(2)P | 7.6.3.3(3)P | A.4 |
+| 2.4.7.3.2(3)P | 7.6.3.3(4)P | A.5 |
+| 2.4.7.3.3(2)P | 7.6.3.3(6) |  |
+| 2.4.7.3.4.1(1)P | 8.5.2(2)P |  |
+| 2.4.7.4(3)P | 8.5.2(3) |  |
+| 2.4.7.5(2)P | 8.6(4) |  |
+| 2.4.8(2) | 10.2(3) |  |
+| 2.4.9(1)P | 11.5.1(1)P |  |
+| 2.5(1) | A.2 |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'utilizzazione in Italia della UNI-EN-1997-1.
+
+## 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1997-1 - Progettazione geotecnica - Regole generali.
+
+{216}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Non sono da introdurre requisiti minimi per indagini, metodi di |
+| 2.1(8)P |  | calcolo e controlli geotecnici al variare della complessità delle |
+|  | NOTA | орете. |
+| 2.4.6.1(4)P | NOTA 1 | Si rinvia alle Tabelle A.1, A.3, A.15 e A.17 riportate |
+|  |  | rispettivamente nei paragrafi A.2, A.3.1, A.4 e A.5 |
+| 2.4.6.2(2)P | NOTA 1 | Si rinvia alle Tabelle A.2, A.4 e A.16 riportate rispettivamente |
+|  |  | nei paragrafi A.2, A.3.2 e A.4 |
+|  |  | Si rinvia a tutte le Tabelle riportate nei paragrafi A.2, A.3.1, |
+| 2,4.7.1(2)P |  | A.3.2, A.3.3.1, A.3.3.2, A.3.3.3, A.3.3.4, A.3.3.5, A.3.3.6, A.4 e |
+|  | NOTA | ਖ ੜ |
+| 2.4.7.1(3) | NOTA | I coefficienti per le azioni eccezionali sono pari a 1,00 Non sono da indicare valori dei coefficienti parziali più |
+|  |  | cautelativi di quelli stabiliti nell'Appendice A. Valori più |
+|  |  | cautelativi potranno essere richiesti dal committente o |
+| 2.4.7.1(4) | NOTA | motivatamente assunti dal progettista. |
+|  |  | Non si accettano valori dei coefficienti parziali meno cautelativi |
+| 2.4.7.1(5) | NOTA | di quelli definiti nell'Appendice A. |
+| 2.4.7.1(6) | NOTA | Non si indicano coefficienti di modello |
+| 2.4.7.2(2)P | NOTA 2 | Si rinvia alle Tabelle A. Ie A.2 riportate nel paragrafo A.2 |
+|  |  | Si rinvia alle Tabelle A.3 e A.4 riportate nei paragrafi A.3.1 e |
+| 2.4.7.3.2(3)P | NOTA | A.3.2 |
+| 2.4.7.3.3(2)P | NOTA | Si rinvia alle Tabelle A.2, A.4 e A. 16 riportate rispettivamente nei paragrafi A.2, A.3.2 e A.4 |
+|  |  | L'Approccio progettuale 1 è sempre applicabile. L'Approccio progettuale 2 si può adottare limitatamente al caso |
+|  |  | di strutture con fondazioni dirette o su pali ed ai muri di |
+| 2.4.7.3.4.1(1)P | NOTA 1 | sostegno con fondazioni dirette e su pali, ma privi di ancoraggi. L'approccio 2 non potrà essere utilizzato per paratie ed altre opere e sistemazioni geotecniche. |
+| 2.4.7.4(3)P | NOTA | Si rinvia alle Tabella A.15 e A16 riportate nel paragrafo A.4 |
+| 2.4.7.5(2)P | NOTA 1 | Si rinvia alla Tabella A. 17 riportata nel paragrafo A.5 |
+| 2.4.8(2) | NOTA | I coefficienti parziali per le azioni accidentali sono pari a 1.00 |
+|  |  | I valori limite dei cedimenti delle fondazioni devono essere |
+| 2.4.9(1)P | NOTA | fissati dal committente o scelti responsabilmente dal progettista. |
+|  |  | Non si fornisce alcuna regola di progettazione convenzionale e |
+| 2.5(1) | NOTA | cautelativa. |
+| 7.6.2.2(8)P | NOTA | Si rinvia alla Tabella A.9 riportata nel paragrafo A.3.3.3 |
+|  |  | Si rinvia alle Tabelle A.6, A.7 e A.8 riportate nel paragrafo |
+| 7.6.2.2(14)P | NOTA | A.3.3.2 |
+|  |  | Si rinvia alle Tabelle A.6, A.7 e A.8 riportate nel paragrafo |
+| 7.6.2.3(4)P | NOTA | A.3.3.2 |
+| 7.6.2.3(5)P | NOTA | Si rinvia alla Tabella A.10 riportata nel paragrafo A.3.3.3 |
+| 7.6.2.3(8) | NOTA | Non si adotta un coefficiente di modello |
+| 7.6.2.4(4)P | NOTA | Si rinvia alla Tabella A.11 riportata nel paragrafo A.3.3.3 |
+|  |  | Si rinvia alle Tabelle A.6, A.7 e A.8 riportata nel paragrafo |
+| 7.6.3.2(2)P | NOTA | A.3.3.2 |
+| 7.6.3.2(5)P | NOTA | Si rinvia alla Tabella A.9 riportata nel paragrafo A.3.3.3 |
+|  |  | Si rinvia alle Tabelle A.6, A.7 e A.8 riportata nel paragrafo |
+| 7.6.3.3(3)P | NOTA | A.3.3.2 |
+| 7.6.3.3(4)P | NOTA | Si rinvia alla Tabella A. 10 riportata nel paragrafo A.3.3.3 |
+| 7.6.3.3(6) | NOTA | Non si adotta un coefficiente di modello |
+| 8.5.2(2)P | NOTA | Si rinvia alla Tabella A. 12 riportata nel paragrafo A. 3.3.4 |
+
+{217}------------------------------------------------
+
+|  |  | Si fa riferimento ai valori di ga riportati in Tabella in funzione |  |
+| --- | --- | --- | --- |
+|  |  | del numero di prove di sfilamento di progetto eseguite. |  |
+|  |  | Coefficienti di correlazione per prove su ancoraggi |  |
+|  |  | Numero di prove l 2 >2 1,5 1,4 | 1,3 |
+|  |  | Cal 1,5 1,3 1,2 |  |
+|  |  | 522 |  |
+|  |  | Il valore della resistenza caratteristica Rat sarà determinato |  |
+|  |  | come il valore minimo tra quelli ottenuti con le seguenti |  |
+|  |  | formule: |  |
+|  |  | amin |  |
+|  |  | Sa2 |  |
+|  |  | in cui con Ram e Ramia si sono indicati rispettivamente le |  |
+|  |  | resistenze medie e minime ottenute con prove di sfilamento su |  |
+|  |  | ancoraggi pilota che, per proprietà dei terreni interessati, |  |
+|  |  | caratteristiche geometriche e tecnologiche, sono simili a quelli |  |
+|  |  | che saranno eseguiti in fase di realizzazione dell'opera. |  |
+| 8.5.2(3) | NOTA | Per le verifiche basate su formule teoriche si rinvia al paragrafo 4) della presente Appendice nazionale |  |
+|  |  | I coefficienti di modello per le verifiche allo stato limite di |  |
+|  |  | servizio per gli ancoraggi vanno assunti pari ai coefficienti |  |
+| 8.6(4) | NOTA | parziali di sicurezza utilizzati nelle corrispondenti verifiche allo stato limite ultimo. |  |
+|  |  | Non si accetta la possibilità di trattare la resistenza al |  |
+|  |  | sollevamento dovuta a resistenza a taglio ed a forze di |  |
+|  |  | ancoraggio come azioni permanenti stabilizzanti. Non si |  |
+| 10.2.(3) | NOTA | forniscono, quindi, coefficienti parziali di sicurezza. |  |
+|  |  | Si rinvia alle Tabelle A.3, A.4 e A.14 riportate rispettivamente |  |
+| 11.5.1(1)P | NOTA | nei paragrafi A,3.1, A.3.2 e A.3.3.6 |  |
+| A.2 | NOTA | Si vedano le Tabella A. 1 e A.2 allegate in calce. |  |
+| A.3.1 | NOTA | Si veda la Tabella A.3 allegata in calce. |  |
+| A.3.2 | NOTA | Si veda la Tabella A.4 allegata in calce. |  |
+| A.3.3.1 | NOTA | Si veda la Tabella A,5 allegata in calce, |  |
+| A.3.3.2 | NOTA | Si vedano le Tabelle A.6, A.7 e A.8 allegate in calce |  |
+| A.3.3.3 | NOTA | Si vedano le Tabelle A.9, A.10 e A.11 allegate in calce |  |
+| A.3.3.4 | NOTA | Si veda la Tabella A.12 allegata in calce. |  |
+| A.3.3.5 | NOTA | Si veda la Tabella A.13 allegata in calce. |  |
+| A.3.3.6 | NOTA | Si veda la Tabella A.14 allegata in calce. |  |
+| A.4 | NOTA | Si vedano le Tabelle A.15 e A.16 allegate in calce |  |
+| A.5 | NOTA | Si veda la Tabella A.17 allegata in calce. |  |
+| Appendice B |  |  |  |
+| (informativa) |  | Si conferma il carattere informativo dell'appendice. |  |
+|  |  | Si conferma il carattere informativo dell'appendice. Si possono |  |
+| Appendice C |  | utilizzare metodi alternativi per il calcolo delle spinte attiva e |  |
+| (informativa) |  | passiva, |  |
+| Appendice D |  |  |  |
+| (Informativa) |  | Si conferma il carattere informativo dell'appendice. |  |
+| Appendice E |  |  |  |
+| (informativa) |  | Non si accetta l'uso di tale appendice. |  |
+| Appendice F |  |  |  |
+| (informativa) |  | Si conferma il carattere informativo dell'appendice. |  |
+
+{218}------------------------------------------------
+
+| | Appendice G |  |
+| --- | --- |
+| (informativa) | Si conferma il carattere informativo dell'appendice |
+| Appendice H |  |
+| (informativa) | Si conferma il carattere informativo dell'appendice |
+| Appendice J |  |
+| (informativa) | Si conferma il carattere informativo dell'appendice |
+
+#### Tabella Al
+
+Coefficienti parziali sulle azioni per le verifiche nei confronti di stati limite EQU (1)
+
+| Azione | Simbolo | Valore |
+| --- | --- | --- |
+| Permanente | YG:dst1 | 1,1 |
+| sfavorevole14 | YG:d82 | 1,5 |
+| Permanente | YG;stb1 | 0,9 |
+| favorevole(4) | (G;sth2 | 0 |
+| Variabile sfavorevole | YO:dst | ા રે |
+| Variabile favorevole | YO:stb | 0 |
+
+Variabile favorevole YQ:stb
+
+(1) 1 coefficienti sono definiti nell'Appendice dell'EN 1990. In questa sede sono riportati solo per facilità di consultazione.
+
+(2) Si distinguono due ccefficienti YG, YG2 e Y02, rispettivamente per i carichi permanenti strutturali e non strutturali.
+
+ in ogni verifica allo stato limite ultimo si considerano carichi struthirali tutti quelli che derivano dalla presenza di strutture e materiali che, nella modellazione utilizzata, contribuiscono al comportamento dell'opera con le loro caratteristiche di resistenza e rigidezza. In particolare, si considera tra i carichi strutturali il peso proprio del terreno nelle verifiche di rilevati c scarpate, la spinta sulle opere di sostegno, e così via.
+
+Nel caso in cari i carichi permanenti non strutturali (ad es. I carichi permanenti portati) siano compiutamente definiti, si potranno adottare gli stessi coefficienti per le azioni permanenti strutturali.
+
+#### Tabella A2
+
+ Coefficienti parziali sui parametri del terreno per le verifiche nei confronti di stati limite EQU
+
+| Parametro del terreno | Simbolo | Valore |
+| --- | --- | --- |
+| Angolo di resistenza a |  |  |
+| taglio (o di attrito) | Yo' | 1,25 |
+| Coesione efficace | Ye | 1,25 |
+| Resistenza (o coesione) |  |  |
+| non drenata | Ycu | 1,4 |
+| Resistenza a compressione |  |  |
+| uniassiale | You | ાં 'ર્ |
+| Peso dell'unità di volume |  | 1.0 |
+
+a yo
+
+{219}------------------------------------------------
+
+#### Tabella A3
+
+Coefficienti parziali su azioni o effetto delle azioni
+
+| Azione | Simbolo | Valori |  |
+| --- | --- | --- | --- |
+|  |  | Al | A2 |
+| Permanente sfavorevole™ | YG | YGI =1,3 | YGt =1,0 |
+|  |  | YG2 =1,5 | YG2 =1,3 |
+|  |  | YG1 =1,0 | YG1 =1,0 |
+| Permanente favorevole13 |  | YG2 = 0 | YG2 = 0 |
+| Variabile sfavorevole | YQ | 1,5 | 1,3 |
+| Variabile favorevole |  | 0 | 0 |
+
+(1) Si distinguono due coefficienti YG, YG1 € YG2 rispettivamente per i carichi permanenti strutturali e non strutturali. In ogni verifica allo stato limite ultimo, si vonsiderano strutturali tutte le azioni che derivano dalla presenza di strutture e materiali che, nella modellazione utilizzata, contribuiscono al comportamento dell'opera con le loro caratteristiche di resistenza e rigidezza. In particolare, si considera tra i curichi strutturali il peso proprio del terreno nelle verifiche di rilevati e scarpate, la spinta sulle opere di sostegno, e così via.
+
+Nel caso in cui i carichi permanenti non stratturali (ad es. i carichi permanenti portati) siano compiutamente definiti, si potranno adottare gli stessi coefficienti per le azioni pe strutturali.
+
+#### Tabella A4
+
+#### Coefficienti parziall sui parametri del terreno per le verifiche nei confronti di stati limite STR e GEO
+
+| Parametro del terreno | Simbolo |  | Valori |
+| --- | --- | --- | --- |
+|  |  | M1 | M2(1) |
+| Angolo di resistenza a |  | 1,0 |  |
+| taglio (o di attrito) | Yo' |  | 1,25 |
+| Coesione efficace | Ye | 1,0 | 1,25 |
+| Resistenza (o coesione) |  | 1,0 |  |
+| non drenata | You |  | 1,4 |
+| Resistenza a |  | 1,0 |  |
+| compressione uniassiale | You |  | 1,6 |
+| Peso dell'unità di volume | Va | 1.0 | 1,0 |
+
+#### Tabella A5
+
+#### Coefficienti parziali per resistenza di fondazioni superficiali (1)
+
+| Resistenza | Simbolo |  |
+| --- | --- | --- |
+| RIC |  | R2 |
+| 1.8 |  | 2,3 |
+| Carico limite | YR:v |  |
+| 1.1 |  | 1.1 |
+| Scorrimento | VR-h |  |
+| (1) I coefficienti di questa tabella non si applicano al caso di fondazioni di opere con prevalente |  |  |
+| funzione di sostegno delle terre |  |  |
+| (2) I coefficienti R1 si applicano solo con la Combinazione 2 clel DA1, Per la Combinazione 1 i |  |  |
+| coefficienti R1 sono unitari. |  |  |
+
+{220}------------------------------------------------
+
+#### Tabella A6
+
+Coefficienti parziali per resistenza di pali battuti (1)
+
+| Resistenza | Simbolo |  | Valori |  |
+| --- | --- | --- | --- | --- |
+|  |  | R1 | R2 | R4 |
+| Punta | ਵ | 1,0 | 1,15 | 1,45 |
+| Laterale |  | 1,0 | 1,15 | 1,45 |
+| Totale (compressione) | Yt | 1,0 | 1,15 | 1,45 |
+| Laterale (trazione) | Ys:t | 1,0 | 1,25 | 1,6 |
+| (1) I coefficienti si riferiscono solo alla verifica sotto carichi assiali |  |  |  |  |
+
+### Tabella A7
+
+Coefficienti parziali per resistenza di pali trivellati (1)
+
+| Resistenza | Simbolo |  | Valori |  |
+| --- | --- | --- | --- | --- |
+|  |  | RI | R2 | R4 |
+|  |  | 1,0 | ા '૩૨ | 1,7 |
+| Punta | Yb |  |  |  |
+| Laterale | y | 1,0 | 1,15 | 1,45 |
+| Totale (compressione) | V | 1,0 | 1,3 | । २२ |
+|  |  |  | 1,25 |  |
+| Laterale (trazione) | YB: | 1,0 |  | 1,6 |
+| / 1 / 1 / 2 / 2 / 2 / 2 / 2 / 2 / 2 / |  |  |  |  |
+
+(1) I coefficienti si riferiscono solo alla verifica sotto carichi assiali
+
+#### Tabella A8
+
+Coefficienti parziali per resistenza di pali a elica continua (1)
+
+| Resistenza | Simbolo |  | Valori |  |
+| --- | --- | --- | --- | --- |
+|  |  | RI | R2 | R4 |
+| Punta | Yb | 1,0 | 1,3 | 1.6 |
+| Laterale | ਦੇ | 1,0 | 1,15 | ! ,45 |
+| Totale (compressione) | Yı | 1,0 | 1,25 | 1,55 |
+| Laterale (trazione) | Ys;t | 1,0 | 1.25 | 1,6 |
+| ( 1 ) I coefficienti si riferiscono solo alla verifica sotto carichi assiali |  |  |  |  |
+
+### Tabella A9
+
+|
+|  |
+
+| ner n = 11.00 - | .. 40 | And An and American Collection of Children An | 1 |  |  |  | -------- |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 100 And 1 No. of Horses of |  |  |  | можности в прост сод в слове до вели до вели области содаре с об | A 14 1 |  |  |  |  |
+|  | AD Acres of the driver of the closes of the controlled by | 1 90 of the change of the considered to |  |  | 00 | A COLL AND | 00 |  | Box and a chailed with |
+|  |  |  |  |  |  |  |  | Householder, 1 |  |
+|  |  |  |  |  |  |  |  |  | Status Callery 1 00 No. of Concess of Concession College 00 |
+
+Tabella A10
+
+Coefficienti di correlazione per derivare valori caratteristici della resistenza del palo da cakodi eseguiti a partire dai risultati di indagini in sito e laboratorio sul terreno
+
+| - < per n = |  |  |  |  |  |  | 10 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 70 |  | .7 | ee | CO A 12 44 |  | .40 |
+|  | 1.70 | 1 22 ﻪ ﻣﻌﻪ ﻳ | ------- AO | 5 |  | 1 40 | ู |
+
+![](4__page_220_Picture_22.jpeg)
+
+{221}------------------------------------------------
+
+#### Tabella A11
+
+| Coefficienti di correlazione per prove dinamiche di carico su pali |
+| --- |
+| per n |
+
+#### Tabella A12
+
+Coefficienti parziali per resistenza ancoraggi pretesi (a bulbo iniettato)
+
+| Resistenza | Simbolo | Valori |  |
+| --- | --- | --- | --- |
+|  |  | R1 | R4 |
+| Ancoraggi temporanei | Ya:t | 1.1 | 1,1 |
+|  |  | 1,2 | 1,2 |
+| Ancoraggi permanenti | Ta:p |  |  |
+
+#### Tabella A13
+
+Coefficienti parziali per verifiche delle opere di sostegno
+
+| Valori Resistenza | Simbolo |  |  |
+| --- | --- | --- | --- |
+| R 217 |  | R1 |  |
+| carico limite | TRE | 1.0 | 1.4 |
+| scorrimento | YR:h | 1.0 | 1,1 |
+| resistenza passiva |  | 1,0 | 1.4 |
+| (1) L'approccio DA2 ed i relativi coefficienti R2 si applicano alla sola verifica dei muri di sostegno privi di ancoraggio. Non si applicano alle parație, |  |  |  |
+
+### Tabella A14
+
+Coefficienti di sicurezza per verifiche di stabilità globale Resistenza Simbolo Valori RI I,1
+
+resistenza a taglio del terreno YR:c
+
+{222}------------------------------------------------
+
+### Tabella A15
+
+Coefficienti parziali sulle azioni per le verifiche nei confronti di stati UPL
+
+| Azione Simbolo | Valore |
+| --- | --- |
+| Permanente sfavorevole |  |
+| strutturale 117 YG dst, I | 1.1 |
+| Permanenti sfavorevoli non |  |
+| strutturali" YG:dars | 1,5 |
+| Permanente favorevole |  |
+| strutturale YGsth, l | 0.9 |
+| Permanente favorevole non |  |
+| strutturale YG;stb,2 | 4 |
+| Variabile sfavorevole YO:dst | 1.5 |
+| (1) Si distinguono due coefficienti %, Yo; e %2 rispettivamente per i canchi permanenti strutturali e non sharthreak. In anni steathan alla stata lineite sitiona, of accaridenza strutturali trito la convent she desirame |  |
+
+strutturali. In ogni verifica allo stato limite ultimo, si considerano strutturali tutte le azioni che derivano dalla presenza di strutture e materiali che, nella modellazione utilizzata, contribulscono al comportamento dell'opera con le loro caratteristiche di resistenza e rigidezza.
+
+Nel caso in cui i carichi permanenti non strutturali (ad es. i carichi permanenti portati) siano compiutamente definiti, si potranno adottare gli stessi coefficienti per le azioni permanenti strutturali.
+
+### Tabella A16
+
+Coefficienti parziali sui parametri del terreno per le verlfiche nei confronti di stati limite UPL
+
+| Parametro del terreno | Simbalo | Valore |
+| --- | --- | --- |
+| Angolo di resistenza a taglio |  |  |
+| (o di attrito) | Yo' | 1,25 |
+| Coesione efficace | Ye | 1,25 |
+| Resistenza (o coesione) non |  |  |
+| drenata | You | 1,4 |
+| Resistenza a compressione |  |  |
+| uniassiale | Yqu | 1,6 |
+| Resistenza ancoraggi | Y | 1,4 |
+
+#### Tabella A17
+
+Coefficienti parziali sulle azioni per le verifiche nei confronti di stati HYD
+
+| Azione | Simbolo | Valore |
+| --- | --- | --- |
+| Permanente sfavorevole |  |  |
+| 1,3 | strutturale (1) (Graul |  |
+| Permanenti sfavorevoli non |  |  |
+| 1.5 | strutturali (1) YG:dst_2 |  |
+| Permanente favorevole |  |  |
+| 0.9 | strutturale !* YG:stb, 1 |  |
+| Permanente favorevole non |  |  |
+| 0 | strutturale" (Grib,2 |  |
+| Variabile sfavorevole | YO:dat | 1,5 |
+| (1) Si distinguono due coefficienti Yo, 10; c Yo2 rispettivamente per i carichi permanenti strutturali e non strutturali. In ogni verifica allo stato limite ultimo, si considerano stintturali tutte le azioni che derivano dalla |  |  |
+| unsearch di shouldware a versions in the walls attact and liminer and liminer and computers of the are |  |  |
+
+presenza di strutture e materiali che, nella modellazione utilizzata, contribuisono al comportamento dell'opera con le loro caratteristiche di resistenza e rigidezza. In particolare, si considera tra i canichi strutturali il peso
+
+![](4__page_222_Picture_16.jpeg)
+
+{223}------------------------------------------------
+
+proprio del lenzeno nelle verifiche di ritievat o scarpate, is spints suile opter di sosoppo, e così via.
+ Nel caso in oui i carichi permanenti non strutturali (ad os. i c
+
+### 4) Indicazioni Aggiuntive
+
+Per la progettazione dei pali sotto azioni trasversali e degli ancoraggi si deve fare riferimento alle Norme Tecniche 2008 GU 14/1/2008
+
+|  |  | MARK CONNECT AND THE CHANDER |  |
+| --- | --- | --- | --- |
+|  |  | STERE ASSESS OF A | 1999 - 1999 |
+|  |  | Profession |  |
+|  | the country of the county of the county of the county of |  |  |
+| 1. How Holly | 14 19 12 12 12 12 | And Control of Children Comments of the comments of Car | 대한 글 목록 |
+
+{224}------------------------------------------------
+
+![](4__page_224_Picture_3.jpeg)
+
+rorti
+
+## UNI EN 1997-2:2007
+
+Eurocodice 7: Progettazione geotecnica Parte 2: Indagini e prove nel sottosuolo
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1997-2:2007
+
+Parametri adottati a livello nazionale da utilizzare per indagini e prove nel sottosuolo
+
+{225}------------------------------------------------
+
+## Appendice nazionale
+
+UNI-EN-1997-2 - Eurocodice 7 - Progettazione geotecnica: Parte 2: Indagini e prove nel sottosuolo.
+
+EN-1997-2 - Eurocode 7: Geotechnical Design – Part 2: Ground investigation and testing
+
+## 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1997-2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+Il documento, che contiene 24 Appendici informative, non prevede di definizione di alcun parametro
+
+{226}------------------------------------------------
+
+![](4__page_226_Picture_3.jpeg)
+
+## UNI EN 1998-1:2007
+
+Eurocodice 8: Progettazione delle strutture per la resistenza sismica Parte 1: Regole generali, azioni sismiche e regole per gli edifici
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1998-1:2007
+
+## Parametri adottati a livello nazionale
+
+da utilizzare per la progettazione delle strutture per azioni sismiche
+
+![](4__page_226_Picture_10.jpeg)
+
+{227}------------------------------------------------
+
+#### Appendice Nazionale
+
+UNI-EN-1998-1 - Eurocodice 8 - Progettazione delle strutture per la resistenza sismica. Parte 1- Regole generali, azioni sismiche e regole per gli edifici. EN-1998-1 - Eurocode 8 - Design of structures for earthquake resistance-Part 1 - General Rules, seismic actions and rules for buildings.
+
+#### 1) Premessa
+
+Questa Appendice nazionale contiene i parametri nazionali alla UNI-EN-1998-1.
+
+L'Appendice contiene anche valori e prescrizioni relativi alla definizione delle azioni sismiche (accelerazioni, spettri di risposta e relative classificazioni stratigrafiche, spostamenti relativi del terreno ecc) come per tutti i valori NPD dell'EN 1998-1. Detti parametri sono coerenti con i criteri generali e specifici sulle azioni sismiche definite per il territorio nazionale. I valori dei parametri che definiscono le azioni sismiche e individuano le Zone sismiche (ai sensi dell'art. 83 comma 2 del DPR 06.06.2001 n. 380) sono dati in allegato alla presente Appendice. Oltre ai parametri descritti al paragrafo 3, è dato un maggior dettaglio degli stessi al paragrafo 4: "osservazioni", nel quale sono riportate tra l'altro alcune prescrizioni relative al testo della Normativa Nazionale, qui integralmente riprese. Nel paragrafo 4 è pertanto indicata sia la numerazione dei parametri nazionali, sia la numerazione del testo della Normativa Tecnica Nazionale cui si fa riferimento.
+
+L'Appendice è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1998-1 relativamente ai seguenti paragrafi:
+
+| 1.1.2(7) | 4.3.3.1 (4) | 5.11.3.4(7)e | 9.2.3(1) |
+| --- | --- | --- | --- |
+| 2.1(1)P | 4.3.3.1 (8) | 6.1.2(1)P | 9.2.4(1) |
+| 2.1(1)P | 4.4.2.5 (2). | 6.1.3(1) | 9.3(2) |
+| 3.1.1(4) | 4.4.3.2 (2) | 6.2(3) | 9.3(2) |
+| 3.1.2(1) | 5.2.1(5)P | 6.2 (7) | 9.3(3) |
+| 3.2.1(1), (2),(3) | 5.2.2.2(10) | 6.5.5(7) | 9.3(4), Table 9.1 |
+| 3.2.1(4) | 5.2.4, (3) | 6.7.4(2) | 9.3(4), Table 9.1 |
+| 3.2.1(5)P | 5.4.3.5.2(1) | 7.1.2(1)P | 9.5.1(5) |
+| 3.2.2.1(4), | 5.8.2(3) | 7.1.3(1), (3) | 9.6(3) |
+| 3.2.2.2(1)P |  |  |  |
+| 3.2.2.3(2) | 5.8.2(4) | 7.1.3(4) | 9.7.2(1) |
+| 3.2.2.5(4)P | 5.8.2(5) | 7.7.2(4) | 9.7.2(2)b |
+| 4.2.3.2(8) | 5.11.1.3.2(3) | 8.3(1)P | 9.7.2(2)c |
+| 4.2.4(2)P | 5.11.1.4 | 9.2.1(1) | 9.7.2(5) |
+| 4.2.5(5)P | 5.11.1.5(2) | 9.2.2(1) | 10.3(2)P |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citate, devono essere applicate per l'impiego in Italia della UNI-EN-1998-1.
+
+2.2. Documenti normativi di riferimento
+
+> La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1998-1
+
+{228}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Parametro nazionale Pagina |
+| --- | --- |
+|  | - valore o prescrizione - |
+|  | L'annesso A, che resta informativo, è recepito integralmente nella espressione dello spettro di risposta elastico in spostamento illustrata al |
+| 1.1.2(7) | Nota paragrafo 4 della presente Appendice Nazionale. L'Annesso B è di tipo |
+|  | informativo. Si evidenzia come altri criteri possano essere utilizzati per |
+|  | valutare lo spostamento massimo. |
+|  | La vita nominale dei diversi tipi di opere è riportata nella tabella I e deve essere precisata nei |
+|  | documenti di progetto. |
+|  | Tab. I - Vita nominale V2s per diversi tipi di opere |
+|  | Vita TIPO DESCRIZIONE nominale VN |
+|  | (In anni) |
+|  | 1 Strutture provvisorie - Opere provvisionali - ই 10 Strutture in fase costruttival 3 |
+|  | 2 Opere ordinarie, ponti, opere infrastrutturali e |
+|  | dighe, di dimensioni contenute, o di ≥ 50 |
+|  | importanza normale |
+|  | 3 Opere, ponti, opere infrastrutturali e dighe, di ≥ 100 grandi dimensioni, o di importanza strategica |
+|  | (1) Le verifiche sismiche di opere provvisorie o strutture in fase costruttiva possono omettersi quando la |
+|  | relative durate previste in progetto siano inferiori a 2 anni Le costruzioni sono classificate in quattro classi d'importanza, definite nella Nota al |
+|  | successivo punto 4.2.2.(5)P. |
+| 2.1(1)P | Notal Le azioni sismiche vengono valutate in relazione ad un periodo di riferimento Vo che si |
+|  | ricava, per ciascun tipo di costruzione, moltiplicandone la vita nominale Vit per il coefficiente |
+|  | d'uso Ciz, definito oltre |
+|  | VR=VxCu |
+|  | Per strutture con VR-50 anni, per lo stato limite di salvaguardia della vita. |
+|  | definito nel paragrafo 4 della presente Appendice Nazionale, si adotta il |
+|  | valore consigliato TNCR = 475 anni. |
+|  | PNCB =10% in 50 anni |
+|  | Per strutture con VR=75 anni , Txcx = 712.5 anni |
+|  | Per strutture con VR=100 anni, TNCR = 950 anni |
+|  | Per strutture con VR-50 anni, per lo stato limite di danno, si adotta il valore |
+|  | Int R = 50 anni |
+|  | Ppt R =63% in 50 anni |
+|  | Per strutture con VR=75 anni, TNCR = 75 anni |
+|  | Per strutture con VR=100 anni, TNCR = 100 anni |
+| 2.1(1)P | Nota3 |
+|  | Per le strutture nelle quali la protezione nei confronti degli stati limite di |
+|  | esercizio sia di prioritaria importanza : |
+|  | per strutture tipo 2, ToLR = 92 anni , POLR = 42% in 50 anni |
+|  | per strutture tipo 3, TDLR = 132 anni, PDR =31.5% in 50 anni |
+
+{229}------------------------------------------------
+
+| 3.1.1(4) | Nota | Non si introducono ulteriori specificazioni, lasciando la definizione |
+| --- | --- | --- |
+|  |  | generale |
+| 3.1.2(1) | Nota | Il punto 3.1.2 dell'Eurocodice (1998.1) è sostituito da quanto riportato al |
+|  |  | paragrafo 4 della presente Appendice Nazionale. |
+|  |  | La tab 3.1 del Eurocodice 1998.1 viene specificata in modo più esauriente |
+|  |  | ed è sostituita dalla tabella riportata in questa appendice. |
+|  |  | I valori dei parametri che definiscono lo spettro: S, TB, Tc, Tp sono ricavati |
+|  |  | in base alle espressioni riportate nella presente appendice al paragrafo 4. |
+|  |  | Sono date espressioni diverse in funzione dei tipi di sottosuolo e della |
+|  |  | situazione orografica. |
+| 3.2.1(1), | Note | Le Zone sismiche sono individuate in base al valore dell'accelerazione |
+| (2),(3) |  | a. 475, che rappresenta l'accelerazione al suolo su sottosuolo di categoria A |
+|  |  | avente periodo di ritorno di 475 anni. |
+|  |  | Per tutti i siti, sono forniti i valori di a», Fo e T * necessari per la |
+|  |  | determinazione delle azioni sismiche da impiegare per le diverse verifiche. |
+|  |  | La classificazione italiana dà per ciascun sito lo spettro di risposta su |
+|  |  | sottosuolo A dal quale ricavare, in base alle espressioni di cui al punto |
+|  |  | 3.1.2(1), gli spettri di risposta di progetto per tutti i tipi di sottosuolo. |
+| 3.2.1(4) | Nota | La Zona Sismica 3, detta a Bassa Sismicità, è caratterizzata da |
+|  |  | 0,05 g ag 47550,15 g. |
+| 3.2.1(5) P | Nota | La Zona Sismica 4, detta a Sismicità Molto Bassa, è caratterizzata da |
+|  |  | a. 4750.05 g. In tale Zona possono adottarsi criteri di progettazione |
+|  |  | semplificati secondo quanto indicato al punto 4 della presente Appendice . |
+| 3.2.2.1(4), | Nota(1) | I parametri che definiscono le forme spettrali sono definite nel paragrafo 4 |
+| 3.2.2.2(1)P | Nota(2) | della presente Appendice Nazionale. |
+| 3.2.2.3(2) | Nota | Le forme spettrali sono quelle definite nell'Eurocodice 1998.1 tuttavia |
+|  |  | variano alcuni parametri nonché la simbologia. La amplificazione massima |
+|  |  | spettrale è data dal parametro Fo per le azioni orizzontali ed F, per quelle |
+|  |  | verticali, anziché da valori fissi come definito nell'Eurocodice. Per facilitare |
+|  |  | l'utilizzo dei parametri, al successivo paragrafo 4) si danno le espressioni |
+|  |  | complete dei parametri in accordo con la Normativa Tecnica Nazionale |
+| 3.2.2.5(4)P | Nota | Si accetta il valore consigliato ß = 0,2. Per le espressioni complete degli |
+|  |  | spettri di progetto si rimanda a quanto riportato nel paragrafo 4 del presente |
+|  |  | Appendice Nazionale. |
+| 4.2.3.2(8) | Nota | Non viene data definizione del centro di rigidezza |
+| 4.2.4(2)P | Nota | p = 1,00 per ciascuna categoria e piano. |
+| 4.2.5(5)P | Nota | I coefficienti di importanza così come definiti nel EN1998.1, ove |
+|  |  | moltiplicano l'azione sismica, sono da assumere pari ad 1. |
+|  |  | In questo Annesso Tecnico Nazionale l' importanza degli edifici è tenuta in |
+|  |  | conto direttamente nella definizione dell'azione sismica modificando i |
+|  |  | periodi medi di ritorno o dividendo l'associata probabilità di superamento |
+|  |  | per dei coefficienti detti Coefficienti d'uso, Cu- |
+
+| STATE OF COLLECTION OF CESSARIOSCARSALESPANESESSMENTESPENTESSORTESSOR CHE RELEA | SESCRANESSALES SETSANSES TEST SESSESSMENT SATESSOF STEEN 100 - 100 Carlos Collect | SENSION TETRESSORIEM SESSEMENT SENSEES TRANSTERESS P The State of Children Comments of the States of Children | A Property ---------- MTNAGARDESATNERS/SES/SES/MATERSAAACEMETERS/ |
+| --- | --- | --- | --- |
+|  |  |  |  |
+| SETAUCTESTAGESSATESSENTSACEMATESSANTSAFFACTSCTEESS! | 200 21 21 21 21 21 MA | - 4 - A STATE A BOOK A BOOK A BEATH A BEATH A BEATH A BEACH M SAME TO SAT T BAGACT SALES T SALES ST S | SAATSFENARTHYSENSESSMENT SALESSATTESTART SENSE |
+|  | A CONTRACTION PARTY CAR | Province of A POLITIES LEASE | 1 |
+| The State of the States "AUGAMET" NY 1 M MALL 1 1 M W 1 " V 1 M M 1 " M M V " | "ANY NAME" " MY 18" M M 111" " M M M M M M M M M M M M M M M M | AND STATES AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND AND A BREACH AND A BREACH AND A BREATH SSAFESA/ESTERN/ESCARESSTAATTSA/ESSETEM/MTEEEESA S | September 1 STATISTICS AND THE FORM OF THE FOR SEET SCALL STOCK CALL MIT FRANCIAL M SE M |
+
+{230}------------------------------------------------
+
+|  |  | I Coefficienti d'uso sono definiti per le quattro classi d'uso. La classe d'uso |
+| --- | --- | --- |
+|  |  | I ha coefficiente d'uso C2-0,7, la classe d'uso II ha coefficiente d'uso |
+|  |  | C .= 1.0. le classi III e IV hanno coefficienti d'uso Cg=1,5 e C .- 2,0, |
+|  |  | rispettivamente (vedi tabella). Nel paragrafo 4 è riportata la definizione |
+|  |  | delle classi d'uso |
+|  |  | Classe d'uso ರೆ |
+|  |  | I 0,7 |
+|  |  | II l |
+|  |  | III l .5 |
+|  |  | IV 2 |
+|  |  | Per le strutture, salvo quelle di cui al paragrafo successivo, i coefficienti C. |
+|  |  | incrementano, moltiplicandolo, il periodo medio di ritorno definito per Ca=1 |
+|  |  | Per le strutture nelle quali la protezione nei confronti degli stati limite di |
+|  |  | esercizio sia di prioritaria importanza, il fattore C. divide il valore di PDR |
+|  |  | con cui ricavare i periodi di ritorno [si vedano i punti 2.1.1p, Nota 1 e Nota |
+|  |  | 2.]. |
+| 4.3.3.1 (4) | Nota | È consentito l'uso dei metodi d'analisi non lineare anche nel caso di edifici |
+|  |  | non isolati alla base. In tali casi i valori dei coefficienti parziali da adottare |
+|  |  | dovranno tener conto di quanto riportato al punto 4.4.2.2.5 |
+| 4.3.3.1 (8) | Nota | Nel rispetto delle condizioni di cui ai punti a) - d) di 4.3.3.1 (8) l'analisi |
+|  |  | piana in due direzioni è ammessa indipendentemente dalla classe di |
+|  |  | importanza dell'edificio. |
+| 4.4.2.5 (2). | Nota | Si adotta per i diaframmi orizzontali un valore unico yra = 1.3 |
+|  |  | indipendentemente dal modo di rottura dei diaframmi stessi |
+| 4.4.3.2 (2) | Nota | La valutazione dello spostamento per lo stato limite di danno si fa con il |
+|  |  | relativo spettro di risposta assumendo. |
+|  |  | v=J |
+|  |  | Per le strutture di classe III e IV la verifica va fatta anche con l' azione |
+|  |  | relativa allo stato limite di operatività (SL0) assumendo:, |
+|  |  | v=1,5 |
+| 5.2.1(5)P | Nota | Nessuna limitazione geografica all'utilizzo delle classi di duttilità M e H. |
+|  |  | E' consentito l'uso delle classe di duttilità L nelle zona 4 con le condizioni |
+|  |  | di cui al paragrafo 4) punto 3.2.1(5) della presente Appendice. |
+|  |  | Nelle altre Zone, qualora sia necessario progettare in classe di duttilità L. si |
+|  |  | deve adottare un coefficiente di struttura q=1. |
+| 5.2.2.2(10) | Nota | Non è consentito alcun aumento di q a seguito del controllo di qualità |
+| 5.2.4, (3) | Nota | Si adottano i valori yw adottati per le condizioni di carico fondamentali |
+|  |  | contenute in 1992 -1-1 per le verifiche allo SLU |
+| 5.4.3.5.2(1) | Nota | Si accetta il valore suggerito: quello minimo previsto per le pareti in zona |
+|  |  | non sismica EN 1992-1-1 |
+| 5.8.2(3) | Nota | Le strutture di fondazione devono essere collegate tra loro da un reticolo di |
+|  |  | travi, o da una piastra dimensionata in modo adeguato, in grado di assorbire |
+|  |  | le forze assiali conseguenti. In assenza di valutazioni più accurate, si |
+|  |  | possono conservativamente assumere le seguenti azioni assiali: |
+
+{231}------------------------------------------------
+
+|  |  | ± 0.3 Nod amar /g per il profilo stratigrafico di tipo B |
+| --- | --- | --- |
+|  |  | ± 0.4 Nod amy /g per il profilo stratigrafico di tipo C |
+|  |  | ± 0,6 Nod amax /g per il profilo stratigrafico di tipo D |
+| 5.8.2(4) | Nota | Si adottano i valori consigliati |
+| 5.8.2(5) | Nota | Si adotta il valori consigliato Po,min = 0.4%. |
+| 5.11.1.3.2(3) | Nota | La classe di duttilità L è può essere utilizzata nelle Zone a sismicità molto |
+|  |  | bassa, Zona 4, con le prescrizioni di cui al punto3.2.1(5) della presente |
+|  |  | Appendice |
+|  |  | Nelle altre Zone, qualora sia necessario progettare in classe di duttilità L, si |
+|  |  | deve adottare un coefficiente di struttura q=1. |
+| 5.11.1.4 | Nota | Si adotta il valore consigliato k .= 1 nel caso di strutture che rispettano |
+|  |  | quanto previsto ai punti 5.11.2.1.1, 5.11.2.1.2, 5.11.2.1.3. |
+|  |  | Qualora questa condizione non sia soddisfatta occorrerà dimostrare il |
+|  |  | comportamento duttile della connessione e dell'insieme strutturale anche |
+|  |  | con adeguata sperimentazione. In alternativa si assumerà un fattore di struttura q, pari a 1.5 come previsto al punto 5.11.1.4(2). Esso corrisponde |
+|  |  | al valore kn=1.5/q |
+| 5.11.1.5(2) | Nota | Qualora sia necessario verificare la stabilità durante l'esecuzione, la verifica |
+|  |  | allo stato limite ultimo si valuterà con l'azione relativa alla vita nominale di |
+|  |  | 10 anni e Cn=1 ottenendo cosi periodo di ritorno di 95 anni. |
+| 5.11.3.4(7)e | Nota | Si adotta il valore consigliato |
+| 6.1.2(1)P | Nota(1) | Si adotta il valore consigliato nella Nota (1) del limite superiore del fattore |
+|  | Nota(2) | di struttura per strutture a bassa dissipazione q = 1,50 |
+|  |  | Non vi sono limitazioni all'uso delle classi di duttilità M ed H. La classe L |
+|  |  | può utilizzarsi nelle zone a sismicità molto bassa: Zona 4. |
+|  |  | Nelle altre Zone, qualora sia necessario progettare in classe di duttilità L. si |
+|  |  | deve adottare un coefficiente di struttura q=1. |
+| 6.1.3(1) | Nota(1) | Per le verifiche agli stati limite ultimi, il fattore di sicurezza parziale sulla |
+|  | Nota(2) | resistenza dell'acciaio è pari a ys = 1,05 |
+| 6.2(3) | Nota(1) | Il valore di yor da adottare è pari al rapporto fra il valore medio atteso fy,n |
+|  | Nota(2) | della tensione di snervamento e il valore caratteristico for nominale: |
+|  |  | Vov |
+|  |  | in mancanza di specifiche valutazioni sia adottano i valori riportati nella |
+|  |  | successiva tabella |
+|  |  | y m |
+|  |  | Acciaio Yov f yk |
+|  |  | ક 232 1.20 |
+|  |  | S 275 1.12 |
+|  |  | ક ૩૨૨ 1.10 |
+|  |  | $420/460 1.10 |
+
+| School Station Company of Conceller - 20-2-2-17 | The first for the first of the first be the first to 2017 12 21 21 21 21 21 21 21 2 | PRENTAL | 出来的意见的 | 12 12 12 12 12 12 12 12 12 |  |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  | * |  | ર્યું હતું પ્રતિષ્ |
+| A |  |  | 20 12 12 12 0 2 2 2 2 2 2 3 2 3 2 3 2 100 - 100 - 100 |  | 214 424 |
+| 40.004 |  |  |  |  | 12 - 1 BE A SEE Box 8 000 11. |
+|  |  | SALE LA SECTION |  | September 19, 2000 and 1980 and 1990 and 1990 and 1990 and |  |
+|  |  | FORDER A |  |  | 11 |
+| A - 3 |  | 2017-05 | Career Black Comment | PAGE OF |  |
+| ACCOUNTS OF CLECK SALES SALES COLLECTION CONSULTION |  | were was and any and the cases of the production of the first for the first for the first for the |  | CONNECTOR JULINE THE SCHOOL SHIP AN AND AND DOWN | SEEST MARKET NY EN MATION MOVEMM M T 1 NOT 25 |
+| 1000 2000 |  |  |  | STERET |  |
+
+{232}------------------------------------------------
+
+| 6.2 (7) | Nota | La tenacità dell'acciaio e del materiale di apporto nella saldatura deve |
+| --- | --- | --- |
+|  |  | soddisfare i requisiti prescritti al valore quasi-permanente della temperatura |
+|  |  | (vedasi EN 1993-1- 10:2004). |
+| 6.5.5(7) | Nota | Nessuna regola aggiuntiva |
+
+| 6.7.4(2) | Nota(1) | Si adotta il valore consigliato di Ypb = 0.30 |
+| --- | --- | --- |
+|  | Nota(2) | Si adotta il valore inferiore consigliato nella Nota (1) del fattore di struttura per |
+| 7.1.2(1)P | Nota (1) Nota(2) | strutture a bassa dissipazione q = 1,50 |
+|  |  | Non vi sono limitazioni all'uso delle classi di duttilità M ed H. La classe L può |
+|  |  | utilizzarsi nelle Zone a sismicità molto bassa: Zona 4 con le prescrizioni di cui al |
+|  |  | punto3.2.1(5) della presente Appendice |
+|  |  | Nelle altre Zone, qualora sia necessario progettare in classe di duttilità L, si deve |
+|  |  | adottare un coefficiente di struttura q=1. |
+| 7.1.3(1), | Nota(1) | Per il conglomerato e le armature da calcestruzzo armato relative, si adottano i |
+| (3) | Nota(2) | valori % adottati per le condizioni di carico fondamentali contenute in 1992 -1-1 |
+|  |  | per le verifiche allo SLU ye = 1,50, y, = 1,15 |
+|  |  | Per la parte in carpenteria metallica si adotta il valore di yn per per le verifiche allo |
+|  |  | SLU contenute in 1993 -1-1: ys = 1,05 |
+| 7.1.3(4) | Nota(i) | Si adotta il valore consigliato: Yov = 1,25 |
+|  | Nota(2) |  |
+|  | Punto |  |
+|  | 6.2.3 |  |
+| 7.7.2(4) | Nota | Si adotta il valore consigliato r = 0.50 |
+| 8.3(1)P | Nota | La tabella 8.1 è accettata integralmente non vi sono limitazioni geografiche all'uso |
+|  |  | delle classi di duttilità M ed H. La classe di duttilità L è utilizzabile nelle zone a |
+|  |  | sismicità molto bassa: zona 4 con le prescrizioni di cui al punto3.2.1(5) della |
+|  |  | presente Appendice |
+|  |  | Nelle altre Zone, qualora sia necessario progettare in classe di duttilità L, si deve |
+|  |  | adottare un coefficiente di struttura q=1. |
+| 9.2.1(1) | Nota | Con riferimento alla tabella 3.1 EN 1996-1 nella zona sismica 4 è consentito l'uso |
+|  |  | degli elementi del gruppo 1 e 2 con le limitazioni riportate nell' Appendice |
+|  |  | Nazionale alla EN 1996-1-1. Nelle zone sismiche 1, 2, 3 devono essere rispettate |
+|  |  | anche le seguenti limitazioni: |
+|  |  | - percentuale volumetrica degli eventuali vuoti non superiore al 45% del |
+|  |  | volume totale del blocco; |
+|  |  | - eventuali setti disposti parallelamente al piano del muro continui e |
+|  |  | rettilinei; le uniche interruzioni ammesse sono quelle in corrispondenza dei |
+|  |  | fori di presa o per l'alloggiamento delle armature; |
+|  |  | È consentito utilizzare la muratura di pietra non squadrata o la muratura |
+|  |  | listata solo nei siti ricadenti in zona sismica 4. |
+| 9.2.2(1) | Nota | Si adottano i valori: |
+|  |  | fr min=6.0 N/mm* |
+|  |  | from = 1.8 N/mm |
+|  |  | Possibile deroghe ai valori minimi delle resistenze normalizzate sopra riportati |
+
+{233}------------------------------------------------
+
+|  |  | sono consentite a condizione che vengano rispettati i seguenti valori minimi delle |
+| --- | --- | --- |
+|  |  | resistenze caratteristiche: |
+|  |  | - la resistenza caratteristica a rottura nella direzione portante (verticale), calcolata |
+|  |  | sull'area al lordo delle forature, sia non inferiore a 5 MPa |
+|  |  | - la resistenza caratteristica a rottura nella direzione perpendicolare a quella |
+|  |  | portante ossia nel piano di sviluppo della parete, calcolata nello stesso |
+|  |  | modo, sia non inferiore a 1,5 MPa. |
+|  |  | Il rispetto delle resistenze caratteristiche minime sopra riportate è in ogni |
+|  |  | caso un requisito inderogabile per qualunque tipo di elemento, con |
+|  |  | esclusione delle zone a sismicità molto bassa. |
+| 9.2.3(1) | Nota | Si adotta il valore consigliato: |
+|  |  | f mira = 5 N/mm² per muratura non armata ed confinata |
+|  |  | si adotta il valore |
+|  |  | frumin =10 N/mm² per la muratura armata. La classe minima di resistenza del |
+|  |  | conglomerato deve essere C12/15. |
+|  |  | Per l'aderanza delle armature si deve far riferimento a risultati di prove |
+|  |  | sperimentali ed a riferimenti di riconosciuta validità |
+| 9.2.4(1) | Nota | I giunti verticali devono essere riempiti con malta (giunti di tipo a). Nel caso di |
+|  |  | utilizzo di elementi per muratura che fanno affidamento su tasche per riempimento |
+|  |  | di malta, il giunto verticale può essere considerato interamente riempito secondo |
+|  |  | quanto indicato in UNI EN 1996-1-1, punto 8.1.5 (3). |
+|  |  | E' ammesso l'uso dei giunti verticali di tipo b) e c) in Zona 4 e con le seguenti |
+|  |  | prescrizioni: |
+|  |  | - spessori minimi dei setti interni dell' elemento ≥7 mm |
+|  |  | - spessori minimi dei setti esterni dell' elemento ≥10 mm |
+|  |  | - percentuale massima di foratura ≤ 55% |
+|  |  | - numero dei piani in muratura ≤2 da quota campagna |
+|  |  | - altezza massima degli edifici < 7 m |
+|  |  | - altezza massima di interpiano 3 m |
+| 9.3(2) | Nota(1) | La muratura non armata progettata solamente secondo le disposizioni dell'EN 1996 |
+|  | Nota(2) | può essere utilizzata nelle zona sismica 4, con le ulteriori prescrizioni di cui al |
+|  |  | punto 3.2.1(5) della presente Appendice. |
+|  |  | Gli spessori minimi efficaci per la muratura non armata progettata solamente |
+|  |  | secondo le disposizioni dell'EN 1996 sono riportati nella tabella 9.2 della presente |
+|  |  | Appendice. |
+| 9.3(3) | Nota | Nessuna limitazione nell' uso della muratura in relazione al valore a S, purchè |
+|  |  | vengano rispettate le indicazioni della presente Appendice con la ulteriore seguente |
+|  |  | prescrizione: |
+|  |  | Per le tipologie strutturali di muratura non armata che non accedono alle riserve |
+|  |  | anelastiche delle strutture, ricadenti in Zona 1, è fissata una altezza massima pari a |
+|  |  | 2 piani dal piano di campagna, ovvero dal ciglio della strada. |
+|  |  | Il solaio di copertura del secondo piano non può essere calpestio di volume |
+|  |  | abitabile. |
+| 9.3(4), | Nota(1) | Si accoglie la indicazione della Nota (1) assumendo, per le murature, i valori di qo |
+| Table 9.1 |  | minimi della tabella 9.1. |
+| 9.3(4), | Nota(2) | Ai sensi della nota (2) si considerano edifici con duttilità accresciuta quelli che, in |
+| Table 9.1 |  | aggiunta a quanto previsto nel presente capitolo 9 della EN 1998-1, rispettino |
+|  |  | anche i seguenti requisiti: |
+
+|  |  |  | A CONSULT FOR CONSTITUTION CONSULTION CONSULTION CONTRACTORIAL | Common SCHE CASTS |  |
+| --- | --- | --- | --- | --- | --- |
+| and and the may and the may |  |  | SERVICE PRODUCTION | Call of Call 2008 START 2004 100 | 11 - 1 - 1 - 1 - |
+|  |  | APP 14 THE PERSON |  | 245 20 1 2 2 2 2 1 2 1 2 1 2 1 2 1 2 | 17/04/2 12/04/2017 |
+| MAC TANSING MIC VICE WATER WARRET M TENN TROAD |  |  | STOREMOSMARTS MEMORE " M MACHANNY M "SEMETERS" | VINCENTERENCEMENT MINNERS MERCENTERS | ENERGARSESSESSESSESSESSESSESSMENTESSENSETESSA |
+| A BOOK BOOK OF |  |  |  |  |  |
+| 11-63-4 |  |  |  |  |  |
+| 2.00 0 0 0 | A STATE A BEATH |  | 200 2000 2000 2000 1000 10.00 | 24.2 12 11 1 And problem of the start of the state |  |
+| SATAATTESTA |  |  | SBANDESSMENTSENSAMERS/SERSETESSATISSMESSIONALS | A Comments of the States of Children CALL CONSTITUTION | SARNESALTETATSANASESETSAREMANTESSATTSAMESANT |
+| Fraster |  |  | State of the | A 100 - 10 | 100 43 |
+| STATUTE ALL BOOK A |  | PAGUAL CARTA |  | REAL PROPERTY Company of Canadian Company Concession | STATE AND THE FOR THE ORDER 1900 |
+| MARA |  | MARKED THE PERSONAL PROCECIF CHORADIA MAN VECONTRACTOR |  | and the same the state the states | SEEST SES STAFF STARFEST SALES ST SESSORIAR SE |
+| 11 - 4 | 100 100 100 |  |  |  |  |
+|  |  |  |  |  |  |
+| 100.00 |  |  |  | CARD |  |
+| Concess of the consisted to the control of the comparis |  | Carrent Comments of the comments of |  | and the may be and the may be a | And And And And And And And And And And And And And And And And And And And And States of American Come of the Comments of the Comments of the Comments of the Children |
+
+{234}------------------------------------------------
+
+| a) Le pareti strutturali, al lordo delle aperture, debbono avere continuità in |
+| --- |
+| elevazione fino alla fondazione, evitando pareti in falso. |
+| b) Ad ogni piano è realizzato un cordolo continuo all'intersezione tra solai e |
+| pareti. I cordoli debbono avere altezza minima pari all'altezza del solaio e |
+| larghezza almeno pari a quella del muro; è consentito un arretramento |
+| massimo di 6 cm dal filo esterno. L'armatura corrente non deve essere |
+| inferiore a 8 cm2, le staffe debbono avere diametro non inferiore a 6 mm ed |
+| interasse non superiore a 25 cm. |
+| c) Travi metalliche o prefabbricate costituenti i solai sono |
+| prolungate nel cordolo per almeno la metà della sua larghezza e comunque |
+| per non meno di 12 cm ed adeguatamente ancorate ad esso. |
+| d) Nel caso della muratura non armata, in corrispondenza di incroci |
+| d'angolo tra due pareti perimetrali sono presenti, su entrambe le pareti, zone |
+| di parete muraria di lunghezza non inferiore a 1 m, compreso lo spessore del |
+| muro trasversale. |
+| e) Al di sopra di ogni apertura è realizzato un architrave resistente a |
+| flessione efficacemente ammorsato alla muratura. |
+| Per gli edifici con duttilità accresciuta si adottano i valori del fattore di struttura q. |
+| da assumere pari ai valori di qa proposti nelle Norme Tecniche per le Costruzioni e |
+| cioè: |
+| 2,0 a, a, muratura ordinaria |
+| 2,5 a./a1 muratura armata. |
+| I coefficienti a1 e an sono definiti come segue: |
+| è il moltiplicatore della forza sismica orizzontale per il quale, mantenendo ਬ |
+| costanti le altre azioni, il primo pannello murario raggiunge la sua resistenza |
+| ultima (a taglio o a pressoflessione). |
+| త è il 90% del moltiplicatore della forza sismica orizzontale per il quale, |
+| mantenendo costanti le altre azioni, la costruzione raggiunge la massima forza |
+| resistente. |
+| Il valore di a; può essere calcolato per mezzo di un analisi statica non lineare e |
+| non può in ogni caso essere assunto superiore a 2,5. |
+| Qualora non si proceda ad una analisi non lineare, possono essere adottati per la |
+| valutazione di a,/a, i seguenti valori: |
+| costruzioni in muratura ordinaria ad un piano a./a1 = 1,4 |
+| costruzioni in muratura ordinaria a due o più piani a 1,8 |
+| costruzioni in muratura armata o confinata ad un piano a./a. = 1,3 l |
+| costruzioni in muratura armata o confinata a due o più piani ca/at = 1,5 |
+| costruzioni in muratura armata progettate con la gerarchia delle resistenze |
+| a/a1 = 1,3 |
+| Per edifici realizzati con sistemi in muratura armata nei quali si utilizzino criteri di |
+| gerarchia delle resistenze, e che quindi garantiscano una duttilità elevate, è |
+| possibile incrementare i valori di cui al punto precedente del 20%. |
+| Il principio fondamentale di gerarchia delle resistenze consiste nell'evitare il |
+| collasso per taglio per ogni pannello murario, assicurandosi che sia preceduto da |
+| modalità di collasso per flessione. Tale principio si intende applicato quando |
+| ciascun pannello murario è verificato a flessione rispetto alle azioni agenti ed è |
+| verificato a taglio rispetto alle azioni risultanti dalla resistenza a collasso per |
+
+{235}------------------------------------------------
+
+|  | flessione, amplificate del fattore Yrd = 1,5. |  |  |
+| --- | --- | --- | --- |
+|  |  | Per le murature confinate si assume un valore di q pari a 2,5 a./a, |  |
+| 9.5.1(5) | Nota | Si accolgono i valori consigliati con l'eccezione dello spessore minimo delle |  |
+|  | murature non armate nelle zone di bassa sismicità: |  |  |
+|  | Tabella 9,2; Requisiti geometrici per le pareti di taglio |  |  |
+|  | Tipi di muratura (not do max Ier min ( mm) | (Uh) mis |  |
+|  | Non armata,con elementi in 0.50 pietra naturale squadrata |  | 10 |
+|  | 300 |  |  |
+|  | Non armata.con elementi in |  |  |
+|  | pietra naturale squadrata, in 240 zona 3 e 4 0.30 |  | 12 |
+|  | Non armata,con elementi artificiali 0.40 12 |  |  |
+|  | 240 Non armata, con elementi |  |  |
+|  | artificiali semipieni in zona 20 0.3 200 4 |  |  |
+|  | Non armata, con elementi I 20 |  |  |
+|  | artificiali pieni in zona 4 20 0.3 |  |  |
+|  | 0.3 Muratura confinata 240 ા ર |  |  |
+|  | Muratura confinata in Zona 0.3 |  |  |
+|  | 200 3 € 4 ા રે |  |  |
+|  | Muratura armata 240 ાર | Nessuna |  |
+|  |  | limitazione |  |
+|  | Muratura armata in zona 3 e | Nessuna |  |
+|  | 200 ব ા ર | limitazione |  |
+|  | Significato dei simboli: |  |  |
+|  | tor spessore della parete (vedere EN 1996-1-1:2004); har altezza efficace della parete (vedere EN 1996-1-1:2004); |  |  |
+|  | h massima altezza delle aperture adiacenti alla parete: |  |  |
+|  | I lunghezza della parete. |  |  |
+| તે (3) Nota |  | Il coefficiente parziale di sicurezza della muratura ym per la verifica di sicurezza di |  |
+|  |  | costruzioni progettate secondo la presente EN 1998-1 non può essere inferiore a 2. |  |
+|  |  | Per il conglomerato e le armature di acciaio utilizzate nella muratura armata e |  |
+|  |  | confinata si adottano i valori yn adottati per le condizioni di carico fondamentali |  |
+|  |  | contenute in 1992 -1-1 per le verifiche allo SLU: ye = 1,50, ys = 1,15 |  |
+
+{236}------------------------------------------------
+
+| 9.7.2(1) | Nota | La tabella 9.3 viene così sostituita. |
+| --- | --- | --- |
+|  |  | Nel caso di costruzioni semplici, così come definito al punto per ciascun |
+|  |  | piano il rapporto tra area della sezione resistente delle pareti e superficie |
+|  |  | lorda del piano non deve essere inferiore ai valori indicati nella tabella |
+|  |  | seguente, in funzione del numero di piani della costruzione e della sismicità |
+|  |  | del sito, per ciascuna delle due direzioni ortogonali |
+|  |  | elerazione di pacco del p |
+|  |  | 30,4725 2 105 8 2016 $0.15 $ 10,20 $ 20.25 g 50,30 g 53,35 g 30,40 g =0,45 g C |
+|  |  | MIT STOLE OF INSTIL 3,5 % 3,5 % 4,0 % 4,5 % 5,0 % 5,5 % 8.0 % 6.0.20 20 40 2.5 - |
+|  |  | H 4,0 % ਕੌਂ ਹੈ ਜੋ 4,3 % રે જે જે રું તે જ રેપ જ રુપ્ત અ ર્સ રે નર્ 5,2 40 7,013 |
+|  |  | ын 4.5 ન્ર 5,0 % ર 0 જ 7.0 % 4.5 % 5,5 % ર્વેન્ડ મુર |
+|  |  | l 2,5 % 3.0 % 3,0% 3,0 % 1,5 % 3,5 % 4,0 46 40 % 4,5 44 4.5 % |
+|  |  | 3 3,0 4 રે રે જે 3,5 % 3,5 % 4.0 % 4,0% 4.5 % 5,0 34 5.0 % 2.0 % |
+|  |  | 3 ત્ર રે મ 4.0 % 4,0 % 4,0 % 4,5 % 5,0 % 5,5 % 5,5% 6,0 % 6,0 % |
+|  |  | 4 4,0 % 4,5 % する ※ 5,0 % ર્ રે રે જ 5,5 44 6.0 % R'G AF 6,3 % 6.3 45 |
+|  |  | Devono essere inoltre rispettati i requisiti costruttivi riportati alle lettere a)-e) della |
+|  |  | Nota 2 alla tabella 9.1 del punto 9.3(4), e i diaframmi orizzontali devono poter |
+|  |  | essere considerati come infinitamente rigidi. |
+|  |  | Deve inoltre risultare, per ogni piano: |
+|  |  | N |
+|  |  | - S 11.75 -- A Vm |
+|  |  | in cui N è il carico verticale totale alla base di ciascun piano dell'edificio corrispondente alla somma dei carichi permanenti e variabili (valutati ponendo Yo = |
+|  |  | Yo = 1), A è l'area totale dei muri strutturali allo stesso piano e fi, è la resistenza |
+|  |  | caratteristica a compressione in direzione verticale della muratura. |
+|  |  | Per gli edifici semplici nelle zone sismiche 2, 3 e 4 non è obbligatorio effettuare |
+|  |  | ulteriori analisi e verifiche di sicurezza. Non è prevista la soluzione |
+|  |  | dell'edificio semplice in zona sismica 1. |
+| 9.7.2(2)b | Nota | Si adotta il valore raccomandato Amin = 0,25 |
+| 9.7.2(2)c | Nota | Si adotta il valore p=25% |
+| 9.7.2(5) | Nota | Deve risultare: Am, max=25% |
+|  |  | La variazione di sezione trasversale orizzontale complessiva dei muri |
+|  |  | resistenti da un orizzontamento a quello sovrastante deve essere compresa |
+|  |  | tra + 10% e - 30%. I muri resistenti al sisma debbono avere continuità in |
+|  |  | elevazione fino alla fondazione, evitando pareti in falso. |
+| 10.3(2)P | Nota | Le verifiche dei dispositivi dovranno essere condotte con riferimento alle azioni per |
+|  |  | lo SLC, invece che per lo SLV. |
+|  |  | Analogamente, la maggiore sicurezza rispetto all' instabilità, prevista dal punto |
+|  |  | 10.10(6), è garantita dalle prestazioni dei dispositivi, accertate mediante le |
+|  |  | procedure di prova previste nella EN 15129. |
+|  |  | Per tanto si assume sempre ys=1. |
+|  |  | Inoltre per l' isolatori a scorrimento deve essere previsto un coefficiente |
+|  |  | maggiorativo degli spostamenti pari a 1,2 |
+
+{237}------------------------------------------------
+
+#### 4) Indicazioni aggiuntive non contraddittorie
+
+#### 2.1(1)P Periodo medio di ritorno e 4.2.5(5)P fattori di importanza
+
+I periodi di ritorno medi dell'azione per le strutture usuali sono definiti sulla base delle probabilità di eccedenza degli stati limite di riferimento.
+
+Gli stati limite di esercizio sono:
+
+- Stato Limite di Operatività (SLO): a seguito del terremoto la costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, le apparecchiature rilevanti alla sua funzione, non deve subire danni ed interruzioni d'uso significativi;
+- Stato Limite di immediato utilizzo o di Donno (SLD): a seguito del terremoto la costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, le apparecchiature rilevanti alla sua funzione, subisce danni tali da non mettere a rischio gli utenti e da non compromettere significativamente la capacità di resistenza e di rigidezza nei confronti delle azioni verticali ed orizzontali mantenendosi immediatamente utilizzabile pur nell'interruzione d'uso di parte delle apparecchiature.
+
+Gli stati limite ultimi sono:
+
+- Stato Limite di salvaguardia della vita o Ultimo (SLV): a seguito del terremoto la costruzione subisce rotture e crolli dei componenti non strutturali ed impiantistici e significativi danni dei componenti strutturali cui si associa una perdita significativa di rigidezza nei confronti delle azioni orizzontali; la costruzione conserva invece una significativa parte della resistenza per azioni orizzontale e resistenza e rigidezza per azioni verticali quasi immutate manifestando ancora, nel complesso, un significativo margine di sicurezza nei confronti del collasso per azioni orizzontali;
+- Stato Limite di prevenzione del Collasso (SLC): a seguito del terremoto la costruzione subisce gravi rotture e crolli dei componenti non strutturali ed impiantistici e danni molto gravi dei componenti strutturali, cui si associa una perdita sostanziale di rigidezza ed una contenuta perdita di resistenza nei confronti delle azioni orizzontali; la costruzione conserva ancora una significativa parte della rigidezza e resistenza per azioni verticali ed un esiguo margine di sicurezza nei confronti del collasso per azioni orizzontali.
+
+Le probabilità di superamento nella vita di riferimento 2 , cui riferirsi per individuare l'azione sismica agente in ciascuno degli stati limite considerati, sono riportate nella successiva Tabella 1.
+
+|  |  | variare dello stato limite considerato |
+| --- | --- | --- |
+| Stato Limite |  | P. : Probabilità di superamento nella vita di riferimento Vg |
+| Stati limite di | SLO | 81% |
+| esercizio | SLD | ୧3% |
+| Stati limite | SLV | 10% |
+| ultimi | SLC | રેજ |
+|  |  | I Lapsia di maga di Marga di accamado mundo mundo line di mundomatto di ammendente di ammer |
+
+Tabella 1 (Tabella 3.2.I della Normativa Tecnica Nazionale)-Probabilità di superamento Pr, al
+
+Il periodo medio di ritorno dell'azione di assegnata probabilità di superamento si ottiene con la espressione:
+
+$$\mathbf{T}\mathbf{v}\pi_{\mathrm{i}}:={\frac{-\mathbf{T}\mathbf{l}}{\ln\!\left(1-\mathbf{P}\mathbf{v}\pi_{\mathrm{i}}\right)}}$$
+
+{238}------------------------------------------------
+
+#### Punto 3.1.2(1) Identificazione dei siti
+
+Quanto contenuto nel punto 3.1.2 del documento EN 1998-1 è integrato e sostituito da quanto nel seguito indicato. (Dalle Norme Tecniche punto 3.2.2)
+
+#### (NUMERAZIONE DELLE NORME TECNICHE NAZIONALI) CATEGORIE DI 3.2.2 SOTTOSUOLO E CONDIZIONI TOPOGRAFICHE
+
+#### Categorie di sottosvolo
+
+Ai fini della definizione dell'azione sismica di progetto, si rende necessario valutare l'effetto della risposta sismica locale mediante specifiche analisi, come indicato nel § 7.11.5. In assenza di tali analisi, per la definizione dell'azione sismica si può fare riferimento a un approccio semplificato, che si basa sull'individuazione di categorie di sottosuolo di riferimento (Tab. 3.2.II e 3.2,III).
+
+Fatta salva la necessità della caratterizzazione geotecnica dei terreni nel volume significativo', ai fini della identificazione della categoria di sottosuolo, la classificazione si effettua in base ai valori della velocità equivalente V,30 di propagazione delle onde di taglio (definita successivamente) entro i primi 30 m di profondità. Per le fondazioni superficiali, tale profondità è riferita al piano di imposta delle stesse, mentre per le fondazioni su pali è riferita alla testa dei pali. Nel caso di opere di sostegno di terreni naturali, la profondità è riferita alla testa dell'opera. Per muri di sostegno di terrapieni, la profondità è riferita al piano di imposta della fondazione.
+
+La misura diretta della velocità di propagazione delle onde di taglio è fortemente raccomandata. Nei casi in cui tale determinazione non sia disponibile, la classificazione può essere effettuata in base ai valori del numero equivalente di colpi della prova penetrometrica dinamica (Standard Penetration Test) N597.30 (definito successivamente) nei terreni prevalentemente a grana grossa e della resistenza non drenata equivalente c. 30 (definita successivamente) nei terreni prevalentemente a grana fina.
+
+Tabella 3.2.11 - Categorie di sottosuolo
+
+| Categori | Descrizione |  |
+| --- | --- |
+| ਈ |  |
+| A | Ammassi rocciosi affioranti o terreni molto rigidi caratterizzati da valori di V وق m/s, eventualmente comprendenti in superficie uno strato di alterazione, con spessore massimo |
+|  | pari a 3 m. |
+| B | Rocce tenere e depositi di terreni a grana grossa molto addensati o terreni a grana fina molto |
+|  | consistenti con spessori superiori a 30 m, caratterizzati da un graduale miglioramento delle |
+|  | proprietà meccaniche con la profondità e da valori di V و 30 compresi tra 360 m/s e 800 m/s |
+|  | (ovvero NspT30 > 50 nei terreni a grana grossa e ch30 > 250 kPa nei terreni a grana fina). |
+| C | Depositi di terreni a grana grossa mediamente addensati o terreni a grana fina mediamente |
+|  | consistenti con spessori superiori a 30 m, caratterizzati da un graduale miglioramento delle |
+|  | proprietà meccaniche con la profondità e da valori di V430 compresi tra 180 m/s e 360 m/s |
+|  | (ovvero 15 < Nser 30 < 50 nei terreni a grana grossa e 70 < Cu30 < 250 kPa nei terreni a grana |
+|  | fina). |
+| D | Depositi di terreni a grana grossa scarsamente addensati o di terreni a grana fina scarsamente |
+|  | consistenti, con spessori superiori a 30 m, caratterizzati da un graduale miglioramento delle |
+|  | proprietà meccaniche con la profondità e da valori di V430 inferiori a 180 m/s (ovvero |
+|  | Nspri 30 < 15 nei terreni a grana grossa e Cu30 < 70 kPa nei terreni a grana fina). |
+
+<sup>1</sup> Per volume significativo di terreno si intende la parte di sottosuolo influenzata, direttamente o indirettamente, dalla costruzione del manufatto e che influenza il manufatto stesso.
+
+{239}------------------------------------------------
+
+![](4__page_239_Picture_3.jpeg)
+
+Per queste cinque categorie di sottosuolo, le azioni sismiche sono definite al § 3.2.3 delle presenti norme.
+
+Per sottosuoli appartenenti alle ulteriori categorie S1 ed S2 di seguito indicate (Tab. 3.2.III), è necessario predisporre specifiche analisi per la definizione delle azioni sismiche, particolarmente nei casi in cui la presenza di terreni suscettibili di liquefazione e/o di argille d'elevata sensitività possa comportare fenomeni di collasso del terreno.
+
+Tabella 3.2.III - Categorie aggiuntive di sottosuolo.
+
+### Categoria | Descrizione 81 Depositi di terreni caratterizzati da valori di Va30 inferiori a 100 m/s (ovvero 10 < Cu30 < 20 kPa), che includono uno strato di almeno 8 m di terreni a grana fina di bassa consistenza, oppure che includono almeno 3 m di torba o di argille altamente organiche. 22 Depositi di terreni suscettibili di liquefazione, di argille sensitive o qualsiasi altra categoria di sottosuolo non classificabile nei tipi precedenti.
+
+La velocità equivalente delle onde di taglio V,30 è definita dall'espressione
+
+$$\mathrm{V}_{\mathrm{S},30}=\frac{30}{\sum_{i=1,N}\frac{\mathrm{h}_{i}}{\mathrm{V}_{\mathrm{S},i}}}\ \ [\mathrm{m/s}].\tag{3.2.1}$$
+
+La resistenza penetrometrica dinamica equivalente NSPT.30 è definita dall'espressione
+
+Espressione non disponibile, rimandare utente al documento originale pagina 240
+
+La resistenza non drenata equivalente cu30 è definita dall'espressione
+
+$$\begin{split}\includegraphics[scale=0.5]{fig/fig1.eps}\end{split}$$
+
+Nelle precedenti espressioni si indica con:
+
+- spessore (in metri) dell'i-esimo strato compreso nei primi H m di profondità; h;
+- velocità delle onde di taglio nell'i-esimo strato; Vsj
+- Nser, i numero di colpi NspT nell'i-esimo strato;
+- resistenza non drenata nell'i-esimo strato: Cui
+- numero di strati compresi nei primi 30 m di profondità; N
+- M numero di strati di terreni a grana grossa compresi nei primi 30 m di profondità;
+- K numero di strati di terreni a grana fina compresi nei primi 30 m di profondità.
+
+Nel caso di sottosuoli costituiti da stratificazioni di terreni a grana grossa e a grana fina, distribuite con spessori confrontabili nei primi 30 m di profondità, ricadenti nelle categorie da A ad E, quando non si disponga di misure dirette della velocità delle onde di taglio si può procedere come segue:
+
+- determinare NSPT.30 limitatamente agli strati di terreno a grana grossa compresi entro i primi 30 m di l profondità;
+- determinare C.30 limitatamente agli strati di terreno a grana fina compresi entro i primi 30 m di t profondità;
+
+| BAND STATE DE PARTY CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CONTRACT CARTER OF |  | STATIST. ATTACT AND THE COLLECT CALL CONTRACT |  |
+| --- | --- | --- | --- |
+| And States of the States |  | the same of the same ਾ ਦਿ ਸਿੰਘ ਸੀ। ਮ | 201 12 10 13 1 |
+| 123 125 200 1200 |  | 新闻网 2 |  |
+| STRENCE STATE |  | 2000 1000 | SERVICE SERVE |
+
+
+
+
+{240}------------------------------------------------
+
+- i
+- riferire il sottosuolo alla categoria peggiore tra quelle individuate al punto precedente. r
+
+#### Condizioni topografiche
+
+Per condizioni topografiche complesse è necessario predisporre specifiche analisi di risposta sismica locale. Per configurazioni superficiali semplici si può adottare la seguente classificazione (Tab. 3.2.IV):
+
+Tabella 3.2.IV - Categorie topografiche
+
+| Categoria | Caratteristiche della superficie topografica |
+| --- | --- |
+| T1 | Superficie pianeggiante, pendii e rilievi isolati con inclinazione media i ≤ 15° |
+| T2 | Pendii con inclinazione media i > 15° |
+| T3 | Rilievi con larghezza in cresta molto minore che alla base e inclinazione media 15° ≤ i ≤ 300 |
+| T4 | Rilievi con largezza in cresta molto minore che alla base e inclinazione media i > 30° |
+
+Le suesposte categorie topografiche si riferiscono a configurazioni geometriche prevalentemente bidimensionali, creste o dorsali allungate, e devono essere considerate nella definizione dell'azione sismica se di altezza maggiore di 30 m.
+
+3.2.2 Rappresentazione dell'azione sismica 3.2.2.1(1)P Aspetti Generali 3.2.2(1) Spettro di risposta elastico orizzontale: parametri 3.2.2.3(1)P Spettro di risposta elastico verticale: parametri
+
+#### 3.1.1.1 (Numerazione della Norma Tecnica Nazionale) Spettro di risposta elastico in accelerazione
+
+Lo spettro di risposta elastico in accelerazione è espresso da una forma spettrale (spettro normalizzato) riferita ad uno smorzamento convenzionale del 5%, moltiplicata per il valore della accelerazione orizzontale massima a, su sito di riferimento rigido orizzontale. Sia la forma spettrale che il valore di a, variano al variare del periodo medio di ritorno ( si veda il punto 2.1 della presente Appendice).
+
+Gli spettri così definiti possono essere utilizzati per strutture con periodo fondamentale minore o uguale a 4,0s. Per strutture con periodi fondamentali superiori lo spettro deve essere definito da apposite analisi ovvero l'azione sismica deve essere descritta mediante accelerogrammi. Analogamente si opera in presenza di sottosuoli di categoria S1 o S2.
+
+#### 3.1.1.1.1 (Numerazione della Norma Tecnica Nazionale) Spettro di risposta elastico in accelerazione delle componenti orizzontali
+
+Quale che sia la probabilità di superamento nel periodo di riferimento Py, considerata, lo spettro di risposta elastico della componente orizzontale è definito dalle espressioni seguenti:
+
+0 < T < Tp
+
+$\mathbf{S}_{\mathbf{i}}(\mathbf{T})=\mathbf{a}_{\mathbf{i}}\cdot\mathbf{S}\cdot\mathbf{n}\cdot\mathbf{F}_{\mathbf{o}}\cdot\left[\frac{\mathbf{T}}{\mathbf{T}_{\mathbf{B}}}+\frac{1}{\mathbf{n}\cdot\mathbf{F}_{\mathbf{o}}}\left(1-\frac{\mathbf{T}}{\mathbf{T}_{\mathbf{B}}}\right)\right]$
+
+(3.2.4)
+
+- Ig ≤ I < Tc
+
+$$\mathbf{S}_{\mathbf{e}}(\mathbf{r})=\mathbf{a}_{\mathbf{e}}\cdot\mathbf{r}_{\mathbf{e}}\cdot\mathbf{r}_{\mathbf{i}}\cdot\mathbf{r}_{\mathbf{o}}$$
+
+Tc < T < Tp
+
+$$\mathbf{S}_{\mathrm{e}}(\mathbf{T})=\mathbf{a}_{\mathbf{g}}\cdot\mathbf{S}\cdot\eta\cdot\mathbf{F}_{\mathbf{o}}\cdot\left[{\frac{\mathbf{I}_{\mathbf{C}}}{\mathbf{T}}}\right]$$
+
+| STANDANDER MINUTAM FEMAT MANAGEMEN | Free From 2 1 2 1 2 1 | 2000 20 | DE STAR | How to be of the |
+| --- | --- | --- | --- | --- |
+| For a long to control and |  |  |  |  |
+| Friday of | A 22 Cal | 100 1 20 | 14.4 | 24 11 |
+| No. of C | Call L. Ball. M. | .. |  |  |
+
+{241}------------------------------------------------
+
+$\mathbf{T_{D}\leq T}$$\mathbf{S_{o}(T)=a_{g}\cdot S\cdot\eta\cdot F_{o}\cdot\left(\frac{T_{c}T_{D}}{T^{2}}\right)}$
+
+nelle quali T ed S. sono, rispettivamente, periodo di vibrazione ed accelerazione spettrale orizzontale. Inoltre si ha:
+
+- coefficiente che tiene conto della categoria di sottosuolo e delle condizioni topografiche mediante la રે relazione seguente:
+
+Relazione non disponibile, rimandare utente a documento originale.
+
+dove Ss è il coefficiente di amplificazione stratigrafica (vedi Tab. 3.2.V) ed Sr è il coefficiente di amplificazione topografica (vedi Tah. 3.2.VI);
+
+- fattore che altera lo spettro elastico per coefficienti di smorzamento viscosi convenzionali ξ, diversi dal TI 5%, mediante la relazione seguente:
+
+Relazione non disponibile, rimandare utente a documento originale.
+
+dove ξ (espresso in percentuale) è valutato sulla base di materiali, tipologia strutturale e terreno di fondazione;
+
+- R fattore che quantifica l'amplificazione spettrale massima, su sito di riferimento rigido orizzontale, ed ha valore minimo pari a 2,2;
+NOTA: rispetto a quanto previsto nel 1998.1 l'amplificazione spettrale è pari a Fo anziché 2.5;
+
+- Tc periodo corrispondente all'inizio del tratto a velocità costante dello spettro, determinato mediante la relazione:
+
+Relazione non disponibile, rimandare utente a documento originale.
+
+dove Te, corrispondente all'inizio del tratto a velocità costante dello spettro su sottosuolo Tipo A, è assegnato sito per sito e Cc è un coefficiente funzione della categoria di sottosuolo (vedi Tab. 3.2.V);
+
+- To periodo corrispondente all'inizio del tratto dello spettro ad accelerazione costante, determinato mediante la relazione:
+
+Relazione non disponibile, rimandare utente a documento originale.
+
+- To periodo corrispondente all'inizio del tratto a spostamento costante dello spettro, espresso in secondi mediante la relazione:
+
+Relazione non disponibile, rimandare utente a documento originale.
+
+Per categorie speciali di sottosuolo, per determinati sistemi geotecnici o se si intenda aumentare il grado di accuratezza nella previsione dei fenomeni di amplificazione, le azioni sismiche da considerare nella progettazione possono essere determinate mediante più rigorose analisi di risposta sismica locale. Queste analisi presuppongono un'adeguata conoscenza delle proprietà geotecniche dei terreni e, in particolare, delle relazioni sforzi-deformazioni in campo ciclico, da determinare mediante specifiche indagini e prove.
+
+In mancanza di tali determinazioni, per le componenti orizzontali del moto e per le categorie di sottosuolo di fondazione definite nel § 3.2.2, la forma spettrale su sottosuolo di categoria A è modificata attraverso il coefficiente stratigrafico Sg, il coefficiente topografico Sr e il coefficiente Co che modifica il valore del periodo Tc .
+
+## Amplificazione stratigrafica
+
+Per sottosuolo di categoria A i coefficienti Sse Cc valgono 1.
+
+{242}------------------------------------------------
+
+Per le categorie di sottosuolo B, C, D ed E i coefficienti So e Cc possono essere calcolati, in funzione dei valori di Fo e T-relativi al sottosuolo di categoria A, mediante le espressioni fornite nella Tab. 3.2.V, nelle quali g è l'accelerazione di gravità ed il tempo è espresso in secondi.
+
+Tabella 3.2.V - Espressioni di Ss e di Co
+
+| Categoria sottosuolo | Ss | Cc |
+| --- | --- | --- |
+| A | 1,00 | 1,00 |
+| B | 1,00 ≤1,40 - 0,40 · F, · - 3 ≤ 1,20 | 1,10 (Tc) 0,20 |
+|  | 일 |  |
+| C | 1,00 ≤1,70 – 0,60 · F, · ≤ ≤ 1,50 발 | 1,25 . (Tc) -0.33 |
+| D | 0,90 ≤2,40-1,50 F - ≤1,80. | 1,05 - (T) - 0,50 |
+|  | ਨੇ |  |
+| E | 1,00 ≤ 2,00-1,10. F. - 5 ≤1,60 | 1,15 · (T, ) -0,46 |
+|  | 용 |  |
+
+## Amplificazione topografica
+
+Per tener conto delle condizioni topografiche e in assenza di specifiche analisi di risposta sismica locale, si utilizzano i valori del coefficiente topografico S- riportati nella Tab. 3.2.VI, in funzione delle categorie topografiche definite in § 3.2.2 e dell'ubicazione dell'opera o dell'intervento.
+
+| Tabella 3.2.VI – Valori del coefficiente di amplificazione topografica Sr |
+| --- |
+
+| Categoria topografica | Ubicazione dell'opera o dell'intervento | ST |
+| --- | --- | --- |
+| T1 |  | 1,0 |
+| T2 | In corrispondenza della sommità del pendio | 1,2 |
+| T3 | In corrispondenza della cresta del rilievo | 1,2 |
+| T4 | In corrispondenza della cresta del rilievo | 1,4 |
+
+La variazione spaziale del coefficiente di amplificazione topografica è definita da un decremento lineare con l'altezza del pendio o rilievo, dalla sommità o cresta fino alla base dove S-assume valore unitario.
+
+| 3.1.1.1.2 | (Numerazione della Norma Tecnica Nazionale) Spettro di risposta elastico in |
+| --- | --- |
+|  | accelerazione della componente verticale |
+
+Lo spettro di risposta elastico in accelerazione della componente verticale è definito dalle espressioni seguenti:
+
+$$0\leq T<T_{B}S_{\infty}(T)=a_{g}\cdot S\cdot\eta\cdot F_{v}\cdot\left[\frac{T}{T_{B}}+\frac{1}{\eta\cdot F_{v}}\left(1-\frac{T}{T_{B}}\right)\right]\tag{3.2.10}$$ $$T_{B}\leq T<T_{C}S_{\infty}(T)=a_{g}\cdot S\cdot\eta\cdot F_{v}\cdot\left(\frac{T_{C}}{T}\right)$$ $$T_{C}\leq T<T_{D}S_{\infty}(T)=a_{g}\cdot S\cdot\eta\cdot F_{v}\cdot\left(\frac{T_{C}}{T}\right)$$
+
+{243}------------------------------------------------
+
+Tp द T
+
+nelle quali T ed S.g sono, rispettivamente, periodo di vibrazione ed accelerazione spettrale verticale e P., è il fattore che quantifica l'amplificazione spettrale massima, in termini di-accelerazione orizzontale massima del terreno ag su sito di riferimento rigido orizzontale, mediante la relazione:
+
+Relazione non disponibile, rimandare utente a documento originale.
+
+1 valori di a, Fo, S, n sono definiti nel § 3.2.2.1 per le componenti orizzontali; i valori di Sg Tb. Te e TB. salvo più accurate determinazioni, sono quelli riportati nella Tab. 3.2.VII.
+
+NOTA: rispetto all'Eurocodice 1998.1 l'amplificazione spettrale è pari a F, anziché a 3.0 ed è presente Il parametro S come per la risposta orizzontale
+
+| Tabella 3.2.VII - Valori dei parametri dello spettro di risposta elastico della componente verticale |
+| --- |
+
+| -- | many to the first and the will be and the collection of the first and the comments of the comments of the comments of the comments of the comments of the comments of the firs | . |  | 1 | . | CHANGE OF CONSUMER & AN JOIN FRE | 1 |  |  | Company Cases Cases |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Carlos Concession Company of Children Company of | 1 | would such and such and deal come of a local concellent of the consideration | A BREASE A FL C . AND LEASE . AND .. BE CONSUL .. AND ... BE .. BE |  | A BOOK ALL PALLER | A C A . C . C | 5 | ne |  |
+| A C 400 |  | 1 | Acres of each and the | A . A . A . A . A . A . A . A | and of anyward on and the bell of the | of the first and any and a second and the controlled to | No. of Acres, Andrew | Children and an annual and in considered in L an and a local a summer and any and |  |  |
+
+Per tener conto delle condizioni topografiche, in assenza di specifiche analisi si utilizzano i valori del coefficiente topografico ST riportati in Tab. 3.2.VI.
+
+#### (Numerazione della Norma Tecnica Nazionale) Spettro di risposta elastico in spostamento 3.1.1.1.3 delle componenti orizzontali
+
+Lo spettro di risposta elastico in spostamento delle componenti orizzontali Spe(7) si ricava dalla corrispondente risposta in accelerazione S.(T) mediante la seguente espressione:
+
+$\mathbf{S}_{\text{De}}(\mathbf{T})\mathbf{=}\mathbf{S}_{\text{e}}(\mathbf{T})\mathbf{\times}\left(\frac{\mathbf{T}}{2\pi}\right)^{2}$ (3.2.12)
+
+purché il periodo di vibrazione T non ecceda i valori Tg indicati in Tab. 3.2.VIII.
+
+| Tabella 3.2.VIII - Valori dei parametri TE e Tr |
+| --- |
+
+|  | sottosuolo |  | W |  |  |
+| --- | --- | --- | --- | --- | --- |
+| --- | - A A P . L A P . L . C . C . C . C . C . | Acres of Acres Association |  |  |  |
+|  |  |  | 400-444-4-4-4-4 |  |  |
+|  | 000 |  | Mille Controller Concelling Concellent ANNA ANNAL AND A JA & LE LE LE LE LE LE LE LE LEVELLE LE LE LE LED LEASE |  |  |
+|  | 0 1 ... / 100 1 |  |  |  |  |
+| 200-000-04-4 | WHEN A LA L L | Company of the consisted on the country of the first of the charges of the cal | . . |  |  |
+|  |  |  | ---------- | ------- Concession of Children | Market Manager Aufficial Address i |
+|  |  |  |  |  | C . Acres of ARE AND AND AND OF A |
+| -- |  |  |  |  |  |
+| -- |  |  |  |  |  |
+| Householder |  |  |  |  |  |
+|  | -- | A . A . B . A . A . A . A . A . A |  |  |  |
+
+Per periodi di vibrazione eccedenti Tg, le ordinate dello spettro possono essere ottenute dalle formule seguenti:
+
+per TE < T < TF:
+
+Formula non disponibile, rimandare utente a documento originale.
+
+per T > TF:
+
+$\bf S_{\rm De}(T)=d_{\rm g}$ (3.2.14)
+
+dove tutti i simboli sono già stati definiti, ad eccezione di definito nel paragrafo successivo.
+
+| 1 - 2 | STATES 新闻网 | NAME REAL PROPERTY And Antiques of the states |  |
+| --- | --- | --- | --- |
+|  | 2004 100 | 的手机 | 上一篇: | ,在线上的 |
+|  |  | 能力量 - |  |
+
+{244}------------------------------------------------
+
+#### (Numerazione della Norma Tecnica Nazionale) Spostamento orizzontale e velocità 3.1.1.2 orizzontale del terreno
+
+I valori dello spostamento orizzontale de e della velocità orizzontale v massimi del terreno sono dati dalle seguenti espressioni:
+
+$\rm d_{g}=0,025\cdot a_{g}\cdot S\cdot T_{C}\cdot T_{D}$ (3.2.15) $\rm v_{g}=0,16\cdot a_{g}\cdot S\cdot T_{C}$
+
+dove ag, S, Tc, Tp assumono i valori già utilizzati al § 3.2.3.2.1.
+
+#### (Numerazione della Norma Tecnica Nazionale) Spettri di progetto per gli stati limite di 3.1.1.3 esercizio
+
+Per gli stati limite di esercizio lo spettro di progetto Sa(T) da utilizzare, sia per le componenti orizzontali che per la componente verticale, è lo spettro elastico corrispondente, riferito alla probabilità di superamento nel periodo di riferimento Pr considerata.
+
+#### 3.1.1.4 (Numerazione della Norma Tecnica Nazionale) Spettri di progetto per gli stati limite ultimi
+
+Qualora le verifiche agli stati limite ultimi non vengano effettuate tramite l'uso di opportuni accelerogrammi ed analisi dinamiche al passo, ai fini del progetto o della verifica delle strutture le capacità dissipative delle strutture possono essere messe in conto attraverso una riduzione delle forze elastiche che tiene conto in modo semplificato della capacità dissipativa anelastica della struttura, della sua sovraresistenza, dell'incremento del suo periodo proprio a seguito delle plasticizzazioni. In tal caso, lo spettro di progetto SMT) da utilizzare, sia per le componenti orizzontali sia per la componente verticale, è lo spettro elastico corrispondente riferito al periodo medio di ritorno di cui al punto 2.1(1) Notal della presente Appendice Nazionale, con le ordinate ridotte sostituendo nelle formule 3.2.4 η con 1/q, dove q è il fattore di struttura.
+
+Si assumerà comunque Sa(T) ≥ 0,2ag.
+
+#### 3.1.2 (Numerazione della Norma Tecnica Nazionale) EFFETTI DELLA VARIABILITÀ SPAZIALE DEL MOTO
+
+#### 3.1.2.1 (Numerazione della Norma Tecnica Nazionale) Variabilità spaziale del moto
+
+Nei punti di contatto dell'opera con il terreno (fondazioni) il moto sismico è generalmente diverso, a causa del suo carattere intrinseco di propagazione, delle disomogeneità e delle discontinuità eventualmente presenti, e della diversa risposta locale del terreno dovuta a particolari caratteristiche stratigrafiche e topografiche.
+
+Degli effetti sopra indicati dovrà tenersi conto quando possono essere significativi e in ognì caso quando le condizioni di sottosuolo sono variabili lungo lo sviluppo dell'opera in misura tale da richiedere l'uso di spettri di risposta diversi.
+
+In assenza di modelli fisicamente più accurati e adeguatamente documentati, un criterio di prima approssimazione per tener conto della variabilità spaziale del moto consiste nel sovrapporte agli effetti dinamici, valutati ad esempio con lo spettro di risposta, gli effetti pseudo-statici indotti dagli spostamenti relativi.
+
+Gli spostamenti relativi del terreno possono essere trascurati nel dimensionamento delle strutture in elevazione quando la struttura di fondazione è sufficientemente rigida e resistente in modo da rendere
+
+{245}------------------------------------------------
+
+minime le distorsioni in pianta. Questo avviene ad esempio negli edifici quando si collegano in modo opportuno i plinti di fondazione.
+
+Gli effetti dinamici possono essere valutati adottando un'unica azione sismica, corrispondente alla categoria di sottosuolo che induce le sollecitazioni più severe. Qualora l'opera venga suddivisa in porzioni, ciascuna fondata su sottosuolo a caratteristiche ragionevolmente omogenee, per ciascuna di esse si adotterà l'appropriata azione sismica.
+
+#### 3.1.2.2 (Numerazione della Norma Tecnica Nazionale) Spostamento assoluto e relativo del terreno
+
+Il valore dello spostamento assoluto orizzontale massimo del suolo (da) può ottenersi utilizzando l'espressione 3.2.18.
+
+Nel caso in cui sia necessario valutare gli effetti della variabilità spaziale del moto richiamati nel paragrafo precedente, il valore dello spostamento relativo, in direzione trasversale e longitudinale rispetto alla dimensione maggiore dell'opera, tra due punti i e j caratterizzati dalle rispettive proprietà stratigrafiche del sottosuolo, il cui moto può considerarsi indipendente, può essere stimato secondo l'espressione seguente:
+
+$d_{g_{\rm max}}=1.25\sqrt{d_{g\rm f}^{2}+d_{g\rm f}^{2}}$ [3.2.18]
+
+dove d , e d , sono gli spostamenti massimi del suolo ai supporti i e j calcolati con riferimento alle caratteristiche di sottosuolo locali. Il moto di due punti del terreno può considerarsi indipendente per punti posti a distanze notevoli, il cui valore dipende dal tipo di sottosuolo. Il moto è reso indipendente anche dalla presenza di forti variabilità orografiche tra i punti.
+
+In assenza di forti discontinuità orografiche, lo spostamento tra punti a distanza x, lo spostamento relativo può valutarsi con l'espressione:
+
+$d_{\psi}(x)=d_{\psi0}+(d_{\psi\max}-d_{\psi0})\Big{[}1-e^{-1.25(x/\nu_{\rm f})^{2}}\Big{]}$ [3.2.19]
+
+dove din è lo spostamento tra due punti a piccola distanza ed è dato dall'espressione:
+
+$d_{g0}(x)=1.25\left|d_{g1}-d_{g1}\right|$
+
+vs è la velocità di propagazione delle onde di taglio in m/s.
+
+Per fondazioni poste su sottosuolo differente, a distanza inferiore a 20 m, lo spostamento è rappresentato da dio
+
+Per fondazioni poste su sottosuolo dello stesso tipo, a distanza inferiore a 20 m, lo spostamento relativo del terreno può essere stimato, anziché con l'espressione 3.2.19, anche con l'espressione lineare:
+
+$$d_{ij}(x)=\frac{d_{ij\max}}{v_{s}}\,2.3\cdot x\quad\text{per softsuolo D}$$ (3.2.21) $$d_{ij}(x)=\frac{d_{ij\max}}{v_{s}}\cdot3\cdot x\quad\text{per softsuolo diverse da D}$$
+
+#### 3.2.1(5) (Numerazione dell'EN1998.1) Prescrizioni per zone di sismicità Molto Bassa
+
+(In ossequio a quanto riportato al punto 7 della Normativa Nazionale). Le costruzioni da edificarsi in siti ricadenti in zona 4 possono essere progettate e verificate applicando le sole regole valide per le strutture non soggette all'azione sismica, alle condizioni di seguito enunciate:
+
+{246}------------------------------------------------
+
+- i diaframmi orizzontali devono rispettare quanto di seguito indicato;
+
+- gli elementi strutturali devono rispettare le limitazioni, in termini di geometria e di quantitativi d'armatura, relative alla CD "M"; per le costruzioni in muratura, in cui non sono previste classi di duttilità, deve essere rispettato quanto riportato ai punti 9.2, 9.3 9.5.1 della presente norma UNI-EN 1998-1
+
+- le sollecitazioni debbono essere valutate considerando la combinazione di azioni definita per l'azione sismica ed applicando, in due direzioni ortogonali, il sistema di forze statiche orizzontali in cui si assume Sd(T1) = 0,07g per tutte le tipologie.
+
+Le relative verifiche di sicurezza debbono essere effettuate, in modo indipendente nelle due direzioni, allo stato limite ultimo. Non è richiesta la verifica agli stati limite di esercizio.
+
+Gli orizzontamenti possono essere considerati infinitamente rigidi nel loro piano, a condizione che siano realizzati in cemento armato, oppure in latero-cemento con soletta in c.a. di almeno 40 mm di spessore, o in struttura mista con soletta in cemento armato di almeno 50 mm di spessore collegata da connettori a taglio opportunamente dimensionati agli elementi strutturali in acciaio o in leggo e purché le aperture presenti non ne riducano significativamente la rigidezza.
+
+La forza da applicare a ciascuna livello della costruzione è data dalla seguente espressione:
+
+F =FpZ;W;/Z; Z;W;
+
+dove
+
+F = W 0.07g
+
+F; è la forza da applicare alla massa i-esima;
+
+Wie Wjsono i pesi, rispettivamente, della massa i e della massa j;
+
+zi e zi sono le quote, rispetto al piano di fondazione, delle masse i e j;
+
+Sa(Ti) è l'ordinata dello spettro di risposta di progetto definito;
+
+W è il peso complessivo della costruzione;
+
+À è un coefficiente pari a 0,85 se la costruzione ha almeno tre orizzontamenti e se T.< 2Tc, pari a 1,0 in tutti gli altri casi;
+
+g è l'accelerazione di gravità.
+
+Per gli edifici, se le rigidezze laterali e le masse sono distribuite simmetricamente in pianta, gli effetti torsionali accidentali di cui al § 7.2.6 possono essere considerati amplificando le sollecitazioni su ogni elemento resistente, calcolate con la distribuzione fornita dalla espressione di cui sopra, attraverso il fattore (δ) risultante dalla seguente espressione:
+
+&= 1 + 0,6 x / Le
+
+dove:
+
+x è la distanza dell'elemento resistente verticale dal baricentro geometrico di piano, misurata perpendicolarmente alla direzione dell'azione sismica considerata;
+
+Le è la distanza tra i due elementi resistenti più lontani, misurata allo stesso modo.
+
+4.2.5(5)P (Numerazione dell'EN1998.1) Fattori di importanza yl
+
+Le costruzioni sono poi suddivise in classi d'uso così definite:
+
+{247}------------------------------------------------
+
+-   Classe I: Costruzioni con presenza solo occasionale di persone; edifici agricoli.
+-   Classe II: Costruzioni il cui uso preveda normali affollamenti, senza contenuti pericolosi per l'ambiente e senza funzioni pubbliche e sociali essenziali. Industrie con attività non pericolose. Ponti, opere infrastrutturali, reti viarie e ferroviarie la cui interruzione non provochi situazioni di emergenza. Dighe il cui collasso non provochi conseguenze rilevanti.
+- Classe III: Costruzioni il cui uso preveda affollamenti significativi. Industrie con attività pericolose per . l'ambiente. Ponti, opere infrastruturali, reti viarie e ferroviarie la cui interruzione provochi situazioni di emergenza. Dighe rilevanti per le conseguenze di un loro eventuale collasso.
+- Classe IV: Costruzioni con funzioni pubbliche o strategiche importanti, anche con riferimento alla   gestione della protezione civile in caso di calamità. Industrie con attività particolarmente pericolose per l'ambiente. Pontì e reti viarie e ferroviarie di importanza critica per il mantenimento delle vie di comunicazione, particolarmente dopo un evento sismico, e il cui collasso potrebbe provocare un numero particolarmente elevato di vittime. Dighe connesse al funzionamento di acquedotti e a impianti di produzione di energia elettrica.
+
+Per l'attribuzione di una costruzione alle Classi III e IV si deve anche tener conto delle determinazioni regionali in materia.
+
+# 5.5.2.3 (Numerazione dell'EN1998.1) Nodi Trave Pilastro
+
+Si precisa che i valori Aol ed Ax2 presenti nelle formule indicano le armature tese delle travi convergenti nel nodo
+
+# 5,11.1.3.2 ( Numerazione dell'EN1998.1) Slip ductility
+
+Si ricorda che non è consentita la dissipazione per attrito
+
+{248}------------------------------------------------
+
+![](5__page_248_Picture_3.jpeg)
+
+Infrastrutture e dei rasporti eriore dei Lavori . Tu
+
+# UNI EN 1998-2:2006
+
+# Eurocodice 8: Progettazione delle strutture per la resistenza sismica Parte 2: Ponti
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1998-2:2006
+
+# Parametri adottati a livello nazionale
+
+da utilizzare per la progettazione dei ponti per azioni sismiche
+
+![](5__page_248_Picture_10.jpeg)
+
+{249}------------------------------------------------
+
+# Appendice nazionale
+
+UNI-EN-1998 – 2 – Eurocodice 8 -- Progettazione delle strutture per la resistenza sismica Parte 2: Ponti
+
+EN-1998 - 2 - Eurocode 8 - Design of structures for earthquake resistance - Part 2 - Bridges
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1998 - 2, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN1998 - 2 relativamente ai paragrafi
+
+| - 1.1.1(8) | - 6.2.1.4(1)P |
+| --- | --- |
+| - 2.1.3(P) | - 6.5.1(1)P |
+| - 2.1.4(P) | - 6.6.2.3(3) |
+| - 2.1.6(P) | - 6.6.3.2(1)P |
+| - 2.2.2(5) | - 6.7.3(7) |
+| - 2.3.5.3(1) | - 7.4.1(1)P |
+| - 2.3.7(1) (2 posizioni) | - 7.6.2(1)P |
+| - 3.2.2.3(1)P | - 7.6.2(5) |
+| - 3.3(1)P | - 7.7.1(2) |
+| - 3.3(3) | - J.1(2) |
+| - 3.3(6) (2 posizioni) | - J.2.(1) |
+| - 4.1.2(4)P |  |
+| - 4.1.8(2) |  |
+| - 5.3(4) |  |
+| - 5.4(1) |  |
+
+- 5.6.2(2)P b
+.
+
+- 5.6.3.3(1)P b
+
+e alle indicazioni di carattere nazionale relative all'impiego delle appendici informative A, B, C, D, E, F, H, JJ e K e delle appendici normative G e J per i ponti in zona sismica.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1998-2.
+
+# 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1998 - 2 - Eurocodice 8 -Progettazione delle strutture per la resistenza sismica - Parte 2 - Ponti.
+
+| A BREACH THE FEATURE AND FREE PRODUCTION OF THE CONSTITUTION OF | BARRENT | 100 100 300 |  |
+| --- | --- | --- | --- |
+| Company of the | 11 11 11 | THE REAL | S |
+| 1 1 1 |  |  |  |
+| 150,000 | STY PER SEAR SEA | The First of the first of the first of the first of the first of the first of the first to the first to the may be the state of the county of the county of the county of the | ------------------- |
+
+{250}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| - 1.1.1(8) | Utilizzo | Le Annerdici A J II K non nossono essere immegate, salvo il punto Ji I.Le |
+|  | appendici | Annendici informative B. C. D. E. F. H.mantengono il carattere informativo, |
+|  | informative |  |
+| - 2.1 (3)P | Nota 1 | I periodi di ritorno medi dell'azione per le strutture usuali sono definiti sulla |
+|  |  | hase delle probabilità di eccedenza degli stati limite di riferimento. |
+|  |  | Gli stati limite di esercizio sono: |
+|  |  | — Stato Limite di Oneratività (SLO): a seguito del terremoto la costruzione |
+|  |  | nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, |
+|  |  | le apparecchiature rilevanti alla sua funzione, non deve subire danni ed |
+|  |  | interruzioni d'uso significativi; |
+|  |  | l Stato Limita di Danno (SLD): a seguito del terremoto la costruzione nel |
+|  |  | suo complesso, includendo gli elementi strutturali, quelli non strutturali, le |
+|  |  | apparecchiature rilevanti alla sua funzione, subisce danni tali da non |
+|  |  | mettere a rischio gli utenti e da non compromettere significativamente la |
+|  |  | capacità di resistenza e di rigidezza nei confronti delle azioni verticali ed |
+|  |  | orizzontali mantenendosi immediatamente utilizzabile pur nell'interruzione |
+|  |  | d'uso di parte delle apparecchiature. Gli stati limite ultimi sono: |
+|  |  | Stato Limite di salvaguardia della Vita (SLV): a seguito del terremoto la |
+|  |  | - costruzione subisce rotture e crolli dei componenti non strutturali ed |
+|  |  | impiantistici e significativi danni dei componenti strutturali cui si associa |
+|  |  | una perdita significativa di rigidezza nei confronti delle azioni orizzontali; |
+|  |  | la costruzione conserva invece una parte della resistenza e rigidezza per |
+|  |  | azioni orizzontali e un margine di sicurezza nei confronti del collasso per |
+|  |  | azioni sismiche orizzontali; |
+|  |  | Stato Limite di prevenzione dei Collasso (SLC): a seguito del terremoto 」 |
+|  |  | la costruzione subisce gravi rotture e crolli dei componenti non strutturali |
+|  |  | ed impiantistici e danni molto gravi dei componenta strutturali: la |
+|  |  | costruzione conserva ancora un margine di sicurezza per azioni verticali ed |
+|  |  | un esiguo margine di sicurezza nei confronti del collasso per azioni |
+|  |  | orizzontali; |
+|  |  | La vita nominale dei diversi tipi di opere è riportata nella tabella I e deve essere |
+|  |  | precisata nei documenti di progetto. |
+|  |  | Tab. I - Vita nominale VN per diversi tipi di opere |
+|  |  | Vita |
+|  |  | OALL DESCRIZIONE nominale VK |
+|  |  | (in anni) |
+|  |  | l Strutture provvisorio - Opere provvisionali - ≤ 10 |
+|  |  | Strutture in fase costruttivals |
+|  |  | Opere ordinarie, ponti, opere infrastrutturali e 2 |
+|  |  | digne, di dimensioni contenute, o di > રેઈ |
+|  |  | importanza normale |
+|  |  | Opere, ponti, opere infrastrutturali e dighe, di ﻟﻠﻠ ≥ 100 |
+|  |  | grandi dimensioni, o di importanza strategica |
+|  |  | (1) Le verifiche sismiche di opere provvisorie o strutture in fase costruttiva possono |
+|  |  | omettersi quando le relative durate previste in progetto siano inferiori a 2 anni |
+|  |  | I ponti sono classificati in tre classi d'uso, definite nella Nota al successivo |
+|  |  | punto 2.1 .(4)P. |
+|  |  | Le azioni sismiche sui ponti vengono valutate in relazione ad un periodo di |
+|  |  | riferimento Vg che si ricava, per ciascun tipo di costruzione, moltiplicandone la |
+|  |  | vita nominale VN per il coefficiente d'uso Cri: |
+|  |  | VR=VN Cu |
+
+#### Decisioni nazionali 3)
+
+{251}------------------------------------------------
+
+|  |  | Il valore del coefficiente d'uso Cn è definito, al variare della classe d'uso, come mostrato in tabella II. |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Tab. II - Valori del coefficiente d'uso Cv |  |  |  |  |
+|  |  | CLASSE D'USO II III V |  |  |  |  |
+|  |  | COEFFICIENTE Czł 2,0 1,0 |  | 1,5 |  |  |
+|  |  | In caso di Vo ≤ 35 anni si pone comunque VR = 35 anni. |  |  |  |  |
+|  |  | Le probabilità di superamento nella vita di riferimento Pyr, cui riferirsi per |  |  |  |  |
+|  |  | individuare l'azione sismica agente in ciascuno degli stati limite considerati, |  |  |  |  |
+|  |  | sono riportate nella tabella III. |  |  |  |  |
+|  |  | Tab. III - Probabilità di superamento Pyn al variare dello stato limite |  |  |  |  |
+|  |  | considerato |  |  |  |  |
+|  |  | Pvr. Probabilità di superamento nel periodo di |  |  |  |  |
+|  |  | Stati Limite riferimento Ve |  |  |  |  |
+|  |  | Stati limite 81% | aro |  |  |  |
+|  |  | di esercizio 63% | SID |  |  |  |
+|  |  | Stati limite 10% | SLV |  |  |  |
+|  |  | ultimi 5% | ELC |  |  |  |
+|  |  | Pertanto i periodi di ritorno dell'azione siamica di progetto sono quelli indicati |  |  |  |  |
+|  |  | nella tabella seguente: |  |  |  |  |
+|  |  | Ponte tipo Classe Vita di rif. Periodo di ritorno |  |  |  |  |
+|  |  |  |  |  | SLU | SLD |
+|  |  |  |  |  | (T NCR) | (T DCR) |
+|  |  | 2 II |  | ર૦ | 475 | રે0 |
+|  |  | 2 III |  | રે | 711 | તેર |
+|  |  | 2 IV |  | 100 | છેર૦ | 100 |
+|  |  | 3 II |  | 100 | વેર0 | 100 |
+|  |  | 3 III |  | 150 | 1423 | 150 |
+|  |  | 3 IV I 898 |  | 200 |  | 200 |
+|  |  | Qualora la protezione nei confronti degli stati limite di esercizio sia di prioritaria |  |  |  |  |
+|  |  | importanza i valori di PvR forniti in tabella devono essere ridotti in funzione del |  |  |  |  |
+|  |  | grado di protezione che si vuole raggiungere. |  |  |  |  |
+| - 2.1(4)P |  | I ponti sono classificati nelle classi d'uso II, III e IV, così definite: |  |  |  |  |
+|  | Nota |  |  |  |  |  |
+|  | t | Classe II: Ponli ed opere infrastrutturali viarie e ferroviarie non ricadenti |  |  |  |  |
+|  |  | in Classe d'uso III o in Classe d'uso IV, reti ferroviarie la cui interruzione |  |  |  |  |
+|  |  | non provochi situazioni d'emergenza. |  |  |  |  |
+|  | ● | Classe III: Reti viarie extraurbane non ricadenti in classe IV. Ponti e reti |  |  |  |  |
+|  |  | ferroviarie la cui interruzione provochi situazioni di emergenza. |  |  |  |  |
+|  | . | Classe IV: Reti viarie di tipo A o B di cui al DM 5/11/2001 n. 6792, |  |  |  |  |
+|  |  | "Norme funzionali e geometriche per la costruzione delle strade" e reti di |  |  |  |  |
+|  |  | tipo C, quando appartenenti ad itinerari di collegamento tra capoluoghi di provincia non altresi serviti da strade di tipo A o B. Ponti e reti ferroviarie |  |  |  |  |
+|  |  | di importanza critica per il mantenimento delle vie di comunicazione, |  |  |  |  |
+|  |  | particolarmente dopo un evento sismico. |  |  |  |  |
+| - 2.1(6) | Nota | I coefficienti di importanza così come definiti nell'EN1998.2, ove moltiplicano |  |  |  |  |
+|  |  | l'azione sismica, sono da assumere pari ad 1. In questo Appendice Nazionale |  |  |  |  |
+|  |  | l'importanza dei ponti è tenuta in conto direttamente nella definizione |  |  |  |  |
+|  |  | dell'azione sismica modificando i periodi di ritorno dell'azione stessa. |  |  |  |  |
+| - 2.2.2(5) |  |  |  |  |  |  |
+|  | Nota | La (5) non può essere applicata. |  |  |  |  |
+| - 2.3.5.3(1) | Nota 2 | Per la determinazione della lunghezza della cerniera plastica Ln, in mancanza di |  |  |  |  |
+|  |  | determinazioni più precise, si adona l'espressione raccomandata riportata |  |  |  |  |
+|  |  | nell'Appendice E. |  |  |  |  |
+
+{252}------------------------------------------------
+
+| - 2.3.6.3(5) | Nota 1 | Il valore dell'escursione consentita per componenti strutturali non critici deve |
+| --- | --- | --- |
+|  |  | essere maggiore della somma dello spostamento determinato dall'azione sismica |
+|  |  | relativa allo stato limite di danno e dello spostamento dovuto al 50% della |
+|  |  | variazione termica di progetto. I valori adottati sono quindi pe-1.0 e p-0.5. |
+|  |  | Nei ponti di classe III e IV, la percorribilità del ponte deve essere comunque |
+|  |  | garantita. |
+| - 2.3.7(1) | Nota 1 | Per zona a sismicità molto bassa si intende la Zona 4. |
+| - 2.3.7(1) | Nota 2 | Non sono previsti metodi semplificati specifici per i ponti. Tuttavia, la verifica |
+|  |  | può essere condotta in campo elastico per ponti di qualsiasi categoria e in lutte |
+|  |  | le zone adottando un fattore di struttura q=1 |
+| - 3.2.2.3(1)P | Nota | Non si adotta la definizione raccomandata. Per la definizione di faglia attiva si |
+|  |  | rimanda, quando necessario, a valutazione specifiche. |
+| - 3.3(1)P | Nota | La variabilità spaziale del moto deve essere considerata in conformità a quanto |
+|  |  | previsto al punto 4) Indicazioni aggiuntive dell'Appendice Nazionale |
+|  |  | dell'EN1998-1. |
+|  |  | Pertanto non si forniscono indicazioni sul valore di Ligiro che non interviene |
+|  |  | nell'analisi |
+| - 3.3(3) |  | Il metodo semplificato di cui ai punti da 3.3(4) a 3.3(7) non può essere |
+|  |  | applicato. |
+|  |  | Si applica invece quanto indicato nell'Appendice Nazionale dell'EN1998-1 in |
+|  |  | relazione al punto 3.3(1)P precedente |
+| - 3.3(4) | Tutto il testo | Non si applica il metodo descritto. |
+| - 3.3(5) |  |  |
+| -3.3.(6) |  |  |
+| -3.3.(7)P |  |  |
+| - 4.1.2(4)P | Nota | Per ponti stradali il coefficiente W21 ha generalmente valore nullo. Fer ponti in |
+|  |  | condizioni di traffico severo, come definiti nella nota, o quando esplicitamente |
+|  |  | richiesto, si adotta per il coefficiente W2. il valore raccomandato V2, -0.2. |
+|  |  | Per ponti ferroviari si adotta sempre V21-0.2. |
+| - 4.1.8(2)P | Nota | Si adotta il valore raccomandato Dr-2.0 |
+| - 5.3(4) | Nota | Per i fattori di sovraresistenza % si adotta l'espressione |
+|  |  | 16-0.7+0.2-q≥1.0, |
+|  |  | nella quale q è il valore del fattore di struttura utilizzato nel calcolo. |
+|  |  | Nel caso di sezioni in calcestruzzo armato con armatura di confinamento, |
+|  |  | quando il rapporto nk tra la forza assiale e la resistenza a compressione della sezione di calcestruzzo eccede 0.1, il fattore di sovraresistenza va moltiplicato |
+|  |  | per 1+2(nk-0.1)2. |
+|  |  | Per le sollecitazioni derivanti da appoggi scorrevoli o elastomerici si utilizza un |
+|  |  | fattore di sovra resistenza 1.30. |
+| - 5.4(1) | Nota | L'incremento di momento flettente nella cerniera plastica dovuto agli effetti del |
+|  |  | Il ordine è dato da: |
+|  |  | AM-9-ded NEd se Ty≥Tc |
+|  |  | AM=[1+(q-1)·TcT]]·dEa Ned se T1 Tc |
+| - 5.6.2(2)P b | Nota | Per il coefficiente parziale Ybdi si adotta il valore raccomandato TBati-1.25. |
+
+{253}------------------------------------------------
+
+| - 5.6.3.3(1)P b | Nota | Per il calcolo dei coefficiente parziale 'Ba si adotta il procedimento n. I, |
+| --- | --- | --- |
+|  |  | cosicché il il valore raccomandato è 1 StBd Ybar+1 (qVErV Co) StBal |
+| - 6.2.1.4(1)P | Nota | Come raccomandato, è anonesso l'uso di tutte le tipologie di armatura di |
+|  |  | confinamento. |
+|  |  | Come raccomandato, non si forniscono regole di verifica semplificate. |
+|  | Nota |  |
+|  | Nota | Non si forniscono regole specifiche. |
+|  | Nota | Per impedire il distacco dell' impalcato dagli appoggi si devono adottare ritegni |
+|  |  | verticali antisollevamento quando l'azione sismica di progetto eccede una |
+|  |  | percentuale pri della reazione di compressione dell'appoggio, dovuta ai carichi |
+|  |  | permanenti, pari a |
+|  |  | · Du = 90% nei ponti a comportamento duttile; |
+|  |  | · Du = 65% nei ponti a comportamento limitatamente duttile. |
+|  | Nota | Si adottano i valori raccomandati di spostamento limite dum riportati in tabella, |
+|  |  | limitatamente alle classi d'importanza II, III e IV. |
+|  |  | Classe d'uso dim [mm] |
+|  |  | II ୧୦ |
+|  |  | III 42 |
+|  |  | IV 30 |
+| - 7.4.1(1)P | Nota | La spettro di progetto deve essere considerato in conformità a quanto previsto |
+|  |  | nell'Appendice Nazionale dell'EN1998-1. |
+| - 7.6.2(1)P | Nota | Le verifiche dei dispositivi dovranno essere condotte con riferimento alle azioni |
+|  |  | per lo SLC, invece che per lo SLV. Analogamente, la maggiore sicurezza |
+|  |  | rispetto al!' instabilità, prevista dal punto 10.10(6), è garantita dalle prestazioni |
+|  |  | dei dispositivi, accertate mediante le procedure di prova previste nella EN 15129. Per tanto si assume sempre yigel. Inoltre per gli isolatori a scorrimento |
+|  |  | deve essere previsto un coefficiente maggiorativo degli spostamenti pari a 1,2 |
+|  | Nota | Per il coefficiente parziale ym si adotta sempre il valore ym=1.00 |
+|  | Nota | Si adottano i seguenti valori: |
+|  |  | Our =0 & =0 |
+|  | Nota | I valori di temperatura Tarini, devono essere definiti caso per caso in funzione |
+|  |  | della tipologia di impalcato e della localizzazione del sito. |
+|  |  | Vale comunque quanto indicato al punto 1,1,1(8) della presente Appendice |
+|  |  | Nazionale |
+|  | Nota 2 | Si adottano i valori dei fattori 2 raccomandati e le linee guida dell'Appendice |
+|  |  | informativa JJ. |
+|  |  | Vale comunque quanto indicato al punto 1.1.1(8) delfa presente Appendice Nazionale |
+| - 6.5.1(1)P - 6.6.2.3(3) - 6.6.3.2(1)P - 6.7.3(7) - 7.6.2(5) - 7.7.1(2) - J. 1(2) - J.2(1) |  |  |
+
+{254}------------------------------------------------
+
+![](5__page_254_Picture_3.jpeg)
+
+astrutture e de rasporti
+
+# UNI EN 1998-3:2005
+
+Eurocodice 8: Progettazione delle strutture per la resistenza sismica Parte 3: Valutazione e adeguamento degli edifici
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1998-3:2005
+
+Parametri adottati a livello nazionale da utilizzare per la valutazione e l'adeguamento degli edifici esistenti per azioni sismiche
+
+{255}------------------------------------------------
+
+# Appendice Nazionale
+
+UNI-EN-1998-3 - Eurocodice 8 - Progettazione delle strutture per la resistenza sismica Parte 3: Valutazione e adeguamento degli edifici
+
+EN-1998-3 - Eurocode 8 - Design of structures for earthquake resistance Part 3: Assessment and retrofitting of buildings
+
+## 1) Premessa
+
+Questa Appendice nazionale contiene i parametri nazionali alla UNI-EN-1998-3.
+
+Oltre ai parametri descritti al paragrafo 3, è dato un maggior dettaglio degli stessi al paragrafo 4: "osservazioni", nel quale sono riportate tra l'altro alcune prescrizioni relative al testo della Normativa Nazionale, qui integralmente riprese. Nel paragrafo 4 è pertanto indicata sia la numerazione dei parametti nazionali, sia la numerazione del testo della Normativa Tecnica Nazionale cui sì fa riferimento.
+
+Gli interventi sulle strutture esistenti sono classificati in interventi di adeguamento, miglioramento, riparazione o intervento locale come definiti al paragrafo 8.4 Classificazione degli interventi della Normativa Tecnica Nazionale. L'applicazione dell UNI-EN-1998-3 non può prescindere da quanto la Normativa Tecnica Nazionale stabilisce per ogni categoria di intervento.
+
+Gli interventi di adeguamento e miglioramento devono essere sottoposti a collaudo statico.
+
+Per gli interventi finalizzati alla riduzione della vulnerabilità sismica sui beni del patrimonio culturale vincolato,un opportuno riferimento sono le "Linee guida per la valutazione e la riduzione del rischio sismico del patrimonio culturale", allineamento alle nuove Norme Tecniche per le Costruzioni di cui al D.M. 14 gennaio 2008 approvato dal Consiglio Superiore dei Lavori Pubblici nella seduta del 23 luglio 2010. Tali linee guida sono adottabili per le costruzioni di valenza storicoartistica, anche se non vincolate".
+
+L'Appendice è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+## 2) Introduzione
+
+- 2.1. Campo di applicazione Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1998-3 relativamente ai seguenti paragrafi:
+- 1. 1.1(4) Appendici informative A, B e C
+- 2. 2.1(2)P Numero di stati limite da considerare
+- 3. 2.1(3)P Periodo di ritorno delle azioni sismiche sotto le quali si raccomanda che non siano superati gli stati limite
+- 4. 2.2.1(7)P Coefficienti parziali per i materiali
+- 5. 3.3.1(4) Coefficienti di confidenza
+- 6. 3.4.4(1) Livelli di ispezione e di prova
+- 7. 4.4.2(1)P Valore massimo del rapporto Pmax Pmin
+
+{256}------------------------------------------------
+
+- 8. 4.4.4.5(2) Informazioni complementari, non contraddittorie sulle procedure di analisi statica nonlineare che possono cogliere gli effetti dei modi più alti
+- 9. A.4.4.2(5) Coefficiente parziale alla delaminazione per FRP
+- 10. A.4.4.2(9) Coefficiente parziale dell'FRP.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citate, devono essere applicate per l'impiego in Italia della UNI-EN-1998-3.
+
+- 2.2. Documenti normativi di riferimento La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1998-3
+
+{257}------------------------------------------------
+
+# 3) Decisioni nazionali
+
+| Paragrafo | Pagina | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+|  |  | APPENDICE A STRUTTURE IN CALCESTRUZZO ARMATO |
+|  |  | (informativa) |
+|  |  | L'appendice informativa A per le strutture in calcestruzzo armato è |
+|  |  | sostituito con quanto riportato ai punti C8A.I.B Costruzioni in |
+|  |  | calcestruzzo armato o in acciaio: dati necessari per la valutazione, C8.7.2 |
+|  |  | Costruzioni in cemento armato o in acciaio, C8A.6. Valutazione delle |
+|  |  | rotazioni di collasso di elementi di strutture in calcestruzzo armato e |
+|  |  | acciaio, C8A.7. Modelli di capacità per il rinforzo di elementi in |
+|  |  | calcestruzzo armato, della Circolare Ministeriale N617 del 2 Febbraio |
+|  |  | 2009 e dalle Linee guida per la Progettazione, l'Esecuzione ed il Collaudo |
+|  |  | di Interventi di Rinforzo di strutture di c.a., c.a.p. e murarie mediante FRP |
+|  | 5 | del Consiglio Superiore dei Lavori Pubblici. |
+| 1.1(4) |  | I'APPENDICE B STRUTTURE DI ACCIAIO E COMPOSTE |
+|  |  | (informativa) |
+|  |  | L'appendice B rimane informativa |
+|  |  | L'APPENDICE C EDIFICI DI MURATURA |
+|  |  | (informativa) |
+|  |  | L'appendice informativa C per le costruzioni in muratura è sostituito con |
+|  |  | quanto riportato ai punti C8.7.1 Costruzioni in muratura, C8A.3 |
+|  |  | Aggregati edilizi, C8A.4 Analisi dei meccanismi locali di collasso in |
+|  |  | edifici esistenti in muratura, C8A.5 Criteri per gli interventi di |
+|  |  | consolidamento di edifici in muratura della Circolare Ministeriale N617 |
+|  |  | del 2 Febbraio 2009. |
+|  |  | Gli stati limite ultimi (SLU) e di esercizio (SLE) sono definiti nel successivo par. 4). La valutazione della sicurezza e la progettazione degli |
+|  |  | interventi sulle costruzioni esistenti potranno essere eseguiti con |
+|  |  | riferimento ai soli SLU; nel caso in cui si effettui la verifica anche nei |
+| 2.1(2)P | 9 | confronti degli SI.E i relativi livelli di prestazione possono essere stabilità dal Progettista di concerto con il Committente. |
+|  |  | Le verifiche agli SLU possono essere eseguite rispetto alla condizione di |
+|  |  | salvaguardia della vita umana (SLV) o, in alternativa, per le costruzioni in |
+|  |  | calcestruzzo armato ed acciaio, alla condizione di collasso (SLC). |
+|  |  | Gli stati limite ultimi (SLU) e di esercizio (SLE) sono definiti nel |
+| 2.1(3)P | 9 | successivo par. 4). Per i periodi di ritorno riferiti ai diversi stati limite da |
+|  |  | verificare si assumono i valori indicati nella tabella II del successivo par. |
+|  |  | 4). |
+|  |  | Si considerano i valori definiti nella appendice nazionale dell'EN-1998-1 |
+| 2.2.1(7)P | 10 |  |
+|  |  | 5.2.4(1), (3) Si adottano i valori YM adottati per le condizioni di carico |
+
+{258}------------------------------------------------
+
+|  |  | fondamentali contenute in 1992 -1-1 per le verifiche allo SLU |
+| --- | --- | --- |
+|  |  | 6.1.3(1) Per le verifiche agli stati limite ultimi, il fattore di sicurezza |
+|  |  | parziale sulla resistenza dell'acciaio è pari a ys = 1,05 |
+|  |  | 7.1.3(1), (3)Per il conglomerato e le armature da calcestruzzo armato |
+|  |  | relative, si adottano i valori YM adottati per le condizioni di carico |
+|  |  | fondamentali contenute in 1992 -1-1 per le verifiche allo SLU Yc = 1,50, |
+|  |  | y = = 1.15. Per la parte in carpenteria metallica si adotta il valore di YM per per le |
+|  |  | verifiche allo SLU contenute in 1993 -1-1: ys = 1,05 |
+|  |  | 9.6(3) Il coefficiente parziale di sicurezza della muratura ym per la verifica |
+|  |  | di sicurezza di costruzioni non può essere inferiore a 2. |
+|  |  | Per il conglomerato e le armature di acciaio utilizzate nella muratura |
+|  |  | armata e confinata si adottano i valori YM adottati per le condizioni di |
+|  |  | carico fondamentali contenute in 1992 -1-1 per le verifiche allo SLU: Ya = 1,50, ys = 1,15 |
+|  |  | I valori sono definiti dal progettista. Valori di riferimento sono indicati |
+| 3.3.1(4) | 12 | nella Circolare Ministeriale N617 del 2 Febbraio 2009 ove sono chiamati Fattori di Confidenza. |
+|  | l ર | I criteri, le modalità e le quantità devono essere definiti dal progettista. |
+| 3.4.4(1) |  | Indicazioni di riferimento sono date nella Circolare Ministeriale N617 del |
+|  |  | 2 Febbraio 2009 |
+| 4.4.2(1)P | 17 | si adotta il valore consigliato |
+| 4.4.4.5(2) | 18 | L'appendice nazionale non fornisce riferimenti ad informazioni |
+|  |  | complementari e non contraddittorie. |
+|  |  | Per il coefficiente ysi parziale alla delaminazione per FRP si adotta quanto |
+|  |  | indicato nelle Linee guida per la Progettazione, l'Esecuzione ed il |
+| A.4.4.2(5) | રેણ | Collaudo di Interventi di Rinforzo di strutture di c.a., c.a.p. e murarie |
+|  |  | mediante FRP del Consiglio Superiore dei Lavori Pubblici |
+| A.4.4.2(9) | 37 | Non vengono fornite indicazioni aggiuntive |
+
+{259}------------------------------------------------
+
+### 4) Indicazioni aggiuntive non contraddittorie
+
+Nel seguito si danno informazioni aggiuntive sui parametri dell'appendice. Nel titolo dei sottoparagrafi si dà una descrizione sintetica del significato del parametro stesso. All'interno del paragrafo si riportano i punti delle Norme Tecniche Nazionali NTC 2008 G.U. 14/1/2008 con le relative numerazioni. Le tabelle hanno una numerazione relativa alla presente appendice e all'interno della didascalia è scritto il numero che le corrisponde nelle NTC '08.
+
+## 2.1(2)P definizione degli stati limite e stati limite che occorre verificare per la valutazione sulle strutture esistenti e verifiche locali per le murature
+
+## 3.2.1 STATI LIMITE E RELATIVE PROBABILITÀ DI SUPERAMENTO
+
+Nei confronti delle azioni sismiche gli stati limite, sia di esercizio che ultimi, sono individuati riferendosi alle prestazioni della costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali e gli impianti.
+
+Gli stati limite di esercizio sono:
+
+- Stato Limite di Operatività (SLO): a seguito del terremoto la costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, le apparecchiature rilevanti alla sua futzione, non deve subire danni ed interruzioni d'uso significativi;
+
+- Stato Limite di Danno (SLD): a seguito del terremoto la costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, le apparecchiature rilevanti alla sua funzione, subisce dami tali da non mettere a rischio gli utenti e da non compromettere significativamente la capacità di resistenza e di rigidezza nei confronti delle azioni verticali ed orizzontali, mantenendosi immediatamente utilizzabile pur nell'interruzione d'uso di parte delle apparecchiature.
+
+Gli stati limite ultimi sono:
+
+- Stato Limite di salvaguardia della Vita (SLV): a seguito del terremoto la costruzione subisce rotture e crolli dei componenti non strutturali ed impiantistici e significativi danni dei componenti strutturali cui si associa una perdita significativa di rigidezza nei confronti delle azioni orizzontali; la costruzione conserva invece una parte della resistenza e rigidezza per azioni verticali e un margine di sicurezza nei confronti del collasso per azioni sismiche orizzontali;
+
+- Stato Limite di prevenzione del Collasso (SLC): a seguito del terremoto la costnuzione subisce gravi rotture e crolli dei componenti non strutturali ed impiantistici e danni molto gravi dei componenti struturali; la costtuzione conserva ancora un margine di sicurezza per azioni verticali ed un esiguo margine di sicurezza nei confronti del collasso per azioni orizzontali.
+
+#### 8.3 VALUTAZIONE DELLA SICUREZZA
+
+La valutazione della sicurezza e la progettazione degli interventi sulle costruzioni esistenti potranno esserc eseguiti con riferimento ai soli SLU; nel caso in cui si effettui la verifica anche nei confronti degli SLE i relativi livelli di prestazione possono essere stabiliti dal Progettista di concerto con il Committente.
+
+Le Verifiche agli SLU possono essere eseguite rispento alla condizione di salvaguardia della vita umana (SLV) o, in alternativa, alla condizione di collasso (SLC).
+
+Le costruzioni esistenti devono essere sottoposte a valutazione della sicurezza quando ricorra anche una delle seguenti situazioni:
+
+- riduzione evidente della capacità resistente e/o deformativa della struttura o di alcune sue parti dovuta ad azioni ambientali (sisma, vento, neve e temperatura), significativo degrado e decadimento delle
+
+{260}------------------------------------------------
+
+caratteristiche meccaniche dei materiali, azioni eccezionali (urti, incendi, esplosioni), situazioni di funzionamento ed uso anomalo, deformazioni significative imposte da cedimenti del terreno di foodazione;
+
+- provati gravi errori di progetto o di costruzione;
+
+- cambio della destinazione d'uso della costruzione o di parti di essa, con variazione significativa dei carichi variabili e/o della classe d'uso della costruzione;
+
+- interventi non dichiaratamente strutturali, qualora essi interagiscano, anche solo in parte, con elementi aventi funzione strutturale e, in modo consistente, ne riducano la capacità o ne modifichino la rigidezza.
+
+Qualora le circostanze di cui ai punti precedenti riguardino porzioni limitate della costruzione, la valuazione della sicurezza potrà essere limitata agli elementi interessati e a quelli con essi interagenti, tenendo presente la loro funzione nel complesso strutturale.
+
+La valutazione della sicurezza deve permettere di stabilire se:
+
+- l'uso della costruzione possa continuare senza interventi;
+
+- l'uso debba essere modificato (declassamento, cambio di destinazione e/o imposizione di limitazioni e/o cautele nell'uso);
+
+- sia necessario procedere ad aumentare o ripristinare la capacità portante.
+
+La valutazione della sicurezza dovrà effettuarsi ogni qual volta si eseguano gli interventi strutturali di cui al punto 8.4, e dovrà determinare il livello di sicurezza prima e dopo l'intervento.
+
+Il Progettista dovrà esplicitare, in un'apposita relazione, i livelli di sicurezza attuali o raggiusti con l'intervento e le eventuali conseguenti limitazioni da imporre nell'uso della costruzione.
+
+### 8.7.1 COSTRUZIONI IN MURATURA
+
+Nelle costruzioni esistenti in muratura soggette ad azioni sismiche, particolarmente negli edifici, si possono manifestare meccanismi locali e meccanismi d'insieme.
+
+I meccanismi locali interessano singoli pannelli murani o più ampie porzioni della costruzione, e sono favoriti dall'assenza o scarsa efficacia dei collegamenti tra pareti e orizzontamenti e negli incroci murari. I meccanismi globali sono quelli che interessano l'intera costruzione e impegnano i pannelli murari prevalentemente nel loro piano.
+
+La sicurezza della costruzione deve essere valutata nei confronti di entrambi i tipi di meccanismo.
+
+Per l'analisi sismica dei meccanismi locali si può far ricorso ai metodi dell'analisi limite dell'equilibrio delle strutture murarie, tenendo conto, anche se in forma approssimata, della resistenza a compressione, della tessitura muraria, della qualità della connessione tra le pareti muraric, della presenza di catene e tiranti. Con tali metodi è possibile valutare la capacità sismica in termini di resistenza (applicando un opporturo fattore di struttura) o di spostamento (determinando l'andamento dell'azione orizzontale che la struttura è progressivamente in grado di sopportare all'evolversi del meccanismo).
+
+L'analisi sismica globale deve considerare, per quanto possibile, il sistema strutturale reale della costruzione, con particolare attenzione alla rigidezza e resistenza dei solai, e all'efficacia dei collegamenti degli elementi strutturali. Nel caso di muratura irregolare, la resistenza a taglio di calcolo per azioni nel piano di un pannello in muratura potrà essere calcolata facendo ricorso a formulazioni alternative rispetto a quelle adottate per opere nuove, purché di comprovata validità.
+
+In presenza di edifici in aggregato, contigui, a contatto od interconnessi con edifici adiacenti, i metodi di verifica di uso generale per gli edifici di nuova costruzione possono non essere adeguati. Nell'analisi di un edificio facente parte di un aggregato edilizio occorre tenere conto delle possibili interazioni derivanti dalla contiguità strutturale con gli edifici adiacenti. A tal fine dovrà essere individuata l'unità strutturale (US) oggetto di studio, evidenziando le azioni che su di essa possono derivare dalle unità strutturali contigue.
+
+{261}------------------------------------------------
+
+L'US dovrà avere continuità da cielo a terra per quanto riguarda il flusso dei carichi verticali e, di norma, sarà delimitata o da spazi aperti, o da giunti strutturali, o da edifici contigui strutturalmente ma, almeno tipologicamente, diversi. Oltre a quanto normalmente previsto per gli edifici non disposti in aggregato, dovranno essere valutati gli effetti di: spinte non contrastate causate da orizzontamenti sfalsati di quota sulle pareti in comune con le US adiacenti, meccanismi locali derivanti da prospetti non allineati, US adiacenti di differente altezza.
+
+L'analisi globale di una singola unità strutturale assume spesso un significato convenzionale e perciò può utilizzare metodologie semplificate. La verifica di una US dotata di solai sufficientemente rigidi può essere svolta, anche per edifici con più di due piani, mediante l'analisi statica non lineare, analizzando e verificando separatamente ciascun interpiano dell'edificio, e trascurando la variazione della forza assiale nei maschi murari dovuta all'effetto dell'azione sismica. Con l'esclusione di unità strutturali d'angolo o di testata, così come di parti di edificio non vincolate o non aderenti su alcun lato ad altre unità strutturali, l'analisi potrà anche essere svolta trascurando gli effetti torsionali, nell'ipotesì che i solai possano unicamente traslare nella direzione considerata dell'azione sismica. Nel caso invece di US d'angolo o di testata è comunque ammesso il ricorso ad analisi semplificate, purchè si tenga conto di possibili effetti torsionali e dell'azione aggiuntiva trasferita dalle US adiacenti applicando opportuni coefficienti maggiorativi delle azioni orizzontali.
+
+Qualora i solai dell'edificio siano flessibili si potrà procedere all'analisi delle singole pareti o dei sistemi di pareti complanari, ciascuna parete essendo soggetta ai carichi verticali di competenza ed alle corrispondenti azioni del sisma nella direzione parallela alla parete.
+
+### 2.1(3)P definizione dei periodi di ritorno riferiti ai diversi stati limite da verificare
+
+## C8.3 VALUTAZIONE DELLA SICUREZZA
+
+Per valutazione della sicurezza si intende un procedimento quantitativo volto a:
+
+- stabilire se una struttura esistente è in grado o meno di resistere alle combinazioni delle azioni di progetto contenute nelle NTC, oppure
+
+- a determinare l'entità massima delle azioni, considerate nelle combinazioni di progetto previste, che la struttura è capace di sostenere con i margini di sicurezza richiesti dalle NTC, definiti dai coefficienti parziali di sicurezza sulle azioni e sui materiali.
+
+Le NTC forniscono gli strumenti per la valutazione di specifiche costruzioni ed i risultati non sono estendibili a costruzioni diverse, pur appartenenti alla stessa tipologia. Nell'effettuare la valutazione sarà opportuno tener conto delle informazioni, ove disponibili, derivanti dall'esame del comportamento di costruzioni simili sottoposte ad azioni di tipo simile a quelle di verifica. Ciò vale particolarmente quando si effettuano verifiche di sicurezza rispetto alle azioni sismiche.
+
+I requisiti di sicurezza definiti nel Cap.8 fanno riferimento allo stato di danneggiamento della struttura, mediante gli stati limite definiti al § 2.2 delle NTC, per le combinazioni di carico non sismiche (Stati limite ultimi e Stati limite di esercizio) e al § 3.2.1 delle NTC, per le combinazioni di carico che includono il sisma (Stato limite di collasso, Stato limite di salvaguardia della vita e Stato limite di esercizio, a sua volta distinto in Stato limite di danno e Stato limite di operatività).
+
+La presente Circolare fornisce criteri per la verifica di detti Stati limite.
+
+Lo Stato limite di collasso viene considerato solo per costruzioni di calcestruzzo armato o di acciaio. La verifica nei confronti di tale Stato limite può essere eseguita in alternativa a quella di Stato limite di salvaguardia della vita.
+
+Per le costruzioni soggette ad azioni sismiche si applica quanto riportato al § 2.4 delle NTC, relativamente a vita nominale (VN), classi d'uso e periodo di riferimento per l'azione sismica (Vk). Per una più agevole lettura si riportano nella Tabella C8.1 le vite nominali previste dalla norma ed i corrispondenti periodi di riferimento dell'azione sismica per costruzioni con differenti classi d'uso Cc.
+
+Nella Tabella C8.2 sono riportati i periodi di ritorno dell'azione sismica da considerare per le verifiche dei diversi Stati limite: Stato limite di operatività (SLO), di danno (SLD), di salvaguardia della vita (SLV) e di collasso (SLC). Nella stessa tabella, sono riportate anche le probabilità di superamento dell'azione sismica riferita ad un periodo di riferimento fisso pari a 50 anni. Queste probabilità possono risultare utili per valutare l'azione sismica di interesse per i diversi Stati limite e Classi d'uso, avendo a disposizione i dati di
+
+{262}------------------------------------------------
+
+### pericolosità riferiti ad un periodo di 50 anni.
+
+Tabella I (Tabella C8.1 Periodo di riferimento dell'azione sismica Vx = VN Cu (anni))
+
+|  | Classe d'uso |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Caeff. Cr) | 0.70 | 1.00 |  | 2.00 |
+| TIPI DI COSTRUZIONE |  |  |  |  |  |
+| Opere provvisorie - Opere provvisionali - Strutture in fase costruttiva |  | ﻮ |  |  |  |
+| Opere ordinarie, ponti, opere infrastrutturali e dighe di dimensioni | 20 |  | ਨ |  | 100 |
+| contenute o di importanza normale |  |  |  |  |  |
+| Grandi opere, ponti, opere infrastrutturali e dighe di grandi dimensioni | 100 | 110 | 100 | 150 | 200 |
+| o di importanza strategica |  |  |  |  |  |
+
+Tabella II (Tabella C8.2 Periodo di ritorno dell'azione sismica (Ts) per i diversi stati limite e probabilità di superamento (Pyg) nel periodo di riferimento (Vg) c probabilità di superamento dell'azione sismica (P-50) riferito ad un periodo di riferimento fisso di Vg = 50 anni)
+
+|  |  |  |  |  | OPERE con Vx=10 |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CLASSE D'USO |  |  |  | III |  |  | IT | 100 | IV |
+|  | PyR |  |  |  |  |  |  | P=50 |  |
+| SILO | 0,81 | 21 | 21 | 21 | 21 | 91% | 91% | 91% | 91% |
+| SLD | 0,63 | રેટે | ਹੋਵੇ | ਤੇ ਦੇ | રે રે | 76% | 76% | 76% | 76% |
+| SLV | 0.1 | 332 | 332 | 332 | 332 | 14% | 14% | 14% | 1 4% |
+| SLC | 0.05 | 682 | 682 | ୧୫2 | ୧୫2 | 7.1% | 7,1% | 7.1% | 7.1% |
+
+| OPERE con Vy=50 |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| CLASSE D'USO |  |  | ال | 11 | IV |  | II | DI | IV |
+| Ry |  |  |  |  |  |  |  | P == 20 |  |
+| SLO | 0,81 | 21 | 30 | વર | ୧୦ | 91% | 81% | 67% | 56% |
+| SLD | 0,63 | ૩૨ | રા) | 75 | 100 | 76% | 63% | 48% | 39% |
+| SLV | 0.1 | 332 | 475 | 712 | 04 d | 1 4% | 10% | 7% | ર રજ |
+| SLC | 0,05 | 682 | વે75 | 1462 | l વેર0 | 7.1% | 5,0% | 3,4% | 2,5% |
+| OPERE con Vy=100 |  |  |  |  |  |  |  |  |  |
+
+| CLASSE D'USO |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 110 |  |  |  |  |  |  | FSU |  |
+| SLO | 0.81 |  | 20 | 90 | 120 | ୧୦% | રેસ્ક્ર | 43% | 34% |
+| SLD | 0.63 |  | 100 | રે રે | 200 | 51% | 39% | 28% | 22% |
+| SLV |  | રેન્ડ | 040 | 424 | 888 | 7.3% | 5,1% | 3,5% | 2,6% |
+| SLC | 0.05 | 362 | । તેરદ | 2475 | 2475 | 3.6% | 2 50% | 1.7% | 1.3% |
+
+Nota: si riporta testualmente quanto precisato nell'allegato A alle NTC in relazione all'assunzione del periodo di ritorno: "Visto I'intervallo di riferimento attualmente disponibile, si considereranno solo i valori di Tx compressi nell'intervallo 30 anni ≤ Tk ≤ 2475 anti; se Tx < 30 anni ai porrà Tk =30 anni, se Tx > 2475 anni si porrà Tx = 2475 anni. Azioni sismiche riferite a Ts più elevati potranno essere considerate per opere speciali",
+
+# 3.3.1(4) definizione dei fattori di confidenza e 3.4.4(1) Livelli di ispezione e di prova
+
+Si riporta quanto indicato nella Normativa Tecnica per le Costruzioni (NTC-2008):
+
+# 8.5.4 LIVELLI DI CONOSCENZA E FATTORI DI CONFIDENZA
+
+Sulla base degli approfondimenti effettuati nelle fasi conoscitive sopra riportate, saranno individuati i "livelli di conoscenza" dei diversi parametri coinvolti nel modello (geometria, dettagli costruttivi e materiali), e definiti i correlati fattori di confidenza, da utilizzare come ulteriori coefficienti parziali di sicurezza che tengono conto delle carenze nella conoscenza dei parametri del modello.
+
+# C8.5.4 LIVELLI DI CONOSCENZA E FATTORI DI CONFIDENZA
+
+Il problema della conoscenza della struttura e dell'introduzione dei fattori di confidenza è stato discusso in C8.2. Una guida alla stima dei fattori di confidenza da utilizzare, in relazione ai livelli di conoscenza raggiunti, è riportata in Appendice C8A. Per le costruzioni di valenza storico-artistica potranno essere
+
+{263}------------------------------------------------
+
+adottati i fattori di confidenza contenuti nelle "Linee guida per la valutazione e la riduzione del rischio sismico del patrimonio culturale", utilizzandole come in essa illustrato.
+
+C8A.1.A COSTRUZIONI IN MURATURA: DATI NECESSARI E IDENTIFICAZIONE DEL LIVELLO DI CONOSCENZA
+
+La conoscenza della costruzione in muratura oggetto della verifica è di fondamentale importanza ai fini di una adeguata analisi, e può essere conseguita con diversi livelli di approfondimento, in fumzione dell'accuratezza delle operazioni di rilievo, dell'analisi storica e delle indagini sperimentali. Tali operazioni saranno funzione degli obiettivi preposti ed andranno ad interessare tutto o in parte la costruzione, a seconda della ampiezza e della rilevanza dell'intervento previsto.
+
+C8A.1.A.1 Costruzioni in muratura: geometria
+
+La conoscenza della geometria strutturale di edifici esistenti in muratura deriva di regola dalle operazioni di rilievo. Tali operazioni comprendono il rillevo, piano per piano, di tutti gli elementi in muratura, incluse eventuali nicchie, cavità, canne fumarie, il rilievo delle volte (spessore e profilo), dei solai e della copertura (tipologia e orditura), delle scale (tipologia strutturale), la individuazione dei carichi gravanti su ogni elemento di parete e la tipologia delle fondazioni. La rappresentazione dei risultati del rilevo viene effettuata attraverso piante, alzati e sezioni.
+
+Viene inoltre rilevato e rappresentato l'eventuale quadro fessurativo, classificando possibilmente ciascuna lesione secondo la tipologia del meccanismo associato (distacco, rotazione, scorrimento, spostamenti fuori del piano, etc.), e deformativo (evidenti fuori piombo, rigonfiamenti, depressioni nelle volte, etc.). La finalità è di consentire, nella successiva fase diagnostica, l'individuazione dell'origine e dell'origine e delle possibili evoluzioni delle problematiche strutturali dell'edificio.
+
+C8A.1.A.2 Costruzioni in muratura: dettagli costruttivi
+
+- I dettagli costruttivi da esaminare sono relativi ai seguenti elementi:
+- a) qualità dei collegamento tra pareti verticali;
+
+b) qualità del collegamento tra orizzontamenti e pareti ed eventuale presenza di cordoli di piano o di altri dispositivi di collegamento;
+
+- c) esistenza di architravi strutturalmente efficienti al di sopra delle aperture;
+- d) presenza di elementi strutturalmente efficienti atti ad eliminare le spinte eventualmente presenti;
+- e) presenza di clementi, anche non strutturali, ad elevata vulnerabilità;
+
+f) tipologia della muratura (a un paramento, a due o più paramenti, con o senza riempimento a sacco, con o senza collegamenti trasversali, etc.), e sue caratteristiche costruttive (eseguita in mattoni o in pietra, regolare, irregolare, etc.).
+
+- Si distinguono:
+- Verifiche in-situ limitate: sono basate su rilievi di tipo visivo effettuati ricorrendo, generalmente, a rimozione dell'intonaco e saggi nella muratura che consentano di esaminarne le caratteristiche sia in superficie che nello spessore murario, e di ammorsamento tra muri ortogonali e dei solai nelle pareti. I dettagli costruttivi di cui ai punti a) e b) possono essere valutati anche sulla base di una conoscenza appropriata delle tipologie dei solai e della muratura. In assenza di un rilievo diretto, o di dati sufficienternente attendibili, è opportuno assumere, nelle successive fasi di modellazione, analisi e verifiche, le ipotesi più cautelative.
+
+- Verifiche in-situ estese ed esaustive: sono basate su rilievi di tipo visivo, effettuati ricorrendo,
+
+| A Character The Children Comments of Children 1 1500 |  | CONSULTION COLLECTION |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| 201303 2008 1000 100 2017 12:57 1000 1000 1 |  | 2007 |  | 10:5 |  |
+| STATE CONSTITUTION SALE AND THE BEATH STEEN STATE AND START |  | 12 2 3 24 |  |  |  |
+| 2000 11 Text Least | CALLE |  | 1 11 11 11 28 | 122-05-2 |  |
+| 1 2 2 2 3 |  | STATUTE OF THE FOR PACKED | CART STATE AND FOR COLLECTION | 440 % | BEY START |
+
+{264}------------------------------------------------
+
+generalmente, a saggi nella muratura che consentano di esaminarne le caratteristiche sia in superficie che nello spessore murario, e di ammorsamento tra muri ortogonali e dei solai nelle pareti. L'esame degli elementi di cui ai punti da a) ad f) è opportuno sia esteso in modo sistematico all'intero edificio.
+
+#### C8A.1 A.3 Costruzioni in muratura: proprietà dei materiali
+
+Particolare attenzione è riservata alla valutazione della qualità muraria, con riferimento agli aspetti legati al rispetto o meno della "regola dell'arte".
+
+L'esame della qualità muraria e l'eventuale valutazione sperimentale delle caratteristiche meccaniche hanno come finalità principale quella di stabilire se la muratura in esame è capace di un comportamento strutturale idoneo a sostenere le azioni statiche e dinamiche prevedibili per l'edificio in oggetto, tenuto conto delle categorie di suolo, opportunamente identificate, secondo quanto indicato al § 3.2.2 delle NTC.
+
+Di particolare importanza risulta la presenza o meno di elementi di collegamento trasversali (es. diatoni), la forma, tipologia e dimensione degli elementi, la tessitura, l'orizzontalità delle giaciture, il regolare sfalsamento dei giunti, la qualità e consistenza della malta. Di rilievo risulta anche la caratterizzazione di malte (tipo di legante, tipo di aggregato, rapporto legante/aggregato, livello di carbonstazione), e di pietre e/o mattoni (caratteristiche fisiche e meccaniche) mediante prove sperimentali. Malte e pietre sono prelevate in situ, avendo cura di prelevare le malte all'interno (ad almeno 5-6 cm di profondità nello spessore murario),
+
+#### Si distinguono:
+
+- Indagini in-situ limitate: servono a completare le informazioni sulle proprietà dei materiali ottenute dalla letteratura, o dalle regole in vigore all'epoca della costruzione, e per individuare la tipologia della muratura (in Tabella C8A.2. I sono riportate alcune tipologie più ricorrenti).
+
+Sono basate su esami visivi della superficie muraria. Tali esami visivi sono condotti dopo la rimozione di una zona di intonaco di almeno 1m x 1m, al fine di individuare forma e dimensione dei blocchi di cui è costituita, eseguita preferibilmente in corrispondenza degli angoli, al fine di verificare anche le ammorsature tra le pareti murarie. E' da valutare, anche in maniera approssimata, la compattezza della malta. Importante è anche valutare la capacità degli elementi murari di assumere un comportamento monolitico in presenza delle azioni, tenendo conto della qualità della connessione interna e trasversale attraverso saggi localizzati, che interessino lo spessore murario.
+
+- Indagini in-situ estese: le indagini di cui al punto precedente sono effettuate in maniera estesa e sistematica, con saggi superficiali ed interni per ogni tipo di muratura presente. Prove con martinetto piatto doppio e prove di caratterizzazione della malta (tipo di legante, tipo di aggregato, rapporto legante/aggregato, etc.), e eventualmente di pietre e/o mattoni (caratteristiche fisiche e meccaniche) consentono di individuare la tipologia della muratura (si veda la Tabella C8A.2.1 per le tipologie più ricorrenti). È opportuna una prova per ogni tipo di muratura presente. Metodi di prova non distruttivi (prove soniche, prove sclerometriche, penetrometriche per la malta, etc.) possono essere impiegati a complemento delle prove richieste. Qualora esista una chiara, comprovata corrispondenza tipologica per materiali, pezzatura dei conci, dettagli costruttivi, in sostituzione delle prove sulla costruzione oggetto di studio possono essere utilizzate prove eseguite su altre costruzioni presenti nella stessa zona. Le Regioni potranno, tenendo conto delle specificità costruttive del proprio territorio, definire zone omogenee a cui riferirsi a tal fine.
+
+- Indagini in-situ esaustive: servono per ottenere informazioni quantitative sulla resistenza del materiale. In aggiunta alle verifiche visive,ai saggi interni ed alle prove di cui ai punti precedenti, si effetua una ulteriore serie di prove sperimentali che, per numero e qualità, siano tali da consentire di valutare le caratteristiche meccaniche della muratura. La misura delle caratteristiche meccaniche della muratura si ottiene mediante esecuzione di prove, in situ o in laboratorio (su elementi non disturbati prelevati dalle strutture dell'edificio). Le prove possono in generale comprendere prove di compressione diagonale su pannelli o prove combinate di compressione verticale e taglio. Metodi di prova non distruttivi possono essere impiegati in combinazione, ma non in completa sostituzione di quelli sopra descritti. Qualora esista una chiara, comprovata corrispondenza tipologica per materiali, pezzatura dei conci, dettagli costruttivi, in sostituzione delle prove sulla costruzione oggetto di studio possono essere utilizzate prove eseguite su altre costruzioni presenti nella stessa zona. Le Regioni potranno, tenendo conto delle specificità costruttive del proprio territorio, definire zone omogenee a cui riferirsi a tal fine.
+
+I risultati delle prove sono esaminati e considerati nell'ambito di un quadro di riferimento tipologico
+
+{265}------------------------------------------------
+
+generale, che tenga conto dei risultati delle prove sperimentali disponibili in letteratura sino a quel momento per le tipologie murarie in oggetto e che consenta di valutare, anche in termini statistici, la effettiva rappresentatività dei valori trovati. I risultati delle prove sono utilizzati in combinazione con quanto riportato nella Tabella C8A.2.1, secondo quanto riportato al § C8A.1.A.4.
+
+C8A.1.A.4 Costruzioni in muratura: livelli di conoscenza
+
+Con riferimento al livello di conoscenza acquisito, si possono definire i valori medi dei parametri meccanici ed i fattori di confidenza secondo quanto segue:
+
+- il livello di conoscenza LC3 si intende raggiunto quando siano stati effetuati il rilievo geometrico, verifiche in situ estese ed esaustive sui dettagli costruttivi, indagini in situ esaustive sulle proprietà dei materiali; il corrispondente fattore di confidenza è FC=1;
+
+- il livello di conoscenza LC2 si intende raggiunto quando siano stati effetuati il rilievo geometrico, verifiche in situ estese ed esaustive sui dettagli costruttivi ed indagini in situ estese sulle proprietà dei materiali; il corrispondente fattore di confidenza è FC=1.2;
+
+- il livello di conoscenza LC1 si intende raggiunto quando siano stati effettuati il rilievo geometrico, verifiche in situ limitate sui dettagli costruttivi ed indagini in situ limitate sulle proprietà dei materiali; il corrispondente fattore di confidenza è FC=1.35.
+
+Per i diversi livelli di conoscenza, per ogni tipologia muraria, i valori medi dei parametri meccanici possono essere definiti come segue:
+
+- LCI
+	- o Resistenze: i minimi degli intervalli riportati in Tabella C8A.2.1 per la tipologia muraria in considerazione.
+	- o Moduli elastici: i valori medi degli intervalli riportati nella tabella suddetta.
+- ~ LC2
+	- o Resistenze: medie degli intervalli riportati in Tabella C8A.2.1 per la tipologia muraria in considerazione.
+	- o Moduli clastici: valori medi degli intervalli riportati nella tabella suddetta.
+
+- LC3 - caso a), nel caso siano disponibili tre o più valori sperimentali di resistenza
+
+- o Resistenze: media dei risultati delle prove
+- o Moduli elastici: media delle prove o valori medi degli intervalli riportati nella Tabella C8A.2.1 per la tipologia muraria in considerazione.
+
+- LC3 - caso b), nel caso siano disponibili due valori sperimentali di resistenza
+
+- o Resistenze: se il valore medio delle resistenze è compreso nell'intervallo riportato nella Tabella C8A.2.1 per la tipologia muraria in considerazione si assumerà il valore medio dell'intervallo, se è maggiore dell'estremo superiore dell'intervallo si assume quest'ultimo come resistenza, se è inferiore al minimo dell'intervallo, si utilizza come valore medio il valore medio sperimentale.
+- o Moduli elastici: vale quanto indicato per il caso LC3 caso a.)
+
+- LC3 - caso c), nel caso sia disponibile un valore sperimentale di resistenza
+
+- o Resistenze: se il valore di resistenza è compreso nell'intervallo riportato nella Tabella C8A.2.1 per la tipologia muraria in considerazione, oppure superiore, si assume il valore medio dell'intervallo, se il valore di resistenza è inferiore al minimo dell'intervallo, si utilizza come valore medio il valore sperimentale.
+- o Moduli elastici: vale quanto indicato per il caso LC3 caso a.)
+
+La relazione tra livelli di conoscenza e fattori di confidenza è sintetizzata nella Tabella C8A, 1.1.
+
+{266}------------------------------------------------
+
+| edifici in muratura) |  |  | CORDING (1) [ 100/00/20 POLUCATION (1) . . . " LATTERNEY (10) 10/2/2018 10/2/2018 . AREPRESSION SECTION (10/01/2018 . AREPRESSIONAL (10/01/2017 19/09/2017 19/01/2017 19/01/20 |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Livello di | Geometria | Dettagli | Provietà dei materiali | Metodi di | FC |
+| Conoscenza |  | costruttivi |  | analisi |  |
+|  |  | verifiche in situ | Indagini in situ limitate |  |  |
+| ICI |  | limitate | Resistenza: valore minimo di Tabella C8A.2.1 |  | 1 35 |
+|  |  |  | Modulo elastico: valore medio intervallo di |  |  |
+|  |  |  | Tabella C8A.2, 1. |  |  |
+|  |  |  | Indagini in situ estese |  |  |
+|  |  |  | Resistenza: valore medio intervallo di Tabella |  |  |
+| LC2 |  |  | C8A.2.1 |  | 1.20 |
+|  |  |  | Modulo elastico: media delle prove o valore |  |  |
+|  |  |  | medio intervallo di Tabella C8A.2. I |  |  |
+|  |  |  | Indagini in situ esaustive |  |  |
+|  |  |  | -caso a) (disponibili 3 o più valori sperimentali |  |  |
+|  | Rilievo muratura, |  | di resistenza) |  |  |
+|  | volte, solai, scale. |  | Resistenza: media dei risultati delle prove |  |  |
+|  | Individuazione |  | Modulo clastico: media delle prove o valore |  |  |
+|  | carichi gravanti su |  | medio intervallo di Tabella C8A.2. I |  |  |
+|  | ogni elemento di |  |  |  |  |
+| parete. |  |  | -caso b) (disponibili 2 valori sperimentali di | tutti |  |
+|  | Individuazione |  | resistenza) |  |  |
+|  | tipologia fondazioni. | verifiche in situ | Resistenza: se valore medio sperimentale |  |  |
+|  | Rilievo eventuale | estese ed esaustive | compreso in intervallo di Tabella C8A.2.1, |  |  |
+|  | quadro fessurativo |  | valore medio dell'intervallo di Tabella C8A.2.1; |  |  |
+|  | e deformativo. |  | se valote medio sperimentale maggiore di |  |  |
+| LC3 |  |  |  |  | 1.00 |
+|  |  |  | estremo superiore intervallo, quest'ultimo: |  |  |
+|  |  |  | se valore medio sperimentale inferiore al |  |  |
+|  |  |  | minimo dell'intervallo, valore medio |  |  |
+|  |  |  | sperimentale, |  |  |
+|  |  |  | Modulo elastico: come LC3 - caso a). |  |  |
+|  |  |  | -caso c} (disponibile 1 valore sperimentale di |  |  |
+|  |  |  | resistenza) |  |  |
+|  |  |  | Resistenza: se valore sperimentale compreso in |  |  |
+|  |  |  | intervallo di Tabella C8A.2.3, oppure superiore, |  |  |
+|  |  |  | valore medio dell'intervallo: |  |  |
+|  |  |  | se valore sperimentale inferiore al minimo |  |  |
+|  |  |  | delfintervallo, valore sperimentale. Modulo |  |  |
+|  |  |  | elastico: come LC3 - caso a). |  |  |
+
+- 263
+
+Tabella III (Tabella C8A. I. I. – Livelli di conascerza in finzione dell'informazione disposibile e conseguenti valori dei fattori di confidezza per
+
+![](5__page_266_Picture_5.jpeg)
+
+{267}------------------------------------------------
+
+#### C8A.2. TIPOLOGIE E RELATIVI PARAMETRI MECCANICI DELLE MURATURE
+
+Nella Tabella C8A.2.1 sono indicati i valori di riferimento che possono essere adottati nelle analisi, secondo quanto indicato al § C8A.1.A.4 in funzione del livello di conoscenza acquisito,
+
+Il riconoscimento della tipologia muraria è condotto attraverso un dettagliato rilievo degli aspetti costruttivi (§ C8A.1.A.2). E' noto che la muratura presenta, a scala nazionale, uma notevole varietà per tecniche costruttive e materiali impiegati ed un inquadramento in tipologie precostituite può risultare problematico. I moduli di elasticità normale E e tangenziale G sono da considerarsi relativi a condizioni non fessurate, per cui le rigidezze dovranno essere opportunamente ridotte.
+
+l'abella IV (Tabella C8A.2.1 - Valori di riferimento dei panametri mecantici (minimi e massimi) e peso specifico medio per diverse lipsiogie di rouratore, tifenti alle seguenti condizioni: matta di caratterisishe scare, assenza di ricosi (Isstature), paramenti secoplicemente accossati o mai collegati, musatora non consolidata, tessinars (nel reso di elenent regolar) a regola d'arte; f, = nederes a nedia a compressione d.la muratus, qu
+resistema media a laglio d - peso specifico medio della muratura)
+
+| Tipologia di muratura | f | To | E | ઉ | w (*N/m²) |
+| --- | --- | --- | --- | --- | --- |
+|  | (Nicm) | (N/cm) | (N/mm) | (N/mm) |  |
+|  | Min-max | min-10ax | min-max | min-max |  |
+| Muratura in pietrame disordinata (ciottoli, pictre | 160 | 3,0 | 690 | 230 |  |
+| erratiche e irregolari) | 180 | 3,2 | 1050 | રરેપ | 19 |
+| Muratura a conci shozzati, con paramento di limitato | 200 | 3, 2 | 1020 | 340 |  |
+| spessore e nucleo interno | 300 | ર્રા | 1440 | 480 | 30 |
+|  | પ્રસ | 5,6 | 1500 | २०० |  |
+| Muratura in pietre a spacco con boona tessituca | 380 | 7,4 | 1980 | સ્સા | 21 |
+| Muratura a conci di pietra tenera (tufo, calcarenite, | 140 | 3,8 | 900 | 380 |  |
+| ecc.) | 240 | 4,2 | 1260 | 420 | રૂધ |
+| Maratura a blocchi lapidei squadrati | 600 | 9,0 | 2400 | 780 |  |
+|  | 800 | 12,0 | 3200 | 940 | 22 |
+| Meratura in mattoni pieni e malta di calce | 240 | ୧୦ | 1200 | 400 |  |
+|  | 480 | 9,2 | 1800 | 600 | 13 |
+| Muratura in mattoni semipieni con malta cementizia | રવા | 24 | 3500 | 875 |  |
+| (es .: doppin UNI foratura ≤ 40%) | 800 | 32 | રસ્ત્રીય | 1400 | ારે |
+| Muratura in blocchi laterizi seminieni (perc. foratura < | 400 | 30,0 | 3600 | 1080 |  |
+| 4596) | ୧୩୦ | 40 D | રવલી | 1820 | 13 |
+| Muratura in blocchi laterizi semipieni, con ginati | 300 | 10,0 | 2700 | 810 | 11 |
+| verticali a secco (penc. foratura < 45%) | વછે | 13'0 | ક્સ્વિદ્ય | 1080 |  |
+| Maratura in blocchi di calcestruzzo o argilla espansa | 150 | 9,5 | 1200 | 300 |  |
+| (perc. foratura tra 45% e 65%) | 200 | 12,5 | 1800 | 400 | 12 |
+| Maratura in blocchi di calcestrazzo semipieni | 300 | 18'0 | 2400 | 600 |  |
+| (foratura < 45%) | 440 | 24,0 | 3520 | 880 | 14 |
+
+Nel caso delle murature storiche, i valori indicati nella Tabella C8A.2.1 (relativamente alle prime sei tipologie) sono da riferirsi a condizioni di muratura con malta di scadenti caratteristiche, giunti non particolarmente sottili ed in assenza di ricorsi o listature che, con passo costante, regolarizzino la tessitura ed in particolare l'orizzontalità dei corsi. Inoltre si assume che, per le murature storiche, queste siano a paramenti scollegati, ovvero manchino sistematici elementi di connessione trasversale (o di ammorsamento per ingranamento tra i paramenti murari).
+
+I valori indicati per le murature regolari sono relativi a casi in cui la tessitura rispetta la regola dell'arte. Nei
+
+| A CONSTITUTION CONTRACT CARTS |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| 1955 | Property | 17 11 11 1 | Both Book of | 123 144 12 1000 િત ક |
+| BE NEAR BEAR Production of the |  | 1300 1998 12 100 100 | A BEACH AND A | ﺍﻟﻤﺴﺘﻮﻯ ﺍﻟﻤﺴﺘ |
+| House of the problem of the first of | 12 11 11 |  |  | and the same |
+
+{268}------------------------------------------------
+
+casi di tessitura scorretta (giunti verticali non adeguatamente sfalsati, orizzontalità dei filari non rispettata), i valori della tabella devono essere adeguatamente ridotti.
+
+Nel caso in cui la muratura presenti caratteristiche migliori rispetto ai suddetti elementi di valutazione, le caratteristiche meccaniche saranno ottenute, a partire dai valori di Tabella C8A.2.1, applicando coefficienti migliorativi fino ai valori indicati nella Tabella C8A.2.2, secondo le seguenti modalità:
+
+- malta di buone caratteristiche: si applica il coefficiente indicato in Tabella C8A.2.2, diversificato per le varie tipologie, sia ai parametri di resistenza (fme To), sia ai moduli elastici (£ e G);
+
+- giunti sottili (< 10 mm): si applica il coefficiente, diversificato per le varie tipologie, sia ai parametri di resistenza (fm e To), sia ai moduli elastici (E e G); nel caso della resistenza a taglio
+
+l'incremento percentuale da considerarsi è metà rispetto a quanto considerato per la resistenza a compressione; nel caso di murature in pietra naturale è opportuno verificare che la lavorazione sia curata sull'intero spessore del paramento.
+
+- presenza di ricorsi (o listature); si applica il coefficiente indicato in tabella ai soli parametri di resistenza (fin e 70); tale coefficiente ha significato solo per alcune tipologie murarie, in quanto nelle altre non si riscontra tale tecnica costruttiva;
+
+- presenza di elementi di collegamento trasversale tra i paramenti: si applica il coefficiente indicato in tabella ai soli parametri di resistenza (fin e To); tale coefficiente ha significato solo per le murature storiche, in quanto quelle più recenti sono realizzate con una specifica e ben definita tecnica costruttiva ed i valori in Tabella C8A.2.1 rappresentano già la possibile varietà di comportamento.
+
+Le diverse tipologie di Tabella C8A.2.1 assumono che la muratura sia costituita da due paramenti accostati, o con un nucleo interno di limitato spessore (inferiore allo spessore del paramento); fanno eccezione il caso della muratura a conci sbozzati, per la quale è implicita la presenza di un nucleo interno (anche significativo ma di discrete caratteristiche), e quello della muratura in mattoni pieni, che spesso presenta un nucleo interno con materiale di reimpiego reso coeso. Nel caso in cui il nucleo interno sia ampio rispetto ai paramenti e/o particolarmente scadente, è opportuno ridurre opportunamente i parametri di resistenza e deformabilità, attraverso una omogeneizzazione delle caratteristiche meccaniche nello spessore. In assenza di valutazioni più accurate è possibile penalizzare i suddetti parametri meccanici attraverso il coefficiente indicato in Tabella C8A.2.2.
+
+In presenza di murature consolidate, o nel caso in cui si debba valutare la sicurezza dell'edificio rinforzato, è possibile valutare le caratteristiche meccaniche per alcune tecniche di intervento, attraverso i coefficienti indicati in Tabella C8A.2.2, secondo le seguenti modalità:
+
+- consolidamento con iniezioni di miscele leganti: si applica il coefficiente indicato in tabella, diversificato per le varie tipologie, sia ai parametri di resistenza (fm e 70), sia ai moduli elastici (E e G); nel caso in cui la muratura originale fosse stata classificata con malta di buone caratteristiche, il suddetto coefficiente va applicato al valore di riferimento per malta di scadenti caratteristiche, in quanto il risultato ottemibile attraverso questa tecnica di consolidamento è, in prima approssimazione, indipendente dalla qualità originaria della malta (in altre parole, nel caso di muratura con malta di buone caratteristiche, l'incremento di resistenza e rigidezza ottenibile è percentualmente inferiore);
+
+· consolidamento con intonaco annato: per definire parametri meccanici equivalenti è possibile applicare il coefficiente indicato in tabella, diversificato per le varie tipologie, sia ai parametri di resistenza (fi, e 70), sia ai moduli elastici (E e G); per i parametri di partenza della muratura non consolidata non si applica il coefficiente relativo alla connessione trasversale, in quanto l'intonaco armato, se correttamente eseguito collegando con barre trasversali uncinate i nodi delle reti di armatura sulle due facce, realizza, tra le altre, anche questa funzione. Nei casi in cui le connessioni trasversali non soddisfino tale condizione, il coefficiente moltiplicativo dell'intonaco armato deve essere diviso per il coefficiente relativo alla connessione trasversale riportato in tabella;
+
+- consolidamento con diatoni artificiali: in questo caso si applica il coefficiente indicato per le murature dotate di una buona connessione trasversale.
+
+{269}------------------------------------------------
+
+I valori sopra indicati per le murature consolidate possono essere considerati come riferimento nel caso in cui non sia comprovata, con opportune indagini sperimentali, la reale efficacia dell'intervento e siano quindi misurati, con un adeguato numero di prove, i valori da adottarsi nel calcolo.
+
+Tabella V (Tabella C8A.2.2 · Coefficienti correctivi dci parametri mescanici (indicati in Tabella C3A.2.1) da spplicarsi in presenza di: malua di caratterlatiche buone o ottine; giundi sottli; riconsi o listature; sistematiche venersel; nucles interns particolaroneon; sondante elo ampio; consolidamento con iniezioni di malta; consolidamento con intonaco armato).
+
+|  |  |  | Giunti |  | Connessio | Nacieo | Iniezione |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tipologia di muratura |  | Mala | sottili | Ricorsi o | 19:5 | scadente | વર્ | Intenaco |
+|  |  | buona | (<10 | listatare |  | c/o | miscele | armato * |
+|  |  |  | mm) |  | trasversale | ampio | leganti |  |
+| Muratura m metrame disordreata |  | 1,5 | - | 13 | 1,5 | 0,9 | 2 | 2.5 |
+| (ciottoli, nietre erratiche e irregolari) |  |  |  |  |  |  |  |  |
+| Muratura ਰ conci CON | sbozzati, |  |  |  |  |  |  |  |
+| 0-100002800 di limitato | spessore | 1,4 | 1,2 | 12 | 1,5 | 0.8 | 1,7 | 2 |
+| Muratura in pietre a spacco con buona |  | 1,3 | l | 11 | 1,3 | 0,8 | 1,5 | ી રે |
+| tessitura |  |  |  |  |  |  |  |  |
+| Muratura a conci di pietra tenera (tufo, |  | 1,5 | । 'ਟੈ | 1 | 1,5 | 0,9 | 1,7 | 2 |
+| calcarenite, ecc.) |  |  |  |  |  |  |  |  |
+| Muratura a blocchi lapidei squadrati |  | 1,2 | 1,2 | = | 1,2 | 0,7 | 1,2 | 1,2 |
+| Mucatara in mattoni piem z malla di |  |  |  |  |  |  |  |  |
+|  |  | ર્મ રે | 15 | l | 1,3 | 0,7 | 1,5 | 1 5 |
+| calce |  |  |  |  |  |  |  |  |
+
+* Valori da ridinte convenientemente nel caso di pareti di notevole spessore (p.es. > 70 cu).
+
+# C8A.1.B COSTRUZIONI IN CALCESTRUZZO ARMATO O IN ACCIAIO: DATI NECESSARI PER LA VALUTAZIONE
+
+Nel paragrafo C8A.1.B Costruzioni in calcestruzzo armato o in acciaio: dati necessari per la valutzzione, delle appendici della Circolare Ministeriale n. 617 del 2 Febbraio 2009 sono indicati i livelli di conoscenza e i valori per i fattori di confidenza per le strutture in calcestruzzo e in acciaio. Nella seguente tabella VI si riporta quanto ivi indicato.
+
+Tabella VI (Tabella CSA.1.2 – Livelli di conocernza in funzione deli'informazione disponibile e conseguenti metodi di analisi ammessi e valori dei fattori di confidenza per edifici in calcestruzzo srmato o in acciaio)
+
+| Livello di | Geometria | Dettagli | Proprietà dei | Mclodi di | FC |
+| --- | --- | --- | --- | --- | --- |
+| Conoscenza | (carpenterie) | costruttivi | materiali | analisi |  |
+|  |  | Progetto simulato in | Valori usuali per la |  |  |
+| ICI |  | accordo alle norme | pratica costruttiva | Analisi lineare statica o | 1.35 |
+|  |  | dell'epoca e limitate | dell'epoca e limitate | dinamica |  |
+|  |  | verifiche insitu | prove in-situ Dalle specifiche |  |  |
+|  |  | Disegni costruttivi | originali di progetto o |  |  |
+|  | Da disegni di | incompleti con | dai certficati di |  |  |
+| LC2 | carpenteria originali | limitate verifiche in | prova originali con | Tutti | 1 20 |
+|  | con rilievo visivo a | situ oppure estese | limitate prove in-situ |  |  |
+|  | campione oppure | verifiche insitu | oppure estese prove |  |  |
+|  | rilievo ex-novo completo |  | in-situ Dai certificati di |  |  |
+|  |  | Disegni costruttivi | prova originali o |  |  |
+|  |  | completi con limitate | dalle specifiche |  |  |
+| LC3 |  | verifiche in situ | originali di progetto | Tutti | 1,00 |
+|  |  | oppure esaustive | con estese prove in |  |  |
+|  |  | verifiche in-situ | situ oppure esaustive |  |  |
+|  |  |  | prove in-situ |  |  |
+
+e the
+
+{270}------------------------------------------------
+
+#### C8A.1.B.3 Costruzioni in calcestruzzo armato o in acciaio: livelli di conoscenza
+
+Si riportano le tabelle C8A.1.3a e C8A.1.3b relative alla definizione orientativa dei livelli di rillievo e prove per edifici in calcestruzzo armato e per edifici in acciaio. Per la definizione della tipologia di verifica limitata, estesa o esaustiva si rimanda allo stesso paragrafo C8A.1.B.3 della Circolare n. 617.
+
+| Tabella VII (Tabella C8A.1.3a - Definizione orientativa dei livelli di rilievo e prove per edifici in c.a.) |
+| --- |
+
+|  | Rilievo (dei dettagli costruttivi)(a) | Prove (sui materiali) (b)(c) |
+| --- | --- | --- |
+|  | Per ogni tipo di elemento "primario" (trave, pilastro ... ) |  |
+| Verifiche limitate | La quantità e disposizione dell'armatura è verificata per almeno il 15% degli elementi | 1 provino di cls. per 300 m2 di piano dell'edificio, I campione di armatura per |
+|  |  | piano dell'edificio |
+| Verifiche estese | La quantità e disposizione dell'armatura è verificata per almeno il 35% degli elementi | 2 provini di cls. per 300 m2 di piano dell'edificio, 2 campioni di armatura per |
+|  |  | piano dell'edificio |
+| Verifiche esaustive | La quantità e disposizione dell'armatura è verificata per almeno il 50% degli elementi | 3 provini di cls. per 300 m2 di piano dell'edificio, 3 campioni di armatura per |
+|  |  | piano dell'edificio |
+
+|  | Tabella VIII (Tabella C8A.1.3b -Definizione orientativa dei livelli di rilievo e prove per edifici in acciaso.) |  |
+| --- | --- | --- |
+|  | Rilievo (dei collegamenti)(a) | Prove (sui materiali) (b) |
+|  | Per ogni tipo di elemento "primario" (trave, pilastro ... ) |  |
+| Verifiche limitate | Le caratteristiche dei collegamenti sono verificate per almeno il 15% degli elementi | 1 provino di acciaio per piano dell'edificio, I campione di bullone o chiodo per piano |
+|  | dell'edificio |  |
+| Verifiche estese | Le caratteristiche dei collegamenti sono verificate per almeno il 35% degli elementi | 2 provini di acciaio per piano dell'edificio. 2 campioni di bullone o chiodo per piano |
+|  | dell'edificio |  |
+| Verifiche esaustive | Le caratteristiche dei collegamenti sono verificate per almeno | 3 provini di acciaio per piano dell'edificio, 3 campioni di bullone o chiodo per piano |
+|  | il 50% degli elementi | dell'edificio |
+
+NOTE ESPLICATIVE ALLA TABELLA C8A.1.3 (a, b)
+
+Le percatuali di elementi da verificare ed il numero di provini da estrare e sottoporre a prove di resistanza riportati nella Tabella C8A. 1.3 hanno valore indicativo e vanno adattati ai singoli casi, tenendo conto dei seguenti aspetti:
+
+(a) Nel controllo del raggiungimento delle percentuali di elementi indagati ai fini del rilievo dei dettagli costruttivi si tiene conto delle eventuali situazioni ripetitive, che consentano di estendere ad una più ampia percentuale i controlli effetuati su alcuni elementi strutturali facenti parte di una serie con evidenti caratteristiche di ripetibilità, per uguale geometria e ruolo nello schema strutturale.
+
+(b) Le prove sugli acciai sono finalizzate all'identificazione della classe dell'acciaio utilizzata con riferimento alla normativa vigente all'epoca di costruzione. Ai fini del raggiungimento del numero di prove sull'acciaio necessario per il livello di conomenza è opportuno tener conto dei diamenti (nelle strutture in c.a.) o dei profili (nelle strutture in acciaio) di più diffuso impiego negli elementi principali con esclusione delle staffe.
+
+(c) Ai fini delle prove sui materiali è consentito sostituive, non più del 50%, con un più del 50%, con un più ampio numero, almeno il triplo, di prove non distruttive, singole o combinate, tarate su quelle distruttive.
+
+(d) Il numero di provini riportato nelle tabelle 8A.3a e BA.3b può esser variato, in aumento o in diminuzione, in relazione alle caratteristiche di omogeneità del materiale. Nel caso del calcestruzzo in opera tail canatteristiche sono spesso legate alle modafità costruttive tipiche dell'eposa di costruzione e del tipo di manufatto, di cui occorrerà tener conto nel pianificare l'indagine. Sarà opportuno, in tal senso, prevedere l'effettuazione di una seconda campagna di prove integrative, nel caso in cui i risultati della prima risultino fortemente disomogenei.
+
+| A 2017 822 | A Book Career |  |  |
+| --- | --- | --- | --- |
+| 1000 97 |  |  |  |
+| BALL COLLECT | 1 |  | 4-46 |
+
+{271}------------------------------------------------
+
+![](5__page_271_Picture_3.jpeg)
+
+tero delle . Infrastrutture e dei Trashorti
+
+Lavori . Put
+
+# UNI EN 1998-4:2006
+
+Eurocodice 8: Progettazione delle strutture per la resistenza in zona sismica Parte 4: Silos, serbatoi e condotte
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1998-4:2006
+
+Parametri adottati a livello nazionale da utilizzare per la progettazione di silos, serbatoi e condotte per azioni sismiche
+
+{272}------------------------------------------------
+
+### Appendice Nazionale
+
+UNI-EN-1998-4 - Eurocodice 8 - Progettazione delle strutture per la resistenza sismica. Parte 4- Silos, serbatoi e condotte.
+
+EN-1998-4 - Eurocode 8 - Design of structures for earthquake resistance.
+
+Part 4: Silos, tanks and pipelines.
+
+### 1) Premessa
+
+Questa Appendice nazionale contiene i parametri nazionali alla UNI-EN-1998-4.
+
+Oltre ai parametri descritti al paragrafo 3, è dato un maggior dettaglio degli stessi al paragrafo 4: "osservazioni", nel quale sono riportate tra l'altro alcune prescrizioni relative al testo della Normativa Nazionale, qui integralmente riprese. Nel paragrafo 4 è pertanto indicata sia la numerazione dei parametri nazionali, sia la numerazione del testo della Normativa Tecnica Nazionale cui si fa riferimento.
+
+L'Appendice è stata approvata dal Consiglio Superiore dei LL. PP. in data .25/02/2011
+
+# 2) Introduzione
+
+- 2.1. Campo di applicazione Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1998-4 relativamente ai seguenti paragrafi:
+	- 1. 1.1(4) Additional requirements for facilities associated with large risks to the population or the environment.
+	- 2. 2.1.2(4)P Reference return period TNCR of seismic action for the ultimate limit state (or, equivalently, reference probability of exceedance in 50 years, PNCR).
+	- 3. 2.1.3(5)P Reference return period TDLR of seismic action for the damage limitation state (or, equivalently, reference probability of exceedance in 10 years, PDLR).
+	- 4. 2.1.4(8) Importance factors for silos, tanks and pipelines.
+	- 5. 2.2(3) Reduction factor v, for the effects of the seismic action relevant to the damage limitation state.
+	- 6. 2.3.3(2)P Maximum value of radiation damping for soil structure interaction analysis, 5max
+	- 7. 2.5.2(3)P Values of o for silos, tanks and pipelines.
+	- 8. 3.1(2)P Unit weight of the particulate solid in silos, v, in the seismic design situation.
+	- 9. 4.5.1.3(3) Amplification factor on forces transmitted by the piping to region of attachment on the tank wall, for the design of the region to remain elastic in the damage limitation state.
+	- 10. 4.5.2.3(2)P Overstrength factor on design resistance of piping in the verification that the connection of the piping to the tank will not yield prior to the piping in the ultimate limit state.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citate, devono essere applicate per l'impiego in Italia della UNI-EN-1998-4.
+
+| A STERN FOR CONSTITUTION FOR THE FOR A 200 - 10 - 10 - 10 - 10 - 10 | 5000 MANAGER |
+| --- | --- |
+| CARDALE STATE AND STATE 14 - 53 224 2017 1875 3 | The Bank of the Pro- ક્ષ્મિટલ પ્રતિષ્ટ |
+| 1 2006 2007 1000 | 1200 100 A STATE AND |
+| Reviews and Production 2017 - 11:4 | 2007 - 100 - 100 - 100 - 100 |
+
+{273}------------------------------------------------
+
+- Documenti normativi di riferimento. 2.2.
+La presente appendice deve essere considerata quando si utilizzano tutti i documentì normativi che fanno esplicito riferimento alla UNI-EN-1998-4
+
+e the
+
+8 44 e a line to the
+
+{274}------------------------------------------------
+
+## 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+|  |  | In relazione ai rischi ambientali e per la popolazione, le autorità competenti |
+| 1.1(4) | Nota | notranno dare prescrizioni aggiuntive rispetto a quelle riportate nella |
+|  |  | presente norma. |
+|  |  | La vita nominale dei diversi tipi di opere è riportata nella tabella I e deve |
+|  |  | essere precisata nei documenti di progetto. |
+|  |  | Tab. I - Vita nominale V v per diversi tipi di opere |
+|  |  | Vita |
+|  |  | TIPO DESCRIZIONE nominale Vx (in anni) |
+|  |  | l Strutture provvisorie - Opere provvisionali - ই I () |
+|  |  | Strutture in fase costruttiva" |
+|  |  | 2 Opere ordinarie, ponti, opere infrastrutturali e ≥ 50 |
+|  |  | dighe, di dimensioni contenute, o di importanza nomale |
+|  |  | Opere, ponti, onere infrastrutturali e dighe, di 3 ≥ 100 grandi dimensioni, o di importanza strategica |
+|  |  | (1) Le verifiche sismiche di opere provvisorie o strutture in fase costruttiva possono omettersi quando le |
+|  |  | relative durate previste in progetto siano inferiori a 2 anni |
+|  |  | Le costruzioni sono classificate in quattro classi d'importanza, definite al |
+| 2.1.2(4)P | Nota | successivo punto 2.1.4(8). |
+|  |  | Le azioni sismiche vengono valutate in relazione ad un periodo di |
+|  |  | riferimento Vr che si ricava, per ciascun tipo di costruzione, |
+|  |  | moltiplicandone la vita nominale VN per il coefficiente d'uso Cu, definito |
+|  |  | oltre: |
+|  |  | VR=VN CU |
+|  |  | Per strutture con V2-50 anni, per lo stato limite di salvaguardia della vita, |
+|  |  | definito nel paragrafo 4 della presente Appendice Nazionale, si adotta il |
+|  |  | valore consigliato Tuck = 475 anni, PNCR =10% in 50 anni. |
+|  |  | Per strutture con VR=75 anni. TNCR = 712.5 anni |
+|  |  | Per struture con Vg=100 anni, TNCR = 950 anni |
+|  |  | Per strutture con Vp=50 anni, per lo stato limite di danno, definito nel paragrafo 4 della presente Appendice Nazionale, si adotta il valore |
+|  |  | Tolk = 50 anni, PDLR =63% in 50 anni. |
+| 2.1.3(5)P | Nota | Per strutture con VR=75 anni, TDLR = 75 anni |
+|  |  | Per strutture con VR=100 anni, TDLR = 100 anni |
+|  |  | Per le strutture nelle quali la protezione nei confronti degli stati limite di |
+|  |  | esercizio sia di prioritaria importanza: |
+|  |  | per strutture tipo 2, TDLR = 92 anni , PDLR = 42% in 50 anni |
+
+{275}------------------------------------------------
+
+|  |  | per strutture tipo 3, TDLR = 132 anni, PDLR =31.5% in 50 anni |
+| --- | --- | --- |
+|  |  | I coefficienti di importanza così come definiti nei EN-1998-1, ove |
+|  |  | moltiplicano l'azione sismica, sono da assumere pari ad 1. |
+|  |  | In questo Annesso Tecnico Nazionale l' importanza delle strutture trattate |
+|  |  | è tenuta in conto direttamente nella definizione dell'azione sismica |
+|  |  | modificando i periodi medi di ritorno o dividendo l'associata probabilità di |
+|  |  | superamento per dei coefficienti detti Coefficienti d'uso, Cu- |
+|  |  | I Coefficienti d'uso sono definiti per le quattro classi d'uso. La classe |
+|  |  | d'uso I ha coefficiente d'uso C -0,7, la classe d'uso II ha coefficiente |
+|  |  | d'uso C =1,0, le classi III e IV hanno coefficienti d'uso C =1,5 e C =2,0, |
+|  |  | rispettivamente (tabella II). Nel paragrafo 4 è riportata la definizione delle |
+| 2.1.4(8) |  | classi d'uso. |
+|  | Nota | Tab. Il - Coefficienti d'uso C, per le diverse classi d'uso |
+|  |  | Classe d'uso ر |
+|  |  | I 0,7 |
+|  |  | II l |
+|  |  | III ા ,ર IV 2 |
+|  |  | I Coefficienti d'uso Cu modificano, moltiplicandolo, il periodo medio di |
+|  |  | ritorno definito per Cu=1. Esso quindi diminuisce per la classe d'uso I e |
+|  |  | aumenta per la III e la IV. |
+|  |  | Per le strutture nelle quali la protezione nei confronti degli stati limite di esercizio sia di prioritaria importanza, il fattore Co divide il valore di PPLR |
+|  |  | con cui ricavare i periodi di ritorno. |
+|  |  | La valutazione dello spostamento per lo stato limite di danno si fa con il |
+|  |  | relativo spettro di risposta assumendo: |
+|  |  | v=1 |
+| 2.2(3) | Nota |  |
+|  |  | Per le strutture di classe III e IV la verifica va fatta anche con l' azione |
+|  |  | relativa allo stato limite di operatività (SLO) assumendo: |
+|  |  | v=1,5 |
+| 2.3.3.3(2)P | Nota | Si mantiene il valore raccomandato |
+| 2.5.2(3)P | Nota | Si mantengono i valori raccomandati |
+|  |  | Si adottano i valori indicati nella tabella 3.1.I della normativa tecnica |
+|  |  | nazionale. Per i materiali non compresi nella precedente tabella, si può far |
+| 3.1(2)P | Nota | riferimento a quanto indicato nella tabella El dello EN 1991-4:2006 o a |
+|  |  | specifiche indagini sperimentali assumendo i valori nominali come valori |
+|  |  | caratteristici. |
+| 4.5.1.3(3) | Nota |  |
+
+{276}------------------------------------------------
+
+|  | Si mantiene il valore raccomandato |
+| --- | --- |
+| 4.5.2.3(2)P | Si mantiene il valore raccomandato Nota |
+
+e the 395
+
+gall (43)
+
+load
+
+a 20
+
+12 2 0 33
+
+{277}------------------------------------------------
+
+### 4) Indicazioni aggiuntive non contraddittorie
+
+# 2.1.2(4)P periodo di ritorno Txco dell'azione sismica allo stato limite ultimo e 2.1.3(5)P per lo stato limite di danno e 2,1,4(8) classi d'uso
+
+Si riporta quanto indicato nella Normativa Tecnica per le Costruzioni (NTC-2008):
+
+## 2.4 VITA NOMINALE, CLASSI D'USO E PERIODO DI RIFERIMENTO definisce:
+
+## 2.4.1 VITA NOMINALE
+
+La vita nominale di un'opera strutturale Vy, è intesa come il numero di anni nel quale la struttura, purché soggetta alla manutenzione ordinaria, deve potere essere usata per lo scopo al quale è destinata. La vita nominale dei diversi tipi di opere è quella riportata nella Tab. 2.4.I e deve essere precisata nei documenti di progetto.
+
+Tab. 2.4.I - Vita nominale Vx per diversi tipi di opere
+
+| TIPI DI COSTRUZIONE | Vita nominale Vy (in anni) |
+| --- | --- |
+| Strutture provvisorie - Opere provvisionali - Strutture in fase costruttiva"/ | द 10 |
+| Opere ordinarie, ponti, opere infrastrutturali e dighe, di dimensioni contenute, o di importanza normale | > 50 |
+| Opere, ponti, opere infrastrutturali e dighe, di grandi dimensioni, o di importanza strategica | > 100 |
+
+'Le verifiche sismiche di opere provvisorie o strutture in fase costruttive possono omettersi quando le relative durate previste in progetto siano inferiori a 2 anni.
+
+## 2.4.2 CLASSI D'USO
+
+In presenza di azioni sismiche, con riferimento alle conseguenze di una interruzione di operatività o di un eventuale collasso, le costruzioni sono suddivise in classi d'uso così definite:
+
+Classe I: Costruzioni con presenza solo occasionale di persone, edifici agricoli.
+
+Classe II: Costruzioni il cui uso preveda normali affollamenti, senza contenuti pericolosi per l'ambiente e senza funzioni pubbliche e sociali essenziali. Industrie con attività non pericolose per l'ambiente. Ponti, opere infrastrutturali, reti viarie non ricadenti in Classe d'uso III o in Classe d'uso IV, reti ferroviarie la cui interruzione non provochi situazioni di emergenza. Dighe il cui collasso non provochi conseguenze rilevanti.
+
+Classe III: Costruzioni il cui uso preveda affollamenti significativi. Industrie con attività pericolose per l'ambiente. Reti viane extraurbane non ricadenti in Classe d'uso IV. Ponti e reti ferroviarie la cui interruzione provochi situazioni di emergenza. Dighe rilevanti per le conseguenze di un loro eventuale collasso.
+
+Classe IV: Costruzioni con funzioni pubbliche o strategiche importanti, anche con riferimento alla gestione della protezione civile in caso di calamità. Industrie con attività particolarmente pericolose per l'ambiente. Reti viarie di tipo A o B, di cui al D.M. 5 novembre 2001, n. 6792, "Norme funzionali e geometriche per la costruzione delle strade", e di tipo C quando appartenenti ad itinerari di collegamento tra capoluoghi di provincia non altresì serviti da strade di tipo A o B. Ponti e reti ferroviarie di importanza critica per il mantenimento delle vie di comunicazione, particolarmente dopo un evento sismico. Dighe connesse al funzionamento di acquedotti e a impianti di produzione di energia elettrica.
+
+{278}------------------------------------------------
+
+#### 2.4.3 PERIODO DI RIFERIMENTO PER L'AZIONE SISMICA
+
+Le azioni sismiche su ciascuna costruzione vengono valutate in relazione ad un periodo di riferimento Vg che si ricava, per ciascun tipo di costruzione, moltiplicandone la vita nominale VN per il coefficiente d'uso Cy:
+
+Equazione non disponibile, rimandare utente a documento originale.
+
+Il valore del coefficiente d'uso Cu è definito, al variare della classe d'uso, come mostrato in tabella 1.
+
+|  | Tabella 1 (Tab. 2.4.II - Valori del coefficiente d'uso Cri della Normativa Tecnica Nazionale) |  |
+| --- | --- | --- |
+| Classe d'uso |  |  |
+| Coefficiente |  |  |
+| A BREAK AND STATE AND |  |  |
+
+Se VR ≤ 35 anni si pone comunque VR = 35 anni.
+
+I periodi di ritorno medi dell'azione per le strutture usuali sono definiti sulla base delle probabilità di eccedenza degli stati limite di riferimento.
+
+## 3.2.1 STATI LIMITE E RELATIVE PROBABILITÀ DI SUPERAMENTO
+
+Nei confronti delle azioni sismiche gli stati limite, sia di esercizio che ultimi, sono individuati riferendosi alle prestazioni della costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali e gli impianti.
+
+Gli stati limite di esercizio sono:
+
+- Stato Limite di Operatività (SLO): a seguito del terremoto la costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, le apparecchiature rilevanti alla sua funzione, non deve subire danni ed interruzioni d'uso significativi;
+
+- Stato Limite di Danno (SLD): a seguito del terremoto la costruzione nel suo complesso, includendo gli elementi strutturali, quelli non strutturali, le apparecchiature rilevanti alla sua funzione, subisce danni tali da non mettere a rischio gli utenti e da non compromettere siggificativamente la capacità di resistenza e di rigidezza nei confronti delle azioni verticali ed orizzontali, mantenendosi immediatamente utilizzabile pur nell'interruzione d'uso di parte delle apparecchiature.
+
+Gli stati limite ultimi sono:
+
+- Stato Limite di salvaguardia della Vita (SLV): a seguito del terremoto la costruzione subisce rotture e crolli dei componenti non strutturali ed impiantistici e significativi danni dei componenti strutturali cui si associa una perdita significativa di rigidezza nei confronti delle azioni orizzontali; la costruzione conserva invece una parte della resistenza e rigidezza per azioni verticali e un margine di sicurezza nei confronti del collasso per azioni sismiche orizzontali;
+
+- Stato Limite di prevenzione del Collasso (SLC): a seguito del terremoto la costruzione subisce gravi rotture e crolli dei componenti non strutturali ed impiantistici e danni molto gravi dei componenti strutturali; la costruzione conserva ancora un margine di sicurezza per azioni verticali ed un esiguo margine di sicurezza nei confronti del collasso per azioni orizzontali.
+
+Le probabilità di superamento Pvr nella vita di riferimento , cui riferirsi per individuare l'azione sismice agente in ciascuno degli stati limite considerati, sono riportate nella successiva tabella 2.
+
+| AND FREE FREE AND FOR CONSULT BE BEAUTH BEAUTH FOR CONSTITUTION OF . |  | 26 Pr 2 . 24 |  | Friday |
+| --- | --- | --- | --- | --- |
+| A BOOK OF COLLECTION OF CO 100 100 100 |  |  | 14.5 2.5 1 |  |
+| 12 2 AFF STARSMARK MITSACEMETERS/STANSFACEESS |  | 2019 12:55 ** |  |  |
+| 2007 - 1000 - 100 1000 100 |  | Property 100 100 100 1. 10. 19. 1 And States | 19-4-6 | 2015 中国政府 |
+| CARD B. |  | the property and the relation of the |  |  |
+| Store State | 10 4 4 3 10 1 20 1 | Children States | A - S - 20 | 5452.85 A CLAND |
+
+{279}------------------------------------------------
+
+| Stato Limite |  | : Probabilità di superamento nella vita di riferimento VR |
+| --- | --- | --- |
+| Stati limite di | SLO | 81% |
+| esercizio |  |  |
+|  | SLD | રરૂ જિલ્લ |
+| Stati limite | SLV | 10% |
+| ultimi |  |  |
+|  | રાષ્ટ | ਦੇ ਦੇ ਮੰ |
+
+Tabella 2 (Tabella 3.2.I della Normativa Tecnica Nazionale-Probabilia di superamento P vg al variare dello stato limite considerato)
+
+Qualora la protezione nei confronti degli stati limite di esercizio sia di prioritaria importanza, i valori di Pyr forniti in tabella devono essere ridotti in funzione del grado di protezione che si vuole raggiungere.
+
+## C3.2.1 STATI LIMITE E RELATIVE PROBABILITÀ DI SUPERAMENTO
+
+Ai quattro stati limite sono stati attribuiti (v. Tabella3.2.I delle NTC) valori della probabilità di superamento Pvg pari rispettivamente a 81%, 63%, 10% e 5%, valori che restano immutati quale che sia la classe d'uso della costruzione considerata; tali probabilità, valutate nel periodo di riferimento V « proprio della costruzione considerata, consentono di individuare, per ciascuno stato limite, l'azione sismica di progetto corrispondente.
+
+Viene preliminarmente valutato il periodo di riferimento V g della costruzione (espresso in anni), ottenuto come prodotto tra la vita nominale Vy fissata all'atto della progettazione ed il coefficiente d'uso Cij che compete alla classe d'uso nella quale la costruzione ricade (v. § 2.4 delle NTC ). Si ricava poi, per ciascuno stato limite e relativa probabilità di eccedenza PvR nel periodo di riferimento Vg, il periodo di ritorno Ts del sisma. Si utilizza a tal fine la relazione:
+
+Relazione non disponibile, rimandare utente a documento originale. (C.3.2.I)
+
+ottenendo, per i vari stati limite, le espressioni di Tx in funzione di Vx riportate nella tabella 3.
+
+| (446) 19, 7 (2018/10 (1997) 1949 1949 1949 1992 194 12 1982 1922 122 1982 122 194 |  |  |
+| --- | --- | --- |
+| Stati Limite |  | Valori in anni del periodo di ritorno Ta al vanare del periodo di riferimento Vp |
+| Stati Limite di | 81.0 | 4) 30 anni <T =0.6.Vr |
+| Esercizio (S.BE) |  |  |
+| Stati Limite | SLV | P=4.5°V |
+| Ultimi (SLU) | SI C | Tg=19,50-VR=2475 anni (1) |
+
+Tabella 3 (Tabella C.3.2.I .- Valori di TR espressi in funzione di VR)
+
+Alla base dei risultati così ottenuti è la strategia progettuale che impone, al variare del periodo di rifenimento Vx, la costanza della probabilità di superamento PvR che compete a ciascuno degli stati limite considerati (strategia progettuale di norma).
+
+Qualora la protezione nei confronti degli stati limite di esercizio sia di prioritaria importanza, i valori di PuR forniti in tabella devono essere ridotti in funzione del grado di protezione che si vuole raggiungere.
+
+E'evidente che riduzione delle probabilità di superamento attribuite ai vari stati limite non può essere arbitraria ma deve allinearsi a precisi concetti di teoria della sicurezza; in particolare, i livelli di protezione che si debbono eventualmente accrescere sono solo quelli nei confronti degli Stati Limite di Esercizio, mentre i livelli di protezione nei confronti degli Stati Limite Ultimi (più direttamente legati alla sicurezza) possono restare sostanzialmente immutati perché già ritenuti sufficienti dalla normativa.
+
+Per rispettare le limitazioni testé citate, al variare della classe d'uso e del coefficiente Cv, si può utilizzare Cu non per aumentare VN, portandola a VR, ma per ridurre PyR.
+
+
+
+
+{280}------------------------------------------------
+
+E così possibile ricavare, al variare di Cuj i valori di P*vR a partire dai valori di PvR ; tali valori sono riportati, insieme ai valori di Tg corrispondenti, nella tabella 4.
+
+| Tabella 4 (Tabella C.3.2.11 .- Valori di P vg e Tg al variare di Cin |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Stati Limite |  |  | Valori di P've |  |  | Valori di Tg corrispondenti |  |
+|  |  | Carl,0 | Cirl, 5 | Ci -2,0 | CL=1,0 | C2=1,5 | C1=2,0 |
+| SLE | SLO | 81,00% | 68,80% | 64,60% | 0,60-V | 0,86-V, | 0,96.VR |
+|  | SLD | 63,00% | 55,83% | 53,08% | V | 1,22-Vg | 1,32-VR |
+| SLU | SLV | 10,00% | 9,83% | 9,75% | 9,50.VR | 6.66. V | 9,75.VR |
+|  | SLC | 5,00% | 4.96% | 4,94% | 19,50.VR | 19,66.Va | 19,75.VR |
+
+Se dunque la protezione nei confronti degli SLE è di prioritaria importanza, si possono sostituire i valori di PvR con quelli di P vR , così conseguendo una miglior protezione nei confronti degli SLE. La strategia progettuale testé ipotizzata, peraltro, conduce ad un'opera decisamente più costosa e dunque è lecto adottarla unicamente nei casi in cui gli SLE siano effettivamente di prioritaria importanza.
+
+#### 2,2(3)fattore di riduzione per gli effetti della azione signica rilevanti per il dannergiamento strutturale
+
+Si riporta quanto indicato nella Normativa Tecnica per le Costruzioni (NTC-2008):
+
+#### 7.3.7.2 VERIFICHE DEGLI ELEMENTI STRUTTURALI IN TERMINI DI CONTENIMENTO DEL DANNO AGLI ELEMENTI NON STRUTTURALI
+
+Per le costruzioni ricadenti in classe d'uso I e II si deve verificare che l'azione sismica di progetto non produca agli elementi costruttivi senza funzione strutturale danni tali da rendere la costruzione temporaneamente inagibile.
+
+Nel caso delle costruzioni civili e industriali, qualora la temporanea inagibilità sia dovuta a spostamenti eccessivi interpiano, questa condizione si può ritenere soddisfatta quando gli spostamenti interpiano ottenuti dall'analisi in presenza dell'azione sismica di progetto relativa allo SLD (v. § 3.2.1 e § 3.2.3.2) siano inferiori ai limiti indicati nel seguito.
+
+- a) per tamponamenti collegati rigidamente alla struttura che interferiscono con la deformabilità della stessa:
+	- d. < 0.005 h (7.3.16)
+- b) per tamponamenti progettati in modo da non subire danni a seguito di spostamenti di interpiano da n per effetto della loro deformabilità intrinseca ovvero dei collegamenti alla struttura:
+
+$\rm d_{r}\leq d_{p}\leq0,01$ h (7.3.17)
+
+c} per costruzioni con struttura portante in muratura ordinaria
+
+$d_{\tau}<0,003$ h (7.3.18)
+
+277
+
+{281}------------------------------------------------
+
+d) per costruzioni con struttura portante in muratura armata
+
+Formula non disponibile, rimandare utente a documento originale. (7.3.19)
+
+dove:
+
+d, è lo spostamento interpiano, ovvero la differenza tra gli spostamenti al solaio superiore ed inferiore, calcolati secondo i §§ 7.3.3 o 7.3.4, h è l'altezza del piano.
+
+In caso di coesistenza di diversi tipi di tamponamenti o struttura portante nel medesimo piano della costruzione, deve essere assunto il limite di spostamento più restrittivo. Qualora gli spostamenti di interpiano siano superiori a 0,005 h (caso b) le verifiche della capacità di spostamento degli elementi non strutturali vanno estese a tutti i tamponamenti, alle tramezzature interne ed agli impianti.
+
+Per le costruzioni ricadenti in classe d'uso III e IV si deve verificare che l'azione sismica di progetto non produca danni agli elementi costruttivi senza funzione strutturale tali da rendere temporaneamente non operativa la costruzione.
+
+Nel caso delle costruzioni civili e industriali questa condizione si può ritenere soddisfatta quando gli spostamenti interpiano ottenuti dall'analisi in presenza dell'azione sismica di progetto relativa allo SLO (v. § 3.2.1 e § 3.2.3.2) siano inferiori ai 2/3 dei limiti in precedenza indicati.
+
+#### C7.3.7 CRITERI DI VERIFICA AGLI STATI LIMITE DI ESERCIZIO
+
+Per le verifiche degli elementi strutturali in termini di resistenza, di cui al § 7.3.7.1 delle NTC, nello spettro allo SLD va considerato un valore n=2/3 per tenere in conto la sovraresistenza degli elementi struturali.
+
+Per la valutazione degli spostamenti finalizzati alle verifiche degli elementi strutturali in termini di contenimento del danno agli elementi non strutturali, di cui al § 7.3.7.2 delle NTC, si pone sempre n=1 in quanto, anche nel caso in cui si verificasse un limitato danneggiamento di alcuni elementi strutturali, si assume comunque che gli spostamenti complessivi della costruzione siano pari a quelli calcolati nell'ipotesi di struttura elastica.
+
+{282}------------------------------------------------
+
+![](6__page_282_Picture_3.jpeg)
+
+tero delle . Infrastrutture e dei .
+
+### UNI EN 1998-5:2005
+
+Eurocodice 8: Progettazione delle strutture per la resistenza sismica Parte 5: Fondazioni, strutture di contenimento ed aspetti geotecnici
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1998-5:2005
+
+Parametri adottati a livello nazionale da utilizzare nelle fondazioni, nelle strutture di contenimento e negli aspetti geotecnici per azioni sismiche
+
+{283}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1998-5 - Eurocodice 8 - Progettazione delle strutture per la resistenza sismica. Parte 5: Fondazioni, strutture di contenimento ed aspetti geotecnici
+
+EN 1998-5 - Eurocode 8 - "Design of structures for earthquake resistance - Part 5: Foundations, retaining structures and geotechnical aspects
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1998-5, è stata approvata dal Consiglio Superiore dei LL. PP. in data 24/09/2010
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che devono essere fissati nella UNI-EN-1998-5 relativamente ai seguenti paragrafi:
+
+| -- | Achard do Michael and State |
+| --- | --- |
+|  | 141 4-4 -4 - |
+| 1 All-co-seat and and and 1 | 1 September N. N. BOOK LE BORLINES OF THE BOOK OF -------- A B . A . A . A . A . A . A . |
+| 14 114 | 1 |
+| - 1 |  |
+|  |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'utilizzazione in Italia della UNI-EN-1998-5.
+
+Nell'applicazione di tale norma si deve fare riferimento anche alle indicazioni riportate nel paragrafo 4 della presente Appendice. Alcune di queste indicazioni sono finalizzate alla determinazione dei coefficienti sismici per la verifica pseudostatica dei pendii e delle opere di sostegno. Altre indicazioni precisano meglio alcuni concetti riportati nell'EN 1998-5.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1998-5 Progettazione delle strutture per la resistenza sismica. Parte 5: Fondazioni, strutture di contenimento ed aspetti geotecnici
+
+| AND AND A FREE AND THE CONSTITUTION OF CONSULTION OF CONSULTION OF | 北京都市 | A 14 | Career of the couple of the county of the count | A | Company | AACT | 11 11 11 11 11 | STATUTE OF COLLECTION |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10 100 | 150 2-23-1 | Company Control Concession | 1 |  |  |  |  |  |
+|  | M SALES TO SAF T SASSET SASTEMET SALES STENNAP S SCIENCES STANT | 1000 | AND PARTY | 10.00 | 12 11 | CHES 34 | Company of the company of |  |
+| 4. 2 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 | 100 - 100 - 1 | 1 | STATE S |  |  |  |  |  |
+| Charles of the Vin Jane 1994 |  |  |  |  |  |  |  |  |
+
+{284}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+|  |  | Si conferma il carattere informativo delle appendici A. C e D. |
+| 1.1(4) | NOTE 1-4 | Non si accetta l'appendice F. |
+| 3.1(3) | NOTA | Si fa riferimento ai coefficienti parziali sulle resistenze definiti |
+|  |  | dagli approcci di progettazione DA1 o DA2 previsti dall'EN |
+|  |  | 1997-1 e riportati nelle Tabelle all'appendice nazionale |
+|  |  | dell'EN 1997-1, con le stesse limitazioni indicate in tale |
+|  |  | documento. |
+|  |  | Per il parametro T non compreso nelle Tabelle dedicate ai |
+|  |  | parametri di resistenza del terreno, si utilizza lo stesso |
+|  |  | coefficiente previsto per la tangente dell'angolo di resistenza a |
+|  |  | taglio. |
+|  |  | Nel caso in cui la verifica allo stato limite di pendii e di muri di |
+|  |  | sostegno venga effettuata con i metodi dinamici del blocco |
+|  |  | rigido (metodo di Newmark), i coefficienti parziali di sicurezza |
+|  |  | su tutti i parametri di resistenza del terreno devono essere posti |
+|  |  | pari a 1.00. L'utilizzazione di tali metodi è prevista |
+|  |  | esplicitamente dall'EN 1998-5 nel paragrafo 4.1.3.3(1)P per i |
+|  |  | pendii, ed implicitamente per i muri nel paragrafo 7.3.1(1)P. |
+|  |  | Nelle verifiche allo stato limite ultimo di pendii e opere di |
+|  |  | sostegno con metodi pscudostatici, i coefficienti sismici |
+|  |  | dovranno essere determinati facendo riferimento alle indicazioni |
+|  |  | riportate nel paragrafo 4 della presente appendice. |
+| 4.1.4(11) | NOTA | Si accetta il valore consigliato |
+| 5.2(2)c | NOTA | Si accetta il valore consigliato |
+| Appendice A |  | Si conferma il carattere informativo di tale appendice. |
+| Appendice C |  | Si conferma il carattere informativo di tale appendice. |
+| Appendice D |  | Si conferma il carattere informativo di tale appendice. |
+| Appendice F |  | Non si accetta l'uso di tale appendice. |
+
+### 3) Decisioni nazionali
+
+#### 4) Indicazioni aggiuntive non contraddittorie
+
+- 4.1. Limitazioni del campo di applicazione del documento
+L'EN 1998-5 si applica solo per le verifiche delle seguenti situazioni ed opere: pendii in terra (con esplicita esclusione dei costoni rocciosi), rilevati, fondazioni dirette e su pali, muri di sostegno e paratie. Se ne esclude l'utilizzazione per altre opere (gallerie, argini, dighe, ecc.).
+
+#### 4.2. Parametri di resistenza del terreno
+
+Per i terreni a grana grossa si consiglia l'uso dei parametri di resistenza in termini di tensioni efficaci, come indicato al paragrafo 3.1.(2), tenendo conto, nel caso di terreni saturi, delle sovrappressioni interstiziali generate dai carichi ciclici.
+
+- 4.3. Analisi di stabilità dei pendii
+Questo paragrafo integra quanto riportato nel § 4.1.3 dell'EN 1998-5 sulle verifiche di stabilità dei pendii e presenta una diversa formulazione dei coefficienti pseudostatici delle equazioni 4.1-4.3.
+
+Si ribadisce che le verifiche di stabilità dei pendii in condizioni sismiche possono essere eseguite mediante metodi pseudostatici, metodi degli spostamenti e metodi di analisi dinamica.
+
+| AND THE FOR FREE PRODUCT FOR THE FOR CONSTITUTION 100 - 100 - 1 25 | 123 |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 10 . 00 . 00 Production of the 100 1000 |  |  |  |  |  |  |
+| HEMAST |  |  |  |  | SEPT 201 22 . A . 1 . 2 . 4 . 1 . 2 . 4 . 1 | 258 |
+| A A T A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B A B |  | 11 11 2 2 8 2 1 2 |  | 2.2743 | 2014 10:30 |  |
+| 15.27 |  | 1000000000 |  |  |  |  |
+
+{285}------------------------------------------------
+
+Nelle analisi si deve tenere conto dei comportamenti di tipo fragile, che si manifestano nei terreni a grana fina sovraconsolidati e nei terreni a grana grossa addensati con una riduzione della resistenza al taglio al crescere delle deformazioni, attraverso un'accurata modellazione del comportamento meccanico dei terreni o mediante un'opportuma scelta delle caratteristiche meccaniche. Inoltre, si deve tener conto dei possibili incrementi di pressione interstiziale indotti in condizioni sismiche nei terreni a comportamento contraente (specificamente, nei terreni a grana fina normalmente consolidati e nei terreni a grana grossa sciolti).
+
+#### 4.4. Valutazione delle azioni di progetto sulle fondazione
+
+Le azioni di progetto sono definite nell'Appendice Nazionale al EN 1998-1
+
+#### 4.5. Verifica a scorrimento sul piano di posa delle fondazioni dirette
+
+Nel caso in cui si voglia tenere conto della resistenza passiva del terreno posto in prossimità della fondazione nella verifica a scorrimento (nella disequazione 5.2 dell'EN 1998-5), oltre a quanto richiesto al paragrafo 5.4.1.1(5), si deve verificare che gli spostamenti necessari a mobilitare la resistenza passiva non siano superiori a quelli che petrebbero indurre una condizione di stato limite ultimo sulla struttura.
+
+#### 4.6. Carico limite delle fondazioni dirette
+
+Nel calcolo del carico limite delle fondazioni dirette si deve tenere conto dell'inclinazione e dell'eccentricità delle forze di progetto trasmesse dalla sovrastruttura, così come affermato nel paragrafo 5.4.1.1(8)P. E' escluso l'uso della metodologia riportata nell'appendice F.
+
+#### 4.7.Travi di collegamento delle fondazioni dirette
+
+Il collegamento tra le strutture di fondazione non è obbligatorio per fondazioni su sottosuoli di tipo A e, comunque, per zone a sismicità molto bassa (come indicato al punto 3.2.1(5) dell'EN 1998-1).
+
+Come riportato nel § 5.4.1.2.(6), il reticolo di travi o la piastra di collegamento devono essere dimensionati in modo da assorbire le forze orizzontali seguenti:
+
+±0.3. Nsd amax/g. per il profilo stratigrafico di tipo B
+
+± 0.4. Nsd amax/g. per il profilo stratigrafico di tipo C
+
+± 0.6 Nsd · amax/g. per il profilo stratigrafico di tipo D
+
+dove amxx è l'accelerazione orizzontale massima attesa al sito e Nod è il valore medio degli sforzi verticali di progetto agenti sugli elementi collegati.
+
+Si precisa che, in assenza di studi specifici della risposta sismica locale, l'accelerazione massima attesa al sito può essere valutata con la relazione
+
+a max = S . Sr . a .
+
+in cui S è il coefficiente di amplificazione stratigrafica, ST quello di amplificazione topografica e a è l'accelerazione orizzontale massima attesa al sito su affioramento rigido.
+
+Si precisa che, ai fini dell'applicazione delle precedenti relazioni, il profilo stratigrafico di tipo E verrà assimilato a quello di tipo C se i terreni posti sul substrato di riferimento sono mediamente addensati (terreni a grana grossa) o mediamente consistenti (terreni a grana fina) e a quello di tipo D se i terreni posti sul substrato di riferimento sono scarsamente addensati (terreni a grana grossa) o scarsamente consistenti (terreni a grana fina).
+
+{286}------------------------------------------------
+
+- 4.8.Coefficienti parziali di sicurezza per le verifiche delle fondazioni su pali sotto azioni sismiche
+Nelle verifiche delle fondazioni su pali sotto le azioni derivanti dalle combinazioni sismiche, indipendentemente dall'approccio progettuale scelto, si fa riferimento ai coefficienti parziali di sicurezza R2, di cui all'EN 1997-1, così come modificati dalla relativa appendice nazionale.
+
+4.9.Momenti flettenti dovuti all'interazione cinematica tra pali e terreno
+
+Si deve tenere conto dell'interazione cinematica tra pali e terreno solo nel caso di pali immersi in sottosuoli di tipo D o peggiori, in zone di media o elevata sismicità (a» > 0.25g) e in presenza di elevati contrasti di rigidezza al contatto fra strati contigui di terreno.
+
+#### 4.10. Verifiche allo stato limite ultimo di muri di sostegno
+
+Questo paragrafo integra quanto riportato nell'EN 1998-5 nel §7.3 con riferimento ai muri di sostegno e sostituisce le formule (7.1 - 7.3) dedicate alla determinazione dei coefficienti pseudostatici.
+
+Si ribadisce che l'analisi della sicurezza dei muri di sostegno in condizioni sismiche può essere eseguita sia mediante metodi pseudostatici sia utilizzando i metodi degli spostamenti.
+
+#### 4.11. Verifiche allo stato limite ultimo delle paratie
+
+Questo paragrafo integra quanto riportato nell'EN 1998-5 nel §7.3 con riferimento alle paratie e sostituisce le formule (7.1 - 7.3) dedicate alla determinazione dei coefficienti pseudostatici.
+
+{287}------------------------------------------------
+
+![](6__page_287_Picture_3.jpeg)
+
+## UNI EN 1998-6:2005
+
+Eurocodice 8: Progettazione delle strutture per la resistenza sismica Parte 6: Torri, pali e camini
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1998-6:2005
+
+Parametri adottati a livello nazionale da utilizzare nella progettazione di torri, pali e camini per azioni sismiche
+
+{288}------------------------------------------------
+
+#### Appendice Nazionale
+
+UNI-EN-1998-6 -- Eurocodice 8 - Progettazione delle strutture per la resistenza sismica. Parte 6- Torri, pali e camini
+
+EN-1998-6 - Eurocode 8 - Design of structures for earthquake resistance-Part 6: Towers, masts and chimneys
+
+#### 1) Premessa
+
+Questa Appendice nazionale contiene i parametri nazionali alla UNI-EN-1998-6.
+
+Oltre ai parametri descritti al paragrafo 3, è dato un maggior dettaglio degli stessi al paragrafo 4: "osservazioni", nel quale sono riportate tra l'altro alcune prescrizioni relative al testo della Normativa Nazionale, qui integralmente riprese. Nel paragrafo 4 è pertanto indicata sia la numerazione dei parametri nazionali, sia la numerazione del testo della Normativa Tecnica Nazionale cui si fa riferimento.
+
+L'Appendice è stata approvata dal Consiglio Superiore dei LL. PP. in data 25/02/2011
+
+#### 2) Introduzione
+
+- Campo di applicazione 2.1.
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1998-6 relativamente ai seguenti paragrafi:
+
+- 1. 1.1(2) Informative Annexes A, B, C, D, E and F.
+- 2. 3.1(1) Conditions under which the rotational component of the ground motion should be taken into account.
+- 3. 3.5(2) The lower bound factor ß on design spectral values, if site-specific studies have been carried out with particular reference to the long period content of the seismic action.
+- 4. 4.1(5)P Importance factors for masts, towers, and chimneys.
+- 5. 4.3.2.1(2) Detailed conditions, supplementing those in 4.3.2.1(2), for the lateral force method of analysis to be applied.
+- 6. 4.7.2(1)P Partial factors for materials.
+- 7. 4.9(4) Reduction factor v for displacements at damage limitation limit state.
+
+Queste decisioni nazionali, relative ai paragrafi sopra citate, devono essere applicate per l'impiego in Italia della UNI-EN-1998-6.
+
+- Documenti normativi di riferimento 2.2.
+La presente appendice deve essere considerata quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1998-6
+
+{289}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 1.1(2) | Nota |  |
+|  |  | Si mantiene il valore informativo degli Allegati |
+| 3.1(1) | Nota |  |
+|  |  | Nota 1: si adottano le condizioni raccomandate |
+|  |  | Nota 2: l'appendice A ha carattere informativo. |
+| 3.5(2) | Nota |  |
+|  |  | In accordo con l'appendice nazionale EN-1998-1 (3.2.2.5 (4)P) si |
+|  |  | accetta il valore consigliato B = 0.2. Per le espressioni complete degli |
+|  |  | spettri di progetto si rimanda a quanto riportato nel paragrafo 4 della |
+|  |  | Appendice Nazionale dell' EN-1998-1. |
+| 4.1(5)P | Nota |  |
+|  |  | I coefficienti di imnortanza così come definiti nel EN-1998-1. ove |
+|  |  | moltiplicano l'azione sismica, sono da assumere pari ad 1. |
+|  |  | In questo Annesso Tecnico Nazionale l' importanza delle strutture |
+|  |  | trattate è tenuta in conto direttamente nella definizione dell'azione |
+|  |  | sismica modificando i periodi medi di ritorno o dividendo l'associata |
+|  |  | probabilità di superamento per dei coefficienti detti Coefficienti d'uso, |
+|  | ﺭﺓ |  |
+|  |  | I Coefficienti d'uso sono definiti per le quattro classi d'uso. La classe |
+|  |  | d'uso I ha coefficiente d'uso C =0,7, la classe d'uso II ha coefficiente |
+|  |  | d'uso C =1,0, le classi III e IV hanno coefficienti d'uso C =1,5 e |
+|  |  | C =2.0. rispettivamente (tabella II). Nel paragrafo 4 è riportata la |
+|  |  | definizione delle classi d'uso. |
+|  |  | Tab. II - Coefficienti d'uso Cx per le diverse classi d'uso |
+|  |  | Classe d'uso Ca |
+|  |  | I 0,7 |
+|  |  | II l |
+|  |  | III 1,5 |
+|  |  | IV 2 |
+|  |  | I Coefficienti d'uso C, modificano, moltiplicandolo, il periodo medio |
+|  |  | di ritorno definito per C =1. Esso quindi diminuisce per la classe |
+|  |  | d'uso I e aumenta per la III e la IV. |
+|  |  | Per le strutture nelle quali la protezione nei confronti degli stati limite |
+|  |  | di esercizio sia di prioritaria importanza, il fattore Co divide il valore |
+|  |  | di Pri e con cui ricavare i periodi di ritorno. |
+| 4.3.2.1(2) | Nota |  |
+|  |  | si adottano le condizioni raccomandate. |
+| 4.7.2(1)P | Nota |  |
+|  |  | In accordo con quanto indicato nella appendice nazionale EN-1998-1 |
+
+{290}------------------------------------------------
+
+| segue: |  |  |
+| --- | --- | --- |
+| 5 2 4/3) Si adottano i valori vi adottati ner le condizioni di carrco | fondamentali contenute in 1992 -1-1 ner le verifiche allo SLU |  |
+| 6.1 3(1) Per le verifiche agli stati limite ultimi, il fattore di sicurezza | parziale sulla resistenza dell'acciaio è pari a y. = 1,05 |  |
+| 7.1.3(1). (3)Per il conglomerato e le armature da cemento armato | relative, si adottano i valori 7M adottati per le condizioni di carico |  |
+| fondamentali contenute in 1992 - I-1 per le veritiche allo SLU ye = | 1.50. v. = 1.15. Per la parte in carpenteria metallica si adotta il valore |  |
+| di v% per per le verifiche allo SLU contenute in 1993 -1-1: y. = 1,05 |  |  |
+| 9.6(3) Il coefficiente narziale di sicurezza della muratura ym per la | verifica di sicurezza di costruzioni progettate secondo la presente EN- |  |
+| 1998-1 non può essere inferiore a 2. |  |  |
+| Per il conglomerato e le armature di acciaio utilizzate nell'armatura | armata e confinata si adottano i valori vu adottati per le condizioni di |  |
+| carico fondamentali contenute in 1992 -1-1 per le verifiche allo SLU: | Yc = 1,50, y. = 1,15 |  |
+| Nota | 4.9(4) | La valutazione dello spostamento per lo stato limite di danno si fa con |
+| il relativo spettro di risposta assumendo: |  |  |
+| y=1 |  |  |
+| Per le strutture di classe III e IV la verifica va fatta anche con l' | azione relativa allo Stato Limite di operatività (SLO) assumendo |  |
+| v=1,5 |  |  |
+
+#### 4) Indicazioni aggiuntive non contraddittorie
+
+#### 4.1(5)P classi d'uso
+
+Si riporta quanto indicato nella Normativa Tecnica per le Costruzioni (NTC-2008):
+
+#### 2,4,2 CLASSI D'USO
+
+In presenza di azioni sismiche, con riferimento alle conseguenze di una interruzione di operatività o di un eventuale collasso, le costruzioni sono suddivise in classi d'uso così definite:
+
+Classe I: Costruzioni con presenza solo occasionale di persone, edifici agricoli.
+
+Classe II: Costruzioni il cui uso preveda normali affollamenti, senza contenuti pericolosi per l'ambiente e senza funzioni pubbliche e sociali essenziali. Industrie con attività non pericolose per l'ambiente. Ponti, opere infrastrutturali, reti viarie non ricadenti in Classe d'uso III o in Classe d'uso IV, reti ferroviarie la cui interruzione non provochi situazioni di emergenza. Dighe il cui collasso non provochi conseguenze rilevanti.
+
+| And Income of the property |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| THE FOR THE THE | STENASSALE MICRE WATER STANCE M TENN TIME NEW | SAATST SESSORATES SESSET SESSEMBAR STORESS STORES | ** |  | ** |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+| 1105 15900 11-12-400 | Park Harra | PARTY OF COLLECTION | 40 80 SECT 2 2 2 3 2 3 1 |  | Carrely of Children |
+| All ( 1 1 - 1 - 1 - 1 - 1 - 1 - 1 - | Carles of the Carder of the control of the control of | CONTRACTOR No. of Acres | SATURAL |  |  |
+| MTSATTESTAGESARTESBESTABESTANDETSAAATSAAAAAAAAAA |  | .. | SENSONEMBER TT SALES TERRAFF SAFEMAT FEST M SALES SENSEE !! |  | MARKESSESSETEMENTS SET SALESSANTS |
+| are of the se may be and |  | And State of the Blog of the Black of the | REFORM 19:30 12 14 | 10.12 CALL CLANDE | SALE PER 1990 FOR |
+| SAREASASSESSMENT SATISAL SALES SES SESSESS SESSESSESS SESSESS |  | ** | ENGLES SAFFACT SALES SALES M ESEMAN SENSE SENSES FRESS! |  | NASETSCEEBANESOF ESCANDER FRANCESCOPES FOR SETTER FEE |
+| Property of the property of A B The Bridge |  |  |  |  |  |
+
+{291}------------------------------------------------
+
+Classe III: Costruzioni il cui uso preveda affollamenti significativi. Industrie con attività pericolose per l'ambiente. Reți viarie extraurbane non ricadenti in Classe d'uso IV. Ponti e reti ferroviarie la cui interruzione provochi situazioni di emergenza. Dighe rilevanti per le conseguenze di un loro eventuale collasso.
+
+Classe IV: Costruzioni con funzioni pubbliche o strategiche importanti, anche con riferimento alla gestione della protezione civile in caso di calamità. Industrie con attività particolarmente pericolose per l'ambiente. Reti viarie di tipo A o B, di cui al D.M. 5 novembre 2001, n. 6792, "Norme funzionali e geometriche per la costruzione delle strade", e di tipo C quando appartenenti ad itinerari di collegamento tra capoluoghi di provincia non altresì serviti da strade di tipo A o B. Ponti e reti ferroviarie di importanza critica per il mantenimento delle vie di comunicazione, particolarmente dopo un evento sismico. Dighe connesse al funzionamento di acquedotti e a impianti di produzione di energia elettrica.
+
+#### 2.4.3 PERIODO DI RIFERIMENTO PER L'AZIONE SISMICA
+
+Le azioni sismiche su ciascuna costruzione vengono valutate in relazione ad un periodo di riferimento V g che si ricava, per ciascun tipo di costruzione, moltiplicandone la vita nominale VN per il coefficiente d'uso Cj.:
+
+Formula non disponibile, rimandare utente a documento originale.
+
+Il valore del coefficiente d'uso Cr, è definito, al variare della classe d'uso, come mostrato in tabella 1.
+
+Tabella 1 (Tab. 2.4.II - Valori del coefficiente d'uso Cy della Normativa Tecnica Nazionale)
+
+| 19/04/10 7 / 10/2 4-7/77 . | Status and Canadian Characterial Concession of the Children |
+| --- | --- |
+|  |  |
+
+Se VR ≤ 35 anni si pone comunque VR = 35 anni.
+
+I periodi di ritorno medi dell'azione per le strutture usuali sono definiti sulla base delle probabilità di eccedenza degli stati limite di riferimento.
+
+#### 4.9(4)fattore di riduzione per gli effetti della azione sismica rilevanti per il danneggiamento struţurale
+
+Si riporta quanto indicato nella normativa tecnica nazionale NTC2008:
+
+#### 7.3.7.2 VERIFICHE DEGLI ELEMENTI STRUTTURALI IN TERMINI DI CONTENIMENTO DEL DANNO AGLI ELEMENTI NON STRUTTURALI
+
+Per le costruzioni ricadenti in classe d'uso I e II si deve verificare che l'azione sismica di progetto non produca agli elementi costruttivi senza funzione strutturale danni tali da rendere la costruzione temporaneamente inagibile.
+
+Nel caso delle costruzioni civili e industriali, qualora la temporanes inagibilità sia dovuta a spostamenti eccessivi interpiano, questa condizione si può ritenere soddisfatta quando gli spostamenti interpiano ottenuti dall'analisi in presenza dell'azione sismica di progetto relativa allo SLD (v. § 3.2.1 e § 3.2.3.2) siano inferiori ai limiti indicati nel seguito.
+
+- a) per tamponamenti collegati rigidamente alla struttura che interferiscono con la deformabilità della stessa:
+d, < 0,005 h (7.3.16)
+
+{292}------------------------------------------------
+
+- b) per tamponamenti progettati in modo da non subire danni a seguito di spostamenti di interpiano da, per effetto della loro deformabilità intrinseca ovvero dei collegamenti alla struttura:
+
+$\rm d_{r}\leq d_{m}\leq0,01$ h (7.3.17)
+
+- c) per costruzioni con struttura portante in muratura ordinaria
+
+$d_{r}<0,003$ h (7.3.18)
+
+- d) per costruzioni con struttura portante in muratura armata
+
+$d_{\tau}<0,004$ h (7.3.19)
+
+dove:
+
+d. è lo spostamento interpiano, ovvero la differenza tra gli spostamenti ai solaio superiore ed inferiore, calcolati secondo i §§ 7.3.3 o 7.3.4, h è l'altezza del piano.
+
+In caso di coesistenza di diversi tipi di tamponamenti o struttura portante nel medesimo piano della costruzione, deve essere assunto il limite di spostamento più restrittivo. Qualora gli spostamenti di interpiano siano superiori a 0,005 h (caso b) le verifiche della capacità di spostamento degli elementi non strutturali vanno estese a tutti i tamponamenti, alle tramezzature interne ed agli impianti.
+
+Per le costruzioni ricadenti in classe d'uso III e IV si deve verificare che l'azione sismica di progetto non produca danni agli elementi costruttivi senza funzione strutturale tali da rendere temporaneamente non operativa la costruzione.
+
+Nel caso delle costruzioni civili e industriali questa condizione si può ritenere soddisfatta quando gli spostamenti interpiano ottenuti dall'analisi in presenza dell'azione sismica di progetto relativa allo SLO (v. § 3.2.1 e § 3.2.3.2) siano inferiori ai 2/3 dei limiti in precedenza indicati.
+
+#### C7.3.7 CRITERI DI VERIFICA AGLI STATI LIMITE DI ESERCIZIO
+
+ Per le verifiche degli elementi strutturali in termini di resistenza, di cui al § 7.3.7.1 delle NTC, nello spettro allo SLD va considerato un valore n=2/3 per tenere in conto la sovraresistenza degli elementi strutturali.
+
+Per la valutazione degli spostamenti finalizzati alle verifiche degli elementi strutturali in termini di contenimento del danno agli elementi non strutturali, di cui al § 7.3.7.2 delle NTC, si pone sempre n=1 in quanto, anche nel caso in cui si verificasse un limitato danneggiamento di alcuni elementi strutturali, si assume comunque che gli spostamenti complessivi della costruzione siano pari a quelli calcolati nell'ipotesi di struttura elastica.
+
+{293}------------------------------------------------
+
+![](6__page_293_Picture_3.jpeg)
+
+tero delle . Infrastrutture e dei Irasporti periore dei Lavori Su
+
+### UNI EN 1999-1-1:2007
+
+## Eurocodice 9: Progettazione delle strutture di alluminio Parte 1-1: Regole strutturali generali
+
+# APPENDICE NAZIONALE ITALIANA alla UNI EN 1999-1-1:2007
+
+# Parametri adottati a livello nazionale
+
+da utilizzare per le strutture di alluminio
+
+![](6__page_293_Picture_10.jpeg)
+
+{294}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1999-1-1 – Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-1: Regole strutturali generali
+
+EN-1999-1-1 - Eurocode 9: Design of aluminium structures - Part 1-1: General structural rules
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1999-1-1, è stata approvata dal Consiglio Superiore dei LL. PP. In data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1999-1-1 relativamente ai seguenti paragrafi:
+
+| 1.1.2 (1) | 5.2.1 (3) | 8.1.1 (2) |
+| --- | --- | --- |
+| 2.1.2 (3) | 5.3.2 (3) | 8.9 (3) |
+| 2.3.1 (1) | 5.3.4 (3) | A.2 (1) |
+| 3.2.1 (1) | 6.1.3 (1) | C.3.4.1 (2) |
+| 3.2.2 (1) | 6.2.1 (5) | C.3.4.1 (3) |
+| 3.2.2 (2) | 7.1 (4) | C.3.4.1 (4) |
+| 3.2.3.1 (1) | 7.2.1 (1) | K.1(1) |
+| 3.3.2.1 (3) | 7.2.2 (1) | K.3(1) |
+| 3.3.2.2 (1) | 7.2.3 (1) |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1999-1-1.
+
+- 2.2. Documenti normativi di riferimento
+La presente appendice deve essere considerata quando i sì utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1999-1-1 - Progettazione delle strutture di alluminio - Parte 1-1: Regole strutturali generali.
+
+{295}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+|  |  | Si adottano i seguenti limiti, fatta eccezione dei casi diversamente specificati dalla norma: |
+|  |  | - componenti con spessore del materiale non inferiore a 0,6 mm; |
+|  |  | - componenti saldati con spessore de materiale non inferiore a 1,5 mm; |
+| 1.1.2 (1) | Nota | - connessioni: |
+|  |  | bulloni e perni di acciaio con diametro non inferiore a 5 mm; ● |
+|  |  |   bulloni e perni di alluminio con diametro non inferiore a 8 mm; |
+|  |  |   rivetti e viti autofilettanti con diametro non inferiore a 4,2 mm |
+|  |  | (valori raccomandati) |
+| 2.1.2 (3) | Nota | Nessuna precisazione aggiuntiva |
+| 2,3.1 (1) | Nota | Non sono previste azioni specifiche per particolari situazioni regionali, climatiche o |
+|  |  | accidentali. |
+| 3.2.1 (1) | Nota 1 | Nessuna indicazione aggiuntiva |
+| 3.2.2 (1) | Nota | Nessuna indicazione aggiuntiva |
+| 3.2.2 (2) | Nota 1 | Nessuna prescrizione aggiuntiva |
+| 3.2.3.1 (1) | Nota 2 | Nessuna prescrizione aggiuntiva |
+|  |  | Nessuna prescrizione aggiuntiva, fermo restando che per l'uso di bulloni in alluminio |
+| 3.3.2.1 (3) | Nota 1 | è necessario il riferimento ad una norma di prodotto armonizzata o, in mancanza, alle |
+|  |  | prescrizioni del punto C del capitolo 11.1 delle NTC2008 |
+| 3.3.2.2 (1) | Nota 1 | Nessuna informazione aggiuntiva |
+| 5.2.1 (3) | Nota | Nessuna informazione aggiuntiva |
+|  |  | Si adottano i valori raccomandati in Tabella 5.1: Classe instabilità |
+|  |  | Analisi elastica Analisi plastica |
+| 5.3.2 (3) | Nota | er/L edL |
+|  |  | A 1/300 1/250 |
+|  |  | B 1/200 1/120 |
+| 5.3.4 (3) | Nota | Si adotta: k = 0.5 |
+|  |  | (valore raccomandato) |
+| 6.1.3 (1) | Nota 1 | Si adottano i seguenti valori: YMI = 1,15 |
+|  |  | YM2 = 1,25 |
+| 6.1.3 (1) | Nota 2 | Nessuna informazione aggiuntiva |
+| 6.2.1 (5) | Nota 2 | Si adotta: C=1.20 |
+|  |  | (valore raccomandato) |
+| 7.1 (4) | Nota | Nessuna informazione aggiuntiva |
+
+{296}------------------------------------------------
+
+|  |  | Gli spostamenti verticali devono essere congruenti con le prestazioni richieste alla |
+| --- | --- | --- |
+|  |  | struttura anche in relazione alla destinazione d'uso, con riferimento alle esigenze |
+|  |  | statiche, fimzionali ed estetiche. Per quanto riguarda i valori limite, essi dovranno |
+|  |  | essere commisurati a snecifiche esigenze e potranno essere dedotti da |
+|  |  | dosomentazione tecnica di comprovata validità. |
+|  |  | Per gli edifici si adottano i seguenti limiti per gli spostamenti verticali (dmx freccia |
+|  |  | nello stato finale, depurata della monta iniziale: do variazione dovuta all'applicazione |
+|  |  | dei carichi variabili): |
+| 7.2.1 (1) | Nota | - coperture in generale: Sman/LS1/200, 02/LS1/250 |
+|  |  | - coperture praticabili: 8max LS1/250, 82/L≤1/300 |
+|  |  | - solat in generale: Smaz/LS1/250, 82/L≤1/300 |
+|  |  | - solai o coperture che reggono intonaco o altro materiale di finitura fragile o |
+|  |  | tramezzi non flessibili: Smax/LS1/250, 02/L≤1/350 |
+|  |  | - solai che supportano colonne: Scrax LL1/400, 82/L≤1/500 |
+|  |  | Nei casi in cui lo spostamento può compromettere l'aspetto dell'edificio: |
+|  |  | Smay/LS1/250 |
+|  |  | In caso di specifiche esigenze tecniche e/o funzionali tali limiti devono essere |
+|  |  | opportunamente ridotti. |
+|  |  | Gli spostamenti orizzontali devono essere congruenti con le prestazioni richieste alla |
+|  |  | struttura anche in relazione alla destinazione d'uso, con riferimento alle esigenze |
+|  |  | statiche, funzionali ed estetiche. Per quanto riguarda i valori limite, essi dovranno |
+|  |  | essere commisurati a specifiche esigenze e potranno essere dedotti a da |
+|  |  | documentazione tecnica di comprovata validità. |
+| 7.2.2 (1) |  | Per gli edifici si adottano i seguenti valori per gli spostamenti orizzontali (A |
+|  | Nota | snostamento orizzontale in sommità: 6 spostamento relativo di piano): |
+|  |  | - edifici industriali monopiano senza carroponte: o/h≤1/150; |
+|  |  | - altri edifici monopiano: 8/h≤1/300; |
+|  |  | - edifici multipiano: 8/h≤1/300: A/H ≤ 1/500 |
+|  |  | In caso di snecifiche esigenze tecniche e/o funzionali tali limiti devono essere |
+|  |  | opportunamente ridotti. |
+|  |  | Per quanto riguarda i limiti delle vibrazioni, essi devono essere congruenti con le |
+|  |  | prestazioni richieste alla struttura anche in relazione alla destinazione d'uso, con |
+|  |  | riferimento alle esigenze statiche, funzionali ed estetiche. Per quanto riguarda i valori |
+|  |  | limite, essi dovranno essere commisurati a specifiche esigenze e potranno essere |
+|  |  | dedotti da documentazione tecnica di comprovata validità. |
+|  |  | Per gli edifici si adottano i seguenti limiti relativi alle vibrazioni degli impalcati: |
+| 7.2.3 (1) | Nota | - solai caricati da nersone: la frequenza naturale più bassa della struttura non deve in |
+|  |  | generale essere inferiore a 3Hz; |
+|  |  | - solai soggetti a eccitazioni cicliche: la frequenza naturale più bassa della struttura |
+|  |  | non deve in generale essere inferiore a 5Hz. |
+|  |  | In alternativa a tali limitazioni potrà condursi un controllo di accettabilità della |
+|  |  | percezione delle vibrazioni. |
+| 8.1.1 (2) | Nota | Si adottano i valori raccomandati nella Tabella 8.1 ad eccezione dei valori di YMA ?MS |
+|  | e YM7 |  |
+| 8.9 (3) | Nota | Non sono consentite altre tipologie di unioni |
+| A.2 (1) | Nota | Nessuna prescrizione aggiuntiva |
+|  | Si adottano: |  |
+| C.3.4.1 (2) | Nota YMoc = 1,13 |  |
+|  | YMac = 2, 1 |  |
+|  | Si adottano: |  |
+| C.3.4.1 (3) | Nota |  |
+|  |  | YM2.co = 7MrLc = Z, 2 |
+|  |  | 112.co= YMo.c = 1, 13 |
+|  | Si adottano: |  |
+| C.3.4.1 (4) | Nota | YMp.co TMp = 1,3 |
+|  |  | YMD.su - YMa.s = 2,1 |
+|  |  | Gli effetti dello "shear lag" nelle ali delle membrature possono essere trascurati se bo |
+|  |  | < Le / 50, in cui bo è a larghezza dell'ala libera o la semilarghezza dell'ala interna e Le |
+| K.1(1) | Nota | è la distanza tra i punti di momento nullo. |
+|  |  | Per le verifiche allo stato limite ultimo si adottano i valori raccomandati |
+
+{297}------------------------------------------------
+
+| K 301 |  | I Gli effetti dello "shear lag" per le verifiche agli stati limite ultimi possono essere |
+| --- | --- | --- |
+|  | Nota | determinati valutandoli in condizioni elastiche, come definito per gli stati limite di |
+|  |  | servizio e di fatica. |
+| K.3(1) | Nota 3 | | Nessuna prescrizione aggiuntiva |
+
+Gli Annessi A e B conservano valore normativo.
+
+Gli Annessi C, D, E, F, G, H, I, J, K, L e M conservano valore informativo.
+
+{298}------------------------------------------------
+
+![](6__page_298_Picture_3.jpeg)
+
+nistern delle. Intrastrutture e dei Irasporti
+
+## UNI EN 1999-1-2:2007
+
+## Eurocodice 9: Progettazione delle strutture di alluminio Parte 1-2: Progettazione strutturale contro l'incendio
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1999-1-2:2007
+
+### Parametri adottati a livello nazionale da utilizzare per le strutture di alluminio esposte all'incendio
+
+{299}------------------------------------------------
+
+### APPENDICE NAZIONALE
+
+UNI-EN1999-1-2 Eurocodice 9: Progettazione delle strutture di alluminio - Parte 1-2: Progettazione strutturale contro l'incendio
+
+EN 1999-1-2 Eurocode 9 : Design of aluminium structures – Part 1-2: Structural fire design
+
+#### 1. PREMESSA
+
+Questa Appendice Nazionale contiene i parametri nazionali alla UNI-EN 1999-1-2 ed è stata approvata dal Consiglio Superiore dei LL.PP. in data 25/02/2011
+
+#### 2. INTRODUZIONE
+
+#### 2.1. Campo di applicazione
+
+Questa Appendice Nazionale contiene al punto 3 le Decisioni sui Parametri Nazionali che debbono essere fissati nella UNI-EN 1999-1-2 relativamente ai seguenti paragrafi:
+
+| 2.3(1) nota | 2.4.2(3) nota 1 | 4.2.2.3(5) nota | 4.2.2.4(5) nota |
+| --- | --- | --- | --- |
+| 2.3(2) nota | 4.2.2.1(1) nota |  |  |
+
+Le suddette Decisioni Nazionali, relative ai paragrafi sopra citati, devono essere osservate quando si utilizzi, in Italia, la UNI-EN 1999-1-2.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente Appendice va tenuta presente quando si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN1999-1-2: Eurocodice 9: Progettazione delle strutture di alluminio - Parte 1-2: Progettazione strutturale contro l'incendio
+
+### 3. DECISIONI NAZIONALI
+
+Vengono qui di seguito riportati i parametri nazionali che si devono adottare per l'impiego dell'Eurocodice UNI-EN 1999-1-2
+
+{300}------------------------------------------------
+
+| Paragrafo | Riferimento | Parametro nazionale - valore o prescrizione - |
+| --- | --- | --- |
+| 2.3(1) | nota | Si adotta il valore raccomandato: |
+|  |  | YM.fi = 1,0 |
+| 2.3(2) | nota | Si adotta il valore raccomandato: |
+|  |  | YM.fi = 1,0 |
+| 2.4.2 (3) | nota 1 | Si adottano i valori indicati nelle appendici nazionali di EN1990 e EN1991-1-2 |
+| 4.2.2.1 (1) | nota | Non si forniscono indicazioni specifiche |
+| 4.2.2.3 (5) | nota | Non si forniscono indicazioni specifiche |
+| 4.2.2.4 (5) | nota | Non si forniscono indicazioni specifiche |
+| Utilizzo delle appendici informative |  | Le Appendici A e B mantengono il carattere informativo |
+
+{301}------------------------------------------------
+
+![](6__page_301_Picture_3.jpeg)
+
+inistero delle. Infrastrutture e dei Trasporti
+
+UNI EN 1999-1-3:2007
+
+## Eurocodice 9: Progettazione delle strutture di alluminio Parte 1-3: Strutture sottoposte a fatica
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1999-1-3:2007
+
+Parametri adottati a livello nazionale da utilizzare nelle strutture di alluminio soggette a fatica
+
+{302}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1999-1-3 - Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-3: Strutture sottoposte a fatica EN-1999-1-3 - Eurocode 9 - Design of aluminium structures - Part 1-3: Structures susceptible to fatigue
+
+### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1999-1-3, è stata approvata dal Consiglio Superiore dei LL. PP. In data 25/02/2011
+
+### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1999-1-3 relativamente ai seguenti paragrafi:
+
+| 2.1 (1) | 5.8.1 (1) | A.3.1 (1) |
+| --- | --- | --- |
+| 2.2.1 (3) | 5.8.2 (1) | E (ર) |
+| 2.3.1 (3) | 6.1.3 (1) | E (7) |
+| 2.3.2 (6) | 6.2.1(2) | I.2.2 (1) |
+| 2.4 (1) | 6.2.1 (7) | I.2.3.2 (1) |
+| 3 (1) | 6.2.1 (11) | I.2.4 (1) |
+| 4 (2) |  |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1999-1-3.
+
+### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1999-1-3 - Progettazione delle strutture di alluminio - Parte 1-3: Strutture sottoposte a fatica.
+
+{303}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| 2.1.1 (1) | Nota | Non è ammesso il metodo damage tolerant design. Anche per strutture per le quali il |
+|  |  | danneogiamento sia accestabile deve essere effettuata la verifica in riferimento alla |
+|  |  | durata di vita nominate. |
+| 2.2.1 (3) | Nota | Si adotta il valore raccomandato: Djim=1,0 |
+| 2.3.1 (3) | Nota 2 | Nessuna prescrizione aggiuntiva |
+| 2.3.2 (6) | Nota | Si adottano i valori raccomandati: kp = 2 |
+|  |  | ky = 2 |
+| 2.4 (1) | Nota 1 | Si adotta il valore raccomandato: |
+|  |  | ypr= 1 |
+| 2.4 (1) | Nota 2 | Si adottano i valori raccomandati nella Tabella 2.1. |
+| 3 (1) | Nota 1 | Nessuna informazione aggiuntiva |
+| 4 (2) | Nota 1 | Nessuna informazione aggiuntiva |
+| 5.8.1 (1) |  | I Ao da considerare nelle verifiche debbono essere coerenti con quelli considerati per |
+|  | Nota | la determinazione delle curve S-N. Assunzioni diverse debbono essere comunque cautelative: non è pertanto consentito considerare delta di tensione nominali se le |
+|  |  | curve S-N fanno riferimento a tensioni di picco. |
+| 5.8.2 (1) | Nota | I coefficienti di danneggiamento equivalente debbono essere ricavati da apposite calibrazioni., considerando valori di pendenza m della curva S-N coerenti con quelli |
+|  |  | delle curve S-N dei dettagli da verificare |
+| 6.1.3 (1) |  | Si adottano i valori raccomandati riportati nell'Annesso J |
+|  |  | Criteri di valutazione Conseguenza della rottura |
+|  |  | Conseguenze significative Consegnenze moderate |
+|  |  | Danneggiamento accettabile = = 1,15 15 = 1,00 |
+|  |  | Vita utile a fatica 8 = 1,15 The = 1,35 |
+| 6.2.1 (11) | Nota | Non sono ammessi incrementi di classe di resistenza a fatica |
+| A.3.1 (1) | Nota |  |
+|  |  | danneggiamento sia accettabile deve essere effettuata la verifica in riferimento alla |
+|  |  | durata di vita nominale. |
+| E (5) | Nota | Per i coefficienti parziali %« si adottano i valori della tabella riportata alla nota 2 del |
+|  |  | paragrafo 6.2.1(2) moltiplicati per 3,0. |
+| E (7) | Nota | Nessuna informazione aggiuntiva |
+| I.2.2 (1) | Nota | Nessuna informazione aggiuntiva |
+| 1.2.3.2 (1) | Nota 2 | Nessuna informazione aggiuntiva |
+|  | Nota 1 |  |
+| 6.1.3 (1) | Nota 2 | Nessuna informazione aggiuntiva |
+| 6.2.1(2) |  | Per i coefficienti parziali %cf si adottano i valori di tabella |
+|  | Nota 2 |  |
+| 6.2.1 (7) | Nota | Nessuna informazione aggiuntiva |
+|  |  | Non è ammesso il metodo damage tolerant design. Anche per strutture per le quali il |
+|  |  | Nessuna informazione aggiuntiva |
+| I.2.4 (1) | Nota |  |
+
+L'Annesso A conserva valore normativo.
+
+Gli Annessi B, C, D, E, F, G, H, I, J e K. conservano valore informativo.
+
+{304}------------------------------------------------
+
+![](6__page_304_Picture_3.jpeg)
+
+![](6__page_304_Picture_4.jpeg)
+
+## UNI EN 1999-1-4:2007
+
+## Eurocodice 9: Progettazione delle strutture di alluminio Parte 1-4: Lamiere sottili piegate a freddo
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1999-1-4:2007
+
+## Parametri adottati a livello nazionale da utilizzare per lamiere sottili di alluminio piegate a freddo
+
+{305}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1999-1-4 - Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-4: Lamiere sottili piegate a freddo
+
+EN-1999-1-4 - Eurocode 9 - Design of aluminium structures - Part 1-4: Cold-formed structural sheeting
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1999-1-4, è stata approvata dal Consiglio Superiore dei LL. PP. In data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 Ie decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1999-1-4 relativamente ai seguenti paragrafi:
+
+| 2(3) | 7.3(3) |
+| --- | --- |
+| 2(4) | A.1(1) |
+| 2(5) | A.3.4(3) |
+| 3.1(3) |  |
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1999-1-4.
+
+2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1999-1-4 - Progettazione delle strutture di alluminio -Parte 1-4: Lamiere sottili piegate a freddo.
+
+{306}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+|  |  | Si adottano i valori raccomandati: |
+| 2(3) | Nota | VM1 = 1,15 |
+|  |  | Puz = 1,25 |
+|  |  | Varz = 1.25 |
+| 2(4) | Nota | Si adotta il valore raccomandato: |
+|  |  | YM.scr = 1,0 |
+| 2(5) | Nota 1 | Nessuna informazione aggiuntiva |
+| 3.1(3) | Nota 1 | Nessuna informazione aggiuntiva |
+|  |  | Gli spostamenti verticali devopo essere congruenti con le prestazioni richieste alla struttura anche in relazione alla destinazione d'uso, con riferimento alle esigenze |
+|  |  | statiche, funzionali ed estetiche. Per quanto riguarda i valori limite, essi dovranno |
+|  |  | essere commisurati a specifiche esigenze e potranno essere dedotti da documentazione |
+|  |  | tecnica di comprovata validità. |
+|  |  | Per gli edifici si adottano i seguenti limiti per gli spostamenti verticali (omy freccia |
+|  |  | nello stato finale, depurata della monta iniziale; S2 variazione dovuta all'applicazione |
+|  |  | dei carichi variabili): |
+| 7.3(3) | Nota | - coperture in generale: Smax/L≤1/200, &p/L≤1/250 |
+|  |  | - coperture praticabili: Smax/LS1/250, 82/L≤1/300 |
+|  |  | - solai in generale: Smax/LS1/250, 82/LS1/300 |
+|  |  | - solai o coperture che reggono intonaco o altro materiale di finitura fragile o tramezzi |
+|  |  | non flessibili: omax/LS1/250, 82/LS1/350 |
+|  |  | - solai che supportano colonne: Smax/L/L/1/400, 82/L≤1/500 |
+|  |  | Nei casi in cui lo spostamento può compromettere l'aspetto dell'edificio: Smowli_1/250 |
+|  |  | In caso di specifiche esigenze tecniche e/o funzionali tali lirniti devono essere |
+|  |  | opportunamente ridotti. |
+| A. 1 (1) | Nota 2 | Nessuna informazione aggiuntiva |
+| A.1(1) | Nota 3 | Nessuna informazione aggiuntiva |
+| A.3.4(3) | Nota | I fattori parziali %, devono essere determinati seguendo le indicazioni di EN 1990, ma |
+|  |  | non saranno comunque inferiori a YM1 ≥ 1,15; YM2 ≥ 1,25 ; Yog ≥ 1,25. Per %vs si |
+|  |  | adotta il valore raccomandato: 177 = 1,0 |
+
+L'Annesso A conserva valore normativo.
+
+L'Annesso B conserva valore informativo.
+
+|  | 28 - 17 |  | 11 2017 | A CHE PART PART PART PARTY CON | AND THE CHANGE FOR THE WATER A 17 8 60 10 |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | STATUTE OF COLLECTION |  | 1000 |
+|  |  | 20 | And Contract of the Career of Children |  |  | And And Antonio Come of the Comments of |  |
+|  |  |  | 11 2 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 1 2 |  | SHERE SERVED September 1 | 2000 1000 FALL AND AND AND |  |
+|  |  |  |  |  |  | 100 100 100 1 |  |
+| SH 1950 AN |  | 2005 11 |  |  | OCCUPA | 150 113 11 |  |
+|  | the later status | P | Property of the contraction |  | Contract Concession 15 13 15 15 15 15 | 18 2 3 2 3 2 3 | Park |
+|  |  |  | B 1 216.6 A BARRETH POST OF COLLECTION OF |  | 1000 | 12 2 2 2 2 2 2 | 1 |
+|  |  |  | 1988 1988 PRODUCTION CONSULTION OF | 100 | 16.87 |  |  |
+|  |  | STATE OF THE | Carl 21 Act 2011 11 |  | Company | or cap and an and other SA 100 |  |
+
+{307}------------------------------------------------
+
+![](6__page_307_Picture_3.jpeg)
+
+Indrastrutture porti
+
+### UNI EN 1999-1-5:2007
+
+Eurocodice 9: Progettazione delle strutture di alluminio Parte 1-5: Strutture a guscio
+
+## APPENDICE NAZIONALE ITALIANA alla UNI EN 1999-1-5:2007
+
+Parametri adottati a livello nazionale da utilizzare per le strutture a guscio di alluminio
+
+{308}------------------------------------------------
+
+### Appendice nazionale
+
+UNI-EN-1999-1-5 -- Eurocodice 9 - Progettazione delle strutture di alluminio - Parte 1-5: Strutture a guscio
+
+EN-1999-1-5 - Eurocode 9 - Design of aluminium structures - Part 1-5: Shell structures
+
+#### 1) Premessa
+
+Questa Appendice nazionale, contenente i parametri nazionali alla UNI-EN-1999-1-5, è stata approvata dal Consiglio Superiore dei LL. PP. In data 25/02/2011
+
+#### 2) Introduzione
+
+- 2.1. Campo di applicazione
+Questa Appendice nazionale contiene al punto 3 le decisioni sui parametri nazionali che debbono essere fissati nella UNI-EN-1999-1-5 relativamente ai seguenti paragrafi:
+
+#### 2.1(4) 2.1(3)
+
+Queste decisioni nazionali, relative ai paragrafi sopra citati, devono essere applicate per l'impiego in Italia della UNI-EN-1999-1-5.
+
+#### 2.2. Documenti normativi di riferimento
+
+La presente appendice deve essere considerata quando i si utilizzano tutti i documenti normativi che fanno esplicito riferimento alla UNI-EN-1999-1-5 - Progettazione delle strutture di alluminio -Parte 1-5: Strutture a guscio.
+
+{309}------------------------------------------------
+
+#### 3) Decisioni nazionali
+
+| Paragrafo | Riferimento |  | Parametro nazionale |
+| --- | --- | --- |
+|  |  | - valore o prescrizione - |
+| Nota |  | Si adottano: | 2M1 = 1,15 |
+| 2.1(3) |  | 112 = 1,25 |
+|  |  | (valori raccomandati) |
+| 2.1(4) | Nota | Si adotta: |
+|  |  | 1 9M par = 1,U |
+|  |  | (valore raccomandato) |
+
+L'Annesso A conserva valore normativo.
+
+L'Annesso B conserva valore informativo.
+
+{310}------------------------------------------------
+
+Le Appendici nazionali agli EUROCODICI Relazione illustrativa
+
+Gli Eurocodici, costituiti da 58 parti e raggruppati in 10 testi normativi, sono le Norme europee - sia in campo strutturale che geotecnico - predisposte dal CEN (Comitato Europeo di Normalizzazione) su mandato della Commissione Europea, e con controllo del Comitato Permanente della Direttiva 89/106/CEE sui Prodotti da Costruzione.
+
+Si tratta di norme Europee il cui studio è iniziato negli anni '90 e si è concluso nell' anno 2007, con l' approvazione da parte del CEN, su parere degli Organismi di Normazione dei Paesi Membri UE e dei paesi dell' EFTA; ad esse è affidato il compito di facilitare la libera circolazione dei prestatori di servizi di ingegneria, nonché la circolazione per i prodotti e i materiali da costruzione all'interno dello spazio comunitario europeo.
+
+Si rammenta, al riguardo, che la Commissione Europea chiese agli Stati Membri, a suo tempo, la definizione di norme comuni che completassero la libera circolazione nel mercato Comune, oltre che dei prodotti, anche dei materiali da costruzione e dei "servizi", dovendo comprendersi tra questi ultimi anche la progettazione strutturale. A tal fine la Commissione Europea ha emanato, tra l'altro, la Raccomandazione datata 11.12.2003, relativa all'Applicazione e all'uso degli Eurocodici per i lavori di costruzione e prodotti strutturali da costruzione, che al p.to 4 recita: "la disparità tra i metodi di calcolo usati dalle normative nazionali in materia di edilizia ostacolano la libera circolazione dei servizi di ingegneria e di architettura all'interno della Comunità. L'uso degli Eurocodici dovrebbe agevolare la libera prestazione di servizi d'ingegneria edile e di architettura e creare le condizioni per un sistema armonizzati di regole generali".
+
+Queste norme non sono di per sé obbligatorie, perché dal Trattato di Roma tutti gli aspetti concernenti la Sicurezza sono di competenza degli Stati Membri; tuttavia, gli Eurocodici sono attualmente richiamati, come norme di riferimento, in numerose Norme europee di prodotto armonizzate (e quindi sono per questo fatto rese obbligatorie) e sono richiamati nella Direttiva Appalti Pubblici.
+
+Inoltre, agli Eurocodici sono ormai ispirate le Norme nazionali di molti Paesi Europei, e alcuni di questi li hanno già adottati come uniche Norme nazionali (tra i quali la Danimarca, l' Olanda e numerosi Paesi dell' Est Europa). Anche le Norme italiane, le Norme tecniche per le Costruzioni di cui al D.M. 14.01.2008 (nel seguito NTC 2008), hanno lo stesso "formato" degli Eurocodici, e ad essi fanno riferimento molto spesso nel testo, e in particolare nel Cap. I ultimo comma, in cui precisano:
+
+{311}------------------------------------------------
+
+"Circa le indicazioni applicative per I' ottenimento delle prescritte prestazioni, per auanto non espressamente specificato nel presente documento (NTC 2008), ci si può riferire a normative di comprovata validità e ad altri documenti tecnici elencati nel Cap. 12. In particolare quelle fornite dagli Eurocodici con le relative Appendici Nazionali costituiscono indicazioni di comprovata validità e forniscono il sistematico supporto applicativo delle presenti norme.
+
+Inoltre, al Capitolo 12 "Riferimenti Tecnici" le stesse NTC08, al primo capoverso, stabiliscono che per quanto non diversamente specificato nelle norme tecniche per le costruzioni si intendono coerenti con i principi alla base delle stesse, le indicazioni riportate negli Eurocodici strutturali pubblicati dal CEN, con le precisazioni riportate nelle Appendici Nazionali o, in mancanza di esse, nella forma internazionale EN;
+
+Infine la Circolare del 2 febbraio 2009 n. 617 recante Istruzioni per l'applicazione delle "Nuove norme tecniche per le Costruzioni" di cui al DM 14 gennaio 2008 conferma, relativamente al capitolo 12 delle NTC08, che gli Eurocodici strutturali pubblicati dal CEN costituiscono un importante riferimento per l'applicazione delle Norme Tecniche.
+
+All' interno del testo degli Eurocodici vi sono numerosi parametri (da definirsi mediante la "Appendici Nazionali" agli EC) la cui definizione è lasciata al Paese Membro: si tratta di punti specifici, a carattere tecnico, che riguardano la sicurezza in genere (ad es. i coefficienti parziali) oppure aspetti di specificità nazionale (ad esempio tipi di prodotti usati tradizionalmente in un Paese) oppure ancora di trattazioni specifiche di calcolo che vengono impiegate da tempo in un Paese che ritiene preferibili non cambiarle e più in genere punti sui quali non vi era il consenso in sede europea in fase di redazione e approvazione degli Eurocodici. Questi "punti" sono esattamente individuati negli Eurocodici, laddove vi è una Nota che recita: "…. I' Annesso Nazionale può dare indicazioni o valori specifici".
+
+A Riguardo la Commissione Europea ha fornito indicazioni per la preparazione delle Appendici Nazionali mediante la Guidance Paper L (concerning the Costruction Products Directive – 89/106/EEC) Application and Use of Eurocodes (Revision April 2003), che al Cap. 2.3, tratta di National Annexes of the EN Eurocode Parts e fornisce le indicazioni e i criteri da seguire per predisporre tali Appendici.
+
+Ovviamente è precisato che attraverso le Appendici Nazionali non è consentito ad uno specifico Paese Membro di modificare liberamente il testo degli Eurocodici, ma è lecito operare solo laddove vi è una "finestra" aperta nel testo degli EC; inoltre, è solo consentito l'eventuale inserimento di "Indicazioni aggiuntive, non contradditorie con il testo degli EC".
+
+{312}------------------------------------------------
+
+Per quanto rappresentato, le Appendici Nazionali costituiscono quindi l' "anello" tra le norme comuni europee (i 10 Eurocodici) e i singoli Paesi Membri.
+
+In Italia, la definizione delle Appendici Nazionali è avvenuta tramite appositi Gruppi di lavoro operanti sin dal 2004 presso il Consiglio Superiore dei Lavori Pubblici; si è trattato di elaborare, definire e scegliere complessivamente 1169 Paramatri nazionali (NDP: Nationally Determined Parameter), divisi nelle 58 parti di cui sono costituiti gli Eurocodici, ciascuna parte con un numero di NDP molto variabile.
+
+L'approvazione formale degli NDP, dal punto di vista tecnico, è avvenuta recentemente con due Pareri resi dall'Assemblea Generale del Consiglio Superiore, rispettivamente il n.98 del 24.9.2010 ed il n. 4 del 25.2.2011. Con questa approvazione tecnica, si è avviata a conclusione una fase importante ed indispensabile al fine di rendere gli Eurocodici direttamente utilizzabili in Italia, in ausilio e supporto delle Norme Tecniche nazionali nel settore della progettazione strutturale e geotecnica.
+
+C'è da precisare che la Commissione Europea ha dato incarico ad un suo Organismo, il JRC - Joint Research Center - di Ispra di seguire, raccogliere, classificare ed esaminare gli Annessi Techni che i Paesi Membri debbono predisporre, approvare, e infine trasmettere via via al JRC.
+
+La Commissione si riserva poi di raccogliere tutti i 58 Annessi Nazionali (delle 58 parti di EC), dei 30 Paesi (27 EU e EFTA), e con le procedure necessarie a diffonderli, così da consentire in tutta Europa ai Professionisti di ogni Paese di poter progettare con gli EC in qualunque altro Paese europeo, unendo il testo degli Eurocodici a quello degli Annessi Tecnici del Paese ove si intende progettare un' opera di ingegneria.
+
+#### 13A02562
+
+Marco Mancinetti, redattore
+
+DELIA CHIARA, vice redattore
+
+(WI-GU-2013-SON-022) Roma, 2013 - Istituto Poligrafico e Zecca dello Stato S.p.A.
+
+{313}------------------------------------------------
+
+![](6__page_313_Picture_0.jpeg)
+
+{314}------------------------------------------------
+
+### MODALITÀ PER LA VENDITA
+
+#### La «Gazzetta Ufficiale» e tutte le altre pubblicazioni dell'Istituto sono in vendita al pubblico:
+
+- presso l'Agenzia dell'Istituto Poligrafico e Zecca dello Stato S.p.A. in ROMA, piazza G. Verdi, 1 - 00198 Roma ☏ 06-85082147
+- presso le librerie concessionarie riportate nell'elenco consultabile suisiti www.ipzs.it l e www.gazzettaufficiale.it.
+
+L'Istituto conserva per la vendita le Gazzette degli ultimi 4 anni fino ad esaurimento. Le richieste per corrispondenza potranno essere inviate a:
+
+Istituto Poligrafico e Zecca dello Stato Direzione Marketing e Vendite Via Salaria, 1027 00138 Roma fax: 06-8508-3466 e-mail: informazioni@gazzettaufficiale.it
+
+avendo cura di specificare nell'ordine, oltre al fascicolo di GU richiesto, l'indirizzo di spedizione edi fatturazione (se diverso) ed indicando i dati fiscali (codice fiscale e partita IVA, se titolari) obbligatori secondo il DL 223/2007. L'importo della fornitura, maggiorato di un contributo per le spese di spedizione, sarà versato in contanti alla ricezione.
+
+![](6__page_314_Picture_7.jpeg)
+
+{315}------------------------------------------------
+
+### GAZZETTA UFFICIALE
+
+DELLA REPUBBLICA ITALIANA
+
+CANONI DI ABBONAMENTO (salvo conguaglio) validi a partire dal 1º GENNAIO 2013
+
+GAZZETTA UFFICIALE - PARTE I (legislativa)
+
+| Tipo A | Abbonamento ai fascicoli della serie generale, inclusi tutti i supplementi ordinari: |  | CANONE DI ABBONAMENTO |
+| --- | --- | --- | --- |
+|  | (di cui spese di spedizione € 257,04)* | - annuale | € 438,00 |
+|  | (di cui spese di spedizione € 128,52)* | - semestrale | € 239.00 |
+| Tipo B | Abbonamento ai fascicoli della serie speciale destinata agli atti dei giudizi davanti alla Corte Costituzionale: |  |  |
+|  | (di cui spese di spedizione € 19,29)* | - annuale | ೯ 68.00 |
+|  | (di cui spese di spedizione € 9,64)* | - semestrale | € 43,00 |
+| Tino C | Abbonamento ai fascicoli della serie speciale destinata agli atti della UE: |  |  |
+|  | (di cui spese di spedizione € 41,27)* | - annuale | € 168.00 |
+|  | (di cui spese di spedizione € 20,63)* | - semestrale | ਵ 91,00 |
+| Tipo D | Abbonamento ai fascicoli della serie destinata alle leggi e regolamenti regionali: |  |  |
+|  | (di cui spese di spedizione € 15,31)* | - annuale | € 65.00 |
+|  | (di cui spese di spedizione € 7,65)* | - semestrale | ਵ 40.00 |
+| Tipo E | Abbonamento ai fascicoli della serie speciale destinata ai concorsi indetti dallo Stato e dalle altre pubbliche amministrazioni: |  |  |
+|  | (di cui spese di spedizione € 50,02)* | - annuale | ೯ 167.00 |
+|  | (di cui spese di spedizione € 25,01)* | - semestrale | ਵ 90.00 |
+| Tipo F | Abbonamento ai fascicoli della serie generale, inclusi tutti i supplementi ordinari, e dai fascicoli delle quattro serie speciali: |  |  |
+|  | (di cui spese di spedizione € 383,93)* | - annuale | € 819.00 |
+|  | (di cui spese di spedizione € 191,46)* | - semestrale | € 431.00 |
+
+N.B.: L'abbonamento alla GURI tipo A ed F comprende gli indici mensil
+
+#### CONTO RIASSUNTIVO DEL TESORO
+
+Abbonamento annuo (incluse spese di spedizione)
+
+€ 56,00
+
+PREZZI DI VENDITA A FASCICOLI
+
+(Oltre le spese di spedizione)
+
+Prezzi di vendita: serie generale
+
+serie speciali (escluso concorsi), ogni 16 pagine o frazione
+
+fascicolo serie speciale, concorsi, prezzo unico
+
+supplementi (ordinari e straordinari) ogni 16 pagine o frazione fascicolo Conto Riassuntivo del Tesoro, prezzo unico
+
+I.V.A. 4% a carico dell'Editore
+
+PARTE I - 5ª SERIE SPECIALE - CONTRATTI PUBBLICI
+
+(di cui spese di spedizione € 128,06)
+
+GAZZETTA UFFICIALE - PARTE II
+
+(di cui spese di spedizione € 39,73)
+(di cui spese di spedizione € 20,77)
+
+Prezzo di vendita di un fascicolo, ogni 16 pagine o frazione (oltre le spese di spedizione)
+
+Sulle pubblicazioni della 5° Serie Speciale e della Parte II viene imposta I.V.A. al 21%.
+
+#### RACCOLTA UFFICIALE DEGLI ATTI NORMATIVI
+
+Abbonamento annuo
+
+I.V.A. 4% a carico dell'Editore
+
+Per l'estero i prezzi di vendita (in abbonamento ed a fascicoli separati) anche per le annate arerdrate, comoresi i fascicoli dei suppementi ordinari 
+straordinari, devono straordinari, relativi anche ad anni precedenti, devono intendersi raddoppiati. Per intere annate è raddoppiato il prezzo dell'abbonamento in corso I e spese di spedizione relative alle richieste di invio per corrisspondenza di sinooli fascicoli, vengono stabilite, di volta in volta, in base alle copie richieste. Eventuali fascicoli non recapitati potranno essere forniti gratuitamente entro 60 giorni dalla data di pubblicazione del fascicolo. Oltre tale periodo questi potranno essere forniti soltanto a pagamento.
+
+N.B. - La spedizione dei fascicoli inizierà entro 15 giorni dall'attivazione da parte dell'Ufficio Abbonamenti Gazzetta Ufficiale.
+
+RESTANO CONFERMATI GLI SCONTI COMMERCIALI APPLICATI AI SOLI COSTI DI ABBONAMENTO
+
+48/2004) per soggetti iscritti al R.O.C.
+
+![](6__page_315_Picture_36.jpeg)
+
+€ 20,00
+
+![](6__page_315_Picture_38.jpeg)
+
+መደብ :
+
+(1)
+
+€
+
+annuale 300,00 165.00 - semestrale
+
+> 86.00 55.00
+
+190,00
+
+e 180.50
+
+- annuale
+
+- semestrale
+
+(€ 0,83+ IVA)
+
+1,00
+
+18.00`
 
 };
 

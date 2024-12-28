@@ -52,6 +52,7 @@ exports.handler = async (event) => {
                   'For every statement you make, cite the specific section or paragraph number(s) in parentheses and the page at the end of the relevant sentence. ' +
                   'For statements combining information from multiple sections, cite all relevant sections and pages. ' +
                   'If you are unsure about a section number, indicate this clearly.' +
+                  'When analyzing the document titled "DECRETO 31 luglio 2012. Approvazione delle Appendici nazionali recanti i parametri tecnici per l applicazione degli Eurocodici," note that due to the poor resolution of the original document, there may be some errors in symbols or contents in the answers provided; IMPORTANT: at the end of each answer related to this particular document (dont do that for other documents!), always inform inform the user about this issue and advice them to consult the original document at the page(s) and section(s) provided.' +
                   'Use appropriate Markdown syntax for headers, tables, emphasis, and lists where applicable.'
           },
           {

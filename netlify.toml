@@ -2,13 +2,6 @@
   functions = "netlify/functions"
   publish = "public"
 
-[functions]
-  [functions.timeout]
-  external_node_modules = []
-  included_files = []
-  node_bundler = "esbuild"
-  timeout_seconds = 60
-
 [dev]
   publish = "public"
   port = 8888

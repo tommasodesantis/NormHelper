@@ -6,6 +6,14 @@ const fileSelect = document.getElementById('fileSelect');
 const llmSelect = document.getElementById('llmSelect');
 
 // Constants
+const NORMATIVE_PDF_LINKS = {
+  'Eurocode 2 Design of concrete structures Part 1-2': 'https://drive.google.com/file/d/1svMexZcZVurkKqgre0ICJPvyOgWPkIsc/view?usp=sharing',
+  'UNI EN 1992-1-2 2005 Eurocodice 2-Progettzione delle strutture in calcestruzzo-Parte 1-2': 'https://drive.google.com/file/d/1MoeE3ZyoqYqlgCP0TxT357s0SqwDIIOi/view?usp=sharing',
+  'UNI EN 1992-1-1 2005 Eurocodice 2-Progettazione delle strutture in calcestruzzo-Parte 1-1': 'https://drive.google.com/file/d/1zfGodArr4GRPTklrWsWASVejVqoBVWa9/view?usp=sharing',
+  'Eurocode 2 Design of concrete structures Part 1-1': 'https://drive.google.com/file/d/1tnRhN-BkbAcXsgLqXj-XnXzPWoP-zs0e/view?usp=sharing',
+  'Annesso Italiano EC': 'https://drive.google.com/file/d/1mAcs0e5G7LzWt1KNIxi8x-FZj49Fag9P/view?usp=sharing'
+};
+
 const RESTRICTED_MODELS = [
   'amazon/nova-pro-v1',
   'google/gemini-2.0-flash-exp:free',
@@ -245,9 +253,23 @@ function appendMessage(sender, content) {
     messageContent.classList.add('error-message');
   }
   
+  // Add the main content
   messageContent.innerHTML = marked.parse(content);
-  messageDiv.appendChild(messageContent);
   
+  // If it's a bot message and not an error, append the PDF link
+  if (sender === 'bot' && !content.startsWith('Sorry, I encountered an error')) {
+    const selectedNormative = fileSelect.value.replace('.txt', '').replace(/_/g, ' ');
+    const pdfLink = NORMATIVE_PDF_LINKS[selectedNormative];
+    
+    if (pdfLink) {
+      const linkDiv = document.createElement('div');
+      linkDiv.className = 'pdf-link';
+      linkDiv.innerHTML = `<hr><small><a href="${pdfLink}" target="_blank">📄 View Normative PDF</a></small>`;
+      messageContent.appendChild(linkDiv);
+    }
+  }
+  
+  messageDiv.appendChild(messageContent);
   chatMessages.appendChild(messageDiv);
   chatMessages.scrollTop = chatMessages.scrollHeight;
 }
@@ -273,6 +295,22 @@ style.textContent = `
         border-radius: 0.375rem;
         padding: 0.75rem;
         margin: 0.5rem 0;
+    }
+    .pdf-link {
+        margin-top: 10px;
+        font-size: 0.9em;
+    }
+    .pdf-link hr {
+        margin: 8px 0;
+        border: 0;
+        border-top: 1px solid #eee;
+    }
+    .pdf-link a {
+        color: #2563eb;
+        text-decoration: none;
+    }
+    .pdf-link a:hover {
+        text-decoration: underline;
     }
 `;
 document.head.appendChild(style);
