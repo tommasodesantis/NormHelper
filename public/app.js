@@ -25,6 +25,9 @@ questionInput.addEventListener('keypress', (e) => {
 
 // Fetch and Populate File List on DOM Content Loaded
 document.addEventListener('DOMContentLoaded', async () => {
+  // Add welcome message
+  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. To get started, please select a normative document and an AI model (Claude 3.5 Sonnet is recommended) in the side panel. Then, feel free to ask me any questions about the selected normative!');
+
   try {
     console.log('Fetching file list...');
     const response = await fetch('/.netlify/functions/listFiles');
@@ -91,6 +94,11 @@ async function handleSendMessage() {
       throw new Error('NO_FILE_SELECTED');
     }
 
+    // Validate AI model selection
+    if (!llmSelect.value) {
+      throw new Error('NO_MODEL_SELECTED');
+    }
+
     console.log('Sending request with:', {
       question,
       fileName: fileSelect.value,
@@ -141,6 +149,10 @@ async function handleSendMessage() {
     switch(error.message) {
       case 'NO_FILE_SELECTED':
         errorMessage += 'Please select a text document first.';
+        break;
+
+      case 'NO_MODEL_SELECTED':
+        errorMessage += 'Please select an AI model first.';
         break;
         
       case 'INVALID_RESPONSE':
@@ -221,7 +233,7 @@ function handleModelChange(event) {
   const selectedModel = event.target.value;
   
   if (RESTRICTED_MODELS.includes(selectedModel)) {
-    const password = prompt('This model requires an admin password, enter it or select one of the following models: Claude 3.5 Sonnet, OpenAI GPT-4o, Gemini Flash 1.5 8B or Gemini Pro 1.5:');
+    const password = prompt('This model requires an admin password, enter it or select one of the following models: Claude 3.5 Sonnet (recommended), OpenAI GPT-4o, Gemini Flash 1.5 8B or Gemini Pro 1.5:');
     
     if (password !== PASSWORD) {
       alert('Incorrect password. Access denied.');
