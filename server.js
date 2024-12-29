@@ -5,12 +5,28 @@ require('dotenv').config();
 
 const app = express();
 const PORT = process.env.PORT || 5000;
+const isProduction = process.env.NODE_ENV === 'production';
+
+// Security middleware
+app.use((req, res, next) => {
+  res.setHeader('X-Content-Type-Options', 'nosniff');
+  res.setHeader('X-Frame-Options', 'DENY');
+  res.setHeader('X-XSS-Protection', '1; mode=block');
+  next();
+});
 
 // Middleware to parse JSON bodies
 app.use(express.json());
 
-// Serve static files from the 'public' directory
-app.use(express.static(path.join(__dirname, 'public')));
+// Serve static files from the 'public' directory with production optimizations
+if (isProduction) {
+  app.use(express.static(path.join(__dirname, 'public'), {
+    maxAge: '1y',
+    etag: false
+  }));
+} else {
+  app.use(express.static(path.join(__dirname, 'public')));
+}
 
 /**
  * Route: /api/ask
