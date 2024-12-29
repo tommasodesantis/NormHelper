@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   try {
     console.log('Fetching file list...');
-    const response = await fetch('/.netlify/functions/listFiles');
+    const response = await fetch('/api/listFiles');
 
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
@@ -131,7 +131,7 @@ async function handleSendMessage() {
     showTypingIndicator();
 
     // Call updated serverless function
-    response = await fetch('/.netlify/functions/ask', {
+    response = await fetch('/api/ask', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

@@ -2,14 +2,14 @@
   "name": "Normio",
   "version": "1.0.0",
   "description": "Normatives Assistant",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "netlify dev"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
     "node-fetch": "^2.7.0"
-  },
-  "devDependencies": {
-    "netlify-cli": "^17.10.1"
   }
 }
