@@ -4,6 +4,11 @@ const questionInput = document.getElementById('questionInput');
 const sendButton = document.getElementById('sendButton');
 const fileSelect = document.getElementById('fileSelect');
 const llmSelect = document.getElementById('llmSelect');
+const modeSelect = document.getElementById('modeSelect');
+const ragOptions = document.getElementById('ragOptions');
+const rerankToggle = document.getElementById('rerankToggle');
+const topKInput = document.getElementById('topKInput');
+const maxChunksInput = document.getElementById('maxChunksInput');
 
 // Constants
 const NORMATIVE_PDF_LINKS = {
@@ -31,9 +36,29 @@ questionInput.addEventListener('keypress', (e) => {
   }
 });
 
+// Function to handle mode changes
+function handleModeChange(isRagMode) {
+  // Toggle visibility of sections
+  ragOptions.classList.toggle('hidden', !isRagMode);
+  
+  const normativeSection = document.getElementById('normativeSection');
+  const llmSection = document.getElementById('llmSection');
+  
+  normativeSection.classList.toggle('hidden', isRagMode);
+  llmSection.classList.toggle('hidden', isRagMode);
+}
+
+// Mode selection event listener
+modeSelect.addEventListener('change', (event) => {
+  handleModeChange(event.target.value === 'RAG Search');
+});
+
 // Fetch and Populate File List on DOM Content Loaded
 document.addEventListener('DOMContentLoaded', async () => {
-// Add toggle button for mobile
+  // Set initial mode state
+  handleModeChange(modeSelect.value === 'RAG Search');
+  
+  // Add toggle button for mobile
   const container = document.querySelector('.container');
   const sidePanel = document.querySelector('.side-panel');
 
@@ -48,7 +73,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   });
 
   // Add welcome message
-  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. To get started, please select a normative document and an AI model (Claude 3.5 Sonnet is recommended) in the side panel. Then, feel free to ask me any questions about the selected normative!');
+  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. To get started, please select a normative document and an AI model (Claude 3.5 Sonnet is recommended) in the side panel. You can use Standard Chat mode for general questions or RAG Search mode for specific document searches!', 'standard');
 
   try {
     console.log('Fetching file list...');
@@ -93,7 +118,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     option.textContent = 'Error loading documents';
     option.disabled = true;
     fileSelect.appendChild(option);
-    appendMessage('bot', `Unable to load document list: ${error.message}`);
+    appendMessage('bot', `Unable to load document list: ${error.message}`, 'standard');
   }
 });
 
@@ -102,46 +127,78 @@ async function handleSendMessage() {
   const question = questionInput.value.trim();
   if (!question) return;
 
+  const selectedMode = modeSelect.value;
+
   // Disable input while processing
   setInputState(false);
   
   // Add user message to UI
-  appendMessage('user', question);
+  appendMessage('user', question, selectedMode);
   questionInput.value = '';
 
-  let response;
   try {
-    // Validate file selection
-    if (!fileSelect.value) {
-      throw new Error('NO_FILE_SELECTED');
+    // Validate AI model selection for standard mode
+    if (selectedMode === 'standard') {
+      if (!fileSelect.value) {
+        throw new Error('NO_FILE_SELECTED');
+      }
+      if (!llmSelect.value) {
+        throw new Error('NO_MODEL_SELECTED');
+      }
     }
-
-    // Validate AI model selection
-    if (!llmSelect.value) {
-      throw new Error('NO_MODEL_SELECTED');
-    }
-
-    console.log('Sending request with:', {
-      question,
-      fileName: fileSelect.value,
-      model: llmSelect.value
-    });
 
     // Show typing indicator before making the request
     showTypingIndicator();
 
-    // Call updated serverless function
-    response = await fetch('/api/ask', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
+    let response, data;
+
+    if (selectedMode === 'standard') {
+      console.log('Sending standard chat request with:', {
         question,
         fileName: fileSelect.value,
         model: llmSelect.value
-      }),
-    });
+      });
+
+      response = await fetch('/api/ask', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          question,
+          fileName: fileSelect.value,
+          model: llmSelect.value
+        }),
+      });
+    } else if (selectedMode === 'RAG Search') {
+      // Validate RAG options
+      const topK = parseInt(topKInput.value, 10);
+      const maxChunks = parseInt(maxChunksInput.value, 10);
+
+      if (topK < 1 || topK > 100) {
+        throw new Error('INVALID_TOP_K');
+      }
+
+      console.log('Sending RAG request with:', {
+        query: question,
+        rerank: rerankToggle.checked,
+        top_k: topK,
+        max_chunks_per_document: maxChunks
+      });
+
+      response = await fetch('/api/rag', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          query: question,
+          rerank: rerankToggle.checked,
+          top_k: topK,
+          max_chunks_per_document: maxChunks
+        }),
+      });
+    }
 
     // Handle HTTP errors
     if (!response.ok) {
@@ -154,23 +211,47 @@ async function handleSendMessage() {
       throw new Error(`HTTP_ERROR_${response.status}`);
     }
 
-    const data = await response.json();
+    data = await response.json();
     console.log('Received response:', data);
 
     // Validate response data
-    if (!data || !data.answer) {
+    if (selectedMode === 'standard' && (!data || !data.answer)) {
+      throw new Error('INVALID_RESPONSE');
+    }
+    if (selectedMode === 'RAG Search' && (!data || !data.chunks)) {
       throw new Error('INVALID_RESPONSE');
     }
 
     // Remove typing indicator and add bot response to UI
     removeTypingIndicator();
-    appendMessage('bot', data.answer);
+
+    if (selectedMode === 'standard') {
+      appendMessage('bot', data.answer, selectedMode);
+    } else {
+      // Format RAG response with improved metadata display
+      let formattedResponse = '### Retrieved Information\n\n';
+      data.chunks.forEach((chunk, index) => {
+        formattedResponse += `#### Result ${index + 1} (Score: ${chunk.score.toFixed(4)})\n`;
+        formattedResponse += `**Source:** ${chunk.metadata.name}\n`;
+        formattedResponse += `**Type:** ${chunk.metadata.type}\n`;
+        if (chunk.metadata.uploaded_at) {
+          const date = new Date(chunk.metadata.uploaded_at * 1000);
+          formattedResponse += `**Added:** ${date.toLocaleDateString()}\n`;
+        }
+        formattedResponse += `\n${chunk.text}\n\n---\n\n`;
+      });
+      
+      if (data.chunks.length === 0) {
+        formattedResponse = '### No Results Found\n\nNo relevant information was found in the knowledge base for your query. Try rephrasing your question or using different keywords.';
+      }
+      
+      appendMessage('bot', formattedResponse, selectedMode);
+    }
 
   } catch (error) {
     console.error('Error:', error);
     
-    // Determine appropriate error message based on error type
-    let errorMessage = 'Sorry, I encountered an error while processing your question. ';
+    let errorMessage = 'Sorry, I encountered an error while processing your request. ';
     
     switch(error.message) {
       case 'NO_FILE_SELECTED':
@@ -180,7 +261,11 @@ async function handleSendMessage() {
       case 'NO_MODEL_SELECTED':
         errorMessage += 'Please select an AI model first.';
         break;
-        
+
+      case 'INVALID_TOP_K':
+        errorMessage += 'Top K must be between 1 and 100.';
+        break;
+
       case 'INVALID_RESPONSE':
         errorMessage += 'Received an invalid response from the server. Please try again.';
         break;
@@ -204,7 +289,7 @@ async function handleSendMessage() {
     
     // Remove typing indicator and show error message
     removeTypingIndicator();
-    appendMessage('bot', errorMessage);
+    appendMessage('bot', errorMessage, 'standard');
   }
 
   // Re-enable input
@@ -241,7 +326,7 @@ function removeTypingIndicator() {
 }
 
 // Append a message to the chat UI
-function appendMessage(sender, content) {
+function appendMessage(sender, content, mode) {
   const messageDiv = document.createElement('div');
   messageDiv.className = `message ${sender}`;
   
@@ -253,11 +338,11 @@ function appendMessage(sender, content) {
     messageContent.classList.add('error-message');
   }
   
-  // Add the main content
+  // Add the main content with markdown parsing
   messageContent.innerHTML = marked.parse(content);
   
-  // If it's a bot message and not an error, append the PDF link
-  if (sender === 'bot' && !content.startsWith('Sorry, I encountered an error')) {
+  // If it's a bot message in standard mode and not an error, append the PDF link
+  if (sender === 'bot' && mode === 'standard' && !content.startsWith('Sorry, I encountered an error')) {
     const selectedNormative = fileSelect.value.replace('.txt', '').replace(/_/g, ' ');
     const pdfLink = NORMATIVE_PDF_LINKS[selectedNormative];
     
@@ -283,6 +368,10 @@ function setInputState(enabled) {
   // Also disable file selection and LLM selection while processing
   fileSelect.disabled = !enabled;
   llmSelect.disabled = !enabled;
+  modeSelect.disabled = !enabled;
+  rerankToggle.disabled = !enabled;
+  topKInput.disabled = !enabled;
+  maxChunksInput.disabled = !enabled;
 }
 
 // Add CSS for error message styling

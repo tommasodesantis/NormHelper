@@ -1,6 +1,7 @@
 const express = require('express');
 const fetch = require('node-fetch');
 const path = require('path');
+const { performRetrieval } = require('./src/ragie');
 require('dotenv').config();
 
 const app = express();
@@ -69,20 +70,18 @@ app.post('/api/ask', async (req, res) => {
         content: [
           {
             type: 'text',
-            text: 'You are a helpful assistant specialized in analyzing technical engineering documents. ' +
-                  'You have been given a text document to analyze. Please read it carefully and provide detailed, accurate answers. ' +
-                  'For every statement you make, cite the specific section or paragraph number(s) in parentheses and the page at the end of the relevant sentence. ' +
+            text: 'You are a specialized AI assistant for civil engineers. Your primary function is to help engineers understand and apply building codes, standards, and normatives accurately. ' +
+                  'Core responsabilities: 1. Provide precise citations of relevant code sections and standards 2. Explain technical requirements clearly and accurately 3. Explain technical requirements clearly and accurately 3. Present numerical values and equations in a clear, structured format 4. Highlight critical safety requirements and mandatory provision 5. Note any regional ariations or special considerations when relevant. ' +
+                  'You have been given a text document to analyze, read it accurately since this will be your source of information to provide answers. ' +
+                  'IMPORTANT: For every statement you make, cite the specific section or paragraph number(s) in parentheses and the page at the end of the relevant sentence. ' +
                   'For statements combining information from multiple sections, cite all relevant sections and pages. ' +
                   'If you are unsure about a section number, indicate this clearly.' +
-                  'When analyzing the document titled "DECRETO 31 luglio 2012. Approvazione delle Appendici nazionali recanti i parametri tecnici per l applicazione degli Eurocodici," note that due to the poor resolution of the original document, there may be some errors in symbols or contents in the answers provided; IMPORTANT: at the end of each answer related to this particular document (dont do that for other documents!), always inform inform the user about this issue and advice them to consult the original document at the page(s) and section(s) provided.' +
-                  'Use appropriate Markdown syntax for headers, tables, emphasis, and lists where applicable.'
+                  'Use appropriate Markdown syntax for headers, tables, emphasis, and lists where applicable. ' +
+                  'Use proper engineering notation and units, organize information hierarchically with clear section headers, distinguish between mandatory requirements ("shall", "must") and recommendations ("should").'
           },
           {
             type: 'text',
-            text: textContent,
-            cache_control: {
-              type: 'ephemeral'
-            }
+            text: textContent
           }
         ]
       },
@@ -153,6 +152,66 @@ app.get('/api/listFiles', (req, res) => {
 // Fallback Route to Serve index.html for Client-Side Routing
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
+/**
+ * Route: /api/rag
+ * Method: POST
+ * Description: Handles RAG search using Ragie's retrieval API
+ */
+app.post('/api/rag', async (req, res) => {
+  try {
+    const { 
+      query,
+      rerank = true,
+      top_k = 8,
+      max_chunks_per_document = 2,
+      filter = undefined
+    } = req.body;
+
+    if (!query?.trim()) {
+      return res.status(400).json({ error: 'Query is required.' });
+    }
+
+    const ragieApiKey = process.env.RAGIE_API_KEY;
+    if (!ragieApiKey) {
+      return res.status(500).json({ error: 'Server configuration error: Ragie API key missing.' });
+    }
+
+    // Perform retrieval using Ragie API
+    const retrievalPayload = {
+      query: query.trim(),
+      rerank,
+      top_k,
+      max_chunks_per_document,
+      filter
+    };
+
+    const chunks = await performRetrieval(ragieApiKey, retrievalPayload);
+
+    // Return retrieved chunks with metadata
+    res.status(200).json({
+      chunks: chunks.map(chunk => ({
+        text: chunk.text,
+        score: chunk.score,
+        document_id: chunk.document_id,
+        metadata: {
+          name: chunk.document_metadata?.document_name || 'Unknown',
+          type: chunk.document_metadata?.document_type || 'Unknown',
+          source: chunk.document_metadata?.document_source || 'Unknown',
+          uploaded_at: chunk.document_metadata?.document_uploaded_at || null
+        }
+      }))
+    });
+
+  } catch (error) {
+    console.error('Error in /api/rag:', error);
+    const isRagieError = error.message.includes('Ragie API Error');
+    res.status(isRagieError ? 400 : 500).json({
+      error: isRagieError ? error.message : 'An unexpected error occurred. Please try again later.',
+      details: error.toString()
+    });
+  }
 });
 
 // Start the Server

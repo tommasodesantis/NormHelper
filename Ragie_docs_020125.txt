@@ -1,0 +1,1518 @@
+Getting Started with Ragie
+Suggest Edits
+Ragie provides secure retrieval augmented generation APIs for developers.
+
+Basics
+Create documents in Ragie by posting files to the /documents endpoint. Ragie can handle many different types of structured and unstructured files. metadata can be attached to documents to support flexible filtering at retrieval and generation time.
+
+Once you've added documents to Ragie you can semantically search them using the /retrievals endpoint. You can pass a metadata filter which acts as a pre-filter on the retrieval. You may also set options like rerank to improve retrieval quality.
+
+For full details on the available APIs and their options visit the api reference.
+
+Authentication
+Ragie uses Bearer Authentication for authenticating requests. Add an http header in the following form to your requests.
+
+authorization: Bearer <your_api_key>
+
+Concepts
+Documents
+Files get imported into Ragie as documents. Their contents are processed to extract semantic information. Many file types are supported and images embedded within documents are further processed to extract their semantic data. The full list of supported file types is available in related methods in the api reference. Documents may include optional metadata that can later be used to filter retrieval. The file associated with a document may be updated, replacing the previous version in future retrieval results.
+
+Metadata
+An arbitrary object that is stored with a document and may be used to pre-filter retrieval results. Useful for implementing many use cases such as permissions and categorization. May be updated without re-processing the document's file. Learn more.
+
+Retrieval
+A natural language query that can optionally include a metadata filter. Returns a list of chunks suitable to provide as context to an LLM. Supports options that allow trading off between retrieval speed and quality.
+
+Connectors
+Ragie provides out of box connectors to simplify ingesting documents from commonly used services like Google Drive, Notion, Confluence, and more. A connection will synchronize changes made in the connected service to Ragie automatically.
+
+SDKs
+Ragie has libraries in popular programming languages. While it's straightforward to integrate with Ragie using the http api, SDKs can provide a smoother developer experience.
+
+More resources
+Join us on discord if you need help, have questions, would like to suggest a feature, or just want to hang out.
+Visit our github to find helpful examples and our SDKs.
+
+Tutorial
+This tutorial will walk you through the basics when it comes to using Ragie in your project.
+
+Suggest Edits
+Getting started with Ragie is easy. In this tutorial, we will cover the basics of how to use Ragie. This tutorial does not cover all of the features in Ragie, but it will show you how to load data into Ragie, retrieve results using the retrieval API, and use Ragie within your application to generate content. This tutorial is written in JavaScript, but you can use any language you want to access the Ragie API.
+
+In this tutorial, we are going to build a very simple command line application to answer questions about the All-In Podcast. The companion code for this tutorial is available in our ragie-examples GitHub repository, and you can use these concepts to begin building your very own AI application.
+
+Step 1: Create an API key
+This section gives you instructions for creating an API key using the platform UI
+
+Suggest Edits
+The first step to using Ragie is creating an account and getting an API key. This process should be pretty straightforward using the platform UI. Follow the directions below and get ready to see how Ragie helps you build AI applications quickly!
+
+Create an account or log in to Ragie.
+Once you have created an account or logged in. Use the UI to generate an API key.
+Make sure you copy your API key so that it can be used in your application
+Once you are done with this, you have everything you need to get started with Ragie!
+
+Step 2: Load data into Ragie
+This section will teach you how to load data into Ragie using the data ingest APIs
+
+Suggest Edits
+In this section, we will load data into Ragie from a directory that has some files in it. The example files that we are using are available in our ragie-examples GitHub repository. For this example, we will use Ragie's multipart file uploader API, but when you build your application, you ingest data into Ragie using three different methods:
+
+The multipart file uploader API
+The raw content JSON API
+Using a connector to keep data synchronized from a source
+Here is some code to accomplish what we just described. It's similar, but not exactly the same as the code in our GitHub repository. For this example, we've removed error handling and some output so we can focus on only the data ingest logic. For a more robust example, see the tutorial in ragie-examples.
+
+TypeScript
+
+import fs from "fs";
+import { readFile } from "node:fs/promises";
+
+const apiKey = "<YOUR API KEY>";
+const directory = "path/to/directory";
+
+const files = fs.readdirSync(directory);
+
+for (const file of files) {
+  const filePath = path.join(directory, file);
+  const blob = new Blob([await readFile(filePath)]);
+
+  const formData = new FormData();
+  formData.append("file", blob, file);
+  formData.append("metadata", JSON.stringify({ title: file, scope: "tutorial" }));
+
+  const response = await fetch("https://api.ragie.ai/documents",{
+    method: "POST",
+    headers: {
+      authorization: `Bearer ${apiKey}`,
+      accept: "application/json",
+    },
+    body: formData,
+  });
+  
+  if (!response.ok) {
+    throw new Error("Upload failed");
+  }
+}
+Each document in the directory is loaded into Ragie and then processed. The amount of time it takes to process each document can vary based on the type of document that is passed to Ragie as well as the mode in which the document is processed.
+
+After this runs successfully, we will have added all of our podcasts into Ragie. We can then use this data later in our application to generate content which includes data that the LLM model has not been trained on. This is the beauty of RAG and how Ragie helps you build these types of applications quickly.
+
+Using Metadata
+Notice that in our example above, we added some metadata to our API call. You can attach metadata to any document that you send to Ragie. Metadata can be used later during retrieval to filter results. Typical usages of metadata include attaching an "scope", "environment" or including an "organization_id" to segment your customer data. Metadata may also include more information about the document that you want to reference in your application such as the title of the document or the source url of the document. What you put in metadata is up to you and your application.
+Querying document status
+You may query the document to see if it has been fully processed. When you see a status of ready, the document has been fully processed and is ready to be used in retrieval.
+
+TypeScript
+
+const apiKey = "<YOUR API KEY>";
+const id = "21881de1-65f7-4816-b571-3ef69661c375";
+
+// Retrieve document status
+(async () => {
+  const response = await fetch(`https://api.ragie.ai/documents/${id}`, {
+    headers: { authorization: `Bearer ${apiKey}` },
+  });
+
+  const data = await response.json();
+
+  console.log(data);
+})();
+Sample output would looks like this:
+
+JSON
+
+{
+  "id": "21881de1-65f7-4816-b571-3ef69661c375",
+  "created_at": "2024-07-05T22:21:21.099975Z",
+  "updated_at": "2024-07-05T22:21:37.521837Z",
+  "status": "ready",
+  "name": "All In Pod Episode E112.pdf",
+  "metadata": {
+    "title": "All In Pod Episode E112.pdf",
+    "scope": "tutorial"
+  },
+  "chunk_count": 86,
+  "external_id": null
+}
+It is typical to poll for the document status to know when a document is ready. In the future, Ragie will support webhooks that can push document status changes to your application.
+
+What did Ragie do?
+Ragie extracted all of the information from your documents. By default, Ragie uses “fast” mode to extract data. “Fast” mode is perfect for text documents, but will miss some information in complex documents that include images, charts, and tables. Ragie has a “hi_res” mode for processing complex documents that uses a combination of models, such as multi-modal LLMs and OCR, to extract non-textual information. This allows your generative ai applications to use the typically inaccessible information embedded in charts, graphs, and other non-textual content. Keep in mind that there is a speed tradeoff when using “fast” vs “hi_res” modes.
+Ragie created optimized chunks from your documents for use in your prompt’s context window (you’ll see an example of this later in the tutorial). Naive approaches to chunking can be fairly simple, but optimal chunking is a complex and rapidly evolving area of research. Ragie stays at the forefront of this research and implements the most promising techniques.
+Ragie indexed the generated chunks for semantic retrieval in a vector search database. This allows your ai applications to perform natural language queries of your data that return the most accurate and relevant information.
+Ragie created summaries of your documents and indexed them in a Summary Index, to improve retrieval results. Learn more about the Summary Index.
+If you’ve created Entity Extraction Instructions, Ragie may have extracted structured data from your documents. Learn more about Entity Extraction.
+Let's recap
+In this section, you learned how to:
+
+Use the mulipart document upload API to load data into Ragie. You learned that this is one of three ways that Ragie can ingest data.
+Use the document API to query for document status.
+Use Ragie for heavy lifting that you would ordinarily need to build yourself. This work is abstracted away from you as a developer so you can focus on building your application.
+
+Step 3: Retrieve Chunks
+This section will teach you how to retrieve raw chunks using the retrieval API
+
+Suggest Edits
+The "R" in RAG stands for Retrieval. Now that we've loaded some data into Ragie, it's time to see how we can access that data using the Retrieval API.
+
+TypeScript
+
+const apiKey = "<YOUR API KEY>";
+
+(async () => {
+  const response = await fetch("https://api.ragie.ai/retrievals", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: "Bearer " + apiKey,
+    },
+    body: JSON.stringify({
+      query: "davos",
+      filter: {
+        scope: "tutorial"
+      }
+    }),
+  });
+
+  const data = await response.json();
+  console.log(data);
+})();
+When you run the code above, you will see a response that returns 8 chunks by default:
+
+JSON
+
+// "..." is a placeholder for additional content
+{
+  "scored_chunks": [
+    {
+      "text": "...",
+      "score": 0.4155921,
+      "document_id": "21881de1-65f7-4816-b571-3ef69661c375",
+      "document_metadata": { /** ... metadata fields */ }
+    },
+    // ... 7 more chunks
+  ]
+}
+Once you have retrieved these chunks, you can use them as part of your prompt during generation which we will explain in the next section. Keep in mind that these are the raw chunks that were retrieved by Ragie, the real magic happens when you combine this content with an LLM to generate content. Don't be alarmed if these chunks don't make sense on their own because we still have one more step.
+
+Filtering chunks by metadata
+Notice the filter parameter in the request. In Step 2 of this tutorial, we included metadata as part of the request to create a document. During retrieval, we can use the filter parameter to filter results by this metadata. This is a simple filter, but filters can be more complex and include operators such as $in, $eq, and$nin. Filters can also combine boolean conditions like $and and $or and quite robust.
+
+A bit contrived, but an example of a request with a more complex filter might look something like this:
+
+JavaScript
+
+const response = await fetch("https://api.ragie.ai/retrievals", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    Authorization: "Bearer " + apiKey,
+  },
+  body: JSON.stringify({
+    query: "davos",
+    filter: {
+      $or: [
+        { scope: { $eq: "tutorial" } },
+        { scope: { $eq: "production" } },
+      ],
+    },
+  }),
+});
+For more information on what filters are available, see the Metadata & Filters documentation.
+
+Getting better results with rerank
+By default, chunks are retrieved with rerank=true. Rerank is a technique that is common to RAG applications and a good example of how Ragie helps keep you up to date with the best in class techniques without additional effort. When rerank is used, chunks are filtered through an additional LLM step before they are returned from the API. This helps LLMs reduce hallucinations and generates more accurate content.
+
+In general, Ragie does its best to balance tradeoffs between speed and accuracy with it's defaults. In some cases, Ragie's default may not be what you need for your application. Rerank sacrifices some latency to improve results and most of the time this is not an issue. However, if speed is a major concern for your application, you can always pass rerank=false to get the raw results without the overhead of filtering results through an LLM step.
+
+Let's recap
+In this section, you learned how to:
+
+Use the Retrieval API to retrieve raw chunks.
+Use filters to filter chunks by metadata.
+Use rerank to get better results and understand how Ragie keeps you up to date on the latest techniques without additional work.
+
+Step 4: Generate
+In this section we create a basic RAG command line application using Ragie and OpenAI
+
+Suggest Edits
+In the last section, we learned how retrieve raw chunks using the retrieval API, but now it's time to put it all together using a prompt and an LLM to generate our final content. Remember, the primary advantage of building a RAG application is to generate content with data from sources that the LLM has not been trained on. This can yield outstanding results for a wide variety of applications. We do this by telling the language model to use our chunks to help generate an answer.
+
+To see how it all works, we'll create a very basic command line application that uses data that we've already provided to Ragie in the previous steps of this tutorial.
+
+Let's create a quick command line RAG application
+Let's walk through an example that uses Ragie to pull chunks and OpenAI as the LLM to generate content.
+
+First, let's set the project up.
+
+Shell
+
+mkdir generate-example
+cd generate-example
+Create a package.json
+
+JSON
+
+{
+  "name": "generate-example",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+Install the openai client:
+
+Shell
+
+npm install openai
+Create an index.mjs file with the following content (NOTE: use the .mjs file extension)
+
+JavaScript
+
+import OpenAI from "openai";
+
+const ragieApiKey = "<YOUR RAGIE API KEY>";
+const openAiApiKey = "<YOUR OPENAI API KEY>";
+
+const query = "What does Chamath think about Davos?";
+
+const response = await fetch("https://api.ragie.ai/retrievals", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/json",
+    Authorization: "Bearer " + ragieApiKey,
+  },
+  body: JSON.stringify({ query, filters: { scope: "tutorial" }}),
+});
+
+if (!response.ok) {
+  console.error(
+    `Failed to retrieve data from Ragie API: ${response.status} ${response.statusText}`
+  );
+  process.exit(1);
+}
+
+const data = await response.json();
+const chunkText = data.scored_chunks.map((chunk) => chunk.text);
+const systemPrompt = `These are very important to follow:
+
+You are "Ragie AI", a professional but friendly AI chatbot working as an assitant to the user.
+
+Your current task is to help the user based on all of the information available to you shown below.
+Answer informally, directly, and concisely without a heading or greeting but include everything relevant.
+Use richtext Markdown when appropriate including bold, italic, paragraphs, and lists when helpful.
+If using LaTeX, use double $$ as delimiter instead of single $. Use $$...$$ instead of parentheses.
+Organize information into multiple sections or points when appropriate.
+Don't include raw item IDs or other raw fields from the source.
+Don't use XML or other markup unless requested by the user.
+
+Here is all of the information available to answer the user:
+===
+${chunkText}
+===
+
+If the user asked for a search and there are no results, make sure to let the user know that you couldn't find anything,
+and what they might be able to do to find the information they need.
+
+END SYSTEM INSTRUCTIONS`;
+
+const openai = new OpenAI({ apiKey: openAiApiKey });
+const chatCompletion = await openai.chat.completions.create({
+  messages: [
+    { role: "system", content: systemPrompt },
+    { role: "user", content: query },
+  ],
+  model: "gpt-4o",
+});
+
+console.log(chatCompletion.choices[0].message.content);
+
+This example will answer the question "What does Chamath think about Davos?" using Ragie to return chunks found from the All-In Podcast files that we uploaded earlier.
+
+Run the example:
+
+
+node index.mjs
+If everything is set up correctly, you should see an answer that looks similar to the following:
+
+
+Chamath is quite critical of Davos. Here are his thoughts:
+
+- **Irrelevance to Builders:** He believes that nobody building anything significant cares about Davos or even knows when it happens. It's not important for those who are genuinely contributing to innovation and development.
+- **Status Symbol:** He views Davos as a place for those who care about status, went to prestigious schools, and want to feel like they're part of an exclusive club.
+- **Membership Organization:** Chamath describes Davos as a membership organization where people pay substantial amounts based on the number of participants they bring.
+- **Appeal to Elites:** He feels that Davos appeals to insecure overachiever elites who value the status signal it represents rather than substantive contributions or discussions.
+- **Worthless Discussions:** According to Chamath, the discussions at Davos are not noteworthy as the speakers don't say anything significant or different from what they would say elsewhere.
+- **Criticism of Elitism:** He criticizes Davos for being more about elitism, where people pay to feel important rather than fostering genuine, impactful dialogues.
+- **Compares to Other Conferences:** He compares it to other conferences, mentioning that the same trivial activities happen at Davos as they do in places like CES in Vegas, though with more security guards.
+
+Chamath believes that such gatherings have lost their original purity and have become revenue-driven efforts that mainly signal status to a specific group of elites.
+Congrats! We just completed a RAG application! 🙌
+If this was your first time trying RAG, congratulations! If you're an experienced vet, then you probably understand how much time Ragie saved you by handling the data ingest pipeline and giving you some tools for easy retrieval. Either way, nice job.
+
+Let's break down what happened here
+Here's the RAG breakdown:
+
+We (R)ETRIEVED results from Ragie. We used a filter so we only returned data from the tutorial scope. In our retrieval step, we used the Ragie defaults which includes reranking so we only get the best chunks helping us avoid hallucinations during generation.
+We (A)UGMENTED our prompt with the chunks from Ragie. Our system prompt included a lot of context setting which is common for RAG applications. We also injected raw chunks of text returned from Ragie into the prompt, which is what the LLMs use to generate content for data that they have not been trained on.
+Finally, we (G)ENERATED an answer using an API call to OpenAI for a chat completion. OpenAI used our prompt injected with our chunks from Ragie to generate a meaningful answer to our original question: "What does Chamath think of Davos?"
+
+Step 5: Cleanup (optional)
+In this section we will learn about some of Ragie's utility APIs to remove our tutorial documents
+
+Suggest Edits
+In our tutorial we created several documents, but we should remove them so they don't clutter your index.
+
+Here is an example script that we can use to delete all of the created in this tutorial.
+
+JavaScript
+
+const apiKey = "<YOUR API KEY>";
+
+while (true) {
+  const url = new URL("https://api.ragie.ai/documents");
+  url.searchParams.set("filter", JSON.stringify({ scope: "tutorial" }));
+
+  const response = await fetch(url, {
+    headers: { authorization: `Bearer ${apiKey}` },
+  });
+
+  if (!response.ok) {
+    throw new Error(
+      `Failed to retrieve data from Ragie API: ${response.status} ${response.statusText}`
+    );
+  }
+  const payload = await response.json();
+
+  for (const document of payload.documents) {
+    const response = await fetch(
+      `https://api.ragie.ai/documents/${document.id}`,
+      {
+        method: "DELETE",
+        headers: {
+          authorization: `Bearer ${apiKey}`,
+        },
+      }
+    );
+
+    if (!response.ok) {
+      throw new Error(
+        `Failed to delete document ${document.id}: ${response.status} ${response.statusText}`
+      );
+    }
+    console.log(`Deleted document ${document.id}`);
+  }
+
+  if (!payload.pagination.next_cursor) {
+    console.warn("No more documents\n");
+    break;
+  }
+}
+
+This script cleans up the documents that we created in this tutorial. It uses the list document API to iterate through a filtered list of the documents in your Ragie instance using the next_cursor parameter for pagination. For each document that is listed, the document is deleted.
+
+There are more utility APIs that help you manage your documents in Ragie. Be sure to check out the API Reference for a complete list of all of the rest APIs that Ragie supports.
+
+Metadata & Filters
+Suggest Edits
+Default metadata on each document
+The following metadata properties are supported by default with each document. You can not overwrite these properties. If you give a duplicate property it will be ignored.
+
+JSON
+
+{
+  "document_id": string,
+  "document_type": string,      // one of pdf, doc, docx, img, jpg, etc
+  "document_source": string,    // one of api, google_drive
+  "document_name": string,      // human readable document name given during upload or derived if none was given
+  "document_uploaded_at": int   // seconds since unix epoch
+}
+
+
+Supported metadata types
+You can associate a metadata payload with each document, as key-value pairs in a JSON object where keys are strings and values are one of:
+
+String
+Number (integer or floating point, gets converted to a 64 bit floating point)
+Booleans (true, false)
+List of String
+Metadata based filtering is a pre-filter in Ragie which means it guarantees retrieval of top_k results if they exist. The only exception is when re-ranking is turned on. Re-ranking supports atmost top_k results.
+
+There is a max limit of 1000 values per metadata object
+
+
+Metadata query language
+The following metadata operators are supported during retrieval
+
+$eq - Equal to (number, string, boolean)
+$ne - Not equal to (number, string, boolean)
+$gt - Greater than (number)
+$gte - Greater than or equal to (number)
+$lt - Less than (number)
+$lte - Less than or equal to (number)
+$in - In array (string or number)
+$nin - Not in array (string or number)
+The metadata filters can be combined with AND and OR:
+
+
+Examples
+Using arrays of strings as metadata values or as metadata filters
+A document with metadata payload…
+
+JSON
+
+{ "genre": ["comedy", "documentary"] }
+…means the "genre" takes on both values.
+
+Retrievals with the following filters will match the document:
+
+JSON
+
+{"genre":"comedy"}
+{"genre": {"$in":["documentary","action"]}}
+{"$and": [{"genre": "comedy"}, {"genre":"documentary"}]}
+Retrievals with the following filter will not match the document:
+
+JSON
+
+{ "$and": [{ "genre": "comedy" }, { "genre": "drama" }] }
+And retrievals with the following filters will not match the document because they are invalid. They will result in an error during retrieval:
+
+JSON
+
+# INVALID QUERY:
+{"genre": ["comedy", "documentary"]}
+
+# INVALID QUERY:
+{"genre": {"$eq": ["comedy", "documentary"]}}
+
+More example filter expressions
+A comedy, documentary, or drama:
+
+JSON
+
+{
+  "genre": { "$in": ["comedy", "documentary", "drama"] }
+}
+A drama from 2020 or later:
+
+JSON
+
+{
+  "genre": { "$eq": "drama" },
+  "year": { "$gte": 2020 }
+}
+A drama from 2020 or later (equivalent to the previous example):
+
+JSON
+
+{
+  "$and": [{ "genre": { "$eq": "drama" } }, { "year": { "$gte": 2020 } }]
+}
+A drama or a movie from 2020 or later:
+
+JSON
+
+{
+  "$or": [{ "genre": { "$eq": "drama" } }, { "year": { "$gte": 2020 } }]
+
+Overview
+Suggest Edits
+Connectors provide an easy way to connect your data from external sources to Ragie.
+
+For example, you can connect a Google Drive folder and all of its content will be sent to Ragie automatically and kept up to date.
+
+To connect a data source, start by going to the Connections tab in the left nav menu. Then, click the Add Connection button in the top right. Next, select a connector you want to use.
+
+Authentication
+Because connectors are linked to external data, Ragie needs permissions to this data.
+
+When you click on a connector you will be redirected to authenticate and give Ragie permissions to access the files. After authentication is complete, you will be redirected to a screen where you can choose what content to keep in sync with Ragie. See the individual connectors pages for connector specific information.
+
+Daily Sync
+To keep your files up to date, Ragie performs a sync for all connections every 4 hours. The sync process is smart and can detect new files, updated files, and deleted files. Ragie will pick up these changes and keep your documents in sync.
+
+However, this does mean you might not see changes immediately. If you add a bunch of files, it may take up to 4 hours for your files to be synchronized.
+
+If you need to see the changes immediately, you can manually trigger a Sync now by clicking the ellipses on the connection table row and selecting Sync now.
+
+Metadata
+Metadata for the documents synced by a connection can be configured in the settings for the connection. Connector type specific metadata will also be set on managed documents. Those connector specific metadata values are detailed in the documentation for each connection type. Every time a document is synced by its connection, its metadata will be updated based on the connection settings and its connector specific metadata.
+
+Metadata can also be set on a document by document basis in the Ragie application on the document's detail page. Setting metadata on a connection managed document creates a Metadata Overlay which will be applied any time the document is updated. The Patch Document Metadata endpoint will similarly produce a Metadata Overlay when used to update metadata for a connection managed document. Metadata Overlays ensure that modifications to metadata are not overwritten by future connection syncs.
+
+Connections Table
+Suggest Edits
+After you have created a few connections, you can see the status of all of them in the Connections Table. This is seen when you go to the Connections tab in the left hand navigation menu.
+
+The table shows you information about your connections such as:
+
+The connection source, such as Google Drive
+What account the connection is associated to, such as your gmail
+How many files have been synced from this connection
+When the connection was added
+The last time a sync occurred
+Connection actions
+For each connection, you can click on the ellipses menu to see what actions you can do with it. You can:
+
+Update the connection settings
+Trigger a sync to be scheduled now
+Enable / Disable a connection
+
+Connection Settings
+For each connection, you can change its Metadata or Partition strategy. These changes will be picked up on the next sync and all documents will update accordingly.
+
+Schedule a sync
+If you can't wait until the next sync, you can schedule a sync now to get your documents up to date.
+
+Enable / Disable a connection
+Sometimes you want to stop getting any new changes for a connection. In this case, mark the connection as Disabled. If you ever want to resume getting changes, Enable the connection.
+
+Google Drive
+Suggest Edits
+The Google Drive connection will keep a google drive folder and everything in it, including subfolders, in sync.
+
+Creating a Connection
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+Click "Select a folder" to open a Google Drive Picker.
+In the Google Drive Picker, select a folder to sync by single clicking it. If you want to go into a subfolder, double click the folder. You will only see folders and not any files in them, this is normal.
+Fill out any metadata you want to associate with the files in the google drive folder. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+json
+
+{
+  "company": "acme"
+}
+Select an Import mode. This is only applicable for PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+Click "Create Connection" at the top right
+You will be taken back to the connectors page and the system will schedule a sync process as soon as possible.
+
+What is synced?
+Non-Google Files - all files supported by Ragie are synced. See the api reference for more information.
+Google Files
+Google Docs
+Google Slides
+Google Sheets
+Metadata
+Each google drive file includes the following metadata
+
+Name	Description	Example	Comments
+folder	The folder name of the file	invoices	
+folder_path	The full path of the folder containing this file	/My Drive/invoices	Your own drive will always start with /My Drive. Shared drives will start with a different prefix.
+file_path_array	An array of each element in the path of the file	["My Drive", "invoices", "invoice_acme_2024.pdf"]
+
+Gmail
+Suggest Edits
+Start syncing your Gmail Conversations into Ragie by following the steps below:
+
+Creating a Connection
+Connect your Gmail account from the dashboard.
+
+Label your emails with "Ragie," here's how to add labels for those unfamiliar: https://support.google.com/mail/answer/118708 (Ragie won't sync emails that aren't labeled).
+
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+
+Fill out any metadata you want to associate with the emails in Gmail. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+
+json
+
+{
+  "company": "acme"
+}
+The Gmail connector will automatically provide set a labels metadata that match the labels in Gmail. It will also set object_type to be a list of ["email"] or ["email", "email.attachment"]
+
+Select an Import mode. This is only applicable to PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+
+Click "Create Connection" at the top right.
+
+You will be taken back to the connectors page, and the system will schedule a sync process for you as soon as possible.
+
+What is synced?
+Email
+Textual content
+Metadata - see Gmail message for more information on available fields
+Attachments - see api reference to see the full list of supported types.
+Note: as of this writing, calendar invites are NOT supported and do not sync.	
+
+Notion
+Suggest Edits
+The Notion connection will sync all of the pages you choose.
+
+Creating a Connection
+After you select Notion, you will be prompted to select all of the content you want to sync.
+After you select the content, you will be redirected to a new page.
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+Fill out any metadata you want to associate with the content in your Notion. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+json
+
+{
+  "company": "acme"
+}
+Select an Import mode. This is only applicable for content with PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+Click "Create Connection" at the top right
+You will be taken back to the connectors page and the system will schedule a sync process.
+
+What is synced?
+Pages
+For pages, the following block elements are synced
+
+bulleted_list_item
+callout
+child_database
+child_page
+code
+column
+column_list
+divider
+emoji
+image
+heading_1
+heading_2
+heading_3
+link_to_page
+mention
+paragraph
+quote
+table
+table_of_contents
+to_do
+toggle
+text
+NOTE: Databases are currently NOT synced.
+
+Confluence
+Suggest Edits
+The Confluence connection will sync all of the pages you have access to.
+
+Creating a Connection
+After you select Confluence, you will be prompted to allow Ragie to interact with your Confluence data.
+After you accept, you will be redirected to a new page.
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+Fill out any metadata you want to associate with the content in your Confluence. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+json
+
+{
+  "company": "acme"
+}
+Select an Import mode. This is only applicable for content with PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+Click "Create Connection" at the top right
+You will be taken back to the connectors page and the system will schedule a sync process.
+
+What is synced?
+Spaces with Page content that are not in "draft" status
+File attachment for a space that is supported by Ragie are synced. See api reference for details on supported file types
+
+Salesforce
+Suggest Edits
+The Salesforce connection will sync all of your Contacts and Case records.
+
+Creating a Connection
+After you select Salesforce, you will be prompted to allow Ragie to interact with your Salesforce data.
+After you accept, you will be redirected to a new page.
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+Fill out any metadata you want to associate with the content in your Salesforce. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+json
+
+{
+  "company": "acme"
+}
+Select an Import mode. This is only applicable for content with PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+Click "Create Connection" at the top right
+You will be taken back to the connectors page and the system will schedule a sync process.
+
+What is synced?
+Accounts
+Cases
+Contacts
+Opportunities
+
+Jira
+Suggest Edits
+The Jira connection will keep Projects, Issues and their comments in sync.
+
+Creating a Connection
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+Fill out any metadata you want to associate with the files in Jira. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+JSON
+
+{
+  "company": "acme"
+}
+
+Select an Import mode. This is only applicable for PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+Click "Create Connection" at the top right
+You will be taken back to the connectors page and the system will schedule a sync process as soon as possible.
+
+What is synced?
+Projects
+Issues
+Comments
+
+Onedrive
+Suggest Edits
+The Onedrive connection will keep a Onedeive folder and everything in it, including subfolders, in sync.
+
+Creating a Connection
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+Click "Select a folder" to open a Onedrive Picker.
+In the Onedrive Picker, select a folder to sync by single clicking it. If you want to go into a subfolder, double click the folder. You can not select individual files.
+Fill out any metadata you want to associate with the files in the folder. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+json
+
+{
+  "company": "acme"
+}
+Select an Import mode. This is only applicable for PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+Click "Create Connection" at the top right
+You will be taken back to the connectors page and the system will schedule a sync process as soon as possible.
+
+What is synced?
+Files - all files supported by Ragie are synced. See the api reference for more information.
+
+Slack
+Suggest Edits
+Start syncing your Slack Channel into Ragie by following the steps below:
+
+📘
+You must have permissions to add a Slack App to create a Slack Connection
+
+A Ragie app will be added to your workspace. This allows us to interact with Slack to pull data.
+
+📘
+Our Slack App is currently undergoing review, you will see a warning at the moment when you connect
+
+Creating a Connection
+Connect your Slack Channel from the dashboard.
+
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+
+Fill out any metadata you want to associate with the Slack data. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+
+json
+
+{
+  "company": "acme"
+}
+Select an Import mode. This is only applicable to PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+
+Click "Create Connection" at the top right.
+
+You will be taken back to the connectors page, and the system will schedule a sync process for you as soon as possible.
+
+What is synced?
+Messages
+Textual content
+Metadata see api reference
+Files attached to messages, when permission to download is available.
+
+S3
+Suggest Edits
+The S3 connection will keep a S3 Bucket Folder and everything in it, including subfolders, in sync.
+
+Creating a Connection
+First, follow our guide to Create your AWS credentiasl
+
+Select S3 from the Connector Dropdown
+
+Fill out the form with your Access Key, Secret Access Key and Region
+
+Once you submit, you will be redirected to a new page
+
+Select an API key from the dropdown at the top. All documents created by the connection will be attributed to the selected API key.
+
+For S3 Bucket, type in the bucket you want to sync
+
+For S3 Bucket Prefix, type in which folder you want to sync. If you want to sync all files and folders, leave this blank. If you want to sync everything under images/cats type in images/cats.
+
+Fill out any metadata you want to associate with the files in the folder. You can use this to filter the data later. This is in JSON format. You can leave it blank, or you could set it to something like
+
+json
+
+{
+  "company": "acme"
+}
+
+Select an Import mode. This is only applicable for PDFs. Fast only extracts text, but Hi-res also extracts images and tables. Fast can be up to 20x fast than Hi-res
+
+Enter a name for your partition where you want your documents to live.
+
+Click "Create Connection" at the top right.
+
+You will be taken back to the connectors page, and the system will schedule a sync process for you as soon as possible.
+
+What is synced?
+Files - all files supported by Ragie are synced. See the api reference for more information.
+
+WS S3 Credentials
+Suggest Edits
+To use the S3 connector, we need to create a User with the appropriate permissions. This guide will show you how to create credentials with the minimal permissions you need to access a bucket.
+
+Get Bucket name and region
+Login to your AWS account
+Go to S3
+Find the bucket you want
+Get the name of the bucket and it's region
+
+Create Policy
+Go to Identity and Access Management (IAM)
+On the left hand menu, select Policies under Access management
+Click Create policy in the top right hand corner
+In the Policy editor header, click JSON
+Set the content with the following. Make sure to replace {your-bucket-name} with the name of your bucket.
+JSON
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+        "Effect": "Allow",
+        "Action": [
+                "s3:GetObject",
+                "s3:ListBucket"
+        ],
+        "Resource": [
+                "arn:aws:s3:::{your-bucket-name}/*",
+                "arn:aws:s3:::{your-bucket-name}"
+        ]
+        }
+    ]
+}
+Click Next
+Give the policy a name like "Ragie bucket access" or whatever you like
+Click Create policy
+
+Create user
+Go to Identity and Access Management (IAM)
+On the left hand menu, select Users under Access management
+Click Create user in the top right hand corner
+Give the user any name you like and click Next in the bottom right
+Under Permissions options select Attach policies directly
+In the Permissions policies search below, search for the policy you added above. In my case I called it "Ragie bucket access" so I search for that - without the quotes.
+Select the policy in the list below and click Next
+Click Create user in the bottom right
+
+Get Credentials
+Go to Identity and Access Management (IAM)
+On the left hand menu, select Users under Access management
+Select the user you created above
+Find and select the Security credentials tab
+Click Create access key
+Select Other for the use-case and click Next
+Click Create access key
+Copy the Access key and Secret access key somewhere. This is very important.
+
+That's it. You now have the
+
+Access key
+Secret access key
+Region
+
+Overview
+Suggest Edits
+Ragie Connect allows application developers to easily connect their users’ data with their AI application without building one-off integrations.
+
+For example, if Acme is a multi-tenant SaaS company that provides a chatbot product enabling its tenants to chat with their own knowledge base contained in Google Drive and Notion, then Acme can use Ragie Connect to connect its tenants to Ragie’s Google Drive and Notion integrations.
+
+Ragie Connect handles the authentication and authorization for these connectors as well as the automatic data synchronization from the service providers integration data into Ragie’s retrieval index.
+
+Initiating a Connection
+Suggest Edits
+To set up Ragie Connect within your application, you must start by generating a redirect URL using the Ragie API. This establishes trust between your application and Ragie and the redirect URL allows Ragie to associate the connection with your Ragie account. To do this, call the oauth initialization API:
+
+cURL
+
+curl https://api.ragie.ai/connections/oauth \
+  -H "Authorization: Bearer $RAGIE_API_KEY" \
+  --json '{"source_type": "google_drive", "redirect_uri": "https://example.com/link/to/your/application"}'
+The only parameters required to generate the redirect URL are source_type which is the type of integration you would like to connect and the redirect_uri which is the URL that you would like to redirect the user back to in your application after they have finished connecting.
+
+Optional parameters for establishing the connection include metadata, mode and partition. Below is an example showing how to add the optional parameters:
+
+cURL
+
+curl https://api.ragie.ai/connections/oauth \
+  -H "Authorization: Bearer $RAGIE_API_KEY" \
+  --json '{"source_type": "google_drive", "redirect_uri": "https://example.com/link/to/your/application", "metadata": {"user_id": "my-application-user-id"}, "mode": "hi_res", "partition": "my-application-tenant-id" }'
+In this example, we add the user_id of the user in your application as metadata and we use the tenant id of your application for the partition. Both of these parameters can be used to filter during retrieval.
+
+The response from this API will be a JSON object with the redirect URL:
+
+JSON
+
+{"url":"https://ragie.dev:3443/embed/connect?auth=eyJhb..."}
+Once you have the Ragie redirect URL from the JSON response, redirect the user to the redirect URL and they will begin authenticating with the integration provider.
+
+When the user has successfully authenticated and configured their connection in Ragie, they will be redirected back to your application’s redirect_uri with a connection ID that was created for this user. In this example the user will be redirected back to this url:
+
+https://example.com/link/to/your/application?connection_id=5b1eadd0-700c-443d-bfa1-8f73a2f9f4d3
+
+If an error occurred during authentication, then the user will be redirected back to your application’s redirect_uri with an error:
+
+https://example.com/link/to/your/application?error=access_denied
+
+Now that your connection has been established, you can use webhooks to monitor the sync.
+
+Monitoring with Webhooks
+Suggest Edits
+As syncs occur Ragie can inform your systems of these events with webhooks. As connections sync the following events connector specific webhook events can be subscribed to:
+
+connection_sync_started
+connection_sync_progress
+connection_sync_finished
+These webhooks provide a payload that includes data like:
+
+
+connection_id: str
+sync_id: str
+partition: str
+connection_metadata: dict[str, Any]
+total_creates_count: int
+created_count: int
+total_contents_updates_count: int
+contents_updated_count: int
+total_metadata_updates_count: int
+metadata_updated_count: int
+total_deletes_count: int
+deleted_count: int
+Applications that subscribe to these webhooks can tailor their user experience based on whether a user has synced their documents and whether that sync is complete. For instance, an application may want to enable RAG for gen ai features if a sync has occurred and it is at least half complete.
+
+For more information on webhooks in Ragie, check out our guide.
+
+Managing Connections
+Suggest Edits
+You can manage your connections via the API. Start by listing your connections to get their id's. After that, you can use the id to take action on each connection: disabling it, updating the metadata, etc.
+
+List connections
+See a list of all the connections you currently have.
+
+cURL
+
+curl https://api.ragie.ai/connections  -H "Authorization: Bearer $RAGIE_API_KEY" 
+Enable/disable connection
+Enable or disable the connection. Disabled connections stop syncing.
+
+cURL
+
+curl https://api.ragie.ai/connections/{connection_id}/enabled \
+  --request PUT \
+  -H "Authorization: Bearer $RAGIE_API_KEY" \
+  --json '{"enabled": "false"}'
+Update a connection
+Update a connection's partition_strategy or metadata. The connection's documents will be updated to reflect these changes on their next sync.
+
+cURL
+
+curl https://api.ragie.ai/connections/{connection_id} \
+  --request PUT \
+  -H "Authorization: Bearer $RAGIE_API_KEY" \
+  --json '{ "partition_strategy": "hi_res",  "metadata": {"source": "google_drive"}}'
+Get connection statistics
+See the total number of documents you have for a connection.
+
+cURL
+
+curl https://api.ragie.ai/connections/{connection_id}/stats  -H "Authorization: Bearer $RAGIE_API_KEY" 
+Delete connection
+Completely delete a connection. You can keep the files associated with the connection if you pass in keep_files true in the JSON. This will leave all documents but they will no longer be associated to any connection.
+
+If you choose to not keep the files, the system will queue deleting all documents. It may take some time before all the documents are deleted, so you may still see them in the API and Web interface.
+
+cURL
+
+curl https://api.ragie.ai/connections/{connection_id} \
+  --request POST \
+  -H "Authorization: Bearer $RAGIE_API_KEY" \
+  --json '{ "keep_files": true }'
+
+Summary Index
+Suggest Edits
+In a regular RAG system, its entirely possible that the top_k chunks during retrieval come from a single document. There are application use cases where you want your retrieved chunks to span a number of documents. In Ragie, you can do this using the Summary Index feature.
+
+Retrieval
+Ragie's retrievals endpoint takes an optional max_chunks_per_document parameter. When this is set to a value > 0, it works in conjunction with the top_k parameter to increase the number of documents, chunks are retrieved from. Behind the scenes it does the following.
+
+Uses the summary index to retrieve the top n documents where n is top_k/max_chunks_per_document. Document relevancy is calculated using cosine distance between the query and the summary of the document.
+For each document, retrieves the top max_chunks_per_document using the document chunk index.
+Sorts the final list of chunks by cosine similarity score.
+Optionally, if rerank=true, does a LLM based reranking of the results.
+JSON
+
+{
+  "query": "what are the most requested features?",
+  "top_k": 24,
+  "filter": {
+    "collection": "sales",
+  },
+  "rerank": false,
+  "max_chunks_per_document": 2
+}
+Document Summary Creation, Embedding & Indexing
+Most RAG systems use a single document chunk index for indexing and retrieval. Ragie's RAG platform implements the more advanced two-tier indexing. In addition to the document chunk index, we also create a second document summary index.
+
+For each document which is created or updated within Ragie, we create a detailed summary of the document using the most advanced LLMs. We use state-of-the-art large context LLMs which work with documents upto 1M tokens in length. Documents of type xlsx, csv, and json are not supported for summarization.
+The document summary is then embedded using a LLM. Because the summary chunks tend to be longer and more information dense than regular document chunks, we create higher dimensionality(3072) vectors for each summary chunk.
+Each summary vector is then stored in a high performance vector db index along with its document's metadata.
+Once created and indexed, document summaries may be retrieved using our document summary API.
+Document summary generation is automatic for all compatible document types. It does not require any additional configuration or API parameters to enable.
+
+Entity Extraction
+Suggest Edits
+RAG is excellent for scenarios where the query depends on the semantic information in the document. However, it falls short when it comes to tasks like "extract all emails" or "extract all contacts" which require extracting precise semi-structured information from unstructured data. Ragie's LLM-powered entity extraction feature addresses this specific need.
+
+The entity extraction feature enables you to create an instruction within Ragie's platform. An instruction is a natural language prompt that guides Ragie on what action to take on a document. Once an instruction is created, it is automatically applied using a LLM to every created or updated document. Extracted entities can then be retrieved using our APIs.
+
+Let's walk through a detailed, step-by-step example of how to use entity extraction within Ragie's platform.
+
+1. Create an Instruction
+First create an instruction using Ragie's create instruction API.
+
+For example an instruction to extract all emails from a document would look like
+
+JSON
+
+{
+  "name": "emails",
+  "active": true,
+  "scope": "chunk",
+  "prompt": "extract all emails from the document",
+  "entity_schema": {"type": "object","properties": {"emails": {"type": "array","items": {"type": "string"}}}},
+  "filter": { "type": "customer_doc" }
+}
+There are four core components to an instruction.
+
+Prompt
+A prompt is written in natural language, instructing the LLM what data you want to extract. More detailed and precise prompts produce better results. You can also give a few shot example as part of the prompt.
+For example a prompt could be "Extract all the contacts in the document" or "Extract the vendor name which follows Payable to. For example Payable to Acme Corp".
+Scope
+You can set extraction to happen at chunk level or document level.
+Use chunk level scope when fine grained extraction is desired like "extract all emails". Internally the document is chunked into smaller parts and entity extraction is run on each chunk. For entity extraction, we do specialized document chunking with no overlap to ensure there are no duplicate results.
+Use document level scope when analyzing the full document is desired. For example "categorize the tone of this document into friendly or professional".
+Entity Schema
+This is the JSON schema definition of the entity generated by an instruction. This can be as simple or complex as the entity to be extracted.
+Sample JSON schema for extracting emails:
+JSON
+
+  "entity_schema": {
+    "type": "object","properties": {"emails": {"type": "array","items": {"type": "string"}}}
+  }
+Sample JSON schema for extracting contacts:
+JSON
+
+"entity_schema": {
+  "title": "Contacts List",
+  "type": "object",
+  "properties": {
+    "contacts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "type": "string",
+            "description": "The person's first name"
+          },
+          "lastName": {
+            "type": "string",
+            "description": "The person's last name"
+          },
+          "address": {
+            "type": "object",
+            "properties": {
+              "streetAddress": {
+                "type": "string",
+                "description": "The street address"
+              },
+              "city": {
+                "type": "string",
+                "description": "The city"
+              },
+              "state": {
+                "type": "string",
+                "description": "The state or province"
+              },
+              "postalCode": {
+                "type": "string",
+                "description": "The postal or ZIP code"
+              },
+              "country": {
+                "type": "string",
+                "description": "The country"
+              }
+            },
+            "description": "The address of the person"
+          },
+          "phoneNumber": {
+            "type": "string",
+            "description": "The person's phone number",
+            "pattern": "^\\+?[0-9\\-\\.\\(\\)\\s]+$"
+          },
+          "email": {
+            "type": "string",
+            "description": "The person's email address",
+            "format": "email"
+          }
+        },
+        "required": ["firstName", "lastName"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["contacts"],
+  "additionalProperties": false
+}
+Filter - An optional metadata filter that is applied to the documents as they are created or updated. If the filter matches the document's metadata the instruction will be run on the document, otherwise it will be skipped. Learn more about metadata filters here.
+2. Upload Documents
+Next, upload documents to Ragie using our create documents API. We support entity extraction on all document types including images.
+
+Our document ingestion pipeline automatically runs all active instructions on each document as they are created and updated if the instruction either omits a filter or the filter matches the document's metadata.
+
+Please note that on document updates, previously extracted entities for a document are deleted and replaced by entities extracted from the new version.
+
+3. Retrieve Entities
+Once entities have been extracted you can retrieve the extracted entities using our APIs. There are two APIs for retrieving extracted entities.
+
+Get all extracted entities for a document. This API returns all extracted entities for a particular document across all active instructions.
+Get all extracted entities for an instruction. This API returns all extracted entities for a particular instruction across all documents.
+
+Partitions
+Suggest Edits
+In Ragie documents may be logically separated into partitions. Retrievals can provide an optional partition parameter, that, when present, scopes the retrieval to documents in the given partition. Partitions can be used for a number of use cases, such as segregating user data in multi-tenant saas applications or defining distinct knowledge bases for use in different contexts. Partitions are an optional feature and, if not used, all documents will exist in a “default” partition for your tenant.
+
+Partitions are provided as a string that is lowercase alphanumeric and may include the _ and - special characters.
+
+Partitions may also be used to improve retrieval results. Ragie uses a hybrid approach when performing retrievals that includes searching a keyword index. These keywords indexes are also separated by partitions. A relevant detail here is that keyword importance (or weight) is partially determined by how frequently the keyword appears in the set of documents (inverse document frequency). For example legal jargon in a set of law documents would be relatively less important compared to legal jargon appearing in customer service documents, since presumably the legal terms would appear far more frequently in the law documents. Partitions are a useful construct for separating documents by domain to improve the quality of the keyword portion of Ragie’s hybrid search.
+
+Working with Partitions
+Creating partitions
+A Partition is automatically created anytime a document is created in it.
+
+Creating document
+Documents can be created in a partition by providing an optional partition string when creating them.
+
+Retrievals
+The optional partition parameter can be provided when doing retrievals. When present the retrieval will be scoped to that Partition. Fine grained scoping via metadata filters may be combined with partition scoping.
+
+Partition specific Entity Extraction Instructions
+Entity Extraction Instructions can be created with a partition parameter. When present the Instruction will only be run on documents in the given partition. If the partition parameter is omitted the instruction will be run on all documents.
+
+Common use cases
+Multi-tenant SaaS
+Multi-tenant applications will generally want to isolate their users’ data to prevent data leakage between users. Apps may want to use a USER_ID as their partition key or potentially an ORG_ID if the app is more multiuser in nature. Isolating user and organization data is as simple as providing the desired partition key when managing documents and doing retrievals. More fine-grained retrieval scoping via metadata filters is still possible and can be combined with partitions.
+
+Isolated Knowledge Bases
+If an organization has multiple distinct domains of knowledge that they want to use as sources for their generative AI applications, creating partitions for those domains will improve the quality of the keyword component of Ragie’s hybrid search approach. Depending on the use case, creating a distinct partition for various functions such as customer support, legal, HR, etc… may be the ideal approach. This is not always a one size fits all recommendation and may affect how you structure your retrievals. If you have any questions, we’re always happy to discuss the particulars of your use case and help you design the best approach.
+
+Webhooks
+Suggest Edits
+Ragie can call HTTP endpoints hosted on your servers as events in Ragie occur. You can configure one or more endpoints that will be called. Webhook calls are retried for up to day, further details can be found below. Webhook calls include a signature of the request body in the X-Signature http header so that the authenticity of the call can be validated. The signature is signed using a shared signing secret which is available in the Ragie ui.
+
+Setting up Webhook Endpoints
+Webhook endpoints are managed in the Ragie app. In the Ragie app click on “Webhooks” in the main navigation. Click the “Add Endpoint” button and a form will be presented that includes a name for the Endpoint and the URL which will be called when events occur. Fill out these values and click the create button. You may create multiple endpoints and all active endpoints will be called when events occur.
+
+Once endpoints exist they’ll be listed with their signing secret on the webhooks page. The signing secret can be used to validate the authenticity of the webhook call. More details on how to perform this validation are below.
+
+Each webhook will also have actions to:
+
+Test an endpoint by simulating an event
+Delete the endpoint
+Activate or deactivate the endpoint
+Development tips
+It can be helpful when developing the webhook handler to expose your local development server to the internet. Using a tool like ngrok or port forwarding in vscode can be a convenient way to do this.
+
+Retries
+Ragie will make up to 18 attempts to call each endpoint for a given event. Ragie will exponentially backoff its attempts up to every 4 hours and the last attempt will be roughly 24 hours after the initial attempt. A webhook call is determined to be successfully received if the called endpoint returns a http status code >=200 and <300. Webhook handling should be idempotent, a nonce is provided to facilitate this . Ragie webhooks guarantee at least once delivery up to the retry limit. If all attempts are exhausted for a given webhook endpoint, it will be disabled and further delivery attempts for future events will not be made unless it is re-enabled.
+
+Ragie Webhook Events
+All events include a nonce. The nonce can be used to enforce idempotency in your system and to protect against replay attacks. If you’ve processed an event with a given nonce any further events you receive with that nonce should be ignored.
+
+document_status_updated
+This event is dispatched when a document is finished processing and either in the ready or failed state.
+
+Payload fields
+
+document_id
+external_id
+status
+sync_id
+partition
+metadata
+document_deleted
+This event is dispatched when a document is deleted.
+
+Payload fields
+
+document_id
+external_id
+status
+sync_id
+partition
+metadata
+entity_extracted
+This event is dispatched when entities are extracted from documents
+
+Payload fields
+
+entity_id
+document_id
+instruction_id
+document_metadata
+document_external_id
+partition
+sync_id
+data
+connection_sync_started
+connection_id
+sync_id
+connection_metadata
+create_count
+update_content_count
+update_metata_count
+delete_count
+connection_sync_progress
+connection_id
+sync_id
+partition
+connection_metadata
+create_count
+created_count
+update_content_count
+updated_content_count
+update_metadata_count
+updated_metadata_count
+delete_count
+deleted_count
+errored_count
+connection_sync_finished
+connection_id
+sync_id
+partition
+connection_metadata
+If there is a Ragie event you’d like to be able to subscribe to via webhooks that’s not listed here, jump into our discord service and post in feature requests.
+
+Validating signature
+Ragie generates a signature using the signing secret for the webhook endpoint. This github repository demonstrates how to validate the signature in python: https://github.com/ragieai/python-webhook-example
+
+If you’re using another language the steps to implement signature validation yourself is described below.
+
+Instructions for Validating a Webhook Signature
+Retrieve the Signature from the Request Header
+Extract the signature from the X-Signature header of the incoming HTTP request.
+Error Handling: If the X-Signature header is missing, reject the request (e.g., respond with HTTP 400 Bad Request).
+Obtain the Raw Request Body
+Action: Read the raw bytes of the request body exactly as received.
+Note: Do not modify or parse the payload before validation.
+Compute the Expected Signature - Generate an HMAC SHA-256 signature using the shared secret key and the raw request body.
+Compute the HMAC SHA-256 digest with:
+Key: The encoded secret key.
+Message: The raw request body.
+Convert the digest to a hexadecimal string to get the expected signature.
+Compare the Signatures Securely
+Action: Use a constant-time comparison function to compare the expected signature with the received signature.
+Reason: Prevents timing attacks by ensuring the comparison takes the same amount of time regardless of where the first difference occurs.
+Validate or Reject the Request
+If Signatures Match: Proceed to process the webhook payload
+If Signatures Do Not Match: Reject the request (e.g., respond with HTTP 401 Unauthorized)
+Additional Notes:
+Secret Signing Key Security:
+Store the shared secret key securely (e.g., in environment variables or a secure vault).
+Do not expose the secret key in logs or error messages.
+Character Encoding:
+Ensure consistent encoding (UTF-8) for the secret key when generating the HMAC.
+Avoid Logging Sensitive Data:
+Do not log the raw request body or signatures.
+Use Trusted Libraries:
+Utilize standard or well-maintained cryptographic libraries for HMAC computation and constant-time comparison.
+Error Handling:
+Provide generic error messages to avoid revealing sensitive information to potential attackers.
+
+Overview
+Suggest Edits
+Ragie provides idiomatic SDKs for common programming languages to simplify integrating with the Ragie API. Currently there is a limited set of SDKs, but more will be added soon. You can request an SDK for you preferred language and we'll use your request to help prioritize which SDK we develop next.
+
+ragie-typescript
+Suggest Edits
+Ragie provides an idiomatic typescript SDK to access the Ragie API from your typescript applications. All functionality provided by the API is available in the SDK.
+
+Getting started
+Install the ragie npm package with your preferred package manager.
+
+npm
+yarn
+pnpm
+
+npm i ragie
+Once installed follow the links below for detailed documentation.
+
+Helpful links
+NPM Package: https://www.npmjs.com/package/ragie
+Project Homepage: https://github.com/ragieai/ragie-typescript
+Reference app
+We've created a nextjs reference app that uses all the features provided by the ragie-typescript SDK. It can be useful to find examples of how to use the SDK or provide a simple way to work with your Ragie data.
+
+Reference app: https://github.com/ragieai/ragie-typescript-ref-app
+Support
+If you have any issues we'd love to help. The best way to get in touch is through our discord server. You can also email us at support@ragie.ai or file a github issue.
+
+ragie-python
+Suggest Edits
+Ragie provides an idiomatic python SDK to access the Ragie API from your python applications. All functionality provided by the API is available in the SDK.
+
+Getting started
+Install the ragie python package with your preferred package manager.
+
+PIP
+Poetry
+
+pip install ragie
+Once installed follow the links below for detailed documentation.
+
+Helpful links
+PyPI Package: https://pypi.org/project/ragie/
+Project Homepage: https://github.com/ragieai/ragie-python
+Reference app
+We've created a simple reference app that uploads a document and and retrieves chunks from it using the ragie-python SDK. It can be a good starting point to learn how to use the SDK.
+
+Reference app: https://github.com/ragieai/ragie-python-ref-app
+Support
+If you have any issues we'd love to help. The best way to get in touch is through our discord server. You can also email us at support@ragie.ai or file a github issue.
+
+langchain-ragie
+Ragie integration for LangChain
+
+Suggest Edits
+Ragie integrates with LangChain for retrievals.
+
+PIP
+Poetry
+
+pip install langchain-ragie
+Once installed follow the links below for detailed documentation.
+
+Helpful links
+PyPI Package: https://pypi.org/project/langchain-ragie/
+Project Homepage: https://github.com/ragieai/langchain-ragie
+Support
+If you have any issues we'd love to help. The best way to get in touch is through our discord server. You can also email us at support@ragie.ai or file a github issue.
+
+Rate Limits
+Suggest Edits
+Rate limits for each endpoint are given in requests per minute. Custom rate limits are available are available on the Enterprise plan. Please reach out to support@ragie.ai for more details.
+
+
+Endpoint	Method	Developer	Starter	Pro	Enterprise
+/documents	POST	30 / m	50 / m	100 / m	custom
+/documents/raw	POST	30 / m	50 / m	100 / m	custom
+/documents	GET	1000 / m	2000 / m	4000 / m	custom
+/documents/{document_id}	GET	1000 / m	2000 / m	4000 / m	custom
+/documents/{document_id}	DELETE	100 / m	200 / m	400 / m	custom
+/documents/{document_id}/file	PUT	30 / m	50 / m	100 / m	custom
+/documents/{document_id}/raw	PUT	30 / m	50 / m	100 / m	custom
+/documents/{document_id}/metadata	PATCH	100 / m	200 / m	400 / m	custom
+/documents/{document_id}/entities	GET	10 / m	500 / m	1000 / m	custom
+/documents/{document_id}/summary	GET	10 / m	500 / m	1000 / m	custom
+/retrievals	POST	10 / m	500 / m	1000 / m	custom
+/instructions	POST	100 / m	200 / m	400 / m	custom
+/instructions/{instruction_id}	PUT	100 / m	200 / m	400 / m	custom
+/instructions/{instruction_id}/entities	GET	10 / m	500 / m	1000 / m
+
+Errors Reference
+Suggest Edits
+Error Handling Guide
+Use this section to debug errors encountered when using Ragie. If you need more help, please reach out to us at support@ragie.ai.
+
+Ragie's error response format follows RFC7807. Each error response includes:
+
+status_code: Same as the HTTP status code
+title: Brief description of the error message
+type: URI that links to this document for further reference
+detail: Human-readable description providing more insight into the error
+Note that error responses may include other keys specific to the error.
+
+
+Example Error Response
+JSON
+
+{  
+  "detail": "Could not find resource for tenant",  
+  "status_code": 404,  
+  "title": "The specified resource was not found.",  
+  "type": "https://ragie.readme.io/docs/errors#404"  
+}  
+
+Error Codes and Resolutions
+Status	Title	Detail
+400	Bad request	The request was invalid or cannot be otherwise served.
+401	Authentication failure	Your request did not provide a valid or well-formatted API key.
+402	Pages processed exceeded	Exceeded page processing limit.
+402	Retrievals exceeded	Exceeded retrieval limit.
+403	Document count limit exceeded	The document limit for your current plan has been exceeded.
+403	Ragie Connect not enabled	You do not have the connector enabled. It can be enabled in the Ragie application.
+403	Feature flag disabled	The feature flag has not been enabled for the user
+404	Resource not found	The specified resource was not found.
+429	Rate limit exceeded	The rate limit for your current plan has been exceeded.
+500	Internal server error	An unexpected error occurred on the server.
+
+400 - Bad Request
+The request was invalid or cannot be otherwise served. Ensure that your request is formatted correctly. Find our API reference with examples at https://docs.ragie.ai/reference.
+
+
+401 - Authentication Failure
+Your request did not provide a valid or well-formatted API key.
+
+Resolution:
+
+Check the provided API key to make sure it is correct and valid. Look for typos and ensure it hasn't expired.
+Reach out to us at support@ragie.ai.
+
+402 Pages Processed Exceeded
+You've exceeded the page processing limit of your current plan. Paid plans do not enforce a limit.
+
+Resolution:
+
+Upgrade to a paid plan https://secure.ragie.ai/billing/plans.
+Contact sales to explore the best plan for your use case sales@ragie.ai
+
+403 Pages Retrievals Exceeded
+You've exceeded the retrieval limit of your current plan. Paid plans do not enforce a limit.
+
+Resolution:
+
+Upgrade to a paid plan https://secure.ragie.ai/billing/plans.
+Contact sales to explore the best plan for your use case sales@ragie.ai
+
+403 - Documents Limit Exceeded
+You've exceeded the document limits for your current plan.
+
+Resolution:
+
+Upgrade your plan to get higher document limits at https://secure.ragie.ai/billing/plans.
+Reach out to us at support@ragie.ai.
+
+403 - Feature Flag Disabled
+The specified feature flag has not been enabled for the user. Please reach out to Ragie support and tell us what feature you would like us to enable for you.
+
+Resolution:
+
+Reach out to us at support@ragie.ai with details on the feature you would like enabled.
+
+404 - Resource Not Found
+The specified resource was not found. This usually occurs when sending a request to an endpoint that doesn't exist. Make sure the endpoint exists in our API docs: https://docs.ragie.ai/reference, and your request is formatted correctly.
+
+
+429 - Rate Limit Exceeded
+You've exceeded the rate limits for your current plan. We calculate rate limits as requests per minute (e.g. 100 requests/minute). See the rate limits for your tier on the Rate Limits page.
+
+Resolution:
+
+Upgrade your plan to get higher rate limits at https://secure.ragie.ai/billing/plans
+Stagger your requests to stay within the limits of your plan.
+Reach out to us at support@ragie.ai.
+
+500 - Internal Server Error
+It's probably our fault. Please reach out to us at support@ragie.ai and tell us what's happening. We'll fix it as soon as possible.
