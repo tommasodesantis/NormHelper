@@ -22,7 +22,8 @@ const NORMATIVE_PDF_LINKS = {
 const RESTRICTED_MODELS = [
   'amazon/nova-pro-v1',
   'google/gemini-2.0-flash-exp:free',
-  'google/gemini-exp-1206:free'
+  'google/gemini-exp-1206:free',
+  'openrouter/auto'
 ];
 const PASSWORD = 'bollettone';
 
@@ -50,13 +51,13 @@ function handleModeChange(isRagMode) {
 
 // Mode selection event listener
 modeSelect.addEventListener('change', (event) => {
-  handleModeChange(event.target.value === 'RAG Search');
+  handleModeChange(event.target.value === 'Semantic search');
 });
 
 // Fetch and Populate File List on DOM Content Loaded
 document.addEventListener('DOMContentLoaded', async () => {
   // Set initial mode state
-  handleModeChange(modeSelect.value === 'RAG Search');
+  handleModeChange(modeSelect.value === 'Semantic search');
   
   // Add toggle button for mobile
   const container = document.querySelector('.container');
@@ -73,7 +74,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   });
 
   // Add welcome message
-  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. To get started, please select a normative document and an AI model (Claude 3.5 Sonnet is recommended) in the side panel. You can use Standard Chat mode for general questions or RAG Search mode for specific document searches!', 'standard');
+  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. Select **"Deep thinking"** mode to ask questions about single documents or **"Semantic search"** mode to search for contents across multiple documents!', 'Deep thinking');
 
   try {
     console.log('Fetching file list...');
@@ -118,7 +119,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     option.textContent = 'Error loading documents';
     option.disabled = true;
     fileSelect.appendChild(option);
-    appendMessage('bot', `Unable to load document list: ${error.message}`, 'standard');
+    appendMessage('bot', `Unable to load document list: ${error.message}`, 'Deep thinking');
   }
 });
 
@@ -137,8 +138,8 @@ async function handleSendMessage() {
   questionInput.value = '';
 
   try {
-    // Validate AI model selection for standard mode
-    if (selectedMode === 'standard') {
+    // Validate AI model selection for Deep thinking mode
+  if (selectedMode === 'Deep thinking') {
       if (!fileSelect.value) {
         throw new Error('NO_FILE_SELECTED');
       }
@@ -152,8 +153,8 @@ async function handleSendMessage() {
 
     let response, data;
 
-    if (selectedMode === 'standard') {
-      console.log('Sending standard chat request with:', {
+    if (selectedMode === 'Deep thinking') {
+      console.log('Sending deep thinking chat request with:', {
         question,
         fileName: fileSelect.value,
         model: llmSelect.value
@@ -170,7 +171,7 @@ async function handleSendMessage() {
           model: llmSelect.value
         }),
       });
-    } else if (selectedMode === 'RAG Search') {
+    } else if (selectedMode === 'Semantic search') {
       // Validate RAG options
       const topK = parseInt(topKInput.value, 10);
       const maxChunks = parseInt(maxChunksInput.value, 10);
@@ -215,17 +216,17 @@ async function handleSendMessage() {
     console.log('Received response:', data);
 
     // Validate response data
-    if (selectedMode === 'standard' && (!data || !data.answer)) {
+    if (selectedMode === 'Deep thinking' && (!data || !data.answer)) {
       throw new Error('INVALID_RESPONSE');
     }
-    if (selectedMode === 'RAG Search' && (!data || !data.chunks)) {
+    if (selectedMode === 'Semantic search' && (!data || !data.chunks)) {
       throw new Error('INVALID_RESPONSE');
     }
 
     // Remove typing indicator and add bot response to UI
     removeTypingIndicator();
 
-    if (selectedMode === 'standard') {
+  if (selectedMode === 'Deep thinking') {
       appendMessage('bot', data.answer, selectedMode);
     } else {
       // Format RAG response with improved metadata display
@@ -289,7 +290,7 @@ async function handleSendMessage() {
     
     // Remove typing indicator and show error message
     removeTypingIndicator();
-    appendMessage('bot', errorMessage, 'standard');
+    appendMessage('bot', errorMessage, 'Deep thinking');
   }
 
   // Re-enable input
@@ -341,8 +342,8 @@ function appendMessage(sender, content, mode) {
   // Add the main content with markdown parsing
   messageContent.innerHTML = marked.parse(content);
   
-  // If it's a bot message in standard mode and not an error, append the PDF link
-  if (sender === 'bot' && mode === 'standard' && !content.startsWith('Sorry, I encountered an error')) {
+  // If it's a bot message in Deep thinking mode and not an error, append the PDF link
+  if (sender === 'bot' && mode === 'Deep thinking' && !content.startsWith('Sorry, I encountered an error')) {
     const selectedNormative = fileSelect.value.replace('.txt', '').replace(/_/g, ' ');
     const pdfLink = NORMATIVE_PDF_LINKS[selectedNormative];
     

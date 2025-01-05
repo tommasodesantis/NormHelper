@@ -17,12 +17,11 @@
                 <h2>Settings</h2>
             </div>
             <div class="settings-section">
-                <h3>Mode</h3>
                 <div class="mode-selector">
                     <label for="modeSelect">Select Mode:</label>
                     <select id="modeSelect">
-                        <option value="standard" selected>Standard Chat</option>
-                        <option value="RAG Search">RAG Search</option>
+                        <option value="standard" selected>Deep thinking</option>
+                        <option value="Semantic search">Semantic search</option>
                     </select>
                 </div>
             </div>
@@ -31,37 +30,37 @@
                 <h3>Normative Selection</h3>
                 <div class="file-selector" id="fileSelectContainer">
                     <select id="fileSelect">
-                        <option value="" disabled selected>Select a normative (required for Standard Chat)</option>
+                        <option value="" disabled selected>Select a normative (required)</option>
                         <!-- Options will be populated dynamically -->
                     </select>
                 </div>
             </div>
 
             <div class="settings-section rag-options hidden" id="ragOptions">
-                <h3>RAG Options</h3>
+                <h3>Semantic search options</h3>
                 <div class="option">
-                    <label for="rerankToggle">Enable Reranking:</label>
-                    <input type="checkbox" id="rerankToggle" checked>
+                    <label for="rerankToggle">Enable Reranking:</label><input type="checkbox" id="rerankToggle" checked>
                 </div>
                 <div class="option">
                     <label for="topKInput">Top K Chunks:</label>
-                    <input type="number" id="topKInput" value="30" min="1" max="100">
+                    <input type="number" id="topKInput" value="50" min="1" max="100">
                 </div>
                 <div class="option">
                     <label for="maxChunksInput">Max Chunks per Document:</label>
-                    <input type="number" id="maxChunksInput" value="3" min="1" max="10">
+                    <input type="number" id="maxChunksInput" value="0" min="0" max="10">
                 </div>
             </div>
             <div class="settings-section" id="llmSection">
                 <h3>AI Model Selection</h3>
                 <div class="file-selector">
                     <select id="llmSelect">
-                        <option value="" disabled selected>Select an AI</option>
+                        <option value="" disabled selected>Select an AI (required)</option>
                         <option value="anthropic/claude-3.5-sonnet">Claude 3.5 Sonnet (recommended)</option>
                         <option value="google/gemini-pro-1.5">Gemini Pro 1.5</option>
                         <option value="google/gemini-2.0-flash-exp:free">Gemini 2.0 Flash Exp</option>
                         <option value="google/gemini-exp-1206:free">Gemini Exp 1206</option>
                         <option value="amazon/nova-pro-v1">Nova Pro v1</option>
+                        <option value="openrouter/auto">Auto Router</option>
                     </select>
                 </div>
             </div>
