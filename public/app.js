@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   });
 
   // Add welcome message
-  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant. Select **"Deep thinking"** mode to ask questions about single documents or **"Semantic search"** mode to search for contents across multiple documents!', 'Deep thinking');
+  appendMessage('bot', '👷 Hello! I am Normio, your AI assistant ready to help with boring normatives. Select **"Deep thinking"** mode to ask questions about single documents or **"Semantic search"** mode to search for topics across multiple documents!', 'Deep thinking');
 
   try {
     console.log('Fetching file list...');
@@ -419,3 +419,33 @@ function handleModelChange(event) {
     }
   }
 }
+
+// Tooltip positioning
+document.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.tooltip-container').forEach(container => {
+    const tooltip = container.querySelector('.tooltip');
+    const icon = container.querySelector('.tooltip-icon');
+    
+    icon.addEventListener('mouseenter', () => {
+      const rect = icon.getBoundingClientRect();
+      const tooltipRect = tooltip.getBoundingClientRect();
+      
+      // Position tooltip to the right of the icon
+      tooltip.style.left = `${rect.right + 8}px`;
+      tooltip.style.top = `${rect.top - (tooltipRect.height / 2) + (rect.height / 2)}px`;
+      
+      // Check if tooltip is going off the right edge of the viewport
+      if (rect.right + tooltipRect.width + 8 > window.innerWidth) {
+        // Position tooltip above the icon instead
+        tooltip.style.left = `${rect.left}px`;
+        tooltip.style.top = `${rect.top - tooltipRect.height - 8}px`;
+      }
+      
+      tooltip.style.display = 'block';
+    });
+    
+    icon.addEventListener('mouseleave', () => {
+      tooltip.style.display = 'none';
+    });
+  });
+});

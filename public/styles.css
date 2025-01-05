@@ -587,3 +587,79 @@ body {
         font-weight: 500;
     }
 }
+
+.tooltip-container {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.tooltip-icon {
+    color: #666;
+    font-size: 0.85rem;
+    cursor: help;
+}
+
+.side-panel {
+    position: relative;
+    overflow: visible;
+}
+
+.tooltip-container {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.tooltip {
+    display: none;
+    position: fixed;
+    background-color: #333;
+    color: white;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    width: max-content;
+    max-width: 250px;
+    z-index: 9999;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    white-space: normal;
+    pointer-events: none;
+}
+
+.tooltip-icon {
+    cursor: help;
+    position: relative;
+    z-index: 10000;
+}
+
+/* Checkbox Container Styles */
+.checkbox-container {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.checkbox-container input[type="checkbox"] {
+    margin: 0;
+    cursor: pointer;
+}
+
+/* Mobile Responsive Tooltip */
+@media screen and (max-width: 768px) {
+    .tooltip {
+        left: 50%;
+        bottom: auto;
+        top: calc(100% + 8px);
+        transform: translateX(-50%);
+    }
+    
+    .tooltip::after {
+        top: -6px;
+        bottom: auto;
+        left: 50%;
+        transform: translateX(-50%) rotate(45deg);
+    }
+}
