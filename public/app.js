@@ -1,3 +1,6 @@
+// Debug flag
+const DEBUG = true;
+
 // DOM Elements
 const chatMessages = document.getElementById('chatMessages');
 const questionInput = document.getElementById('questionInput');
@@ -37,7 +40,7 @@ questionInput.addEventListener('keypress', (e) => {
 
 // Function to handle mode changes
 function handleModeChange(isRagMode) {
-  // Toggle visibility of sections
+  if (DEBUG) console.log('Mode change:', { isRagMode });
   ragOptions.classList.toggle('hidden', !isRagMode);
   
   const normativeSection = document.getElementById('normativeSection');
@@ -54,6 +57,8 @@ modeSelect.addEventListener('change', (event) => {
 
 // Fetch and Populate File List on DOM Content Loaded
 document.addEventListener('DOMContentLoaded', async () => {
+  if (DEBUG) console.log('Initializing application...');
+  
   // Set initial mode state
   handleModeChange(modeSelect.value === 'Semantic search');
   
@@ -75,7 +80,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   appendMessage('bot', '👷 Hello! I am Normio, your AI assistant ready to help with boring normatives. Select **"Deep thinking"** mode to ask questions about single documents or **"Semantic search"** mode to search for topics across multiple documents!', 'Deep thinking');
 
   try {
-    console.log('Fetching file list...');
+    if (DEBUG) console.log('Fetching file list...');
     const response = await fetch('/api/listFiles');
 
     if (!response.ok) {
@@ -83,7 +88,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 
     const data = await response.json();
-    console.log('File list response:', data);
+    if (DEBUG) console.log('File list response:', data);
 
     if (!data.files) {
       if (data.error) {
@@ -109,7 +114,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       fileSelect.appendChild(option);
     });
 
-    console.log('File list populated successfully');
+    if (DEBUG) console.log('File list populated successfully');
   } catch (error) {
     console.error('Error fetching file list:', error);
     const option = document.createElement('option');
@@ -123,10 +128,22 @@ document.addEventListener('DOMContentLoaded', async () => {
 
 // Handle sending messages
 async function handleSendMessage() {
+  console.log('1. Starting handleSendMessage');
   const question = questionInput.value.trim();
   if (!question) return;
 
+  console.log('2. Got question:', question);
   const selectedMode = modeSelect.value;
+  console.log('3. Selected mode:', selectedMode);
+  
+  // Add mode validation
+  if (selectedMode !== 'Deep thinking' && selectedMode !== 'Semantic search') {
+    console.error('Invalid mode selected:', selectedMode);
+    appendMessage('bot', 'Sorry, I encountered an error while processing your request. Invalid mode selected.', 'Deep thinking');
+    return;
+  }
+
+  if (DEBUG) console.log('Handling message:', { question, selectedMode });
 
   // Disable input while processing
   setInputState(false);
@@ -137,13 +154,20 @@ async function handleSendMessage() {
 
   try {
     // Validate AI model selection for Deep thinking mode
-  if (selectedMode === 'Deep thinking') {
+    if (selectedMode === 'Deep thinking') {
+      console.log('4. Checking Deep thinking mode requirements');
+      console.log('   - File selected:', fileSelect.value);
+      console.log('   - Model selected:', llmSelect.value);
+      
       if (!fileSelect.value) {
+        console.log('   ! No file selected');
         throw new Error('NO_FILE_SELECTED');
       }
       if (!llmSelect.value) {
+        console.log('   ! No model selected');
         throw new Error('NO_MODEL_SELECTED');
       }
+      console.log('5. Requirements check passed');
     }
 
     // Show typing indicator before making the request
@@ -152,23 +176,45 @@ async function handleSendMessage() {
     let response, data;
 
     if (selectedMode === 'Deep thinking') {
-      console.log('Sending deep thinking chat request with:', {
-        question,
-        fileName: fileSelect.value,
-        model: llmSelect.value
-      });
-
-      response = await fetch('/api/ask', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
+      console.log('6. Preparing Deep thinking request');
+      if (DEBUG) {
+        console.log('Sending deep thinking chat request:', {
           question,
           fileName: fileSelect.value,
           model: llmSelect.value
-        }),
-      });
+        });
+      }
+
+      try {
+        response = await fetch('/api/ask', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            question,
+            fileName: fileSelect.value,
+            model: llmSelect.value
+          }),
+        });
+        
+        if (DEBUG) {
+          console.log('Raw response:', response);
+          console.log('Response status:', response?.status);
+          console.log('Response ok:', response?.ok);
+          if (response?.headers) {
+            console.log('Response headers:', Object.fromEntries([...response.headers]));
+          }
+        }
+      } catch (fetchError) {
+        console.error('Fetch error details:', {
+          name: fetchError.name,
+          message: fetchError.message,
+          stack: fetchError.stack,
+          cause: fetchError.cause
+        });
+        throw new Error(`FETCH_ERROR: ${fetchError.message}`);
+      }
     } else if (selectedMode === 'Semantic search') {
       // Validate RAG options
       const topK = parseInt(topKInput.value, 10);
@@ -178,40 +224,64 @@ async function handleSendMessage() {
         throw new Error('INVALID_TOP_K');
       }
 
-      console.log('Sending RAG request with:', {
-        query: question,
-        rerank: rerankToggle.checked,
-        top_k: topK,
-        max_chunks_per_document: maxChunks
-      });
-
-      response = await fetch('/api/rag', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
+      if (DEBUG) {
+        console.log('Sending RAG request:', {
           query: question,
           rerank: rerankToggle.checked,
           top_k: topK,
           max_chunks_per_document: maxChunks
-        }),
-      });
+        });
+      }
+
+      try {
+        response = await fetch('/api/rag', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            query: question,
+            rerank: rerankToggle.checked,
+            top_k: topK,
+            max_chunks_per_document: maxChunks
+          }),
+        });
+        
+        if (DEBUG) {
+          console.log('Raw RAG response:', response);
+          console.log('RAG response status:', response?.status);
+          console.log('RAG response ok:', response?.ok);
+        }
+      } catch (fetchError) {
+        console.error('RAG fetch error details:', {
+          name: fetchError.name,
+          message: fetchError.message,
+          stack: fetchError.stack,
+          cause: fetchError.cause
+        });
+        throw new Error(`FETCH_ERROR: ${fetchError.message}`);
+      }
     }
 
     // Handle HTTP errors
-    if (!response.ok) {
-      const errorData = await response.json().catch(() => ({}));
-      console.error('Server response error:', {
-        status: response.status,
-        statusText: response.statusText,
-        error: errorData
+    if (!response?.ok) {
+      const errorData = await response?.json().catch(e => {
+        console.error('Error parsing error response:', e);
+        return {};
       });
-      throw new Error(`HTTP_ERROR_${response.status}`);
+      
+      console.error('Server response error:', {
+        status: response?.status,
+        statusText: response?.statusText,
+        errorData,
+        headers: Object.fromEntries([...response?.headers || []]),
+      });
+      
+      throw new Error(`HTTP_ERROR_${response?.status || 'UNKNOWN'}`);
     }
 
     data = await response.json();
-    console.log('Received response:', data);
+    if (DEBUG) console.log('Parsed response data:', data);
 
     // Validate response data
     if (selectedMode === 'Deep thinking' && (!data || !data.answer)) {
@@ -224,7 +294,7 @@ async function handleSendMessage() {
     // Remove typing indicator and add bot response to UI
     removeTypingIndicator();
 
-  if (selectedMode === 'Deep thinking') {
+    if (selectedMode === 'Deep thinking') {
       appendMessage('bot', data.answer, selectedMode);
     } else {
       // Format RAG response with improved metadata display
@@ -248,7 +318,12 @@ async function handleSendMessage() {
     }
 
   } catch (error) {
-    console.error('Error:', error);
+    console.error('Full error details:', {
+      name: error.name,
+      message: error.message,
+      stack: error.stack,
+      cause: error.cause
+    });
     
     let errorMessage = 'Sorry, I encountered an error while processing your request. ';
     
@@ -263,6 +338,10 @@ async function handleSendMessage() {
 
       case 'INVALID_TOP_K':
         errorMessage += 'Top K must be between 1 and 100.';
+        break;
+
+      case error.message.match(/^FETCH_ERROR:/)?.input:
+        errorMessage += 'Unable to connect to the server. Please check your internet connection.';
         break;
 
       case 'INVALID_RESPONSE':
@@ -326,6 +405,8 @@ function removeTypingIndicator() {
 
 // Append a message to the chat UI
 function appendMessage(sender, content, mode) {
+  if (DEBUG) console.log('Appending message:', { sender, mode, contentLength: content.length });
+  
   const messageDiv = document.createElement('div');
   messageDiv.className = `message ${sender}`;
   

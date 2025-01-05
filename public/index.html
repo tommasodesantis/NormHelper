@@ -19,22 +19,22 @@
             <div class="settings-section">
                 <div class="mode-selector">
                     <label for="modeSelect" class="tooltip-container">
-                        Select Mode:
+                        Select mode:
                         <span class="tooltip-icon">ⓘ</span>
                         <div class="tooltip">
-                            <strong>Deep thinking:</strong> Analyze a single document in depth with AI assistance.<br><br>
-                            <strong>Semantic search:</strong> Search across multiple documents using natural language.
+                            <strong>Deep thinking:</strong> analyze a single document in depth with AI assistance.<br><br>
+                            <strong>Semantic search:</strong> search for topics across multiple documents using natural language.
                         </div>
                     </label>
                     <select id="modeSelect">
-                        <option value="standard" selected>Deep thinking</option>
+                        <option value="Deep thinking" selected>Deep thinking</option>
                         <option value="Semantic search">Semantic search</option>
                     </select>
                 </div>
             </div>
 
             <div class="settings-section" id="normativeSection">
-                <h3>Normative Selection</h3>
+                <h3>Normative selection</h3>
                 <div class="file-selector" id="fileSelectContainer">
                     <select id="fileSelect">
                         <option value="" disabled selected>Select a normative (required)</option>
@@ -48,10 +48,10 @@
                 <div class="option">
                     <div class="checkbox-container tooltip-container">
                         <label for="rerankToggle">
-                            Enable Reranking
+                            Enable reranking
                             <span class="tooltip-icon">ⓘ</span>
                             <div class="tooltip">
-                                Reranking improves search results by re-ordering them based on relevance to your query. This provides more accurate results but may take slightly longer.
+                                Reranking improves search results by re-ordering and filtering them based on relevance to your query. This provides more accurate results but may take slightly longer.
                             </div>
                         </label>
                         <input type="checkbox" id="rerankToggle" checked>
@@ -59,17 +59,17 @@
                 </div>
                 <div class="option">
                     <label for="topKInput" class="tooltip-container">
-                        Top K Chunks:
+                        Max number of chunks:
                         <span class="tooltip-icon">ⓘ</span>
                         <div class="tooltip">
-                            The maximum number of text chunks to return. Higher values provide more comprehensive results but may include less relevant content.
+                            The maximum number of text chunks to return. Higher values provide more comprehensive results but may include less relevant content. Min = 1, max = 100.
                         </div>
                     </label>
                     <input type="number" id="topKInput" value="50" min="1" max="100">
                 </div>
                 <div class="option">
                     <label for="maxChunksInput" class="tooltip-container">
-                        Max Chunks per Document:
+                        Max chunks per document:
                         <span class="tooltip-icon">ⓘ</span>
                         <div class="tooltip">
                             Maximum number of chunks to return per document. Set to 0 for unlimited. Useful for ensuring results come from multiple documents.
@@ -79,7 +79,7 @@
                 </div>
             </div>
             <div class="settings-section" id="llmSection">
-                <h3>AI Model Selection</h3>
+                <h3>AI model selection</h3>
                 <div class="file-selector">
                     <select id="llmSelect">
                         <option value="" disabled selected>Select an AI (required)</option>
