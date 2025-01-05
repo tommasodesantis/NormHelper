@@ -37,13 +37,17 @@ if (isProduction) {
 app.post('/api/ask', async (req, res) => {
   try {
     const { question, fileName, model } = req.body;
-
-    if (!fileName) {
-      return res.status(400).json({ error: 'No text file specified.' });
+    
+    if (!question || typeof question !== 'string') {
+      return res.status(400).json({ error: 'Invalid or missing question.' });
     }
-
-    if (!model) {
-      return res.status(400).json({ error: 'No AI model specified.' });
+    
+    if (!fileName || typeof fileName !== 'string') {
+      return res.status(400).json({ error: 'Invalid or missing fileName.' });
+    }
+    
+    if (!model || typeof model !== 'string') {
+      return res.status(400).json({ error: 'Invalid or missing model.' });
     }
 
     // Import texts from src/texts.js
@@ -106,7 +110,7 @@ app.post('/api/ask', async (req, res) => {
         temperature: 0.1
       })
     });
-
+    
     if (!openRouterResponse.ok) {
       const errorData = await openRouterResponse.json().catch(() => ({}));
       const errorMessage = errorData?.error?.message || openRouterResponse.statusText;

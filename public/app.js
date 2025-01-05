@@ -13,8 +13,6 @@ const maxChunksInput = document.getElementById('maxChunksInput');
 // Constants
 const NORMATIVE_PDF_LINKS = {
   'Eurocode 2 Design of concrete structures Part 1-2': 'https://drive.google.com/file/d/1svMexZcZVurkKqgre0ICJPvyOgWPkIsc/view?usp=sharing',
-  'UNI EN 1992-1-2 2005 Eurocodice 2-Progettzione delle strutture in calcestruzzo-Parte 1-2': 'https://drive.google.com/file/d/1MoeE3ZyoqYqlgCP0TxT357s0SqwDIIOi/view?usp=sharing',
-  'UNI EN 1992-1-1 2005 Eurocodice 2-Progettazione delle strutture in calcestruzzo-Parte 1-1': 'https://drive.google.com/file/d/1zfGodArr4GRPTklrWsWASVejVqoBVWa9/view?usp=sharing',
   'Eurocode 2 Design of concrete structures Part 1-1': 'https://drive.google.com/file/d/1tnRhN-BkbAcXsgLqXj-XnXzPWoP-zs0e/view?usp=sharing',
   'Annesso Italiano EC': 'https://drive.google.com/file/d/1mAcs0e5G7LzWt1KNIxi8x-FZj49Fag9P/view?usp=sharing'
 };
