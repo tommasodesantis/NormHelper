@@ -22,8 +22,12 @@ app.use(express.json());
 // Serve static files from the 'public' directory with production optimizations
 if (isProduction) {
   app.use(express.static(path.join(__dirname, 'public'), {
-    maxAge: '1y',
-    etag: false
+    maxAge: '1h',        // Reduce from 1y to 1h
+    etag: true,          // Enable ETags
+    lastModified: true,  // Enable Last-Modified headers
+    setHeaders: (res, path) => {
+      res.setHeader('Cache-Control', 'public, max-age=3600, must-revalidate');
+    }
   }));
 } else {
   app.use(express.static(path.join(__dirname, 'public')));
