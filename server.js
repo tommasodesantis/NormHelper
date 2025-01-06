@@ -2,6 +2,7 @@ const express = require('express');
 const fetch = require('node-fetch');
 const path = require('path');
 const { performRetrieval } = require('./src/ragie');
+const { processChunksWithLLM } = require('./src/llmProcessor');
 require('dotenv').config();
 
 const app = express();
@@ -208,21 +209,35 @@ app.post('/api/rag', async (req, res) => {
       filter
     };
 
-    const chunks = await performRetrieval(ragieApiKey, retrievalPayload);
+    const rawChunks = await performRetrieval(ragieApiKey, retrievalPayload);
 
-    // Return retrieved chunks with metadata
+    if (!rawChunks || rawChunks.length === 0) {
+      return res.status(200).json({
+        chunks: [],
+        formatted_chunks: '### No Results Found\n\nNo relevant information was retrieved for your query.'
+      });
+    }
+
+    // Transform chunks with metadata
+    const chunks = rawChunks.map(chunk => ({
+      text: chunk.text,
+      score: chunk.score,
+      document_id: chunk.document_id,
+      metadata: {
+        name: chunk.document_name || chunk.document_metadata?.document_name || 'Unknown',
+        type: chunk.document_metadata?.document_type || 'Unknown',
+        source_url: chunk.document_metadata?.source_url || chunk.document_metadata?.document_source || 'Unknown',
+        uploaded_at: chunk.document_metadata?.created_at || chunk.document_metadata?.document_uploaded_at || null
+      }
+    }));
+
+    // Process transformed chunks with LLM to format with citations
+    const formattedChunks = await processChunksWithLLM(chunks);
+
+    // Return both the transformed chunks and the formatted response
     res.status(200).json({
-      chunks: chunks.map(chunk => ({
-        text: chunk.text,
-        score: chunk.score,
-        document_id: chunk.document_id,
-        metadata: {
-          name: chunk.document_metadata?.document_name || 'Unknown',
-          type: chunk.document_metadata?.document_type || 'Unknown',
-          source: chunk.document_metadata?.document_source || 'Unknown',
-          uploaded_at: chunk.document_metadata?.document_uploaded_at || null
-        }
-      }))
+      chunks,
+      formatted_chunks: formattedChunks
     });
 
   } catch (error) {

@@ -287,7 +287,7 @@ async function handleSendMessage() {
     if (selectedMode === 'Deep thinking' && (!data || !data.answer)) {
       throw new Error('INVALID_RESPONSE');
     }
-    if (selectedMode === 'Semantic search' && (!data || !data.chunks)) {
+    if (selectedMode === 'Semantic search' && (!data || !data.chunks || !data.formatted_chunks)) {
       throw new Error('INVALID_RESPONSE');
     }
 
@@ -297,24 +297,8 @@ async function handleSendMessage() {
     if (selectedMode === 'Deep thinking') {
       appendMessage('bot', data.answer, selectedMode);
     } else {
-      // Format RAG response with improved metadata display
-      let formattedResponse = '### Retrieved Information\n\n';
-      data.chunks.forEach((chunk, index) => {
-        formattedResponse += `#### Result ${index + 1} (Score: ${chunk.score.toFixed(4)})\n`;
-        formattedResponse += `**Source:** ${chunk.metadata.name}\n`;
-        formattedResponse += `**Type:** ${chunk.metadata.type}\n`;
-        if (chunk.metadata.uploaded_at) {
-          const date = new Date(chunk.metadata.uploaded_at * 1000);
-          formattedResponse += `**Added:** ${date.toLocaleDateString()}\n`;
-        }
-        formattedResponse += `\n${chunk.text}\n\n---\n\n`;
-      });
-      
-      if (data.chunks.length === 0) {
-        formattedResponse = '### No Results Found\n\nNo relevant information was found in the knowledge base for your query. Try rephrasing your question or using different keywords.';
-      }
-      
-      appendMessage('bot', formattedResponse, selectedMode);
+      // Use the LLM-formatted chunks with citations
+      appendMessage('bot', data.formatted_chunks, selectedMode);
     }
 
   } catch (error) {
@@ -419,7 +403,11 @@ function appendMessage(sender, content, mode) {
   }
   
   // Add the main content with markdown parsing
-  messageContent.innerHTML = marked.parse(content);
+  // Add the main content with markdown parsing, ensuring links open in new tabs
+  messageContent.innerHTML = marked.parse(content).replace(
+    /<a\s+href="([^"]+)">/g,
+    '<a href="$1" target="_blank" rel="noopener noreferrer">'
+  );
   
   // If it's a bot message in Deep thinking mode and not an error, append the PDF link
   if (sender === 'bot' && mode === 'Deep thinking' && !content.startsWith('Sorry, I encountered an error')) {

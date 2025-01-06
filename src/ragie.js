@@ -10,6 +10,7 @@ const RAGIE_API_URL = 'https://api.ragie.ai/retrievals';
  */
 async function performRetrieval(apiKey, payload) {
   try {
+    console.log('Sending request to Ragie API...');
     const response = await fetch(RAGIE_API_URL, {
       method: 'POST',
       headers: {
@@ -25,13 +26,17 @@ async function performRetrieval(apiKey, payload) {
       }),
     });
 
+    const rawResponse = await response.text();
+    console.log('Raw Ragie API response:', rawResponse);
+    
     if (!response.ok) {
-      const errorData = await response.json().catch(() => ({}));
+      const errorData = JSON.parse(rawResponse);
       const errorMessage = errorData?.detail || errorData?.title || response.statusText;
       throw new Error(`Ragie API Error: ${errorMessage}`);
     }
 
-    const data = await response.json();
+    const data = JSON.parse(rawResponse);
+    console.log('Parsed Ragie response:', JSON.stringify(data, null, 2));
     
     if (!data || !Array.isArray(data.scored_chunks)) {
       throw new Error('Invalid response format from Ragie API');
